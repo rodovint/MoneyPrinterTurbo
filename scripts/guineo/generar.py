@@ -4,7 +4,7 @@ Cada escena lleva una oracion narrada y un grafico de la noticia. Los clips de
 Pixabay solo se usan de fondo, oscurecidos, y se filtran por etiquetas para que
 sean de futbol. Uso: python scripts/guineo/generar.py lotes/actual.json salida
 """
-import asyncio, json, math, os, random, subprocess, sys, tempfile, urllib.parse, urllib.request, wave
+import asyncio, json, os, random, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
 
 import edge_tts
 import numpy as np
@@ -176,7 +176,15 @@ async def _voz(text, mp3):
 def voz(text, base):
     """Devuelve (wav, duracion, tiempos de palabra)."""
     mp3, wav = base + ".mp3", base + ".wav"
-    marcas = asyncio.run(_voz(text, mp3))
+    for intento in range(1, 5):
+        try:
+            marcas = asyncio.run(_voz(text, mp3))
+            break
+        except Exception as e:
+            print(f"Voz fallo (intento {intento}): {type(e).__name__}: {e}", flush=True)
+            if intento == 4:
+                raise
+            time.sleep(5 * intento)
     subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", mp3, "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", wav])
     with wave.open(wav) as w:
         return wav, w.getnframes() / w.getframerate(), marcas
@@ -195,7 +203,7 @@ def fondos(clave, carpeta, cuantos=6):
             with urllib.request.urlopen(url, timeout=30) as r:
                 data = json.load(r)
         except Exception as e:
-            print("Pixabay fallo en la busqueda", q, type(e).__name__)
+            print(f"::warning::Pixabay fallo en la busqueda {q}: {type(e).__name__} {getattr(e, 'code', '')}")
             continue
         for h in data.get("hits", []):
             tags = {t.strip().lower() for t in h.get("tags", "").split(",")}
@@ -219,7 +227,7 @@ def fondos(clave, carpeta, cuantos=6):
             out.append(p)
         except Exception as e:
             print("No se pudo bajar el clip", h["id"], type(e).__name__)
-    print("Clips de fondo:", len(out))
+    print(f"::notice::Clips de fondo: {len(out)} de {len(hits)} candidatos")
     return out
 
 
@@ -322,4 +330,11 @@ def main(lote, salida):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    try:
+        main(sys.argv[1], sys.argv[2])
+    except Exception as e:
+        traceback.print_exc()
+        donde = traceback.extract_tb(e.__traceback__)[-1]
+        msg = f"{type(e).__name__}: {e} ({os.path.basename(donde.filename)}:{donde.lineno} {donde.name})"
+        print("::error::" + msg.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A"), flush=True)
+        sys.exit(1)
