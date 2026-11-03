@@ -4,7 +4,7 @@ Cada escena lleva una oracion narrada y un grafico de la noticia. Los clips de
 Pixabay solo se usan de fondo, oscurecidos, y se filtran por etiquetas para que
 sean de futbol. Uso: python scripts/guineo/generar.py lotes/actual.json salida
 """
-import asyncio, json, os, random, re, shutil, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
+import asyncio, json, os, random, re, shutil, subprocess, sys, tempfile, time, traceback, urllib.error, urllib.parse, urllib.request, wave
 
 import edge_tts
 import numpy as np
@@ -228,8 +228,17 @@ def voz(text, base):
 
 
 def abrir(url, timeout=60):
-    pedido = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) GuineoDeportes/1.0", "Accept": "*/*"})
-    return urllib.request.urlopen(pedido, timeout=timeout)
+    agente = "Mozilla/5.0 (X11; Linux x86_64) GuineoDeportes/1.0"
+    if "wikimedia.org" in url:
+        agente = "GuineoDeportesReels/1.0 (https://github.com/rodovint/MoneyPrinterTurbo)"
+    pedido = urllib.request.Request(url, headers={"User-Agent": agente, "Accept": "*/*"})
+    for intento in range(4):
+        try:
+            return urllib.request.urlopen(pedido, timeout=timeout)
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or intento == 3:
+                raise
+            time.sleep(10 * (intento + 1))
 
 
 def tramo(origen, ini, fin, base):
@@ -287,7 +296,7 @@ def foto_commons(titulo, carpeta):
     """Baja una foto de Wikimedia Commons solo si su licencia es libre. Devuelve (ruta, credito)."""
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(
         {"action": "query", "format": "json", "prop": "imageinfo", "titles": "File:" + titulo,
-         "iiprop": "url|extmetadata", "iiurlwidth": 1800})
+         "iiprop": "url|extmetadata", "iiurlwidth": 1920})
     try:
         with abrir(url, 30) as r:
             pag = next(iter(json.load(r)["query"]["pages"].values()))
