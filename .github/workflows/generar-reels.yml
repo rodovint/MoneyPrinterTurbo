@@ -1,0 +1,80 @@
+name: Generar reels Guineo Deportes
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["lotes/actual.json"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: generar-reels
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Instalar dependencias
+        run: uv sync --frozen
+
+      - name: Configurar clave de Pexels
+        env:
+          PEXELS_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          test -n "$PEXELS_KEY" || { echo "Falta el secret PEXELS_API_KEY"; exit 1; }
+          python3 - <<'PY'
+          import json, os, re
+          s = open("config.example.toml", encoding="utf-8").read()
+          key = json.dumps([os.environ["PEXELS_KEY"].strip()])
+          s, n = re.subn(r"^pexels_api_keys = \[\]", lambda _: "pexels_api_keys = " + key, s, count=1, flags=re.M)
+          assert n == 1, "No se encontro pexels_api_keys"
+          open("config.toml", "w", encoding="utf-8").write(s)
+          PY
+
+      - name: Generar videos
+        run: |
+          uv run python cli.py --batch-file lotes/actual.json \
+            --voice-name es-EC-LuisNeural-Male \
+            --video-language es \
+            --video-aspect 9:16 \
+            --video-source pexels \
+            --video-concat-mode sequential \
+            --bgm-type none \
+            --font-name BeVietnamPro-Bold.ttf \
+            --subtitle-position bottom \
+            --video-count 1 > resumen.json
+
+      - name: Preparar descargas
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import glob, json, os, shutil
+          os.makedirs("salida", exist_ok=True)
+          try:
+              tasks = json.load(open("resumen.json", encoding="utf-8"))["tasks"]
+          except Exception as e:
+              print("Sin resumen:", e); raise SystemExit(0)
+          for t in tasks:
+              print(t["index"], t["status"], t.get("failed_stage"), t.get("error"))
+              for v in glob.glob(f"storage/tasks/{t['task_id']}/final-*.mp4"):
+                  shutil.copy(v, f"salida/reel-{t['index']:02d}.mp4")
+          PY
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reels
+          path: salida/*.mp4
+          if-no-files-found: warn
+          retention-days: 14
