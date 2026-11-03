@@ -4,7 +4,7 @@ Cada escena lleva una oracion narrada y un grafico de la noticia. Los clips de
 Pixabay solo se usan de fondo, oscurecidos, y se filtran por etiquetas para que
 sean de futbol. Uso: python scripts/guineo/generar.py lotes/actual.json salida
 """
-import asyncio, json, os, random, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
+import asyncio, json, os, random, shutil, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
 
 import edge_tts
 import numpy as np
@@ -190,6 +190,11 @@ def voz(text, base):
         return wav, w.getnframes() / w.getframerate(), marcas
 
 
+def abrir(url, timeout=60):
+    pedido = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) GuineoDeportes/1.0", "Accept": "*/*"})
+    return urllib.request.urlopen(pedido, timeout=timeout)
+
+
 def fondos(clave, carpeta, cuantos=6):
     """Descarga clips verticales o recortables, solo si sus etiquetas son de futbol."""
     if not clave:
@@ -200,7 +205,7 @@ def fondos(clave, carpeta, cuantos=6):
         url = "https://pixabay.com/api/videos/?" + urllib.parse.urlencode(
             {"key": clave, "q": q, "per_page": 30, "safesearch": "true", "video_type": "film", "category": "sports"})
         try:
-            with urllib.request.urlopen(url, timeout=30) as r:
+            with abrir(url, 30) as r:
                 data = json.load(r)
         except Exception as e:
             print(f"::warning::Pixabay fallo en la busqueda {q}: {type(e).__name__} {getattr(e, 'code', '')}")
@@ -222,11 +227,12 @@ def fondos(clave, carpeta, cuantos=6):
             continue
         p = os.path.join(carpeta, f"bg{h['id']}.mp4")
         try:
-            urllib.request.urlretrieve(v["url"], p)
+            with abrir(v["url"], 120) as r, open(p, "wb") as fh:
+                shutil.copyfileobj(r, fh)
             print("Clip", h["id"], h.get("tags"))
             out.append(p)
         except Exception as e:
-            print("No se pudo bajar el clip", h["id"], type(e).__name__)
+            print(f"::warning::No se pudo bajar el clip {h['id']}: {type(e).__name__} {getattr(e, 'code', '')}")
     print(f"::notice::Clips de fondo: {len(out)} de {len(hits)} candidatos")
     return out
 
