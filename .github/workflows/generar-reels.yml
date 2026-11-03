@@ -28,17 +28,17 @@ jobs:
       - name: Instalar dependencias
         run: uv sync --frozen
 
-      - name: Configurar clave de Pexels
+      - name: Configurar clave de Pixabay
         env:
-          PEXELS_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: |
-          test -n "$PEXELS_KEY" || { echo "Falta el secret PEXELS_API_KEY"; exit 1; }
+          test -n "$PIXABAY_KEY" || { echo "Falta el secret PIXABAY_API_KEY"; exit 1; }
           python3 - <<'PY'
           import json, os, re
           s = open("config.example.toml", encoding="utf-8").read()
-          key = json.dumps([os.environ["PEXELS_KEY"].strip()])
-          s, n = re.subn(r"^pexels_api_keys = \[\]", lambda _: "pexels_api_keys = " + key, s, count=1, flags=re.M)
-          assert n == 1, "No se encontro pexels_api_keys"
+          key = json.dumps([os.environ["PIXABAY_KEY"].strip()])
+          s, n = re.subn(r"^pixabay_api_keys = \[\]", lambda _: "pixabay_api_keys = " + key, s, count=1, flags=re.M)
+          assert n == 1, "No se encontro pixabay_api_keys"
           open("config.toml", "w", encoding="utf-8").write(s)
           PY
 
@@ -48,7 +48,7 @@ jobs:
             --voice-name es-EC-LuisNeural-Male \
             --video-language es \
             --video-aspect 9:16 \
-            --video-source pexels \
+            --video-source pixabay \
             --video-concat-mode sequential \
             --bgm-type none \
             --font-name BeVietnamPro-Bold.ttf \
