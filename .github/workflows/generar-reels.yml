@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["lotes/actual.json"]
+    paths:
+      - "lotes/actual.json"
+      - "scripts/guineo/**"
+      - ".github/workflows/generar-reels.yml"
 
 permissions:
   contents: read
@@ -28,53 +31,15 @@ jobs:
       - name: Instalar dependencias
         run: uv sync --frozen
 
-      - name: Configurar clave de Pixabay
-        env:
-          PIXABAY_KEY: ${{ secrets.PIXABAY_API_KEY }}
-        run: |
-          test -n "$PIXABAY_KEY" || { echo "Falta el secret PIXABAY_API_KEY"; exit 1; }
-          python3 - <<'PY'
-          import json, os, re
-          s = open("config.example.toml", encoding="utf-8").read()
-          key = json.dumps([os.environ["PIXABAY_KEY"].strip()])
-          s, n = re.subn(r"^pixabay_api_keys = \[\]", lambda _: "pixabay_api_keys = " + key, s, count=1, flags=re.M)
-          assert n == 1, "No se encontro pixabay_api_keys"
-          open("config.toml", "w", encoding="utf-8").write(s)
-          PY
-
       - name: Generar videos
-        run: |
-          uv run python cli.py --batch-file lotes/actual.json \
-            --voice-name es-EC-LuisNeural-Male \
-            --video-language es \
-            --video-aspect 9:16 \
-            --video-source pixabay \
-            --video-concat-mode sequential \
-            --bgm-type none \
-            --font-name BeVietnamPro-Bold.ttf \
-            --subtitle-position bottom \
-            --video-count 1 > resumen.json
-
-      - name: Preparar descargas
-        if: always()
-        run: |
-          python3 - <<'PY'
-          import glob, json, os, shutil
-          os.makedirs("salida", exist_ok=True)
-          try:
-              tasks = json.load(open("resumen.json", encoding="utf-8"))["tasks"]
-          except Exception as e:
-              print("Sin resumen:", e); raise SystemExit(0)
-          for t in tasks:
-              print(t["index"], t["status"], t.get("failed_stage"), t.get("error"))
-              for v in glob.glob(f"storage/tasks/{t['task_id']}/final-*.mp4"):
-                  shutil.copy(v, f"salida/reel-{t['index']:02d}.mp4")
-          PY
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: uv run python scripts/guineo/generar.py lotes/actual.json salida
 
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: reels
           path: salida/*.mp4
-          if-no-files-found: warn
+          if-no-files-found: error
           retention-days: 14
