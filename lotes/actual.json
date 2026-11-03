@@ -1,23 +1,94 @@
 [
   {
     "etiqueta": "LIGA ECUABET",
+    "color": "#0B4EA2",
     "escenas": [
-      {"texto": "Se apagó la ilusión en el Capwell.",
-       "grafico": {"tipo": "titular", "texto": "SE APAGÓ LA ILUSIÓN", "sobre": "ESTADIO GEORGE CAPWELL"}},
-      {"texto": "Emelec perdió dos a cero ante Leones, con doblete de Mauro Luque, y quedó fuera de la pelea por la Copa Sudamericana 2027.",
-       "grafico": {"tipo": "marcador", "equipos": [{"nombre": "EMELEC", "color": "#0B4EA2", "goles": 0}, {"nombre": "LEONES", "color": "#6B7280", "goles": 2}], "pie": "DOBLETE DE MAURO LUQUE"}},
-      {"texto": "Así, el Bombillo completará cuatro temporadas seguidas sin torneos internacionales.",
-       "grafico": {"tipo": "cifra", "valor": "4", "texto": "TEMPORADAS SEGUIDAS SIN TORNEOS INTERNACIONALES"}},
-      {"texto": "Su última participación fue en la Sudamericana 2023.",
-       "grafico": {"tipo": "cifra", "valor": "2023", "texto": "SU ÚLTIMA COPA SUDAMERICANA"}},
-      {"texto": "Tras el partido, el técnico Ezequiel Medrán admitió que no estuvieron a la altura, habló de vergüenza deportiva y pidió disculpas a la hinchada.",
-       "grafico": {"tipo": "cita", "texto": "“VERGÜENZA DEPORTIVA”", "autor": "EZEQUIEL MEDRÁN, DT DE EMELEC"}},
-      {"texto": "Emelec es último del cuadrangular con 42 puntos y cierra el 8 de noviembre ante Libertad.",
-       "grafico": {"tipo": "cifra", "valor": "42", "texto": "PUNTOS, ÚLTIMO DEL CUADRANGULAR"}},
-      {"texto": "Hincha eléctrico, ¿qué cambiarías primero?",
-       "grafico": {"tipo": "titular", "texto": "¿QUÉ CAMBIARÍAS PRIMERO?", "sobre": "HINCHA ELÉCTRICO"}},
-      {"texto": "Cuéntanos en los comentarios y sigue a Guineo Deportes.",
-       "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}}
+      {
+        "texto": "Se apagó la ilusión en el Capwell.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "SE APAGÓ LA ILUSIÓN",
+          "sobre": "ESTADIO GEORGE CAPWELL"
+        }
+      },
+      {
+        "texto": "Emelec perdió dos a cero ante Leones,",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "EMELEC",
+              "color": "#0B4EA2",
+              "goles": 0
+            },
+            {
+              "nombre": "LEONES",
+              "color": "#6B7280",
+              "goles": 2
+            }
+          ],
+          "pie": "DOBLETE DE MAURO LUQUE"
+        }
+      },
+      {
+        "texto": "con doblete de Mauro Luque, y quedó fuera de la pelea por la Copa Sudamericana 2027.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "EL VERDUGO EN EL CAPWELL",
+          "nombre": "MAURO LUQUE",
+          "dato": "DOBLETE ANTE EMELEC",
+          "color": "#374151"
+        }
+      },
+      {
+        "texto": "Así, el Bombillo completará cuatro temporadas seguidas sin torneos internacionales.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "4",
+          "texto": "TEMPORADAS SEGUIDAS SIN TORNEOS INTERNACIONALES"
+        }
+      },
+      {
+        "texto": "Su última participación fue en la Sudamericana 2023.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "2023",
+          "texto": "SU ÚLTIMA COPA SUDAMERICANA"
+        }
+      },
+      {
+        "texto": "Tras el partido, el técnico Ezequiel Medrán admitió que no estuvieron a la altura, habló de vergüenza deportiva y pidió disculpas a la hinchada.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "TÉCNICO DE EMELEC",
+          "nombre": "EZEQUIEL MEDRÁN",
+          "dato": "“VERGÜENZA DEPORTIVA”",
+          "color": "#0B4EA2"
+        }
+      },
+      {
+        "texto": "Emelec es último del cuadrangular con 42 puntos y cierra el 8 de noviembre ante Libertad.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "42",
+          "texto": "PUNTOS, ÚLTIMO DEL CUADRANGULAR"
+        }
+      },
+      {
+        "texto": "Hincha eléctrico, ¿qué cambiarías primero?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUÉ CAMBIARÍAS PRIMERO?",
+          "sobre": "HINCHA ELÉCTRICO"
+        }
+      },
+      {
+        "texto": "Cuéntanos en los comentarios y sigue a Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
     ]
   }
 ]

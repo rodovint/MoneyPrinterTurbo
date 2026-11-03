@@ -14,9 +14,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 W, H, FPS = 1080, 1920, 30
 BG, INK, Y = (13, 20, 17), (248, 246, 238), (246, 201, 14)
 VOICE = "es-EC-LuisNeural"
-GAP = 0.25
-BUSQUEDAS = ["soccer stadium", "soccer match", "soccer ball", "football stadium", "soccer goal"]
-ETIQUETAS = {"soccer", "football", "stadium", "futbol", "goal", "pitch"}
+GAP = 0.08
+RITMO = "+18%"
+BUSQUEDAS = ["soccer stadium", "football stadium", "soccer match", "soccer field", "soccer fans"]
+ETIQUETAS = {"soccer", "football", "stadium", "futbol", "pitch"}
+EXCLUIR = {"woman", "women", "man", "men", "girl", "boy", "person", "model", "portrait", "freestyle",
+           "ball", "animation", "3d", "cartoon", "screen", "chroma", "american", "rugby", "gym"}
 
 A = lambda s: ImageFont.truetype(os.path.join(ROOT, "scripts/guineo/fonts/Anton.ttf"), s)
 B = lambda s: ImageFont.truetype(os.path.join(ROOT, "resource/fonts/BeVietnamPro-Bold.ttf"), s)
@@ -101,6 +104,18 @@ def card(c):
         titular(d, l, f, 130 + (450 - len(l) * f.size * 1.16) / 2, W // 2 + 15)
         f2, l2 = fit(d, c["autor"], 860, 2, [48, 42], B)
         ctext(d, 610, l2, f2, Y, cx=W // 2 + 15)
+    elif kind == "protagonista":
+        d.rectangle([60, 110, W - 60, 760], fill=(*rgb(c["color"]), 235))
+        d.rectangle([60, 110, W - 60, 124], fill=Y)
+        f0, l0 = fit(d, c["rol"], 860, 1, [46, 40, 34], B)
+        ctext(d, 165, l0, f0, INK)
+        for sz in [170, 150, 130, 112, 96]:
+            f, l = fit(d, c["nombre"], 860, 2, [sz])
+            if len(l) * sz * 1.16 <= 340:
+                break
+        titular(d, l, f, 245 + (330 - len(l) * f.size * 1.16) / 2, W // 2)
+        f2, l2 = fit(d, c["dato"], 840, 2, [80, 70, 60, 50])
+        titular(d, l2, f2, 600 + (130 - len(l2) * f2.size * 1.16) / 2, W // 2, Y)
     elif kind == "cierre":
         ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
         d.rectangle([60, 360, W - 60, 660], fill=Y)
@@ -160,9 +175,9 @@ def trozos(text, marcas, dur):
 
 async def _voz(text, mp3):
     try:
-        com = edge_tts.Communicate(text, VOICE, boundary="WordBoundary")
+        com = edge_tts.Communicate(text, VOICE, rate=RITMO, boundary="WordBoundary")
     except TypeError:
-        com = edge_tts.Communicate(text, VOICE)
+        com = edge_tts.Communicate(text, VOICE, rate=RITMO)
     marcas = []
     with open(mp3, "wb") as fh:
         async for ch in com.stream():
@@ -213,7 +228,7 @@ def fondos(clave, carpeta, cuantos=6):
         for h in data.get("hits", []):
             tags = {t.strip().lower() for t in h.get("tags", "").split(",")}
             palabras = {p for t in tags for p in t.split()}
-            if h["id"] in vistos or not (palabras & ETIQUETAS):
+            if h["id"] in vistos or not (palabras & ETIQUETAS) or palabras & EXCLUIR:
                 continue
             vistos.add(h["id"])
             hits.append(h)
@@ -247,13 +262,41 @@ def lector_fondo(clip, n):
         stdout=subprocess.PIPE)
 
 
-def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra):
+def teñir(arr, color):
+    """Pasa el clip a los colores del equipo para que el fondo se asocie con el club."""
+    lum = arr.mean(axis=2, keepdims=True) / 255.0
+    return (lum * np.array(color, np.float32) * 0.85 + lum * 40).clip(0, 255).astype(np.uint8)
+
+
+def foto_cuadro(foto, t, dur):
+    """Encuadre con zoom lento de una foto propia."""
+    z = 1.0 + 0.08 * (t / max(dur, .1))
+    w, h = foto.size
+    cw, ch = w / z, h / z
+    x, y = (w - cw) / 2, (h - ch) / 2
+    return foto.resize((W, H), Image.BILINEAR, box=(x, y, x + cw, y + ch))
+
+
+def cargar_foto(ruta, lote):
+    im = Image.open(os.path.join(os.path.dirname(os.path.abspath(lote)), ruta)).convert("RGB")
+    esc = max(W * 1.1 / im.width, H * 1.1 / im.height)
+    im = im.resize((round(im.width * esc), round(im.height * esc)), Image.LANCZOS)
+    x, y = (im.width - round(W * 1.1)) // 2, (im.height - round(H * 1.1)) // 2
+    return im.crop((x, y, x + round(W * 1.1), y + round(H * 1.1)))
+
+
+def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, color, lote):
     dur = wav_dur + GAP + extra
     n = round(dur * FPS)
     tmp = dest[:-4] + ".tmp.mp4"
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                           "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p", tmp], stdin=subprocess.PIPE)
-    fondo = lector_fondo(clip, n)
+    foto = cargar_foto(esc["foto"], lote) if esc.get("foto") else None
+    fondo = None if foto else lector_fondo(clip, n)
+    credito = None
+    if esc.get("credito"):
+        credito = Image.new("RGBA", (W, 60), (0, 0, 0, 0))
+        ImageDraw.Draw(credito).text((W / 2, 30), esc["credito"], font=B(26), fill=INK, anchor="mm", stroke_width=3, stroke_fill=BG)
     c, ch = card(esc["grafico"]), marca(tag)
     caps = trozos(esc["texto"], marcas, wav_dur)
     capa = {}
@@ -261,10 +304,12 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra):
     for f in range(n):
         t = f / FPS
         arr = plano
-        if fondo:
+        if foto:
+            arr = (np.asarray(foto_cuadro(foto, t, dur)) * 0.45).astype(np.uint8)
+        elif fondo:
             raw = fondo.stdout.read(W * H * 3)
             if len(raw) == W * H * 3:
-                arr = (np.frombuffer(raw, np.uint8).reshape(H, W, 3) * 0.3).astype(np.uint8)
+                arr = (teñir(np.frombuffer(raw, np.uint8).reshape(H, W, 3), color) * 0.55).astype(np.uint8)
         im = Image.fromarray(arr).convert("RGBA")
         im.alpha_composite(ch)
         e = ease(t / 0.4)
@@ -279,6 +324,8 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra):
                 cur = txt
         capa.setdefault(cur, caption_layer(cur))
         im.alpha_composite(capa[cur], (0, 1170))
+        if credito:
+            im.alpha_composite(credito, (0, H - 90))
         ImageDraw.Draw(im).rectangle([0, H - 14, int(W * min(1, (inicio + t) / total)), H], fill=Y)
         p.stdin.write(im.convert("RGB").tobytes())
     p.stdin.close()
@@ -291,7 +338,7 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra):
     return n / FPS
 
 
-def generar_reel(reel, idx, salida, clips, work):
+def generar_reel(reel, idx, salida, clips, work, lote):
     pref = os.path.join(work, f"r{idx}")
     vozes = [voz(e["texto"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
     total = sum(v[1] + GAP for v in vozes) + 1.0
@@ -302,7 +349,7 @@ def generar_reel(reel, idx, salida, clips, work):
         extra = 1.0 if i == len(vozes) - 1 else 0.0
         clip = orden[i % len(orden)] if orden else None
         dest = f"{pref}_{i}.mp4"
-        real = render_escena(esc, dur, marcas, clip, reel["etiqueta"], dest, inicio, total, extra)
+        real = render_escena(esc, dur, marcas, clip, reel["etiqueta"], dest, inicio, total, extra, rgb(reel.get("color", "#2E7D4F")), lote)
         with wave.open(wav) as w:
             sr = w.getframerate()
             a = np.frombuffer(w.readframes(w.getnframes()), np.int16)
@@ -332,7 +379,7 @@ def main(lote, salida):
     with tempfile.TemporaryDirectory() as work:
         clips = fondos(os.environ.get("PIXABAY_API_KEY", "").strip(), work)
         for i, r in enumerate(reels, 1):
-            generar_reel(r, i, salida, clips, work)
+            generar_reel(r, i, salida, clips, work, lote)
 
 
 if __name__ == "__main__":
