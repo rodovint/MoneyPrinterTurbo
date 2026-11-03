@@ -1,94 +1,29 @@
 [
   {
-    "etiqueta": "LIGA ECUABET",
-    "color": "#0B4EA2",
+    "etiqueta": "POR NO DESCENDER",
+    "color": "#1E8A4C",
+    "audio": "audio/orense-tecnico.m4a",
     "escenas": [
-      {
-        "texto": "Se apagó la ilusión en el Capwell.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "SE APAGÓ LA ILUSIÓN",
-          "sobre": "ESTADIO GEORGE CAPWELL"
-        }
-      },
-      {
-        "texto": "Emelec perdió dos a cero ante Leones,",
-        "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {
-              "nombre": "EMELEC",
-              "color": "#0B4EA2",
-              "goles": 0
-            },
-            {
-              "nombre": "LEONES",
-              "color": "#6B7280",
-              "goles": 2
-            }
-          ],
-          "pie": "DOBLETE DE MAURO LUQUE"
-        }
-      },
-      {
-        "texto": "con doblete de Mauro Luque, y quedó fuera de la pelea por la Copa Sudamericana 2027.",
-        "grafico": {
-          "tipo": "protagonista",
-          "rol": "EL VERDUGO EN EL CAPWELL",
-          "nombre": "MAURO LUQUE",
-          "dato": "DOBLETE ANTE EMELEC",
-          "color": "#374151"
-        }
-      },
-      {
-        "texto": "Así, el Bombillo completará cuatro temporadas seguidas sin torneos internacionales.",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "4",
-          "texto": "TEMPORADAS SEGUIDAS SIN TORNEOS INTERNACIONALES"
-        }
-      },
-      {
-        "texto": "Su última participación fue en la Sudamericana 2023.",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "2023",
-          "texto": "SU ÚLTIMA COPA SUDAMERICANA"
-        }
-      },
-      {
-        "texto": "Tras el partido, el técnico Ezequiel Medrán admitió que no estuvieron a la altura, habló de vergüenza deportiva y pidió disculpas a la hinchada.",
-        "grafico": {
-          "tipo": "protagonista",
-          "rol": "TÉCNICO DE EMELEC",
-          "nombre": "EZEQUIEL MEDRÁN",
-          "dato": "“VERGÜENZA DEPORTIVA”",
-          "color": "#0B4EA2"
-        }
-      },
-      {
-        "texto": "Emelec es último del cuadrangular con 42 puntos y cierra el 8 de noviembre ante Libertad.",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "42",
-          "texto": "PUNTOS, ÚLTIMO DEL CUADRANGULAR"
-        }
-      },
-      {
-        "texto": "Hincha eléctrico, ¿qué cambiarías primero?",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿QUÉ CAMBIARÍAS PRIMERO?",
-          "sobre": "HINCHA ELÉCTRICO"
-        }
-      },
-      {
-        "texto": "Cuéntanos en los comentarios y sigue a Guineo Deportes.",
-        "grafico": {
-          "tipo": "cierre",
-          "texto": "COMENTA Y SÍGUENOS"
-        }
-      }
+      {"inicio": 3.65, "fin": 5.12, "texto": "Orense se lo rescató al final.",
+       "foto_commons": "Estadio 9 de Mayo Machala.jpg",
+       "grafico": {"tipo": "titular", "texto": "ORENSE LO RESCATÓ AL FINAL", "sobre": "ESTADIO 9 DE MAYO"}},
+      {"inicio": 5.12, "fin": 9.45, "texto": "En el 9 de Mayo, el cuadro bananero empató uno a uno con Técnico Universitario.",
+       "grafico": {"tipo": "marcador", "equipos": [{"nombre": "ORENSE", "color": "#1E8A4C", "goles": 1}, {"nombre": "TÉCNICO U.", "color": "#C8102E", "goles": 1}], "pie": "ESTADIO 9 DE MAYO, MACHALA"}},
+      {"inicio": 9.45, "fin": 13.23, "texto": "Luis Estupiñán adelantó al Técnico al minuto 52,",
+       "grafico": {"tipo": "protagonista", "rol": "TÉCNICO UNIVERSITARIO", "nombre": "LUIS ESTUPIÑÁN", "dato": "GOL AL MINUTO 52", "color": "#C8102E"}},
+      {"inicio": 13.23, "fin": 19.19, "texto": "y cuando el partido se escapaba, al minuto 86, apareció Agustín Herrera para rescatar el punto.",
+       "grafico": {"tipo": "protagonista", "rol": "ORENSE", "nombre": "AGUSTÍN HERRERA", "dato": "GOL AL MINUTO 86", "color": "#1E8A4C"}},
+      {"inicio": 19.19, "fin": 23.77, "texto": "Orense llega a 39 y Técnico a 37, en plena pelea por no descender.",
+       "grafico": {"tipo": "duo", "a": "39", "a_texto": "ORENSE", "b": "37", "b_texto": "TÉCNICO U.", "pie": "EN PLENA PELEA POR NO DESCENDER"}},
+      {"inicio": 23.77, "fin": 25.28, "texto": "Ahora viene otra prueba dura.",
+       "grafico": {"tipo": "titular", "texto": "OTRA PRUEBA DURA", "sobre": "LO QUE VIENE"}},
+      {"inicio": 25.28, "fin": 28.97, "texto": "Este sábado, a las once y media, Orense visita a Deportivo Cuenca.",
+       "foto_commons": "Estadio Alejandro Serrano Aguilar.jpg",
+       "grafico": {"tipo": "partido", "equipos": [{"nombre": "DEPORTIVO CUENCA", "color": "#B3202A"}, {"nombre": "ORENSE", "color": "#1E8A4C"}], "hora": "SÁB 11:30", "pie": "ESTADIO ALEJANDRO SERRANO AGUILAR"}},
+      {"inicio": 28.97, "fin": 31.85, "texto": "¿Y alcanzará este punto en Machala?",
+       "grafico": {"tipo": "titular", "texto": "¿ALCANZARÁ ESTE PUNTO?", "sobre": "TU OPINIÓN"}},
+      {"inicio": 31.85, "fin": 34.72, "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+       "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS", "marca": "GUINEO COMUNICACIONES"}}
     ]
   }
 ]

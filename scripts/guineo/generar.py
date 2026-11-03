@@ -4,7 +4,7 @@ Cada escena lleva una oracion narrada y un grafico de la noticia. Los clips de
 Pixabay solo se usan de fondo, oscurecidos, y se filtran por etiquetas para que
 sean de futbol. Uso: python scripts/guineo/generar.py lotes/actual.json salida
 """
-import asyncio, json, os, random, shutil, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
+import asyncio, json, os, random, re, shutil, subprocess, sys, tempfile, time, traceback, urllib.parse, urllib.request, wave
 
 import edge_tts
 import numpy as np
@@ -104,6 +104,28 @@ def card(c):
         titular(d, l, f, 130 + (450 - len(l) * f.size * 1.16) / 2, W // 2 + 15)
         f2, l2 = fit(d, c["autor"], 860, 2, [48, 42], B)
         ctext(d, 610, l2, f2, Y, cx=W // 2 + 15)
+    elif kind == "duo":
+        for i, (n, lb) in enumerate(((c["a"], c["a_texto"]), (c["b"], c["b_texto"]))):
+            x0 = 60 + i * 490
+            d.rectangle([x0, 90, x0 + 470, 620], fill=(30, 42, 36))
+            d.rectangle([x0, 90, x0 + 470, 104], fill=Y)
+            f, ls = fit(d, n, 420, 1, [260, 220, 180])
+            d.text((x0 + 235, 300), ls[0], font=f, fill=Y, anchor="mm")
+            f2, ls2 = fit(d, lb, 420, 2, [52, 46, 40], B)
+            ctext(d, 490, ls2, f2, INK, cx=x0 + 235)
+        f, l = fit(d, c["pie"], 900, 2, [56, 50, 44], B)
+        ctext(d, 680, l, f, INK)
+    elif kind == "partido":
+        for i, e in enumerate(c["equipos"]):
+            y = 90 + i * 300
+            d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
+            f, l = fit(d, e["nombre"], 880, 1, [130, 112, 96, 84, 72])
+            d.text((W / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
+        w = d.textlength(c["hora"], font=A(84)) + 70
+        d.rectangle([(W - w) / 2, 325, (W + w) / 2, 435], fill=Y)
+        d.text((W / 2, 380), c["hora"], font=A(84), fill=BG, anchor="mm")
+        f, l = fit(d, c["pie"], 900, 2, [52, 46, 40], B)
+        ctext(d, 710, l, f, Y)
     elif kind == "protagonista":
         d.rectangle([60, 110, W - 60, 760], fill=(*rgb(c["color"]), 235))
         d.rectangle([60, 110, W - 60, 124], fill=Y)
@@ -119,8 +141,8 @@ def card(c):
     elif kind == "cierre":
         ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
         d.rectangle([60, 360, W - 60, 660], fill=Y)
-        f, l = fit(d, "GUINEO DEPORTES", 880, 1, [170, 150, 130])
-        d.text((W / 2, 510), l[0], font=f, fill=BG, anchor="mm")
+        f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 2, [170, 150, 130, 110, 96])
+        titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, BG)
     else:
         raise ValueError(f"tipo de escena desconocido: {kind}")
     return im
@@ -210,6 +232,15 @@ def abrir(url, timeout=60):
     return urllib.request.urlopen(pedido, timeout=timeout)
 
 
+def tramo(origen, ini, fin, base):
+    """Recorta un tramo de la narracion grabada por una persona."""
+    wav = base + ".wav"
+    subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(ini), "-to", str(fin), "-i", origen,
+                           "-af", "highpass=f=70", "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", wav])
+    with wave.open(wav) as w:
+        return wav, w.getnframes() / w.getframerate(), []
+
+
 def fondos(clave, carpeta, cuantos=6):
     """Descarga clips verticales o recortables, solo si sus etiquetas son de futbol."""
     if not clave:
@@ -252,6 +283,33 @@ def fondos(clave, carpeta, cuantos=6):
     return out
 
 
+def foto_commons(titulo, carpeta):
+    """Baja una foto de Wikimedia Commons solo si su licencia es libre. Devuelve (ruta, credito)."""
+    url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(
+        {"action": "query", "format": "json", "prop": "imageinfo", "titles": "File:" + titulo,
+         "iiprop": "url|extmetadata", "iiurlwidth": 1800})
+    try:
+        with abrir(url, 30) as r:
+            pag = next(iter(json.load(r)["query"]["pages"].values()))
+        info = pag["imageinfo"][0]
+        meta = info["extmetadata"]
+        lic = meta.get("License", {}).get("value", "").lower()
+        nombre = meta.get("LicenseShortName", {}).get("value", "")
+        if not (lic.startswith(("cc-by", "cc0", "pd"))):
+            print(f"::warning::Foto descartada por licencia: {titulo} ({nombre})")
+            return None, None
+        autor = re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value", "")).strip()[:50]
+        destino = os.path.join(carpeta, "c" + str(abs(hash(titulo))) + ".jpg")
+        with abrir(info.get("thumburl") or info["url"], 120) as r, open(destino, "wb") as fh:
+            shutil.copyfileobj(r, fh)
+        credito = f"Foto: {autor} / {nombre} / Wikimedia Commons"
+        print(f"::notice::Foto usada: {titulo} | {credito}")
+        return destino, credito
+    except Exception as e:
+        print(f"::warning::No se pudo usar la foto {titulo}: {type(e).__name__} {getattr(e, 'code', '')}")
+        return None, None
+
+
 def lector_fondo(clip, n):
     if not clip:
         return None
@@ -285,13 +343,20 @@ def cargar_foto(ruta, lote):
     return im.crop((x, y, x + round(W * 1.1), y + round(H * 1.1)))
 
 
-def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, color, lote):
-    dur = wav_dur + GAP + extra
+def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, color, lote, gap=GAP):
+    dur = wav_dur + gap + extra
     n = round(dur * FPS)
     tmp = dest[:-4] + ".tmp.mp4"
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                           "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p", tmp], stdin=subprocess.PIPE)
-    foto = cargar_foto(esc["foto"], lote) if esc.get("foto") else None
+    foto = None
+    if esc.get("foto_commons"):
+        ruta, cred = foto_commons(esc["foto_commons"], os.path.dirname(dest))
+        if ruta:
+            foto = cargar_foto(ruta, lote)
+            esc = {**esc, "credito": cred}
+    if esc.get("foto"):
+        foto = cargar_foto(esc["foto"], lote)
     fondo = None if foto else lector_fondo(clip, n)
     credito = None
     if esc.get("credito"):
@@ -340,8 +405,13 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, c
 
 def generar_reel(reel, idx, salida, clips, work, lote):
     pref = os.path.join(work, f"r{idx}")
-    vozes = [voz(e["texto"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
-    total = sum(v[1] + GAP for v in vozes) + 1.0
+    gap = 0.0 if reel.get("audio") else GAP
+    if reel.get("audio"):
+        origen = os.path.join(os.path.dirname(os.path.abspath(lote)), reel["audio"])
+        vozes = [tramo(origen, e["inicio"], e["fin"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
+    else:
+        vozes = [voz(e["texto"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
+    total = sum(v[1] + gap for v in vozes) + 1.0
     partes, pistas, inicio = [], [], 0.0
     orden = clips[:]
     random.shuffle(orden)
@@ -349,7 +419,7 @@ def generar_reel(reel, idx, salida, clips, work, lote):
         extra = 1.0 if i == len(vozes) - 1 else 0.0
         clip = orden[i % len(orden)] if orden else None
         dest = f"{pref}_{i}.mp4"
-        real = render_escena(esc, dur, marcas, clip, reel["etiqueta"], dest, inicio, total, extra, rgb(reel.get("color", "#2E7D4F")), lote)
+        real = render_escena(esc, dur, marcas, clip, reel["etiqueta"], dest, inicio, total, extra, rgb(reel.get("color", "#2E7D4F")), lote, gap)
         with wave.open(wav) as w:
             sr = w.getframerate()
             a = np.frombuffer(w.readframes(w.getnframes()), np.int16)
