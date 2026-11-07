@@ -1,29 +1,810 @@
 [
   {
+    "titulo": "Cuenca vs. Orense (HOY 11:30)",
     "etiqueta": "POR NO DESCENDER",
     "color": "#1E8A4C",
-    "audio": "audio/orense-tecnico.m4a",
+    "audio": "audio/01",
     "escenas": [
-      {"inicio": 3.65, "fin": 5.12, "texto": "Orense se lo rescató al final.",
-       "foto_commons": "Estadio 9 de Mayo Machala.jpg",
-       "grafico": {"tipo": "titular", "texto": "ORENSE LO RESCATÓ AL FINAL", "sobre": "ESTADIO 9 DE MAYO"}},
-      {"inicio": 5.12, "fin": 9.45, "texto": "En el 9 de Mayo, el cuadro bananero empató uno a uno con Técnico Universitario.",
-       "grafico": {"tipo": "marcador", "equipos": [{"nombre": "ORENSE", "color": "#1E8A4C", "goles": 1}, {"nombre": "TÉCNICO U.", "color": "#C8102E", "goles": 1}], "pie": "ESTADIO 9 DE MAYO, MACHALA"}},
-      {"inicio": 9.45, "fin": 13.23, "texto": "Luis Estupiñán adelantó al Técnico al minuto 52,",
-       "grafico": {"tipo": "protagonista", "rol": "TÉCNICO UNIVERSITARIO", "nombre": "LUIS ESTUPIÑÁN", "dato": "GOL AL MINUTO 52", "color": "#C8102E"}},
-      {"inicio": 13.23, "fin": 19.19, "texto": "y cuando el partido se escapaba, al minuto 86, apareció Agustín Herrera para rescatar el punto.",
-       "grafico": {"tipo": "protagonista", "rol": "ORENSE", "nombre": "AGUSTÍN HERRERA", "dato": "GOL AL MINUTO 86", "color": "#1E8A4C"}},
-      {"inicio": 19.19, "fin": 23.77, "texto": "Orense llega a 39 y Técnico a 37, en plena pelea por no descender.",
-       "grafico": {"tipo": "duo", "a": "39", "a_texto": "ORENSE", "b": "37", "b_texto": "TÉCNICO U.", "pie": "EN PLENA PELEA POR NO DESCENDER"}},
-      {"inicio": 23.77, "fin": 25.28, "texto": "Ahora viene otra prueba dura.",
-       "grafico": {"tipo": "titular", "texto": "OTRA PRUEBA DURA", "sobre": "LO QUE VIENE"}},
-      {"inicio": 25.28, "fin": 28.97, "texto": "Este sábado, a las once y media, Orense visita a Deportivo Cuenca.",
-       "foto_commons": "Estadio Alejandro Serrano Aguilar.jpg",
-       "grafico": {"tipo": "partido", "equipos": [{"nombre": "DEPORTIVO CUENCA", "color": "#B3202A"}, {"nombre": "ORENSE", "color": "#1E8A4C"}], "hora": "SÁB 11:30", "pie": "ESTADIO ALEJANDRO SERRANO AGUILAR"}},
-      {"inicio": 28.97, "fin": 31.85, "texto": "¿Y alcanzará este punto en Machala?",
-       "grafico": {"tipo": "titular", "texto": "¿ALCANZARÁ ESTE PUNTO?", "sobre": "TU OPINIÓN"}},
-      {"inicio": 31.85, "fin": 34.72, "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-       "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS", "marca": "GUINEO COMUNICACIONES"}}
+      {
+        "texto": "Orense va por otro punto de oro en Cuenca.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "PUNTO DE ORO EN CUENCA",
+          "sobre": "ORENSE"
+        },
+        "foto_commons": "Estadio Alejandro Serrano Aguilar.jpg"
+      },
+      {
+        "texto": "Hoy, a las once y media, el cuadro bananero visita a Deportivo Cuenca en el Alejandro Serrano Aguilar.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "DEPORTIVO CUENCA",
+              "color": "#B3202A"
+            },
+            {
+              "nombre": "ORENSE",
+              "color": "#1E8A4C"
+            }
+          ],
+          "hora": "HOY 11:30",
+          "pie": "ESTADIO ALEJANDRO SERRANO AGUILAR"
+        }
+      },
+      {
+        "texto": "Cuenca lidera el hexagonal con 44 puntos y Orense es tercero con 39.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "44",
+          "a_texto": "DEPORTIVO CUENCA",
+          "b": "39",
+          "b_texto": "ORENSE",
+          "pie": "HEXAGONAL POR NO DESCENDER"
+        }
+      },
+      {
+        "texto": "Atrás aprieta Técnico Universitario con 37, y los dos últimos bajan a la Serie B.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "37",
+          "texto": "TÉCNICO U. · LOS DOS ÚLTIMOS BAJAN A SERIE B"
+        }
+      },
+      {
+        "texto": "En su primer duelo del hexagonal empataron cero a cero.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "0 A 0 EN EL PRIMER DUELO",
+          "sobre": "EL ANTECEDENTE"
+        }
+      },
+      {
+        "texto": "¿Suma Orense en Cuenca?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿SUMA ORENSE EN CUENCA?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Libertad vs. Emelec (HOY 14:00)",
+    "etiqueta": "CUADRANGULAR",
+    "color": "#0B4EA2",
+    "audio": "audio/02",
+    "escenas": [
+      {
+        "texto": "Emelec cierra hoy un año para olvidar.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "UN AÑO PARA OLVIDAR",
+          "sobre": "EMELEC"
+        }
+      },
+      {
+        "texto": "A las dos de la tarde visita a Libertad en el Reina del Cisne de Loja, sin nada en juego.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "LIBERTAD",
+              "color": "#C9971A"
+            },
+            {
+              "nombre": "EMELEC",
+              "color": "#0B4EA2"
+            }
+          ],
+          "hora": "HOY 14:00",
+          "pie": "ESTADIO REINA DEL CISNE, LOJA"
+        },
+        "foto_commons": "Estadio Reina del Cisne 02.jpg"
+      },
+      {
+        "texto": "Libertad ya tiene su cupo a la Sudamericana y Emelec es último del cuadrangular con 42 puntos.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "51",
+          "a_texto": "LIBERTAD",
+          "b": "42",
+          "b_texto": "EMELEC",
+          "pie": "CUADRANGULAR"
+        }
+      },
+      {
+        "texto": "Según la prensa local, en el plantel vencen 15 contratos y se viene una limpieza para 2027.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "15",
+          "texto": "CONTRATOS POR VENCER, SEGÚN LA PRENSA"
+        }
+      },
+      {
+        "texto": "Además, los jugadores reclaman hasta tres meses de sueldos pendientes.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "3",
+          "texto": "MESES DE SUELDOS PENDIENTES, SEGÚN LA PRENSA"
+        }
+      },
+      {
+        "texto": "Y el futuro del técnico Ezequiel Medrán todavía no está definido.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "TÉCNICO DE EMELEC",
+          "nombre": "EZEQUIEL MEDRÁN",
+          "dato": "FUTURO SIN DEFINIR",
+          "color": "#0B4EA2"
+        }
+      },
+      {
+        "texto": "Hincha eléctrico, ¿por dónde empieza la reconstrucción?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿POR DÓNDE EMPIEZA LA RECONSTRUCCIÓN?",
+          "sobre": "HINCHA ELÉCTRICO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Leones vs. Guayaquil City (HOY 16:30)",
+    "etiqueta": "CUADRANGULAR",
+    "color": "#2F7FC1",
+    "audio": "audio/03",
+    "escenas": [
+      {
+        "texto": "Guayaquil City se juega hoy la Copa Sudamericana.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "CITY VA POR LA SUDAMERICANA",
+          "sobre": "GUAYAQUIL CITY"
+        }
+      },
+      {
+        "texto": "A las cuatro y media visita a Leones en el Olímpico de Ibarra.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "LEONES",
+              "color": "#6B7280"
+            },
+            {
+              "nombre": "GUAYAQUIL CITY",
+              "color": "#2F7FC1"
+            }
+          ],
+          "hora": "HOY 16:30",
+          "pie": "ESTADIO OLÍMPICO DE IBARRA"
+        }
+      },
+      {
+        "texto": "El segundo lugar del cuadrangular da un cupo, y al City le alcanza con empatar.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "LE ALCANZA CON EMPATAR",
+          "sobre": "2.º LUGAR = SUDAMERICANA"
+        }
+      },
+      {
+        "texto": "El City tiene 47 puntos y Leones 46.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "47",
+          "a_texto": "GUAYAQUIL CITY",
+          "b": "46",
+          "b_texto": "LEONES",
+          "pie": "LA PELEA POR EL SEGUNDO LUGAR"
+        }
+      },
+      {
+        "texto": "Pero hay una deuda: el City nunca le ha ganado a Leones en Ibarra.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "0",
+          "texto": "VICTORIAS DEL CITY EN IBARRA"
+        }
+      },
+      {
+        "texto": "¿Rompe la racha el City?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿ROMPE LA RACHA EL CITY?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Barcelona vs. Liga de Quito (domingo)",
+    "etiqueta": "HEXAGONAL FINAL",
+    "color": "#B8860B",
+    "audio": "audio/04",
+    "escenas": [
+      {
+        "texto": "Barcelona y Liga de Quito se ven las caras mañana en el Monumental.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "BARCELONA VS. LIGA DE QUITO",
+          "sobre": "ESTADIO MONUMENTAL"
+        },
+        "foto_commons": "Estadio BSC.jpg"
+      },
+      {
+        "texto": "El partido es a las cuatro y media de la tarde, por la sexta fecha del hexagonal final.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B"
+            },
+            {
+              "nombre": "LIGA DE QUITO",
+              "color": "#1F2A44"
+            }
+          ],
+          "hora": "DOM 16:30",
+          "pie": "SEXTA FECHA DEL HEXAGONAL FINAL"
+        }
+      },
+      {
+        "texto": "Desde 2019 se han visto diez veces en Guayaquil: Liga ganó tres, Barcelona dos y hubo cinco empates.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "10",
+          "texto": "PARTIDOS EN GUAYAQUIL DESDE 2019: LIGA 3, BSC 2, EMPATES 5"
+        }
+      },
+      {
+        "texto": "Y en el último cruce, en octubre, Liga ganó dos a uno.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "LIGA DE QUITO",
+              "color": "#1F2A44",
+              "goles": 2
+            },
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B",
+              "goles": 1
+            }
+          ],
+          "pie": "11 DE OCTUBRE"
+        }
+      },
+      {
+        "texto": "Para llenar el estadio, la general norte cuesta seis dólares y la tribuna diez.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "$6",
+          "a_texto": "GENERAL NORTE",
+          "b": "$10",
+          "b_texto": "TRIBUNA",
+          "pie": "PRECIOS DE LAS ENTRADAS"
+        }
+      },
+      {
+        "texto": "Además, mujeres y niños menores de 12 años entran gratis a tribuna si van con alguien que compró su boleto.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "GRATIS",
+          "texto": "MUJERES Y NIÑOS MENORES DE 12 EN TRIBUNA, CON ACOMPAÑANTE"
+        }
+      },
+      {
+        "texto": "Torero, ¿vas al Monumental?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿VAS AL MONUMENTAL?",
+          "sobre": "TORERO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Trobbiani promete furia",
+    "etiqueta": "BARCELONA SC",
+    "color": "#B8860B",
+    "audio": "audio/05",
+    "escenas": [
+      {
+        "texto": "Pablo Trobbiani promete un Barcelona con furia.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "TÉCNICO DE BARCELONA",
+          "nombre": "PABLO TROBBIANI",
+          "dato": "PROMETE FURIA",
+          "color": "#B8860B"
+        }
+      },
+      {
+        "texto": "Tras el tres a cero ante Macará, admitió que les dolió la derrota y que en el segundo tiempo no estuvieron a la altura.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "MACARÁ",
+              "color": "#2F9BD6",
+              "goles": 3
+            },
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B",
+              "goles": 0
+            }
+          ],
+          "pie": "LA ÚLTIMA DERROTA"
+        }
+      },
+      {
+        "texto": "Y lanzó: saldremos el domingo con furia, tragando veneno toda esta semana.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“TRAGANDO VENENO”",
+          "autor": "PABLO TROBBIANI, DT DE BARCELONA"
+        }
+      },
+      {
+        "texto": "Además, dijo que espera que Marcelo Gallardo considere a Jerly Wila y Johan García para la Selección.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "WILA Y GARCÍA A LA TRI",
+          "sobre": "EL PEDIDO DE TROBBIANI"
+        }
+      },
+      {
+        "texto": "¿Los ves en la Selección?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿LOS VES EN LA TRI?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Tres equipos por un boleto a la Libertadores",
+    "etiqueta": "HEXAGONAL FINAL",
+    "color": "#C9971A",
+    "audio": "audio/06",
+    "escenas": [
+      {
+        "texto": "Tres equipos y un solo boleto a la Libertadores.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "TRES EQUIPOS, UN BOLETO",
+          "sobre": "COPA LIBERTADORES 2027"
+        }
+      },
+      {
+        "texto": "El tercer lugar del hexagonal final da cupo a la segunda fase previa de la Libertadores 2027.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "3ER",
+          "texto": "LUGAR = SEGUNDA FASE PREVIA DE LA LIBERTADORES"
+        }
+      },
+      {
+        "texto": "Hoy ese lugar es de Aucas, con 54 puntos.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "54",
+          "texto": "PUNTOS DE AUCAS, HOY TERCERO"
+        }
+      },
+      {
+        "texto": "Liga de Quito suma 53 y Barcelona 48, a seis del tercer lugar.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "53",
+          "a_texto": "LIGA DE QUITO",
+          "b": "48",
+          "b_texto": "BARCELONA",
+          "pie": "QUEDAN CINCO FECHAS"
+        }
+      },
+      {
+        "texto": "Este domingo, Aucas recibe a Independiente del Valle y Barcelona a Liga.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "DOMINGO DECISIVO",
+          "sobre": "AUCAS–IDV · BSC–LIGA"
+        }
+      },
+      {
+        "texto": "¿Quién se queda con el boleto?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN SE QUEDA CON EL BOLETO?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "IDV elimina a Delfín de la Copa Ecuador",
+    "etiqueta": "COPA ECUADOR",
+    "color": "#0E7C86",
+    "audio": "audio/07",
+    "escenas": [
+      {
+        "texto": "Se acabó el sueño copero de Delfín.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "SE ACABÓ EL SUEÑO COPERO",
+          "sobre": "DELFÍN"
+        },
+        "foto_commons": "Estadio jocay.jpg"
+      },
+      {
+        "texto": "Independiente del Valle le ganó dos a cero en la vuelta y cerró la semifinal con un global de cinco a cero.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "IND. DEL VALLE",
+              "color": "#1B1B1B",
+              "goles": 2
+            },
+            {
+              "nombre": "DELFÍN",
+              "color": "#0E7C86",
+              "goles": 0
+            }
+          ],
+          "pie": "GLOBAL 5-0"
+        }
+      },
+      {
+        "texto": "Los goles fueron de Djorkaeff Reasco y Junior Sornoza.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "REASCO Y SORNOZA",
+          "sobre": "LOS GOLES"
+        }
+      },
+      {
+        "texto": "Los rayados jugarán la final en diciembre ante Universidad Católica, en el Alejandro Serrano Aguilar de Cuenca.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "IND. DEL VALLE",
+              "color": "#1B1B1B"
+            },
+            {
+              "nombre": "U. CATÓLICA",
+              "color": "#2B6CB0"
+            }
+          ],
+          "hora": "FINAL",
+          "pie": "DICIEMBRE · ESTADIO ALEJANDRO SERRANO AGUILAR"
+        },
+        "foto_commons": "Estadio Alejandro Serrano Aguilar.jpg"
+      },
+      {
+        "texto": "Delfín ya piensa en el lunes: visita a Mushuc Runa en la pelea por no descender.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "AHORA, A SALVARSE",
+          "sobre": "LUNES ANTE MUSHUC RUNA"
+        }
+      },
+      {
+        "texto": "Hincha cetáceo, ¿te dolió la eliminación?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿TE DOLIÓ LA ELIMINACIÓN?",
+          "sobre": "HINCHA CETÁCEO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Manta gana en el descuento",
+    "etiqueta": "POR NO DESCENDER",
+    "color": "#1D5FA8",
+    "audio": "audio/08",
+    "escenas": [
+      {
+        "texto": "Manta se niega a bajar.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "MANTA SE NIEGA A BAJAR",
+          "sobre": "POR NO DESCENDER"
+        },
+        "foto_commons": "Estadio jocay.jpg"
+      },
+      {
+        "texto": "El martes le ganó tres a dos a Mushuc Runa en Echaleche, con un penal de Joaquín Vergés en el noveno minuto de descuento.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "MANTA",
+              "color": "#1D5FA8",
+              "goles": 3
+            },
+            {
+              "nombre": "MUSHUC RUNA",
+              "color": "#8B1E2D",
+              "goles": 2
+            }
+          ],
+          "pie": "PENAL DE VERGÉS AL 90+9"
+        }
+      },
+      {
+        "texto": "Con ese triunfo llegó a 30 puntos, pero sigue último y a ocho de la salvación.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "8",
+          "texto": "PUNTOS DE LA SALVACIÓN"
+        }
+      },
+      {
+        "texto": "Quedan cinco fechas y quince puntos en juego.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "15",
+          "texto": "PUNTOS EN JUEGO"
+        }
+      },
+      {
+        "texto": "El lunes, a las tres y media, visita a Técnico Universitario.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "TÉCNICO U.",
+              "color": "#C8102E"
+            },
+            {
+              "nombre": "MANTA",
+              "color": "#1D5FA8"
+            }
+          ],
+          "hora": "LUN 15:30",
+          "pie": "PRÓXIMO PARTIDO"
+        }
+      },
+      {
+        "texto": "¿Se da el milagro en Manta?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿SE DA EL MILAGRO?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "La Tri anuncia su lista el domingo",
+    "etiqueta": "SELECCIÓN",
+    "color": "#0B3D91",
+    "audio": "audio/09",
+    "escenas": [
+      {
+        "texto": "La Tri ya tiene fecha para su lista.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "LA TRI DA SU LISTA",
+          "sobre": "DOMINGO 8 DE NOVIEMBRE"
+        }
+      },
+      {
+        "texto": "Marcelo Gallardo anunciará este domingo a los convocados para los amistosos de noviembre.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "TÉCNICO DE ECUADOR",
+          "nombre": "MARCELO GALLARDO",
+          "dato": "ANUNCIA LA LISTA",
+          "color": "#0B3D91"
+        }
+      },
+      {
+        "texto": "Ecuador recibe a Costa Rica el viernes 13 en el Atahualpa de Quito.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#0B3D91"
+            },
+            {
+              "nombre": "COSTA RICA",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "VIE 13",
+          "pie": "ESTADIO OLÍMPICO ATAHUALPA, QUITO"
+        }
+      },
+      {
+        "texto": "Y a Bolivia el martes 17 en el Monumental de Guayaquil.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#0B3D91"
+            },
+            {
+              "nombre": "BOLIVIA",
+              "color": "#1E8A4C"
+            }
+          ],
+          "hora": "MAR 17",
+          "pie": "ESTADIO MONUMENTAL, GUAYAQUIL"
+        },
+        "foto_commons": "Estadio BSC.jpg"
+      },
+      {
+        "texto": "¿Qué jugador de la costa merece estar?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN DE LA COSTA MERECE ESTAR?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Lunes del descenso",
+    "etiqueta": "POR NO DESCENDER",
+    "color": "#C8102E",
+    "audio": "audio/10",
+    "escenas": [
+      {
+        "texto": "El lunes se mueve la pelea por no descender.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "LUNES DE DESCENSO",
+          "sobre": "HEXAGONAL"
+        }
+      },
+      {
+        "texto": "A la una de la tarde, Delfín visita a Mushuc Runa.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "MUSHUC RUNA",
+              "color": "#8B1E2D"
+            },
+            {
+              "nombre": "DELFÍN",
+              "color": "#0E7C86"
+            }
+          ],
+          "hora": "LUN 13:00",
+          "pie": "HEXAGONAL POR NO DESCENDER"
+        }
+      },
+      {
+        "texto": "Mushuc tiene 40 puntos y Delfín 38.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "40",
+          "a_texto": "MUSHUC RUNA",
+          "b": "38",
+          "b_texto": "DELFÍN",
+          "pie": "LA PELEA POR SALVARSE"
+        }
+      },
+      {
+        "texto": "Después, a las tres y media, Técnico Universitario recibe a Manta.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "TÉCNICO U.",
+              "color": "#C8102E"
+            },
+            {
+              "nombre": "MANTA",
+              "color": "#1D5FA8"
+            }
+          ],
+          "hora": "LUN 15:30",
+          "pie": "HEXAGONAL POR NO DESCENDER"
+        }
+      },
+      {
+        "texto": "Técnico suma 37 y está en zona de descenso; Manta tiene 30 y es último.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "37",
+          "a_texto": "TÉCNICO U.",
+          "b": "30",
+          "b_texto": "MANTA",
+          "pie": "LOS DOS ÚLTIMOS BAJAN A SERIE B"
+        }
+      },
+      {
+        "texto": "¿Quiénes se salvan?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉNES SE SALVAN?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
     ]
   }
 ]

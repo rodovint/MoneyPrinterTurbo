@@ -78,9 +78,9 @@ def card(c):
         kw = d.textlength(c["sobre"], font=kf) + 56
         d.rectangle([(W - kw) / 2, 110, (W + kw) / 2, 186], fill=Y)
         d.text((W / 2, 148), c["sobre"], font=kf, fill=BG, anchor="mm")
-        for sz in [190, 170, 150, 130, 112, 100, 90]:
+        for sz in [190, 170, 150, 130, 112, 100, 90, 80, 70]:
             f, l = fit(d, c["texto"], 900, 4, [sz])
-            if len(l) * sz * 1.16 <= 650:
+            if len(l) * sz * 1.16 <= 650 and all(d.textlength(x, font=f) <= 900 for x in l):
                 break
         titular(d, l, f, 215 + (660 - len(l) * f.size * 1.16) / 2, W // 2)
     elif kind == "cifra":
@@ -141,7 +141,9 @@ def card(c):
     elif kind == "cierre":
         ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
         d.rectangle([60, 360, W - 60, 660], fill=Y)
-        f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 2, [170, 150, 130, 110, 96])
+        f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 1, [150, 130])
+        if len(l) > 1 or d.textlength(l[0], font=f) > 880:
+            f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 2, [120, 110, 96])
         titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, BG)
     else:
         raise ValueError(f"tipo de escena desconocido: {kind}")
@@ -248,6 +250,52 @@ def tramo(origen, ini, fin, base):
                            "-af", "highpass=f=70", "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", wav])
     with wave.open(wav) as w:
         return wav, w.getnframes() / w.getframerate(), []
+
+
+EXT_AUDIO = (".m4a", ".mp3", ".wav", ".ogg", ".opus", ".aac", ".mp4")
+
+
+def buscar_audio(base):
+    """Acepta 'audio/01' con cualquier extension comun de audio."""
+    if os.path.splitext(base)[1].lower() in EXT_AUDIO and os.path.exists(base):
+        return base
+    for ext in EXT_AUDIO:
+        if os.path.exists(base + ext):
+            return base + ext
+    return None
+
+
+def silencios(origen, umbral=-35, minimo=0.3):
+    out = subprocess.run(["ffmpeg", "-hide_banner", "-i", origen, "-af", f"silencedetect=n={umbral}dB:d={minimo}", "-f", "null", "-"],
+                         capture_output=True, text=True).stderr
+    ini = [float(x) for x in re.findall(r"silence_start: ([0-9.]+)", out)]
+    fin = [float(x) for x in re.findall(r"silence_end: ([0-9.]+)", out)]
+    dur = float(re.search(r"Duration: (\d+):(\d+):([0-9.]+)", out).group(3)) + \
+        60 * float(re.search(r"Duration: (\d+):(\d+)", out).group(2)) + \
+        3600 * float(re.search(r"Duration: (\d+)", out).group(1))
+    pares = list(zip(ini, fin + [dur] * (len(ini) - len(fin))))
+    return pares, dur
+
+
+def repartir(origen, textos):
+    """Divide una grabacion en escenas usando las pausas entre frases."""
+    pares, dur = silencios(origen)
+    voz_ini = pares[0][1] if pares and pares[0][0] <= 0.05 else 0.0
+    voz_fin = pares[-1][0] if pares and pares[-1][1] >= dur - 0.05 else dur
+    huecos = [(a, b) for a, b in pares if a > voz_ini + 0.2 and b < voz_fin - 0.2]
+    pesos = [max(len(t), 1) for t in textos]
+    total, acum, cortes, desde = sum(pesos), 0, [], voz_ini
+    for p in pesos[:-1]:
+        acum += p
+        esperado = voz_ini + (voz_fin - voz_ini) * acum / total
+        candidatos = [(abs((a + b) / 2 - esperado) / (0.4 + (b - a)), (a + b) / 2) for a, b in huecos if (a + b) / 2 > desde + 0.4]
+        corte = min(candidatos)[1] if candidatos and min(candidatos)[0] < 6 else esperado
+        cortes.append(corte)
+        desde = corte
+    bordes = [max(0.0, voz_ini - 0.1)] + cortes + [min(dur, voz_fin + 0.15)]
+    tramos = list(zip(bordes[:-1], bordes[1:]))
+    print("Escenas detectadas:", ", ".join(f"{a:.1f}-{b:.1f}" for a, b in tramos), flush=True)
+    return tramos
 
 
 def fondos(clave, carpeta, cuantos=6):
@@ -416,8 +464,16 @@ def generar_reel(reel, idx, salida, clips, work, lote):
     pref = os.path.join(work, f"r{idx}")
     gap = 0.0 if reel.get("audio") else GAP
     if reel.get("audio"):
-        origen = os.path.join(os.path.dirname(os.path.abspath(lote)), reel["audio"])
-        vozes = [tramo(origen, e["inicio"], e["fin"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
+        origen = buscar_audio(os.path.join(os.path.dirname(os.path.abspath(lote)), reel["audio"]))
+        if not origen:
+            print(f"::notice::Reel {idx:02d} ({reel.get('titulo', '')}): falta la voz {reel['audio']}, se salta", flush=True)
+            return False
+        escenas = reel["escenas"]
+        if all("inicio" in e and "fin" in e for e in escenas):
+            tramos = [(e["inicio"], e["fin"]) for e in escenas]
+        else:
+            tramos = repartir(origen, [e["texto"] for e in escenas])
+        vozes = [tramo(origen, a, b, f"{pref}_{i}") for i, (a, b) in enumerate(tramos)]
     else:
         vozes = [voz(e["texto"], f"{pref}_{i}") for i, e in enumerate(reel["escenas"])]
     total = sum(v[1] + gap for v in vozes) + 1.0
@@ -449,16 +505,24 @@ def generar_reel(reel, idx, salida, clips, work, lote):
     subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lista, "-i", mix,
                            "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
                            "-shortest", "-movflags", "+faststart", out])
-    print("Listo", out, round(inicio, 1), "s")
+    print(f"::notice::Listo reel-{idx:02d} ({reel.get('titulo', '')}): {round(inicio, 1)} s", flush=True)
+    return True
 
 
 def main(lote, salida):
     os.makedirs(salida, exist_ok=True)
     reels = json.load(open(lote, encoding="utf-8"))
     with tempfile.TemporaryDirectory() as work:
-        clips = fondos(os.environ.get("PIXABAY_API_KEY", "").strip(), work)
+        clips = None
+        hechos = 0
         for i, r in enumerate(reels, 1):
-            generar_reel(r, i, salida, clips, work, lote)
+            if r.get("audio") and not buscar_audio(os.path.join(os.path.dirname(os.path.abspath(lote)), r["audio"])):
+                print(f"::notice::Reel {i:02d} ({r.get('titulo', '')}): falta la voz {r['audio']}, se salta", flush=True)
+                continue
+            if clips is None:
+                clips = fondos(os.environ.get("PIXABAY_API_KEY", "").strip(), work)
+            hechos += bool(generar_reel(r, i, salida, clips, work, lote))
+        print(f"::notice::Reels generados: {hechos} de {len(reels)}", flush=True)
 
 
 if __name__ == "__main__":
