@@ -1,0 +1,35 @@
+name: Clips para el anuncio de SacaTus5
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [sacatus5-clips]
+    paths:
+      - "scripts/sacatus5/**"
+      - ".github/workflows/sacatus5-clips.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  clips:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Instalar dependencias
+        run: uv sync --frozen
+      - name: Bajar clips y voces
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: uv run python scripts/sacatus5/clips.py sacatus5/out
+      - name: Guardar en la rama
+        run: |
+          git config user.name "sacatus5-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add sacatus5/out
+          git commit -m "Clips y voces para el anuncio de SacaTus5" || echo "nada nuevo"
+          git push origin HEAD:sacatus5-clips
