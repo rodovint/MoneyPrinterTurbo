@@ -1,10 +1,18 @@
 #!/usr/bin/env bash
-# Job 2 (2026-11-09): narration lines in the chosen voice (Andrea) + full music track A
+# Job 3 (2026-11-09): recorded effects (Kenney CC0 packs + open recordings) for "El golpe de Enner"
 set -u
-O=cinecode/out; mkdir -p $O
-uv run python cinecode/edge_take.py cinecode/takes-enner.json $O/vo
+O=cinecode/out; mkdir -p $O/sfx
+S=cinecode/tools/sounds.py
+for q in "metal heavy" "metal latch" "click" "footstep grass" "impact soft heavy" "impact punch" "door open" "switch" "chips stack"; do
+  echo "== $q" >> $O/sfx/search.txt
+  python3 $S search "$q" --n 5 >> $O/sfx/search.txt 2>&1
+  id=$(python3 $S search "$q" --n 2 2>/dev/null | grep " · " | head -2 | cut -d' ' -f1)
+  for i in $id; do python3 $S get "$i" --dest $O/sfx >> $O/sfx/get.txt 2>&1; done
+done
 T=cinecode/tools/asset_search.py
-d=$O/music/suspense-heist-tension
-python3 $T search --q "suspense heist tension" --type music --n 8 --max-wait 25 --out $d
-python3 $T fetch --results $d/results.json --pick 2 --dest $d/full --licenses $O/LICENSES.csv || true
-ls -R $O | head -40
+for q in "referee whistle" "football kick ball" "crowd gasp"; do
+  d=$O/rec/$(echo $q | tr ' ' '-')
+  python3 $T search --q "$q" --type sound --n 6 --max-wait 25 --out $d
+  python3 $T fetch --results $d/results.json --pick 1,2 --dest $d/files --licenses $O/LICENSES.csv || true
+done
+ls -R $O | head -80
