@@ -25,6 +25,8 @@ jobs:
       - name: Instalar dependencias
         run: uv sync --frozen
       - name: Ejecutar tarea
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: bash cinecode/job.sh 2>&1 | tee cinecode-log.txt
       - name: Guardar resultados en la rama cinecode-out
         run: |

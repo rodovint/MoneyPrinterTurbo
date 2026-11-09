@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Job 4 (2026-11-09): new closing line (Guineo Comunicaciones), voice Andrea
+# Job 5 (2026-11-09): football clips (Pixabay) and Bombonera photos (Commons) for the Guineo-style cut
 set -u
 O=cinecode/out; mkdir -p $O
-uv run python cinecode/edge_take.py cinecode/takes-enner.json $O/vo
-ls -R $O
+uv run python cinecode/fetch_bg.py $O/bg
+ls -la $O/bg/clips $O/bg/fotos
