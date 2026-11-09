@@ -1,0 +1,70 @@
+{
+ "takes": [
+  {
+   "id": "S01",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Todo golpe empieza con una bóveda."
+  },
+  {
+   "id": "S02",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Y esta ya tenía dueño."
+  },
+  {
+   "id": "S03",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Con el empate, Boca se quedaba sin el título."
+  },
+  {
+   "id": "S05",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Desde el banco, Boca manda a su goleador ecuatoriano."
+  },
+  {
+   "id": "S06",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Central ya había ganado y festejaba."
+  },
+  {
+   "id": "S07",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "El reloj ya estaba en el descuento."
+  },
+  {
+   "id": "S08",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "El plan era simple: que alguien se equivoque."
+  },
+  {
+   "id": "S10",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Y alguien se equivocó."
+  },
+  {
+   "id": "S12",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Por un punto. Ese fue el botín."
+  },
+  {
+   "id": "S13",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Boca campeón. Y la firma es ecuatoriana."
+  },
+  {
+   "id": "S14",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+12%",
+   "text": "Comenta y síguenos en Guineo Deportes."
+  }
+ ]
+}
