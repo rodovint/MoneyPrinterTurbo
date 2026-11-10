@@ -1,10 +1,8 @@
 """Busca escudos de clubes en Wikimedia Commons y baja una vista PNG de cada candidato con su licencia."""
-import json, os, sys, urllib.parse, urllib.request
+import json, os, sys, time, urllib.parse, urllib.request
 UA = {"User-Agent": "GuineoReels/1.0 (rodovint; news reel crests)"}
 out = sys.argv[1]; os.makedirs(out, exist_ok=True)
-QUERIES = {"boca": ["Boca Juniors logo", "Escudo Boca Juniors", "CABJ escudo"],
-           "central": ["Rosario Central logo", "Escudo Rosario Central"],
-           "defensa": ["Defensa y Justicia logo", "Escudo Defensa y Justicia"]}
+QUERIES = json.loads(sys.argv[2]) if len(sys.argv) > 2 else {"boca": ["Boca Juniors logo"]}
 idx = {}
 for club, qs in QUERIES.items():
     seen = []
@@ -26,6 +24,7 @@ for club, qs in QUERIES.items():
         if not s["thumb"]:
             continue
         f = os.path.join(out, f"{club}-{i}.png")
+        time.sleep(3)
         try:
             open(f, "wb").write(urllib.request.urlopen(urllib.request.Request(s["thumb"], headers=UA), timeout=30).read()); s["file"] = f
         except Exception as e:
