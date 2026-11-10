@@ -1,0 +1,11 @@
+{"takes": [
+ {"id": "S01", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "La noche del siete de noviembre, la Bombonera no respiraba."},
+ {"id": "S02", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "Rosario Central ya tenía el título en la mano."},
+ {"id": "S03", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "A Boca no le servía el empate. Tenía que ganar."},
+ {"id": "S05", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "En el minuto setenta y seis, entra Enner Valencia."},
+ {"id": "S06", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "En Rosario ya festejaban."},
+ {"id": "S07", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "Noventa minutos. Cero a cero. El reloj no perdonaba."},
+ {"id": "S08", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "Y entonces, el ecuatoriano se vistió de Superman."},
+ {"id": "S12", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "Boca sesenta y tres, Central sesenta y dos. Por un punto."},
+ {"id": "S13", "voice": "es-EC-AndreaNeural", "rate": "+12%", "text": "Boca campeón. Y con firma ecuatoriana."}
+]}
