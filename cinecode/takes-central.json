@@ -1,0 +1,9 @@
+{"takes": [
+ {"id": "S02a", "voice": "es-EC-AndreaNeural", "rate": "+4%", "text": "Rosario Central ya tenía el título en la mano."},
+ {"id": "S02b", "voice": "es-EC-AndreaNeural", "rate": "+6%", "pitch": "-2Hz", "text": "El título ya era de Rosario Central."},
+ {"id": "S02c", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "Y en Rosario, Central ya tenía el título en la mano."},
+ {"id": "S02d", "voice": "es-AR-ElenaNeural", "rate": "+8%", "text": "Rosario Central ya tenía el título en la mano."},
+ {"id": "S06a", "voice": "es-EC-AndreaNeural", "rate": "+4%", "text": "Mientras tanto, en Rosario ya festejaban."},
+ {"id": "S12a", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "Boca, sesenta y tres. Central, sesenta y dos. Por un punto."},
+ {"id": "S12d", "voice": "es-AR-ElenaNeural", "rate": "+8%", "text": "Boca, sesenta y tres. Central, sesenta y dos. Por un punto."}
+]}

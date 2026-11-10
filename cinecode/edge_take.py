@@ -5,7 +5,7 @@ import asyncio, json, os, sys, time
 import edge_tts
 
 async def one(t, out):
-    com = edge_tts.Communicate(t["text"], t["voice"], rate=t.get("rate", "+0%"), boundary="WordBoundary")
+    com = edge_tts.Communicate(t["text"], t["voice"], rate=t.get("rate", "+0%"), pitch=t.get("pitch", "+0Hz"), boundary="WordBoundary")
     words = []
     with open(os.path.join(out, t["id"] + ".mp3"), "wb") as fh:
         async for ch in com.stream():
