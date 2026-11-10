@@ -1,0 +1,11 @@
+{
+  "referencias": ["scripts/guineo/ref/enner-cara.jpg", "scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as image 1: detailed comic-book illustration, bold ink lines, dramatic stadium lights at night, rich saturated colors. Boca Juniors style shirt: navy blue with one wide horizontal yellow band across the chest, no crest, no logos, no sponsor, no text.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "centro", "seed": 11, "referencias": [1], "prompt": "Vertical illustration: a footballer in a navy blue shirt with a horizontal yellow band crosses the ball from the right wing into a crowded penalty box, opponents in green shirts, packed stadium at night, ball flying in an arc."},
+    {"id": "choque", "seed": 12, "referencias": [1], "prompt": "Vertical illustration: a goalkeeper in a green kit jumps for a high ball and crashes into his own defender in green, both falling, the ball bouncing loose in front of the goal, stadium at night, dramatic impact lines."},
+    {"id": "festejo", "seed": 13, "referencias": [0, 1], "prompt": "Vertical illustration: the man from image 0 (bald head with very short buzzed hair, short full black beard joined to a thin moustache, dark skin, wide smile) runs toward the fans celebrating a goal with arms wide open, screaming with joy, navy blue shirt with a horizontal yellow band, fans behind going wild, confetti."},
+    {"id": "campeon", "seed": 14, "referencias": [0, 1], "prompt": "Vertical illustration: the man from image 0 (bald head with very short buzzed hair, short full black beard joined to a thin moustache, dark skin, big smile) lifts a silver championship trophy over his head surrounded by teammates in navy blue shirts with a horizontal yellow band, blue and yellow confetti, stadium at night."}
+  ]
+}

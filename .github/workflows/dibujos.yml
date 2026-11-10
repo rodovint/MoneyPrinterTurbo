@@ -1,0 +1,56 @@
+name: Dibujos (Cloudflare Workers AI)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["lotes/dibujos/*.json", "scripts/guineo/dibujar.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dibujos
+  cancel-in-progress: false
+
+jobs:
+  dibujar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Instalar dependencias
+        run: uv sync --frozen
+      - name: Revisar claves de Cloudflare
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          if [ -z "$CF_ACCOUNT_ID" ] || [ -z "$CF_API_TOKEN" ]; then
+            echo "::error::Faltan los secretos CF_ACCOUNT_ID y CF_API_TOKEN en Settings > Secrets and variables > Actions"; exit 1; fi
+      - name: Generar dibujos
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          mkdir -p out
+          for f in lotes/dibujos/*.json; do
+            n=$(basename "$f" .json)
+            uv run python scripts/guineo/dibujar.py "$f" "out/$n" 2>&1 | tee -a out/log.txt
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dibujos
+          path: out/
+      - name: Guardar en la rama dibujos-out
+        run: |
+          cp -r out /tmp/res
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan dibujos-out
+          git rm -rfq . >/dev/null
+          cp -r /tmp/res/. .
+          git add -A
+          git commit -qm "dibujos $(date -u +%FT%TZ)"
+          git push -f origin dibujos-out
