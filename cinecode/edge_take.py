@@ -22,9 +22,9 @@ def main():
     for t in job.get("takes", []):
         for i in range(4):
             try:
-                asyncio.run(one(t, out)); print("ok", t["id"]); break
+                asyncio.run(asyncio.wait_for(one(t, out), timeout=60)); print("ok", t["id"], flush=True); break
             except Exception as e:
-                print("retry", t["id"], type(e).__name__, e); time.sleep(5 * (i + 1))
+                print("retry", t["id"], type(e).__name__, e, flush=True); time.sleep(5 * (i + 1))
 
 if __name__ == "__main__":
     main()
