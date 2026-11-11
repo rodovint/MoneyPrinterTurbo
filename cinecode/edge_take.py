@@ -20,7 +20,7 @@ def main():
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
     for t in job.get("takes", []):
-        for i in range(4):
+        for i in range(int(os.environ.get("EDGE_TRIES", "4"))):
             try:
                 asyncio.run(asyncio.wait_for(one(t, out), timeout=60)); print("ok", t["id"], flush=True); break
             except Exception as e:
