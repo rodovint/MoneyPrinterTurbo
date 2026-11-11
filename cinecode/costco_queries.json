@@ -1,0 +1,15 @@
+{
+ "per_query": 3,
+ "seconds": 7,
+ "scenes": {
+  "s1": ["hot dog", "food court", "gas station pump", "smartphone hand", "shopping cart", "warehouse store"],
+  "s2": ["vintage 1980s street", "cash register", "hot dog stand", "seattle skyline", "business meeting office"],
+  "s3": ["sausage factory", "food production line", "delivery truck highway", "logistics warehouse forklift"],
+  "s4": ["roast chicken", "chicken farm", "supermarket aisle", "family dinner table"],
+  "s5": ["price tag", "receipt", "calculator money", "grocery shelves", "bulk food store"],
+  "s6": ["credit card wallet", "checkout counter", "counting money", "stock market chart"],
+  "s7": ["happy shoppers", "loading car trunk groceries", "calendar", "family shopping supermarket"],
+  "s8": ["gears machine", "warehouse worker", "construction site building", "world map"],
+  "s9": ["sunset parking lot", "city sunset timelapse"]
+ }
+}

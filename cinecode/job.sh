@@ -1,13 +1,15 @@
 #!/usr/bin/env bash
-# Job 11c (2026-11-11): Messi narration — Edge TTS capped at 6 min, Piper backup
+# Job 12 (2026-11-11): Costco long video (business case channel) — voice auditions, music previews, stock clips
 set -u
 O=cinecode/out; mkdir -p $O
-echo "== edge"; timeout 360 uv run python cinecode/edge_take.py cinecode/takes-messi.json $O/vo || echo "edge timeout/fail $?"
-echo "== piper"
-pip install -q piper-tts 2>&1 | tail -2
-mkdir -p /tmp/pv && for f in es_MX-claude-high es_ES-sharvard-medium; do
-  L=${f%%-*}; base=https://huggingface.co/rhasspy/piper-voices/resolve/main/es/$L/$(echo $f | cut -d- -f2)/$(echo $f | cut -d- -f3)
-  curl -sSL -o /tmp/pv/$f.onnx "$base/$f.onnx" && curl -sSL -o /tmp/pv/$f.onnx.json "$base/$f.onnx.json"
-  timeout 240 python3 cinecode/piper_take.py cinecode/takes-messi.json $O/piper-$f /tmp/pv/$f.onnx || echo "piper $f fail"
+echo "== voices"; timeout 300 uv run python cinecode/edge_take.py cinecode/takes-costco-audicion.json $O/voces || echo "edge fail $?"
+echo "== music"
+cd cinecode
+for q in "corporate documentary" "ambient piano" "lofi instrumental"; do
+  d=out/music/$(echo $q | tr ' ' '-')
+  timeout 120 python3 tools/asset_search.py search --q "$q" --type music --sources archive,openverse --licence cc0,pd,cc-by --n 6 --out $d --max-wait 40 || echo "music search fail $q"
+  timeout 90 python3 tools/asset_search.py fetch --results $d/results.json --pick 1,2 --dest $d/preview --preview 30 --licenses out/music/LICENSES-preview.csv || echo "music fetch fail $q"
 done
-ls -R $O | head -80
+cd ..
+echo "== clips"; timeout 840 uv run python cinecode/costco_clips.py cinecode/costco_queries.json $O/clips || echo "clips fail $?"
+du -sh $O/*; ls -R $O | head -150
