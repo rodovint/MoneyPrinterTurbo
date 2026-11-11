@@ -1,0 +1,16 @@
+{
+ "strict": true,
+ "prefix": "v3_",
+ "per_query": 4,
+ "seconds": 7,
+ "scenes": {
+  "s7b": [
+   "gas station",
+   "fuel nozzle",
+   "refueling car",
+   "customer service",
+   "returning product",
+   "shopping bags"
+  ]
+ }
+}
