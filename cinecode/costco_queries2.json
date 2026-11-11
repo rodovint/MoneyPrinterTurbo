@@ -1,0 +1,14 @@
+{
+ "strict": true, "prefix": "v2_", "per_query": 4, "seconds": 7,
+ "scenes": {
+  "s1": ["hotdog", "sausage grill", "fuel pump", "mobile phone", "supermarket cart", "wholesale warehouse shelves"],
+  "s2": ["retro car", "typewriter", "old street", "handshake business", "office meeting"],
+  "s3": ["meat factory", "factory conveyor", "truck road", "forklift warehouse"],
+  "s4": ["grilled chicken", "chickens farm", "supermarket shopping", "dinner family"],
+  "s5": ["price label", "calculator", "supermarket shelves", "shopping groceries"],
+  "s6": ["credit card", "cashier", "money dollars", "stock chart"],
+  "s7": ["woman shopping", "car trunk", "family supermarket", "customers store"],
+  "s8": ["gears", "warehouse boxes", "construction", "globe earth"],
+  "s9": ["parking lot", "sunset city"]
+ }
+}

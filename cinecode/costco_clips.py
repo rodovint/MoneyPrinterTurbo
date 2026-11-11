@@ -17,6 +17,7 @@ def main():
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
     per, secs = cfg.get("per_query", 3), cfg.get("seconds", 7)
+    pre = cfg.get("prefix", "")
     seen, manifest = set(), []
     for scene, queries in cfg["scenes"].items():
         for q in queries:
@@ -32,13 +33,14 @@ def main():
                 if got >= per:
                     break
                 tags = {w for t in h.get("tags", "").lower().split(",") for w in t.split()}
-                if h["id"] in seen or tags & EXCLUDE:
+                need = {w for w in q.lower().split() if len(w) > 2}
+                if h["id"] in seen or tags & EXCLUDE or (cfg.get("strict") and not need & tags):
                     continue
                 v = h["videos"].get("medium") or h["videos"].get("small")
                 if not v or not v.get("url") or v.get("width", 0) < v.get("height", 1):
                     continue
                 raw = f"/tmp/raw{h['id']}.mp4"
-                name = f"{scene}_{len([m for m in manifest if m['scene'] == scene]):02d}_{h['id']}.mp4"
+                name = f"{pre}{scene}_{len([m for m in manifest if m['scene'] == scene]):02d}_{h['id']}.mp4"
                 try:
                     with get(v["url"], 120) as r, open(raw, "wb") as fh:
                         fh.write(r.read())
