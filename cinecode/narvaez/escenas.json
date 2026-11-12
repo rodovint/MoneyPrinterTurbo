@@ -1,0 +1,20 @@
+{
+  "titulo": "Jhonatan Narváez: llegó último en su primera carrera",
+  "formato": "vertical",
+  "escenas": [
+    {"id": 1, "texto": "El Playón de San Francisco, Sucumbíos. A casi tres mil metros de altura, un niño de once años corre su primera carrera.",
+     "busquedas": ["El Playón de San Francisco Sucumbíos", "Sucumbíos Ecuador paisaje drone"], "segundos": 7},
+    {"id": 2, "texto": "Su bicicleta es de fierro, demasiado pesada. Llega último.",
+     "busquedas": ["niño bicicleta vieja camino de tierra", "old bicycle dirt road kid"], "segundos": 5},
+    {"id": 3, "texto": "Ese mismo día se jura que será uno de los mejores del mundo.",
+     "busquedas": ["ciclista amanecer montaña Andes", "cyclist sunrise mountain road"], "segundos": 5},
+    {"id": 4, "texto": "Sus padres juntaban cincuenta dólares por viaje: pasaje, comida, inscripción. Nunca faltó a una carrera por falta de dinero.",
+     "busquedas": ["bus interprovincial Ecuador carretera", "Ecuador carretera sierra drone"], "segundos": 9},
+    {"id": 5, "texto": "Su profesor, Juan Carlos Rosero, lo formó en el ciclismo. Hoy ya no está para verlo.",
+     "busquedas": ["entrenamiento ciclismo juvenil Ecuador", "youth cycling training road"], "segundos": 7},
+    {"id": 6, "texto": "En 2026, aquel niño que llegó último ganó tres etapas del Giro de Italia.",
+     "busquedas": ["Giro d'Italia 2026 Narváez etapa", "Giro d'Italia peloton Italy drone"], "segundos": 6},
+    {"id": 7, "texto": "Y esta semana, el país lo condecoró. Jhonatan Narváez: el que llegó último y nunca se bajó de la bici.",
+     "busquedas": ["Jhonatan Narváez condecoración Asamblea", "bandera Ecuador ondeando"], "segundos": 7}
+  ]
+}

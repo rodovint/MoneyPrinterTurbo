@@ -1,0 +1,35 @@
+{
+ "per_query": 2,
+ "seconds": 8,
+ "prefix": "px_",
+ "scenes": {
+  "s1": [
+   "andes mountains village",
+   "mountain village fog"
+  ],
+  "s2": [
+   "old bicycle",
+   "child bicycle dirt road"
+  ],
+  "s3": [
+   "cyclist sunrise mountain",
+   "cyclist climbing road"
+  ],
+  "s4": [
+   "bus mountain road",
+   "andes road aerial"
+  ],
+  "s5": [
+   "cycling training road",
+   "cyclists group road"
+  ],
+  "s6": [
+   "cycling race peloton",
+   "road cycling race"
+  ],
+  "s7": [
+   "ecuador flag",
+   "cyclist victory"
+  ]
+ }
+}

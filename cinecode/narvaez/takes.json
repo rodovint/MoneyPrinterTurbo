@@ -1,0 +1,46 @@
+{
+ "takes": [
+  {
+   "id": "S01",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "El Playón de San Francisco, Sucumbíos. A casi tres mil metros de altura, un niño de once años corre su primera carrera."
+  },
+  {
+   "id": "S02",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "Su bicicleta es de fierro, demasiado pesada. Llega último."
+  },
+  {
+   "id": "S03",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "Ese mismo día se jura que será uno de los mejores del mundo."
+  },
+  {
+   "id": "S04",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "Sus padres juntaban cincuenta dólares por viaje: pasaje, comida, inscripción. Nunca faltó a una carrera por falta de dinero."
+  },
+  {
+   "id": "S05",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "Su profesor, Juan Carlos Rosero, lo formó en el ciclismo. Hoy ya no está para verlo."
+  },
+  {
+   "id": "S06",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "En 2026, aquel niño que llegó último ganó tres etapas del Giro de Italia."
+  },
+  {
+   "id": "S07",
+   "voice": "es-EC-AndreaNeural",
+   "rate": "+6%",
+   "text": "Y esta semana, el país lo condecoró. Jhonatan Narváez: el que llegó último y nunca se bajó de la bici."
+  }
+ ]
+}
