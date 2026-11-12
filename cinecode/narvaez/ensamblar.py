@@ -12,6 +12,11 @@ TAG = "HISTORIAS QUE INSPIRAN"
 
 
 def clip_de(out, n):
+    sel = os.path.join(out, "elegidos.json")
+    if os.path.exists(sel):
+        f = json.load(open(sel)).get(str(n))
+        if f:
+            return os.path.join(out, f), f.split("/")[0]
     yt = os.path.join(out, "yt_cc", f"escena_{n:02d}.mp4")
     if os.path.exists(yt):
         return yt, "yt"
