@@ -20,10 +20,13 @@ def run(cmd):
 def buscar(query, n, solo_cc, min_seg):
     q = f"{query}, creativecommons" if solo_cc else query
     r = run(["yt-dlp", "--flat-playlist", "-j", f"ytsearch{n}:{q}"])
+    if r.returncode != 0 or not r.stdout.strip():
+        print("   busqueda fallo:", r.stderr.strip()[-300:])
     ids = [json.loads(l)["id"] for l in r.stdout.splitlines() if l.strip()]
     for vid in ids:
         info = run(["yt-dlp", "-j", "--skip-download", f"https://www.youtube.com/watch?v={vid}"])
         if info.returncode != 0:
+            print("   info fallo:", vid, info.stderr.strip()[-300:])
             continue
         d = json.loads(info.stdout)
         dur = d.get("duration") or 0
@@ -31,6 +34,7 @@ def buscar(query, n, solo_cc, min_seg):
         if dur < min_seg or dur > 3 * 3600:
             continue
         if solo_cc and "creative commons" not in lic.lower():
+            print("   no CC:", vid, lic or "estandar")
             continue
         return d
     return None
