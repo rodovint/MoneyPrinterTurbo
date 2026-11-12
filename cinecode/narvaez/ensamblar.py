@@ -15,6 +15,8 @@ def clip_de(out, n):
     sel = os.path.join(out, "elegidos.json")
     if os.path.exists(sel):
         f = json.load(open(sel)).get(str(n))
+        if isinstance(f, list):
+            return [os.path.join(out, x) for x in f], "varios"
         if f:
             return os.path.join(out, f), f.split("/")[0]
     yt = os.path.join(out, "yt_cc", f"escena_{n:02d}.mp4")
@@ -65,12 +67,15 @@ def a_wav(mp3, wav):
         return w.getnframes() / w.getframerate()
 
 
-def cierre():
-    im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+def cierre(out):
+    im = Image.new("RGBA", (W, H), (*G.BG, 235))
     d = ImageDraw.Draw(im)
-    d.rectangle([0, 760, W, 1040], fill=(*G.BG, 225))
-    d.text((W / 2, 850), "SÍGUENOS EN", font=G.B(48), fill=G.INK, anchor="mm")
-    d.text((W / 2, 950), "GUINEO COMUNICACIONES", font=G.A(92), fill=G.Y, anchor="mm")
+    logo = os.path.join(out, "logo.png")
+    if os.path.exists(logo):
+        lg = Image.open(logo).convert("RGBA").resize((620, 620), Image.LANCZOS)
+        im.alpha_composite(lg, ((W - 620) // 2, 330))
+    d.text((W / 2, 1040), "SÍGUENOS EN", font=G.B(48), fill=G.INK, anchor="mm")
+    d.text((W / 2, 1130), "GUINEO COMUNICACIONES", font=G.A(92), fill=G.Y, anchor="mm")
     return im
 
 
@@ -85,7 +90,7 @@ def main(esc_path, out, salida):
         words = json.load(open(os.path.join(out, "vo", sid + ".words.json"), encoding="utf-8"))
         datos.append((e, dur + 0.25 + (1.8 if n == cfg["escenas"][-1]["id"] else 0), [w["t"] for w in words]))
     total = sum(d for _, d, _ in datos)
-    marca, fin = G.marca(TAG), cierre()
+    marca, fin = G.marca(TAG), cierre(out)
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
                           "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
                           "-pix_fmt", "yuv420p", os.path.join(work, "v.mp4")], stdin=subprocess.PIPE)
@@ -93,11 +98,12 @@ def main(esc_path, out, salida):
     for e, dur, marcas in datos:
         n = round(dur * FPS)
         clip, fuente = clip_de(out, e["id"])
-        usados.append((e["id"], fuente, os.path.basename(clip) if clip else None))
+        clips = clip if isinstance(clip, list) else ([clip] if clip else [])
+        usados.append((e["id"], fuente, [os.path.basename(c) for c in clips]))
         fotos = [preparar_foto(x) for x in fotos_de(out, e["id"])]
         if fotos:
             usados[-1] = (e["id"], "fotos", [os.path.basename(x) for x in fotos_de(out, e["id"])])
-        rd = lector(clip, n) if clip and not fotos else None
+        rds = [lector(c, n // len(clips) + 1) for c in clips] if clips and not fotos else []
         caps = G.trozos(e["texto"], marcas, dur)
         capa = {}
         ultimo = e is datos[-1][0]
@@ -108,8 +114,8 @@ def main(esc_path, out, salida):
                 k = min(len(fotos) - 1, int(t / dur * len(fotos)))
                 seg = dur / len(fotos)
                 arr = cuadro_foto(fotos[k], t - k * seg, seg)
-            elif rd:
-                raw = rd.stdout.read(W * H * 3)
+            elif rds:
+                raw = rds[min(len(rds) - 1, f * len(rds) // n)].stdout.read(W * H * 3)
                 if len(raw) == W * H * 3:
                     arr = (np.frombuffer(raw, np.uint8).reshape(H, W, 3) * 0.62).astype(np.uint8)
             im = Image.fromarray(arr).convert("RGBA")
@@ -120,11 +126,13 @@ def main(esc_path, out, salida):
                     cur = txt
             capa.setdefault(cur, G.caption_layer(cur))
             im.alpha_composite(capa[cur], (0, 1300))
-            if ultimo and t > dur - 2.2:
-                im.alpha_composite(fin)
+            if ultimo and t > dur - 2.4:
+                a = min(1, (t - (dur - 2.4)) / 0.4)
+                capa_fin = fin if a >= 1 else Image.fromarray((np.asarray(fin) * np.array([1, 1, 1, a])).astype(np.uint8), "RGBA")
+                im.alpha_composite(capa_fin)
             ImageDraw.Draw(im).rectangle([0, H - 14, int(W * min(1, (inicio + t) / total)), H], fill=G.Y)
             p.stdin.write(im.convert("RGB").tobytes())
-        if rd:
+        for rd in rds:
             rd.stdout.close(); rd.wait()
         inicio += n / FPS
     p.stdin.close(); p.wait()
