@@ -1,0 +1,5 @@
+{"per_query": 3, "seconds": 6, "prefix": "p2_", "strict": true, "scenes": {
+ "s1": ["andes village", "mountain village aerial", "children bicycle race", "kids cycling race"],
+ "s2": ["old bicycle", "rusty bicycle", "boy bicycle", "child riding bicycle"],
+ "s4": ["counting coins", "coins hands", "bus mountain road", "bus station"],
+ "s5": ["cycling coach", "young cyclists training", "teacher student", "sunset road"]}}

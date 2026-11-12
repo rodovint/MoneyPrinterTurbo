@@ -24,6 +24,35 @@ def clip_de(out, n):
     return (px[0], "px") if px else (None, None)
 
 
+def fotos_de(out, n):
+    sel = os.path.join(out, "fotos.json")
+    if not os.path.exists(sel):
+        return []
+    return [os.path.join(out, f) for f in json.load(open(sel)).get(str(n), [])]
+
+
+def preparar_foto(ruta):
+    """Foto entera centrada sobre un fondo desenfocado de la misma foto (formato vertical)."""
+    from PIL import ImageFilter
+    im = Image.open(ruta).convert("RGB")
+    fondo = im.resize((W, H)) if im.width / im.height < W / H else im.resize((round(H * im.width / im.height), H))
+    fondo = fondo.crop(((fondo.width - W) // 2, (fondo.height - H) // 2, (fondo.width - W) // 2 + W, (fondo.height - H) // 2 + H))
+    fondo = Image.eval(fondo.filter(ImageFilter.GaussianBlur(40)), lambda v: int(v * 0.35))
+    esc = W / im.width
+    if im.height * esc > 1500:
+        esc = 1500 / im.height
+    return fondo, im.resize((round(im.width * esc), round(im.height * esc)), Image.LANCZOS)
+
+
+def cuadro_foto(prep, t, dur):
+    fondo, foto = prep
+    z = 1.0 + 0.07 * (t / max(dur, 0.1))
+    f = foto.resize((round(foto.width * z), round(foto.height * z)), Image.BILINEAR)
+    im = fondo.copy()
+    im.paste(f, ((W - f.width) // 2, (H - f.height) // 2 - 80))
+    return np.asarray(im)
+
+
 def lector(clip, n):
     vf = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}"
     return subprocess.Popen(["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-i", clip, "-an", "-vf", vf,
@@ -65,14 +94,21 @@ def main(esc_path, out, salida):
         n = round(dur * FPS)
         clip, fuente = clip_de(out, e["id"])
         usados.append((e["id"], fuente, os.path.basename(clip) if clip else None))
-        rd = lector(clip, n) if clip else None
+        fotos = [preparar_foto(x) for x in fotos_de(out, e["id"])]
+        if fotos:
+            usados[-1] = (e["id"], "fotos", [os.path.basename(x) for x in fotos_de(out, e["id"])])
+        rd = lector(clip, n) if clip and not fotos else None
         caps = G.trozos(e["texto"], marcas, dur)
         capa = {}
         ultimo = e is datos[-1][0]
         for f in range(n):
             t = f / FPS
             arr = np.full((H, W, 3), G.BG, np.uint8)
-            if rd:
+            if fotos:
+                k = min(len(fotos) - 1, int(t / dur * len(fotos)))
+                seg = dur / len(fotos)
+                arr = cuadro_foto(fotos[k], t - k * seg, seg)
+            elif rd:
                 raw = rd.stdout.read(W * H * 3)
                 if len(raw) == W * H * 3:
                     arr = (np.frombuffer(raw, np.uint8).reshape(H, W, 3) * 0.62).astype(np.uint8)

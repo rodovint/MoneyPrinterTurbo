@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Job 19 (2026-11-12): Narváez — rehacer voz escena 7 pronunciando "Yonatan"
+# Job 20 (2026-11-12): Narváez — Pixabay más específico para escenas 1, 2, 4 y 5
 set -u
 O=cinecode/out; mkdir -p $O
-EDGE_TRIES=8 timeout 600 uv run python cinecode/edge_take.py cinecode/narvaez/takes-s07.json $O/vo || echo "edge fail $?"
-ls -la $O/vo
+timeout 900 uv run python cinecode/costco_clips.py cinecode/narvaez/pixabay2.json $O/pixabay2 || echo "pix fail $?"
+ls $O/pixabay2 | wc -l
