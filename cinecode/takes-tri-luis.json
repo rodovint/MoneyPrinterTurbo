@@ -1,0 +1,5 @@
+{"takes": [
+ {"id": "S01", "voice": "es-EC-LuisNeural", "rate": "+0%", "text": "Tres mil trescientos veintiún días."},
+ {"id": "S06", "voice": "es-EC-LuisNeural", "rate": "+6%", "text": "Ninguno de los convocados de hoy ha jugado ahí con la Tri."},
+ {"id": "S13", "voice": "es-EC-LuisNeural", "rate": "+6%", "text": "El historial: seis victorias, cinco empates y una sola derrota ante Costa Rica."}
+]}
