@@ -1,0 +1,13 @@
+{"takes": [
+ {"id": "S01", "voice": "es-EC-LuisNeural", "rate": "+4%", "text": "Última hora."},
+ {"id": "S02", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "El Atlético de Madrid ha hecho efectiva la adquisición del cincuenta por ciento del Atlético Fútbol Club."},
+ {"id": "S03", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Así lo anunció hoy el club español. Es su primer club en Sudamérica."},
+ {"id": "S04", "voice": "es-EC-LuisNeural", "rate": "+4%", "text": "¿Cómo se llegó hasta aquí?"},
+ {"id": "S05", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Dos mil veintitrés: el Atleti firma una alianza con la Junta de Beneficencia de Guayaquil."},
+ {"id": "S06", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Dos mil veinticuatro: abre sus escuelas de fútbol. Hoy son treinta sedes en diez ciudades, de Machala a Cuenca, con más de quince mil niños."},
+ {"id": "S07", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Febrero de dos mil veintiséis: nace el Atlético FC, con nombre y escudo nuevos."},
+ {"id": "S08", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Octubre de dos mil veintiséis: campeón de la Serie B en su primera temporada."},
+ {"id": "S09", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "Y hoy, el Atlético de Madrid compra la mitad del club."},
+ {"id": "S10", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "El próximo capítulo: su debut en la Serie A, en dos mil veintisiete."},
+ {"id": "S11", "voice": "es-EC-AndreaNeural", "rate": "+10%", "text": "¿Cómo crees que le irá en primera? Comenta y sigue la página de Guineo Comunicaciones."}
+]}
