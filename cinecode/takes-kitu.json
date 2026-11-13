@@ -1,0 +1,11 @@
+{"takes": [
+ {"id": "S01", "voice": "es-EC-LuisNeural", "rate": "+0%", "text": "Noventa y uno."},
+ {"id": "S02", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Son los goles de Damián, el Kitu, Díaz con Barcelona Sporting Club."},
+ {"id": "S03", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "Tiene cuarenta años... y volvió al Ídolo este año."},
+ {"id": "S04", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "En su regreso, Barcelona le cortó a Independiente del Valle un invicto de diecisiete partidos."},
+ {"id": "S05", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Y en Quito le hizo un golazo a Aucas, de zurda y desde fuera del área."},
+ {"id": "S06", "voice": "es-EC-LuisNeural", "rate": "+6%", "text": "Los goleadores históricos del Ídolo."},
+ {"id": "S11", "voice": "es-EC-AndreaNeural", "rate": "+8%", "text": "Un gol más, y entra al podio. Dos más, y es el segundo goleador de la historia del club."},
+ {"id": "S12", "voice": "es-EC-AndreaNeural", "rate": "+6%", "text": "Tres títulos nacionales: dos mil doce, dos mil dieciséis y dos mil veinte."},
+ {"id": "S13", "voice": "es-EC-AndreaNeural", "rate": "+10%", "text": "¿Cuándo llega el gol noventa y dos? Comenta y sigue la página de Guineo Comunicaciones."}
+]}
