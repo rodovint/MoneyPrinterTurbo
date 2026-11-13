@@ -1,0 +1,36 @@
+name: Guineo Tri Atahualpa
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["cinecode/job-tri.sh", "cinecode/takes-tri.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  assets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Instalar dependencias
+        run: uv sync --frozen
+      - name: Ejecutar tarea
+        run: bash cinecode/job-tri.sh 2>&1 | tee tri-log.txt
+      - name: Guardar en la rama tri-out
+        if: always()
+        run: |
+          mkdir -p /tmp/res && cp -r cinecode/out-tri/. /tmp/res/ 2>/dev/null; cp tri-log.txt /tmp/res/ || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan tri-out
+          git rm -rfq . >/dev/null
+          cp -r /tmp/res/. .
+          git add -A
+          git commit -qm "tri assets $(date -u +%FT%TZ)"
+          git push -f origin tri-out
