@@ -4,10 +4,13 @@ set -u
 O=cinecode/out-tri; mkdir -p $O
 pip install -q faster-whisper 2>&1 | tail -1
 python3 - <<'PY'
-import json
+import json, subprocess
+import numpy as np
 from faster_whisper import WhisperModel
+raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", "cinecode/voz/jordy.m4a", "-ac", "1", "-ar", "16000", "-f", "f32le", "-"], capture_output=True).stdout
+audio = np.frombuffer(raw, np.float32)
 m = WhisperModel("small", device="cpu", compute_type="int8")
-segs, info = m.transcribe("cinecode/voz/jordy.m4a", language="es", word_timestamps=True, vad_filter=False)
+segs, info = m.transcribe(audio, language="es", word_timestamps=True, vad_filter=False)
 out = []
 for s in segs:
     out.append({"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip(),
