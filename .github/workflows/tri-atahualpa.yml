@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["cinecode/job-tri.sh", "cinecode/takes-*.json"]
+    paths: ["cinecode/job-tri.sh", "cinecode/takes-*.json", "cinecode/voz/**"]
 
 permissions:
   contents: write
