@@ -1,0 +1,588 @@
+[
+  {
+    "titulo": "España vs. Inglaterra (HOY 14:45)",
+    "etiqueta": "NATIONS LEAGUE",
+    "color": "#C60B1E",
+    "audio": "audio/01",
+    "escenas": [
+      {
+        "texto": "Partidazo hoy en Europa: España recibe a Inglaterra.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "ESPAÑA VS. INGLATERRA",
+          "sobre": "NATIONS LEAGUE"
+        }
+      },
+      {
+        "texto": "Es a las tres menos cuarto de la tarde, hora de Ecuador, en el Metropolitano de Madrid.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ESPAÑA",
+              "color": "#C60B1E"
+            },
+            {
+              "nombre": "INGLATERRA",
+              "color": "#1F2A44"
+            }
+          ],
+          "hora": "HOY 14:45",
+          "pie": "METROPOLITANO DE MADRID"
+        }
+      },
+      {
+        "texto": "La campeona del mundo llega perfecta: cinco partidos, cinco victorias.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "5 DE 5",
+          "texto": "ESPAÑA, INVICTA EN EL GRUPO"
+        }
+      },
+      {
+        "texto": "Inglaterra, de Thomas Tuchel, suma cuatro triunfos y una sola derrota.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "5",
+          "a_texto": "VICTORIAS ESPAÑA",
+          "b": "4",
+          "b_texto": "VICTORIAS INGLATERRA",
+          "pie": "LÍDER Y ESCOLTA DEL GRUPO"
+        }
+      },
+      {
+        "texto": "Y esa derrota fue justamente ante España: tres a dos en Wembley.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "INGLATERRA",
+              "color": "#1F2A44",
+              "goles": 2
+            },
+            {
+              "nombre": "ESPAÑA",
+              "color": "#C60B1E",
+              "goles": 3
+            }
+          ],
+          "pie": "PRIMERA RUEDA, EN WEMBLEY"
+        }
+      },
+      {
+        "texto": "¿Quién gana hoy en Madrid?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN GANA EN MADRID?",
+          "sobre": "TU PRONÓSTICO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Ecuador vs. Bolivia (martes 18:30)",
+    "etiqueta": "LA TRI",
+    "color": "#034EA2",
+    "audio": "audio/02",
+    "escenas": [
+      {
+        "texto": "La Tri cierra el año el martes, en Guayaquil.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "LA TRI CIERRA EL AÑO",
+          "sobre": "ECUADOR VS. BOLIVIA"
+        },
+        "foto_commons": "Estadio BSC.jpg"
+      },
+      {
+        "texto": "Recibe a Bolivia a las seis y media de la tarde en el Monumental.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2"
+            },
+            {
+              "nombre": "BOLIVIA",
+              "color": "#007934"
+            }
+          ],
+          "hora": "MAR 18:30",
+          "pie": "ESTADIO MONUMENTAL, GUAYAQUIL"
+        }
+      },
+      {
+        "texto": "Las entradas se venden solo en FanFEF, desde quince dólares más IVA.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "$15",
+          "texto": "+ IVA · GENERAL NORTE Y SUR · SOLO EN FANFEF"
+        }
+      },
+      {
+        "texto": "Ecuador le ganó a Bolivia los últimos cinco partidos.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "5",
+          "texto": "TRIUNFOS SEGUIDOS ANTE BOLIVIA"
+        }
+      },
+      {
+        "texto": "El último fue un cuatro a cero en este mismo estadio, en 2024.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2",
+              "goles": 4
+            },
+            {
+              "nombre": "BOLIVIA",
+              "color": "#007934",
+              "goles": 0
+            }
+          ],
+          "pie": "NOVIEMBRE 2024 · MONUMENTAL"
+        }
+      },
+      {
+        "texto": "Y Gallardo, tras ganarle a Costa Rica, avisó: si hay buen funcionamiento, los goles van a llegar.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“LOS GOLES VAN A LLEGAR”",
+          "autor": "MARCELO GALLARDO, DT DE ECUADOR"
+        }
+      },
+      {
+        "texto": "¿Vas al Monumental a ver a la Tri?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿VAS AL MONUMENTAL?",
+          "sobre": "HINCHA TRICOLOR"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Orense: una semana para Mushuc Runa",
+    "etiqueta": "POR NO DESCENDER",
+    "color": "#1E8A4C",
+    "audio": "audio/03",
+    "escenas": [
+      {
+        "texto": "Orense tiene una semana para recargar pilas.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "A RECARGAR PILAS",
+          "sobre": "ORENSE"
+        }
+      },
+      {
+        "texto": "Tras perder dos a cero en Cuenca, la LigaPro para por la fecha FIFA.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "DEP. CUENCA",
+              "color": "#B3202A",
+              "goles": 2
+            },
+            {
+              "nombre": "ORENSE",
+              "color": "#1E8A4C",
+              "goles": 0
+            }
+          ],
+          "pie": "SEXTA FECHA DEL HEXAGONAL"
+        }
+      },
+      {
+        "texto": "El domingo 22, a las dos de la tarde, recibe a Mushuc Runa en el 9 de Mayo.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ORENSE",
+              "color": "#1E8A4C"
+            },
+            {
+              "nombre": "MUSHUC RUNA",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "DOM 22 · 14:00",
+          "pie": "ESTADIO 9 DE MAYO, MACHALA"
+        }
+      },
+      {
+        "texto": "El cuadro bananero es tercero con 39 puntos, pero Delfín tiene 38 y Técnico 37.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "39",
+          "a_texto": "ORENSE",
+          "b": "37",
+          "b_texto": "TÉCNICO U.",
+          "pie": "DELFÍN, EN MEDIO, CON 38"
+        }
+      },
+      {
+        "texto": "Los dos últimos bajan a la Serie B y quedan cuatro fechas.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "4",
+          "texto": "FECHAS PARA SALVARSE"
+        }
+      },
+      {
+        "texto": "Hincha bananero, ¿cuántos puntos saca Orense de aquí al final?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿CUÁNTOS PUNTOS SACA?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "La Sub-17 ya tiene lista para el Mundial",
+    "etiqueta": "MUNDIAL SUB-17",
+    "color": "#034EA2",
+    "audio": "audio/04",
+    "escenas": [
+      {
+        "texto": "La Sub-17 de Ecuador ya tiene lista para el Mundial de Qatar.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "LISTOS PARA QATAR",
+          "sobre": "ECUADOR SUB-17"
+        }
+      },
+      {
+        "texto": "El técnico Gonzalo Ferrea convocó a 21 jugadores.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "DT DE ECUADOR SUB-17",
+          "nombre": "GONZALO FERREA",
+          "dato": "21 CONVOCADOS",
+          "color": "#034EA2"
+        }
+      },
+      {
+        "texto": "Independiente del Valle aporta siete y Liga de Quito cuatro.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "7",
+          "a_texto": "INDEPENDIENTE DEL VALLE",
+          "b": "4",
+          "b_texto": "LIGA DE QUITO",
+          "pie": "LOS CLUBES QUE MÁS APORTAN"
+        }
+      },
+      {
+        "texto": "El debut es este jueves 19, a las ocho de la mañana, ante Nueva Caledonia.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "NUEVA CALEDONIA",
+              "color": "#5A5A5A"
+            },
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2"
+            }
+          ],
+          "hora": "JUE 19 · 08:00",
+          "pie": "ASPIRE ZONE, QATAR"
+        }
+      },
+      {
+        "texto": "Luego vienen Uganda, el domingo 22, y Corea del Sur, el miércoles 25.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "UGANDA Y COREA DEL SUR",
+          "sobre": "LOS OTROS RIVALES"
+        }
+      },
+      {
+        "texto": "¿Hasta dónde llega la Sub-17?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿HASTA DÓNDE LLEGA?",
+          "sobre": "TU PRONÓSTICO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Emelec piensa en ser sociedad anónima",
+    "etiqueta": "EMELEC",
+    "color": "#1C4FA0",
+    "audio": "audio/05",
+    "escenas": [
+      {
+        "texto": "Emelec busca salida a su crisis.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "EMELEC BUSCA SALIDA",
+          "sobre": "CRISIS AZUL"
+        }
+      },
+      {
+        "texto": "El último título nacional del Bombillo fue en 2017.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "2017",
+          "texto": "EL ÚLTIMO TÍTULO NACIONAL"
+        }
+      },
+      {
+        "texto": "Su director deportivo, Luis Miguel Escalada, planteó convertir al club en sociedad anónima.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "DIRECTOR DEPORTIVO DE EMELEC",
+          "nombre": "LUIS MIGUEL ESCALADA",
+          "dato": "PROPONE SOCIEDAD ANÓNIMA",
+          "color": "#1C4FA0"
+        }
+      },
+      {
+        "texto": "Dijo que ese es un poco el camino del club para estabilizarse en lo económico.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“ESTABILIZAR EN LO ECONÓMICO”",
+          "autor": "LUIS MIGUEL ESCALADA"
+        }
+      },
+      {
+        "texto": "Además, confirmó que unos doce jugadores saldrán al cierre de 2026, incluidos los tres arqueros.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "12",
+          "texto": "SALIDAS AL CIERRE DE 2026"
+        }
+      },
+      {
+        "texto": "Hincha eléctrico, ¿estás de acuerdo con la sociedad anónima?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿SOCIEDAD ANÓNIMA?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "Barcelona: seis años sin título",
+    "etiqueta": "BARCELONA SC",
+    "color": "#B8860B",
+    "audio": "audio/06",
+    "escenas": [
+      {
+        "texto": "Barcelona cumple seis años sin ser campeón.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "SEIS AÑOS SIN TÍTULO",
+          "sobre": "BARCELONA SC"
+        }
+      },
+      {
+        "texto": "Su última estrella llegó en 2020, ante Liga de Quito.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "2020",
+          "texto": "EL ÚLTIMO TÍTULO, ANTE LIGA DE QUITO"
+        }
+      },
+      {
+        "texto": "Desde entonces ganaron Independiente del Valle, Aucas y Liga.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "IDV, AUCAS Y LIGA",
+          "sobre": "LOS CAMPEONES DESDE 2021"
+        }
+      },
+      {
+        "texto": "Exjugadores apuntan a la dirigencia; Raúl Avilés dijo: Barcelona es una institución que se vende sola.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“SE VENDE SOLA”",
+          "autor": "RAÚL AVILÉS, EXJUGADOR"
+        }
+      },
+      {
+        "texto": "Lo próximo: visita a Católica el sábado 21, a las cuatro y media, en el Atahualpa.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "U. CATÓLICA",
+              "color": "#4AA3DF"
+            },
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B"
+            }
+          ],
+          "hora": "SÁB 21 · 16:30",
+          "pie": "ESTADIO OLÍMPICO ATAHUALPA"
+        }
+      },
+      {
+        "texto": "Torero, ¿quién tiene la culpa de la sequía?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿DE QUIÉN ES LA CULPA?",
+          "sobre": "TORERO"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  },
+  {
+    "titulo": "¿Cuándo vuelve la LigaPro?",
+    "etiqueta": "FECHA 7",
+    "color": "#14213D",
+    "audio": "audio/07",
+    "escenas": [
+      {
+        "texto": "La LigaPro vuelve el viernes 20 de noviembre.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "VUELVE EL VIERNES 20",
+          "sobre": "LIGAPRO"
+        }
+      },
+      {
+        "texto": "Abre el campeón Independiente del Valle ante el vicecampeón Macará, al mediodía.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "IND. DEL VALLE",
+              "color": "#14213D"
+            },
+            {
+              "nombre": "MACARÁ",
+              "color": "#2F9BD6"
+            }
+          ],
+          "hora": "VIE 20 · 12:00",
+          "pie": "CAMPEÓN VS. VICECAMPEÓN"
+        }
+      },
+      {
+        "texto": "El sábado, Católica recibe a Barcelona y Técnico a Deportivo Cuenca.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "U. CATÓLICA",
+              "color": "#4AA3DF"
+            },
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B"
+            }
+          ],
+          "hora": "SÁB 21 · 16:30",
+          "pie": "TÉCNICO VS. CUENCA, A LAS 14:00"
+        }
+      },
+      {
+        "texto": "El domingo juegan Manta con Delfín y Orense con Mushuc Runa.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ORENSE",
+              "color": "#1E8A4C"
+            },
+            {
+              "nombre": "MUSHUC RUNA",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "DOM 22 · 14:00",
+          "pie": "MANTA VS. DELFÍN, A LAS 11:30"
+        }
+      },
+      {
+        "texto": "Y cierra Liga de Quito ante Aucas, a las cuatro y media.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "LIGA DE QUITO",
+              "color": "#1F2A44"
+            },
+            {
+              "nombre": "AUCAS",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "DOM 22 · 16:30",
+          "pie": "ESTADIO RODRIGO PAZ DELGADO"
+        }
+      },
+      {
+        "texto": "¿Qué partido no te pierdes?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿CUÁL NO TE PIERDES?",
+          "sobre": "TU OPINIÓN"
+        }
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Deportes.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
+      }
+    ]
+  }
+]
