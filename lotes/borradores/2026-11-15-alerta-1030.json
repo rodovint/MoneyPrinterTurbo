@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Ronaldinho vuelve a los 46 años",
+    "etiqueta": "SERIE C DE ITALIA",
+    "color": "#D4A017",
+    "audio": "audio/08",
+    "escenas": [
+      {
+        "texto": "¡Ronaldinho vuelve a jugar un partido oficial, a los 46 años!",
+        "grafico": {"tipo": "titular", "texto": "RONALDINHO VUELVE", "sobre": "A LOS 46 AÑOS"},
+        "hinchada": true
+      },
+      {
+        "texto": "Hoy es titular con el Ravenna ante el Forlì, en la Serie C de Italia.",
+        "dicho": "Hoy es titular con el Ravena ante el Forlí, en la Serie C de Italia.",
+        "voz": "andrea",
+        "grafico": {"tipo": "partido",
+          "equipos": [{"nombre": "RAVENNA", "color": "#D4A017"}, {"nombre": "FORLÌ", "color": "#C8102E"}],
+          "hora": "HOY 11:30", "pie": "HORA DE ECUADOR · ESTADIO BRUNO BENELLI"}
+      },
+      {
+        "texto": "Su último partido oficial fue en 2015, con Fluminense: once años sin competir.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "11 AÑOS", "texto": "SIN JUGAR UN PARTIDO OFICIAL"},
+        "destello": true,
+        "tono": "recuerdo"
+      },
+      {
+        "texto": "Su técnico, Andrea Mandorlini, fue claro: jugará desde el inicio, no hay dudas.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cita", "texto": "“JUGARÁ DESDE EL INICIO, NO HAY DUDAS”", "autor": "ANDREA MANDORLINI, DT DEL RAVENNA"}
+      },
+      {
+        "texto": "Y el Gaúcho ya avisó que sueña con marcar su gol 300.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "300", "texto": "EL GOL CON EL QUE SUEÑA", "animar": false}
+      },
+      {
+        "texto": "¿Tú crees que Ronaldinho hace gol hoy en Italia?",
+        "grafico": {"tipo": "titular", "texto": "¿HACE GOL HOY?", "sobre": "TU PRONÓSTICO"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ],
+    "franja": ["RONALDINHO, TITULAR A LOS 46", "RAVENNA VS. FORLÌ · HOY 11:30", "SERIE C DE ITALIA", "SU ÚLTIMO PARTIDO OFICIAL: 2015"]
+  }
+]
