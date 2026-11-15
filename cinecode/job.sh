@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Job 25 (2026-11-15): prueba de voz clonada de Mui con Chatterbox Multilingual (MIT) en CPU
+# Job 25b (2026-11-15): prueba de voz clonada de Mui con Chatterbox Multilingual (MIT) en CPU
 set -u
 O=cinecode/out; mkdir -p $O
 ffmpeg -loglevel error -y -i cinecode/voz/jordy.m4a -t 15 -ac 1 -ar 24000 -af "highpass=f=80,afftdn=nf=-25" /tmp/ref.wav
 cp /tmp/ref.wav $O/ref.wav
-python3 -m venv /tmp/cb && /tmp/cb/bin/pip install -q --upgrade pip && /tmp/cb/bin/pip install -q chatterbox-tts 2>&1 | tail -3
-/tmp/cb/bin/pip list 2>/dev/null | grep -iE "chatterbox|torch " 
+uv venv -q --python 3.11 /tmp/cb && uv pip install -q --python /tmp/cb/bin/python chatterbox-tts "setuptools<81" 2>&1 | tail -3
+/tmp/cb/bin/python -c "import perth; print('perth', perth.PerthImplicitWatermarker)"
+uv pip list --python /tmp/cb/bin/python 2>/dev/null | grep -iE "chatterbox|torch " 
 /tmp/cb/bin/python - <<'PY'
 import time, torch, torchaudio as ta
 t0=time.time()
