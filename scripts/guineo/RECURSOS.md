@@ -32,6 +32,11 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - **Regla de Mui**: ilustraciones de la escena (estadio, hinchas de espaldas, balón, camisetas lisas, objetos), **nunca caras realistas de jugadores reales**, sin escudos, logos ni texto. Cupo gratis: 10.000 neuronas al día, que alcanzan para unos 8 dibujos con "9b" (se renueva a las 19:00 de Ecuador). Repártelo: 2–3 dibujos por reel y solo en los reels más importantes. Si la Action dice que se acabó el cupo, ese reel va con fondos de Pixabay o foto_commons.
 - En la descripción: "Ilustraciones generadas con IA".
 
+## Escudos de los equipos
+- Están en `lotes/img/escudos/<club>.png` (barcelona, catolica, idv, liga, tecnico, macara, orense, mushuc, aucas, cuenca, manta, delfin, fef). Se usan con `"escudo": "img/escudos/<club>.png"` en cada equipo de `partido`/`marcador`, o con el gráfico `{"tipo": "escudo", "escudo": ..., "sobre": ..., "texto": ...}`.
+- Si falta un club: TheSportsDB (`searchteams.php?t=<club>`, campo strBadge) o Wikimedia Commons, bajados desde una Action (este entorno no llega a esas webs).
+- Una agenda de fecha va con una tarjeta `partido` por cada partido (todos los partidos, todos con escudo), no en texto chico.
+
 ## Créditos (van en la descripción de YouTube)
 - Música: "Epic Celestial Choir 2" – Megis (CC BY), Internet Archive.
 - Hinchada: "Football-crowd-Cheer+Jeers" – paulw2k vía Freesound (CC BY 4.0).
