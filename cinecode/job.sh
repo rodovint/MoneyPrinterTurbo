@@ -1,32 +1,42 @@
 #!/usr/bin/env bash
-# Job 26 (2026-11-15): pruebas de pronunciación — clon de Mui con referencias naturales y 2 ajustes, y Andrea a 2 velocidades
+# Job 27 (2026-11-15): transcribir la grabación de Mui (tarde), buscar escudos y fotos libres en Commons
 set -u
 O=cinecode/out; mkdir -p $O
-uv venv -q --python 3.11 /tmp/cb && uv pip install -q --python /tmp/cb/bin/python chatterbox-tts "setuptools<81" edge-tts 2>&1 | tail -2
-/tmp/cb/bin/python - <<'PY' 2>&1 | grep -v Sampling
-import asyncio, subprocess, time, edge_tts, torchaudio as ta
-from chatterbox.mtl_tts import ChatterboxMultilingualTTS
-O = "cinecode/out"
-mui = ["Partidazo hoy en Europa: España recibe a Inglaterra.", "¿Quién gana hoy en Madrid?", "Comenta y síguenos en Guineo Comunicaciones."]
-datos = ["Inglaterra, de Thomas Tuchel, suma cuatro triunfos y una sola derrota.", "Es a las tres menos cuarto de la tarde, hora de Ecuador, en el Metropolitano de Madrid."]
-async def tts(t, f, r):
-    await edge_tts.Communicate(t, "es-EC-AndreaNeural", rate=r).save(f)
-for r in ["+0%", "+10%"]:
-    for i, t in enumerate(datos):
-        asyncio.run(tts(t, f"/tmp/and{i}.mp3", r))
-    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", "/tmp/and0.mp3", "-i", "/tmp/and1.mp3", "-filter_complex", "[0][1]concat=n=2:v=0:a=1", f"{O}/andrea_{r.strip('+%')}.wav"])
-    print("andrea", r, flush=True)
-m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
-ajustes = {"A": dict(exaggeration=0.5, cfg_weight=0.5, temperature=0.8), "B": dict(exaggeration=0.35, cfg_weight=0.3, temperature=0.7)}
-for ref in ["dinho", "idv"]:
-    for k, aj in ajustes.items():
-        partes = []
-        for i, t in enumerate(mui):
-            wav = m.generate(t, language_id="es", audio_prompt_path=f"cinecode/voz/pruebas/ref-{ref}.wav", **aj)
-            f = f"/tmp/{ref}{k}{i}.wav"; ta.save(f, wav, m.sr); partes.append(f)
-        lst = "".join(f"[{j}]" for j in range(len(partes)))
-        cmd = ["ffmpeg", "-loglevel", "error", "-y"] + sum([["-i", p] for p in partes], []) + ["-filter_complex", f"{lst}concat=n={len(partes)}:v=0:a=1", f"{O}/mui_{ref}_{k}.wav"]
-        subprocess.run(cmd)
-        print("mui", ref, k, flush=True)
+uv venv -q --python 3.11 /tmp/fw && uv pip install -q --python /tmp/fw/bin/python faster-whisper 2>&1 | tail -2
+/tmp/fw/bin/python - <<'PY'
+import json
+from faster_whisper import WhisperModel
+m = WhisperModel("small", device="cpu", compute_type="int8")
+segs, _ = m.transcribe("lotes/audio/tarde-mui.m4a", language="es", word_timestamps=True, vad_filter=False)
+out = []
+for s in segs:
+    out.append({"ini": s.start, "fin": s.end, "texto": s.text, "palabras": [[w.start, w.end, w.word] for w in s.words]})
+    print(f"{s.start:6.2f} {s.end:6.2f} {s.text}", flush=True)
+json.dump(out, open("cinecode/out/tarde-mui.json", "w"), ensure_ascii=False, indent=1)
 PY
-ls -la $O
+python3 cinecode/escudos.py $O/escudos '{
+ "barcelona": ["Barcelona Sporting Club logo", "Barcelona SC escudo"],
+ "catolica": ["Universidad Católica Quito logo", "CD Universidad Católica Ecuador escudo"],
+ "idv": ["Independiente del Valle logo"],
+ "macara": ["Club Social y Deportivo Macará logo"],
+ "orense": ["Orense Sporting Club logo"],
+ "mushuc": ["Mushuc Runa Sporting Club logo"],
+ "liga": ["Liga Deportiva Universitaria Quito logo"],
+ "aucas": ["Sociedad Deportiva Aucas logo"],
+ "tecnico": ["Técnico Universitario logo"],
+ "cuenca": ["Club Deportivo Cuenca logo"],
+ "manta": ["Manta Fútbol Club logo"],
+ "delfin": ["Delfín Sporting Club logo"],
+ "fef": ["Federación Ecuatoriana de Fútbol logo", "Ecuador national football team logo"]
+}' 2>&1 | tail -80
+python3 cinecode/escudos.py $O/fotos '{
+ "bsc-jugadores": ["Barcelona Sporting Club players", "Barcelona SC Guayaquil match"],
+ "monumental": ["Estadio Monumental Banco Pichincha", "Estadio Monumental Isidro Romero Carbo"],
+ "atahualpa": ["Estadio Olímpico Atahualpa"],
+ "ecuador-sub17": ["Ecuador national under-17 football team"],
+ "ecuador-tri": ["Ecuador national football team match"],
+ "rodrigo-paz": ["Estadio Rodrigo Paz Delgado"],
+ "nueve-mayo": ["Estadio 9 de Mayo Machala"],
+ "idv-estadio": ["Estadio Banco Guayaquil Sangolquí"],
+ "ligapro": ["LigaPro Ecuador match"]
+}' 2>&1 | tail -80
