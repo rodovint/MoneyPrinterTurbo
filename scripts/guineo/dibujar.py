@@ -28,7 +28,7 @@ def ref_bytes(path):
 
 
 def main(spec_path, out_dir):
-    acc, tok = os.environ["CF_ACCOUNT_ID"], os.environ["CF_API_TOKEN"]
+    acc, tok = os.environ["CF_ACCOUNT_ID"].strip(), os.environ["CF_API_TOKEN"].strip()
     spec = json.load(open(spec_path, encoding="utf-8"))
     modelo = MODELOS.get(spec.get("modelo", "9b"), MODEL)
     url = f"https://api.cloudflare.com/client/v4/accounts/{acc}/ai/run/{modelo}"

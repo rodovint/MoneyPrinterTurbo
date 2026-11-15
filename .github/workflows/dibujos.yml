@@ -47,14 +47,14 @@ jobs:
         with:
           name: dibujos
           path: out/
-      - name: Guardar en la rama dibujos-out
+      - name: Publicar dibujos en un Release
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          cp -r out /tmp/res
-          git config user.name "github-actions[bot]"
-          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan dibujos-out
-          git rm -rfq . >/dev/null
-          cp -r /tmp/res/. .
-          git add -A
-          git commit -qm "dibujos $(date -u +%FT%TZ)"
-          git push -f origin dibujos-out
+          shopt -s nullglob
+          files=(out/*/*.png out/log.txt)
+          tag="dibujos-$(date -u +%Y%m%d-%H%M)-${{ github.run_number }}"
+          mkdir -p plano
+          for f in out/*/*.png; do cp "$f" "plano/$(basename $(dirname "$f"))-$(basename "$f")"; done
+          cp out/log.txt plano/ 2>/dev/null || true
+          gh release create "$tag" plano/* --title "Dibujos $tag" --notes "Generado por la ejecucion ${{ github.run_id }}" --target "${{ github.sha }}"
