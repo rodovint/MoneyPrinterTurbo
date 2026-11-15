@@ -1,0 +1,64 @@
+[
+  {
+    "titulo": "Inglaterra rompe la racha de España",
+    "etiqueta": "LIGA DE NACIONES",
+    "color": "#C60B1E",
+    "audio": "audio/09",
+    "escenas": [
+      {
+        "texto": "¡Inglaterra le ganó tres a dos a España en Madrid y le cortó su racha histórica!",
+        "grafico": {"tipo": "marcador",
+          "equipos": [{"nombre": "ESPAÑA", "color": "#C60B1E", "goles": 2}, {"nombre": "INGLATERRA", "color": "#1D2D5C", "goles": 3}],
+          "pie": "FIN DE LA RACHA EN EL METROPOLITANO"},
+        "hinchada": true
+      },
+      {
+        "texto": "La campeona del mundo llevaba cuarenta y cuatro partidos oficiales sin perder.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "44", "texto": "PARTIDOS OFICIALES SIN PERDER"},
+        "suspenso": true
+      },
+      {
+        "texto": "Harry Kane abrió de penal, y Ezri Konsa y Ben White pusieron el tres a cero en solo cuatro minutos.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "0-3 EN 57 MINUTOS", "sobre": "KANE · KONSA · WHITE"},
+        "destello": true,
+        "tono": "urgente"
+      },
+      {
+        "texto": "Elliot Anderson vio la roja, Inglaterra se quedó con diez y España reaccionó.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "ROJA A ELLIOT ANDERSON", "sobre": "MINUTO 62"}
+      },
+      {
+        "texto": "Oyarzabal descontó de penal y Nico Williams, tras una corrida de Lamine Yamal, puso el dos a tres. No alcanzó.",
+        "voz": "andrea",
+        "grafico": {"tipo": "tv", "titulo": "ASÍ FUE EL 2-3",
+          "local": {"nombre": "ESPAÑA", "color": "#C60B1E", "color2": "#F1BF00"},
+          "rival": {"nombre": "INGLATERRA", "color": "#F2F2F2"},
+          "jugadores": [
+            {"id": "LY", "equipo": "local", "x": 82, "y": 50, "nombre": "LAMINE YAMAL", "destacado": true},
+            {"id": "NW", "equipo": "local", "x": 35, "y": 30, "nombre": "NICO WILLIAMS"},
+            {"id": "D1", "equipo": "rival", "x": 60, "y": 22},
+            {"id": "D2", "equipo": "rival", "x": 45, "y": 14},
+            {"id": "GK", "equipo": "rival", "x": 50, "y": 3, "arquero": true}],
+          "balon": "LY",
+          "pasos": [
+            {"mover": {"LY": [68, 16]}, "balon": [68, 16], "flecha": "conduccion", "texto": "GALOPADA DE LAMINE"},
+            {"mover": {"NW": [44, 10]}, "balon": [44, 10], "flecha": "pase", "texto": "PASE A NICO"},
+            {"balon": [47, -2], "flecha": "tiro", "gol": true, "texto": "REMATE FRANCO"}],
+          "marcador": {"local": "ESP", "rival": "ING", "antes": [1, 3], "despues": [2, 3], "minuto": "75'"}}
+      },
+      {
+        "texto": "¿Quién es hoy la mejor selección del mundo: España o Inglaterra?",
+        "grafico": {"tipo": "titular", "texto": "¿ESPAÑA O INGLATERRA?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ],
+    "franja": ["ESPAÑA 2-3 INGLATERRA", "FIN A 44 PARTIDOS OFICIALES SIN PERDER", "GOLES: KANE, KONSA Y WHITE · OYARZABAL Y NICO WILLIAMS", "INGLATERRA, LÍDER DEL GRUPO"]
+  }
+]
