@@ -1,10 +1,23 @@
 #!/usr/bin/env bash
-# Job 24 (2026-11-15): bajar música (Megis - Epic Celestial Choir 2, CC BY) e hinchada (paulw2k, CC BY) para los reels
+# Job 25 (2026-11-15): prueba de voz clonada de Mui con Chatterbox Multilingual (MIT) en CPU
 set -u
-O=cinecode/out; mkdir -p $O; cd $O
-T=../../cinecode/tools/asset_search.py
-python3 $T search --q "epic choir" --type music --licence cc0,pd,cc-by --out m 2>&1 | tail -3
-python3 $T fetch --results m/results.json --pick 3 --dest musica 2>&1 | tail -5
-python3 $T search --q "stadium crowd cheer" --type sound --licence cc0,pd,cc-by --out s 2>&1 | tail -3
-python3 $T fetch --results s/results.json --pick 1 --dest hinchada 2>&1 | tail -5
-ls -la musica hinchada; cat LICENSES.csv 2>/dev/null; find . -name LICENSES.csv -exec cat {} \;
+O=cinecode/out; mkdir -p $O
+ffmpeg -loglevel error -y -i cinecode/voz/jordy.m4a -t 15 -ac 1 -ar 24000 -af "highpass=f=80,afftdn=nf=-25" /tmp/ref.wav
+cp /tmp/ref.wav $O/ref.wav
+python3 -m venv /tmp/cb && /tmp/cb/bin/pip install -q --upgrade pip && /tmp/cb/bin/pip install -q chatterbox-tts 2>&1 | tail -3
+/tmp/cb/bin/pip list 2>/dev/null | grep -iE "chatterbox|torch " 
+/tmp/cb/bin/python - <<'PY'
+import time, torch, torchaudio as ta
+t0=time.time()
+from chatterbox.mtl_tts import ChatterboxMultilingualTTS
+m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
+print("carga", round(time.time()-t0,1), "s", flush=True)
+frases = ["Emelec no gana un título nacional desde 2017.",
+          "Hincha eléctrico, ¿sociedad anónima sí o no? Comenta y síguenos en Guineo Comunicaciones."]
+for i, f in enumerate(frases):
+    t1=time.time()
+    wav = m.generate(f, language_id="es", audio_prompt_path="/tmp/ref.wav", exaggeration=0.5, cfg_weight=0.5)
+    ta.save(f"cinecode/out/clon_{i}.wav", wav, m.sr)
+    print("frase", i, round(time.time()-t1,1), "s para", round(wav.shape[-1]/m.sr,1), "s de audio", flush=True)
+PY
+ls -la $O
