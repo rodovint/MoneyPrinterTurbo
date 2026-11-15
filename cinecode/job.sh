@@ -1,24 +1,32 @@
 #!/usr/bin/env bash
-# Job 25b (2026-11-15): prueba de voz clonada de Mui con Chatterbox Multilingual (MIT) en CPU
+# Job 26 (2026-11-15): pruebas de pronunciación — clon de Mui con referencias naturales y 2 ajustes, y Andrea a 2 velocidades
 set -u
 O=cinecode/out; mkdir -p $O
-ffmpeg -loglevel error -y -i cinecode/voz/jordy.m4a -t 15 -ac 1 -ar 24000 -af "highpass=f=80,afftdn=nf=-25" /tmp/ref.wav
-cp /tmp/ref.wav $O/ref.wav
-uv venv -q --python 3.11 /tmp/cb && uv pip install -q --python /tmp/cb/bin/python chatterbox-tts "setuptools<81" 2>&1 | tail -3
-/tmp/cb/bin/python -c "import perth; print('perth', perth.PerthImplicitWatermarker)"
-uv pip list --python /tmp/cb/bin/python 2>/dev/null | grep -iE "chatterbox|torch " 
-/tmp/cb/bin/python - <<'PY'
-import time, torch, torchaudio as ta
-t0=time.time()
+uv venv -q --python 3.11 /tmp/cb && uv pip install -q --python /tmp/cb/bin/python chatterbox-tts "setuptools<81" edge-tts 2>&1 | tail -2
+/tmp/cb/bin/python - <<'PY' 2>&1 | grep -v Sampling
+import asyncio, subprocess, time, edge_tts, torchaudio as ta
 from chatterbox.mtl_tts import ChatterboxMultilingualTTS
+O = "cinecode/out"
+mui = ["Partidazo hoy en Europa: España recibe a Inglaterra.", "¿Quién gana hoy en Madrid?", "Comenta y síguenos en Guineo Comunicaciones."]
+datos = ["Inglaterra, de Thomas Tuchel, suma cuatro triunfos y una sola derrota.", "Es a las tres menos cuarto de la tarde, hora de Ecuador, en el Metropolitano de Madrid."]
+async def tts(t, f, r):
+    await edge_tts.Communicate(t, "es-EC-AndreaNeural", rate=r).save(f)
+for r in ["+0%", "+10%"]:
+    for i, t in enumerate(datos):
+        asyncio.run(tts(t, f"/tmp/and{i}.mp3", r))
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", "/tmp/and0.mp3", "-i", "/tmp/and1.mp3", "-filter_complex", "[0][1]concat=n=2:v=0:a=1", f"{O}/andrea_{r.strip('+%')}.wav"])
+    print("andrea", r, flush=True)
 m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
-print("carga", round(time.time()-t0,1), "s", flush=True)
-frases = ["Emelec no gana un título nacional desde 2017.",
-          "Hincha eléctrico, ¿sociedad anónima sí o no? Comenta y síguenos en Guineo Comunicaciones."]
-for i, f in enumerate(frases):
-    t1=time.time()
-    wav = m.generate(f, language_id="es", audio_prompt_path="/tmp/ref.wav", exaggeration=0.5, cfg_weight=0.5)
-    ta.save(f"cinecode/out/clon_{i}.wav", wav, m.sr)
-    print("frase", i, round(time.time()-t1,1), "s para", round(wav.shape[-1]/m.sr,1), "s de audio", flush=True)
+ajustes = {"A": dict(exaggeration=0.5, cfg_weight=0.5, temperature=0.8), "B": dict(exaggeration=0.35, cfg_weight=0.3, temperature=0.7)}
+for ref in ["dinho", "idv"]:
+    for k, aj in ajustes.items():
+        partes = []
+        for i, t in enumerate(mui):
+            wav = m.generate(t, language_id="es", audio_prompt_path=f"cinecode/voz/pruebas/ref-{ref}.wav", **aj)
+            f = f"/tmp/{ref}{k}{i}.wav"; ta.save(f, wav, m.sr); partes.append(f)
+        lst = "".join(f"[{j}]" for j in range(len(partes)))
+        cmd = ["ffmpeg", "-loglevel", "error", "-y"] + sum([["-i", p] for p in partes], []) + ["-filter_complex", f"{lst}concat=n={len(partes)}:v=0:a=1", f"{O}/mui_{ref}_{k}.wav"]
+        subprocess.run(cmd)
+        print("mui", ref, k, flush=True)
 PY
 ls -la $O
