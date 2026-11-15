@@ -5,10 +5,11 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 
 ## Reglas fijas (vienen del doc "Guineo Comunicaciones — Recursos y habilidades para videos")
 - **Marca**: siempre "Guineo Comunicaciones" (cabecera, cierre, voz y textos). Nunca "Guineo Deportes".
-- **Voz**: lo ideal es la voz de Mui para el gancho, la emoción y el cierre, y Andrea (Edge TTS es-EC-AndreaNeural) para los datos.
-  - Escena con `"voz": "andrea"` (o `"luis"`): la genera el generador con Edge TTS. Si una palabra suena mal, pon en `"dicho"` cómo se pronuncia ("Cies") y deja `"texto"` para el subtítulo.
-  - Escenas sin `"voz"`: salen de la grabación humana del reel (`"audio": "audio/NN"`), cortada por pausas. La voz humana se limpia sola (graves, ruido, de-esser, compresor, presencia y +3 dB sobre Andrea).
-  - Si el reel no tiene `"audio"`, todo va con Andrea (solo cuando Mui lo pide).
+- **Voz** (decidido por Mui el 15/11): la **voz clonada de Mui** para el gancho, la emoción, la pregunta y el cierre, y **Andrea** (Edge TTS es-EC-AndreaNeural) para los datos duros.
+  - `"voz": "mui"`: la genera la Action con Chatterbox Multilingual (MIT, gratis) a partir de `scripts/guineo/voz/mui-ref.wav` (14 s limpios de Mui). Tarda ~40 s por frase; usar 2–3 frases por reel.
+  - `"voz": "andrea"` (o `"luis"`): Edge TTS. Si una palabra suena mal, pon en `"dicho"` cómo se pronuncia ("Cies") y deja `"texto"` para el subtítulo.
+  - Escenas sin `"voz"`: salen de una grabación real de Mui (`"audio": "audio/NN"`), cortada por pausas y limpiada sola. Solo si Mui manda audios.
+  - Si la voz clonada falla, esa frase sale con Andrea (aviso en el log).
 - **Primer fotograma**: cara o acción + el texto del gancho, sin fundido (el generador ya pone el texto desde el fotograma 0). La primera frase dice quién hizo qué.
 - **Duración**: 25–35 s (5–7 frases cortas). El generador avisa si pasa de 36 s.
 - **Las noticias institucionales se cuentan a través de una persona.**
@@ -24,6 +25,12 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - **Música** coral de fondo al 15% (`"musica": false` en el reel para quitarla, `"volumen_musica": 0.1`). Master a −14 LUFS.
 - **Cierre** con el logo redondo de Guineo Comunicaciones.
 - La Action sube al Release, además del mp4: `contacto-NN.jpg` (hoja de 12 fotogramas para revisar textos, cortes y superposiciones ANTES de mandar el video a Mui) y `portada-NN.jpg` (portada para Metricool, `videoThumbnailUrl`).
+
+## Dibujos automáticos (Cloudflare, ya configurado)
+- Escribe `lotes/dibujos/<reel>.json` (formato de `lotes/dibujos/espana-inglaterra.json`: referencia de estilo `scripts/guineo/ref/estilo1.jpg`, 3–4 escenas, prompts en inglés) y haz push: la Action "Dibujos" solo dibuja los JSON nuevos y los publica en un Release `dibujos-...` como `<reel>-<id>.png`.
+- Bájalos a `lotes/img/` y úsalos como `"foto": "img/<archivo>.png"` con `"movimiento"`. Revísalos antes (Read): si algo sale mal (p. ej. balón de fútbol americano), corrige el prompt y repite solo ese.
+- **Regla de Mui**: ilustraciones de la escena (estadio, hinchas de espaldas, balón, camisetas lisas, objetos), **nunca caras realistas de jugadores reales**, sin escudos, logos ni texto. Cupo gratis ≈ 6 dibujos/día con "9b"; para más usa `"modelo": "4b"`.
+- En la descripción: "Ilustraciones generadas con IA".
 
 ## Créditos (van en la descripción de YouTube)
 - Música: "Epic Celestial Choir 2" – Megis (CC BY), Internet Archive.
