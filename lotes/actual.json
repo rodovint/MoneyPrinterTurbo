@@ -1,180 +1,75 @@
 [
   {
-    "titulo": "¿Cuándo vuelve la LigaPro?",
-    "etiqueta": "FECHA 7",
-    "color": "#14213D",
+    "titulo": "Ronaldinho volvió y el Ravenna ganó",
+    "etiqueta": "SERIE C DE ITALIA",
+    "color": "#8C1C1C",
+    "audio": "audio/08",
     "escenas": [
       {
-        "texto": "La LigaPro vuelve el viernes 20 de noviembre.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "VUELVE EL VIERNES 20",
-          "sobre": "LIGAPRO"
-        },
-        "inicio": 76.1,
-        "fin": 78.75,
-        "foto_commons": "Estadio Banco Guayaquil1.jpg"
+        "texto": "¡Ronaldinho volvió a los 46 años y el Ravenna ganó dos a cero!",
+        "inicio": 7.9, "fin": 11.6,
+        "grafico": {"tipo": "marcador",
+          "equipos": [{"nombre": "RAVENNA", "color": "#8C1C1C", "goles": 2, "escudo": "img/escudos/ravenna.png"},
+                      {"nombre": "FORLÌ", "color": "#B71C1C", "goles": 0, "escudo": "img/escudos/forli.png"}],
+          "pie": "EL REGRESO DE RONALDINHO"},
+        "hinchada": true,
+        "tono": "celebracion",
+        "transicion": "flash"
       },
       {
-        "texto": "Abre el campeón Independiente del Valle ante el vicecampeón Macará, al mediodía.",
+        "texto": "Jugó todo el primer tiempo con la diez, once años después de su último partido oficial.",
         "voz": "andrea",
-        "destello": true,
-        "foto_commons": "Estadio Banco Guayaquil1.jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "IND. DEL VALLE",
-              "color": "#14213D",
-              "escudo": "img/escudos/idv.png"
-            },
-            {
-              "nombre": "MACARÁ",
-              "color": "#2F9BD6",
-              "escudo": "img/escudos/macara.png"
-            }
-          ],
-          "hora": "VIE 20 · 12:00",
-          "pie": "CAMPEÓN VS. VICECAMPEÓN"
-        }
+        "foto_commons": "Stadio Benelli Ravenna 1.JPG",
+        "grafico": {"tipo": "protagonista", "rol": "EL REGRESO DEL GAÚCHO · 46 AÑOS", "nombre": "RONALDINHO", "dato": "45 MINUTOS CON LA 10", "color": "#8C1C1C"},
+        "tono": "recuerdo"
       },
       {
-        "texto": "El sábado, Técnico Universitario recibe a Deportivo Cuenca a las dos de la tarde.",
+        "texto": "En el uno a cero dejó su sello: protegió la pelota al inicio de la jugada y Giulio Donati la clavó de afuera.",
         "voz": "andrea",
-        "foto_commons": "Estadio Atahualpa Ecuador vs Brazil March 2009.jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "TÉCNICO U.",
-              "color": "#C8102E",
-              "escudo": "img/escudos/tecnico.png"
-            },
-            {
-              "nombre": "DEP. CUENCA",
-              "color": "#7A0E14",
-              "escudo": "img/escudos/cuenca.png"
-            }
-          ],
-          "hora": "SÁB 21 · 14:00",
-          "pie": "ESTADIO BELLAVISTA, AMBATO"
-        }
+        "grafico": {"tipo": "pixel", "titulo": "ASÍ FUE EL 1-0",
+          "local": {"nombre": "RAVENNA", "color": "#8C1C1C"}, "rival": {"nombre": "FORLÌ", "color": "#E8E8E8"},
+          "jugadores": [
+            {"id": "10", "equipo": "local", "x": 50, "y": 52},
+            {"id": "a", "dorsal": "", "equipo": "local", "x": 72, "y": 44},
+            {"id": "d", "dorsal": "", "equipo": "local", "x": 34, "y": 46},
+            {"id": "r1", "dorsal": "", "equipo": "rival", "x": 52, "y": 58},
+            {"id": "r2", "dorsal": "", "equipo": "rival", "x": 45, "y": 24},
+            {"id": "r3", "dorsal": "", "equipo": "rival", "x": 62, "y": 26},
+            {"id": "1", "equipo": "rival", "x": 50, "y": 4, "arquero": true}],
+          "balon": "10",
+          "pasos": [
+            {"mover": {"r1": [51, 55]}, "texto": "RONALDINHO PROTEGE"},
+            {"balon": [72, 44], "flecha": "pase", "texto": "PRE-ASISTENCIA DEL 10"},
+            {"mover": {"d": [38, 38]}, "balon": [38, 38], "flecha": "pase", "texto": "LLEGA A DONATI"},
+            {"balon": [44, -2], "flecha": "tiro", "gol": true, "texto": "¡GOLAZO DE AFUERA!"}]},
+        "destello": true
       },
       {
-        "texto": "Y a las cuatro y media, Católica recibe a Barcelona en el Atahualpa.",
+        "texto": "Al salir, el estadio Bruno Benelli lo despidió de pie.",
         "voz": "andrea",
-        "foto_commons": "Estadio Olímpico Atahualpa (15665410999).jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "U. CATÓLICA",
-              "color": "#4AA3DF",
-              "escudo": "img/escudos/catolica.png"
-            },
-            {
-              "nombre": "BARCELONA",
-              "color": "#B8860B",
-              "escudo": "img/escudos/barcelona.png"
-            }
-          ],
-          "hora": "SÁB 21 · 16:30",
-          "pie": "ESTADIO OLÍMPICO ATAHUALPA"
-        }
+        "foto_commons": "Stadio Benelli Ravenna 2.JPG",
+        "grafico": {"tipo": "titular", "texto": "OVACIÓN DE PIE", "sobre": "ESTADIO BRUNO BENELLI"},
+        "hinchada": true
       },
       {
-        "texto": "El domingo abre Manta ante Delfín, a las once y media.",
+        "texto": "Y dejó la puerta abierta: si el presidente me llama, vuelvo.",
         "voz": "andrea",
-        "foto_commons": "Estadio Atahualpa Ecuador vs Brazil March 2009.jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "MANTA FC",
-              "color": "#0B5394",
-              "escudo": "img/escudos/manta.png"
-            },
-            {
-              "nombre": "DELFÍN",
-              "color": "#C99A06",
-              "escudo": "img/escudos/delfin.png"
-            }
-          ],
-          "hora": "DOM 22 · 11:30",
-          "pie": "ESTADIO JOCAY, MANTA"
-        }
+        "foto_commons": "Stadio Benelli Ravenna 3.JPG",
+        "grafico": {"tipo": "cita", "texto": "“SI EL PRESIDENTE ME LLAMA, VUELVO”", "autor": "RONALDINHO"},
+        "suspenso": true
       },
       {
-        "texto": "A las dos, Orense recibe a Mushuc Runa en el 9 de Mayo.",
-        "voz": "andrea",
-        "destello": true,
-        "foto_commons": "Estadio 9 de Mayo Machala.jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "ORENSE",
-              "color": "#1E8A4C",
-              "escudo": "img/escudos/orense.png"
-            },
-            {
-              "nombre": "MUSHUC RUNA",
-              "color": "#C8102E",
-              "escudo": "img/escudos/mushuc.png"
-            }
-          ],
-          "hora": "DOM 22 · 14:00",
-          "pie": "ESTADIO 9 DE MAYO, MACHALA"
-        }
-      },
-      {
-        "texto": "Y cierra Liga de Quito ante Aucas, a las cuatro y media.",
-        "voz": "andrea",
-        "foto_commons": "Estadio de LDU Tribuna E.jpg",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "LIGA DE QUITO",
-              "color": "#1F2A44",
-              "escudo": "img/escudos/liga.png"
-            },
-            {
-              "nombre": "AUCAS",
-              "color": "#D4202A",
-              "escudo": "img/escudos/aucas.png"
-            }
-          ],
-          "hora": "DOM 22 · 16:30",
-          "pie": "ESTADIO RODRIGO PAZ DELGADO"
-        }
-      },
-      {
-        "texto": "¿Qué partido no te pierdes?",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿CUÁL NO TE PIERDES?",
-          "sobre": "TU OPINIÓN"
-        },
-        "inicio": 83.78,
-        "fin": 85.38,
-        "foto_commons": "LDUSTADIUM.jpg"
+        "texto": "¿Quieres ver otra vez a Ronaldinho en la cancha?",
+        "inicio": 17.7, "fin": 20.1,
+        "grafico": {"tipo": "escudo", "escudo": "img/escudos/ravenna.png", "sobre": "TU OPINIÓN", "texto": "¿QUE VUELVA OTRA VEZ?"},
+        "transicion": "glitch"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-        "grafico": {
-          "tipo": "cierre",
-          "texto": "COMENTA Y SÍGUENOS"
-        },
-        "inicio": 91.64,
-        "fin": 94.42
+        "inicio": 24.7, "fin": 27.25,
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
       }
     ],
-    "franja": [
-      "LIGAPRO VUELVE EL VIERNES 20",
-      "FECHA 7 DE LOS HEXAGONALES",
-      "ORENSE VS. MUSHUC RUNA, DOM 14:00"
-    ],
-    "audio": "audio/tarde-mui"
+    "franja": ["RAVENNA 2-0 FORLÌ", "GOLES: DONATI 35' Y RABBI 58'", "RONALDINHO JUGÓ 45 MINUTOS", "RAVENNA, 2.º DEL GRUPO B CON 32 PUNTOS"]
   }
 ]
