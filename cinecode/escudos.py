@@ -24,7 +24,7 @@ for club, qs in QUERIES.items():
         if not s["thumb"]:
             continue
         f = os.path.join(out, f"{club}-{i}.png")
-        time.sleep(3)
+        time.sleep(6)
         try:
             open(f, "wb").write(urllib.request.urlopen(urllib.request.Request(s["thumb"], headers=UA), timeout=30).read()); s["file"] = f
         except Exception as e:
