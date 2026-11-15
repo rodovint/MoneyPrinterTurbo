@@ -1,100 +1,84 @@
 [
   {
-    "titulo": "España vs. Inglaterra (HOY 14:45)",
-    "etiqueta": "NATIONS LEAGUE",
-    "color": "#C60B1E",
+    "titulo": "Barcelona: seis años sin título",
+    "etiqueta": "BARCELONA SC",
+    "color": "#B8860B",
     "escenas": [
       {
-        "texto": "Partidazo hoy en Europa: España recibe a Inglaterra.",
+        "texto": "Barcelona cumple seis años sin ser campeón.",
         "grafico": {
-          "tipo": "titular",
-          "texto": "ESPAÑA VS. INGLATERRA",
-          "sobre": "NATIONS LEAGUE"
+          "tipo": "escudo",
+          "escudo": "img/escudos/barcelona.png",
+          "sobre": "BARCELONA SC",
+          "texto": "SEIS AÑOS SIN TÍTULO"
         },
-        "hinchada": true,
-        "voz": "mui",
-        "foto": "img/espana-estadio.png",
-        "movimiento": "zoom_in"
+        "inicio": 7.65,
+        "fin": 11.3,
+        "foto_commons": "Estadio Monumental vista desde Palco 1.jpg"
       },
       {
-        "texto": "Es a las tres menos cuarto de la tarde, hora de Ecuador, en el Metropolitano de Madrid.",
+        "texto": "Su última estrella llegó en 2020, ante Liga de Quito.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "2020",
+          "texto": "EL ÚLTIMO TÍTULO, ANTE LIGA DE QUITO"
+        },
+        "voz": "andrea",
+        "foto_commons": "Estadio Isidro Romero Carbo 2021.jpg"
+      },
+      {
+        "texto": "Desde entonces ganaron Independiente del Valle, Aucas y Liga.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "IDV, AUCAS Y LIGA",
+          "sobre": "LOS CAMPEONES DESDE 2021"
+        },
+        "voz": "andrea",
+        "foto_commons": "Panoramica Estadio Monumental.JPG"
+      },
+      {
+        "texto": "Exjugadores apuntan a la dirigencia; Raúl Avilés dijo: Barcelona es una institución que se vende sola.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“SE VENDE SOLA”",
+          "autor": "RAÚL AVILÉS, EXJUGADOR"
+        },
+        "destello": true,
+        "voz": "andrea",
+        "foto_commons": "Estadio Monumental de Barcelona.jpg"
+      },
+      {
+        "texto": "Lo próximo: visita a Católica el sábado 21, a las cuatro y media, en el Atahualpa.",
         "grafico": {
           "tipo": "partido",
           "equipos": [
             {
-              "nombre": "ESPAÑA",
-              "color": "#C60B1E"
+              "nombre": "U. CATÓLICA",
+              "color": "#4AA3DF",
+              "escudo": "img/escudos/catolica.png"
             },
             {
-              "nombre": "INGLATERRA",
-              "color": "#1F2A44"
+              "nombre": "BARCELONA",
+              "color": "#B8860B",
+              "escudo": "img/escudos/barcelona.png"
             }
           ],
-          "hora": "HOY 14:45",
-          "pie": "METROPOLITANO DE MADRID"
+          "hora": "SÁB 21 · 16:30",
+          "pie": "ESTADIO OLÍMPICO ATAHUALPA"
         },
         "voz": "andrea",
-        "foto": "img/espana-estadio.png",
-        "movimiento": "paneo_der"
+        "foto_commons": "Estadio Olímpico Atahualpa (15665410999).jpg"
       },
       {
-        "texto": "La campeona del mundo llega perfecta: cinco partidos, cinco victorias.",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "5 DE 5",
-          "texto": "ESPAÑA, INVICTA EN EL GRUPO"
-        },
-        "voz": "andrea",
-        "foto": "img/espana-duelo.png",
-        "movimiento": "zoom_in"
-      },
-      {
-        "texto": "Inglaterra, de Thomas Tuchel, suma cuatro triunfos y una sola derrota.",
-        "grafico": {
-          "tipo": "duo",
-          "a": "5",
-          "a_texto": "VICTORIAS ESPAÑA",
-          "b": "4",
-          "b_texto": "VICTORIAS INGLATERRA",
-          "pie": "LÍDER Y ESCOLTA DEL GRUPO"
-        },
-        "voz": "andrea",
-        "foto": "img/espana-duelo.png",
-        "movimiento": "zoom_out"
-      },
-      {
-        "texto": "Y esa derrota fue justamente ante España: tres a dos en Wembley.",
-        "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {
-              "nombre": "INGLATERRA",
-              "color": "#1F2A44",
-              "goles": 2
-            },
-            {
-              "nombre": "ESPAÑA",
-              "color": "#C60B1E",
-              "goles": 3
-            }
-          ],
-          "pie": "PRIMERA RUEDA, EN WEMBLEY"
-        },
-        "destello": true,
-        "voz": "andrea",
-        "foto": "img/espana-balon.png",
-        "movimiento": "zoom_in"
-      },
-      {
-        "texto": "¿Quién gana hoy en Madrid?",
+        "texto": "Torero, ¿quién tiene la culpa de la sequía?",
         "grafico": {
           "tipo": "titular",
-          "texto": "¿QUIÉN GANA EN MADRID?",
-          "sobre": "TU PRONÓSTICO"
+          "texto": "¿DE QUIÉN ES LA CULPA?",
+          "sobre": "TORERO"
         },
-        "voz": "mui",
-        "foto": "img/espana-estadio.png",
-        "movimiento": "zoom_out"
+        "inicio": 18.6,
+        "fin": 21.43,
+        "foto_commons": "Estadio Monumental vista desde Palco 1.jpg"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -102,14 +86,245 @@
           "tipo": "cierre",
           "texto": "COMENTA Y SÍGUENOS"
         },
-        "voz": "mui"
+        "inicio": 23.4,
+        "fin": 26.3
       }
     ],
     "franja": [
-      "ESPAÑA VS. INGLATERRA",
-      "HOY 14:45 (HORA DE ECUADOR)",
-      "METROPOLITANO DE MADRID",
-      "NATIONS LEAGUE"
-    ]
+      "BARCELONA SC",
+      "SEIS AÑOS SIN TÍTULO",
+      "SÁB 21: VS. U. CATÓLICA, 16:30"
+    ],
+    "audio": "audio/tarde-mui"
+  },
+  {
+    "titulo": "La Sub-17 ya tiene lista para el Mundial",
+    "etiqueta": "MUNDIAL SUB-17",
+    "color": "#034EA2",
+    "escenas": [
+      {
+        "texto": "La Sub-17 de Ecuador ya tiene lista para el Mundial de Qatar.",
+        "grafico": {
+          "tipo": "escudo",
+          "escudo": "img/escudos/fef.png",
+          "sobre": "MUNDIAL SUB-17",
+          "texto": "LISTOS PARA QATAR"
+        },
+        "inicio": 46.5,
+        "fin": 50.64,
+        "foto_commons": "Estadio Atahualpa Ecuador vs Brazil March 2009.jpg"
+      },
+      {
+        "texto": "El técnico Gonzalo Ferrea convocó a 21 jugadores.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "DT DE ECUADOR SUB-17",
+          "nombre": "GONZALO FERREA",
+          "dato": "21 CONVOCADOS",
+          "color": "#034EA2"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Independiente del Valle aporta siete y Liga de Quito cuatro.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "7",
+          "a_texto": "INDEPENDIENTE DEL VALLE",
+          "b": "4",
+          "b_texto": "LIGA DE QUITO",
+          "pie": "LOS CLUBES QUE MÁS APORTAN"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "El debut es este jueves 19, a las ocho de la mañana, ante Nueva Caledonia.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "NUEVA CALEDONIA",
+              "color": "#5A5A5A"
+            },
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2",
+              "escudo": "img/escudos/fef.png"
+            }
+          ],
+          "hora": "JUE 19 · 08:00",
+          "pie": "ASPIRE ZONE, QATAR"
+        },
+        "destello": true,
+        "voz": "andrea",
+        "foto_commons": "Estadio Atahualpa Ecuador vs Brazil March 2009.jpg"
+      },
+      {
+        "texto": "Luego vienen Uganda, el domingo 22, y Corea del Sur, el miércoles 25.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "UGANDA Y COREA DEL SUR",
+          "sobre": "LOS OTROS RIVALES"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Hasta dónde llega la Sub-17?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿HASTA DÓNDE LLEGA?",
+          "sobre": "TU PRONÓSTICO"
+        },
+        "inicio": 56.33,
+        "fin": 58.52,
+        "foto_commons": "Estadio Atahualpa Ecuador vs Brazil March 2009.jpg"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "inicio": 65.4,
+        "fin": 68.23
+      }
+    ],
+    "franja": [
+      "ECUADOR SUB-17",
+      "MUNDIAL DE QATAR",
+      "DEBUT: JUEVES 19, 08:00",
+      "VS. NUEVA CALEDONIA"
+    ],
+    "audio": "audio/tarde-mui"
+  },
+  {
+    "titulo": "¿Cuándo vuelve la LigaPro?",
+    "etiqueta": "FECHA 7",
+    "color": "#14213D",
+    "escenas": [
+      {
+        "texto": "La LigaPro vuelve el viernes 20 de noviembre.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "VUELVE EL VIERNES 20",
+          "sobre": "LIGAPRO"
+        },
+        "inicio": 76.1,
+        "fin": 78.75,
+        "foto_commons": "Estadio Banco Guayaquil1.jpg"
+      },
+      {
+        "texto": "Abre el campeón Independiente del Valle ante el vicecampeón Macará, al mediodía.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "IND. DEL VALLE",
+              "color": "#14213D",
+              "escudo": "img/escudos/idv.png"
+            },
+            {
+              "nombre": "MACARÁ",
+              "color": "#2F9BD6",
+              "escudo": "img/escudos/macara.png"
+            }
+          ],
+          "hora": "VIE 20 · 12:00",
+          "pie": "CAMPEÓN VS. VICECAMPEÓN"
+        },
+        "destello": true,
+        "voz": "andrea",
+        "foto_commons": "Estadio Banco Guayaquil1.jpg"
+      },
+      {
+        "texto": "El sábado, Católica recibe a Barcelona y Técnico a Deportivo Cuenca.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "U. CATÓLICA",
+              "color": "#4AA3DF",
+              "escudo": "img/escudos/catolica.png"
+            },
+            {
+              "nombre": "BARCELONA",
+              "color": "#B8860B",
+              "escudo": "img/escudos/barcelona.png"
+            }
+          ],
+          "hora": "SÁB 21 · 16:30",
+          "pie": "TÉCNICO VS. CUENCA, A LAS 14:00"
+        },
+        "voz": "andrea",
+        "foto_commons": "Estadio Olímpico Atahualpa (15665410999).jpg"
+      },
+      {
+        "texto": "El domingo juegan Manta con Delfín y Orense con Mushuc Runa.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ORENSE",
+              "color": "#1E8A4C"
+            },
+            {
+              "nombre": "MUSHUC RUNA",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "DOM 22 · 14:00",
+          "pie": "MANTA VS. DELFÍN, A LAS 11:30"
+        },
+        "voz": "andrea",
+        "foto_commons": "Estadio 9 de Mayo Machala.jpg"
+      },
+      {
+        "texto": "Y cierra Liga de Quito ante Aucas, a las cuatro y media.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "LIGA DE QUITO",
+              "color": "#1F2A44",
+              "escudo": "img/escudos/liga.png"
+            },
+            {
+              "nombre": "AUCAS",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "DOM 22 · 16:30",
+          "pie": "ESTADIO RODRIGO PAZ DELGADO"
+        },
+        "voz": "andrea",
+        "foto_commons": "Estadio de LDU Tribuna E.jpg"
+      },
+      {
+        "texto": "¿Qué partido no te pierdes?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿CUÁL NO TE PIERDES?",
+          "sobre": "TU OPINIÓN"
+        },
+        "inicio": 83.78,
+        "fin": 85.38,
+        "foto_commons": "LDUSTADIUM.jpg"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "inicio": 91.64,
+        "fin": 94.42
+      }
+    ],
+    "franja": [
+      "LIGAPRO VUELVE EL VIERNES 20",
+      "IDV VS. MACARÁ, 12:00",
+      "ORENSE VS. MUSHUC RUNA, DOM 14:00"
+    ],
+    "audio": "audio/tarde-mui"
   }
 ]

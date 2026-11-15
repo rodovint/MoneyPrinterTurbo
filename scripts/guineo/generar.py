@@ -77,6 +77,34 @@ def titular(d, lines, f, y, cx, fill=INK):
 ANIMADOS = {"pizarra", "pixel"}
 
 
+_ESC = {}
+
+
+def escudo_img(ruta, lado):
+    """Escudo (PNG con transparencia) de lotes/<ruta>, escalado a un cuadrado de 'lado'."""
+    if not ruta:
+        return None
+    clave = (ruta, lado)
+    if clave not in _ESC:
+        f = ruta if os.path.isabs(ruta) else os.path.join(ROOT, "lotes", ruta)
+        try:
+            im = Image.open(f).convert("RGBA")
+            im.thumbnail((lado, lado), Image.LANCZOS)
+            _ESC[clave] = im
+        except Exception as e:
+            print(f"::warning::No se pudo abrir el escudo {ruta}: {e}")
+            _ESC[clave] = None
+    return _ESC[clave]
+
+
+def pegar_escudo(im, ruta, cx, cy, lado):
+    e = escudo_img(ruta, lado)
+    if e is not None:
+        im.alpha_composite(e, (int(cx - e.width / 2), int(cy - e.height / 2)))
+        return True
+    return False
+
+
 def card(c):
     if not c or c.get("tipo") in ANIMADOS or c.get("tipo") == "ninguno":
         return None
@@ -102,8 +130,11 @@ def card(c):
         for i, e in enumerate(c["equipos"]):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
-            f, l = fit(d, e["nombre"], 620, 1, [130, 112, 96, 84, 72])
-            d.text((105, y + 140), l[0], font=f, fill=INK, anchor="lm")
+            x0 = 105
+            if e.get("escudo") and pegar_escudo(im, e["escudo"], 170, y + 140, 180):
+                x0 = 280
+            f, l = fit(d, e["nombre"], W - 300 - x0 - 20, 1, [130, 112, 96, 84, 72, 62])
+            d.text((x0, y + 140), l[0], font=f, fill=INK, anchor="lm")
             d.rectangle([W - 300, y, W - 60, y + 280], fill=INK)
             d.text((W - 180, y + 140), str(e["goles"]), font=A(210), fill=BG, anchor="mm")
         f, l = fit(d, c["pie"], 900, 2, [52, 46, 40], B)
@@ -129,8 +160,12 @@ def card(c):
         for i, e in enumerate(c["equipos"]):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
-            f, l = fit(d, e["nombre"], 880, 1, [130, 112, 96, 84, 72])
-            d.text((W / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
+            if e.get("escudo") and pegar_escudo(im, e["escudo"], 175, y + 140 + (-20 if i == 0 else 20), 190):
+                f, l = fit(d, e["nombre"], 680, 1, [120, 104, 92, 80, 70])
+                d.text(((290 + W - 60) / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
+            else:
+                f, l = fit(d, e["nombre"], 880, 1, [130, 112, 96, 84, 72])
+                d.text((W / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
         w = d.textlength(c["hora"], font=A(84)) + 70
         d.rectangle([(W - w) / 2, 325, (W + w) / 2, 435], fill=Y)
         d.text((W / 2, 380), c["hora"], font=A(84), fill=BG, anchor="mm")
@@ -148,6 +183,15 @@ def card(c):
         titular(d, l, f, 245 + (330 - len(l) * f.size * 1.16) / 2, W // 2)
         f2, l2 = fit(d, c["dato"], 840, 2, [80, 70, 60, 50])
         titular(d, l2, f2, 600 + (130 - len(l2) * f2.size * 1.16) / 2, W // 2, Y)
+    elif kind == "escudo":
+        pegar_escudo(im, c["escudo"], W / 2, 250, 380)
+        if c.get("sobre"):
+            kf = B(40)
+            kw = d.textlength(c["sobre"], font=kf) + 56
+            d.rectangle([(W - kw) / 2, 470, (W + kw) / 2, 546], fill=Y)
+            d.text((W / 2, 508), c["sobre"], font=kf, fill=BG, anchor="mm")
+        f, l = fit(d, c["texto"], 900, 2, [130, 112, 96, 84])
+        titular(d, l, f, 570, W // 2)
     elif kind == "cierre":
         marca_txt = c.get("marca", MARCA)
         logo = os.path.join(ROOT, "scripts/guineo/logo-guineo.png")
