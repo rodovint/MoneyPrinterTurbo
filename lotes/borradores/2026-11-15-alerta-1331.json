@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Ronaldinho volvió y el Ravenna ganó",
+    "etiqueta": "SERIE C DE ITALIA",
+    "color": "#D4A017",
+    "audio": "audio/08",
+    "escenas": [
+      {
+        "texto": "¡Ronaldinho volvió a los 46 años y el Ravenna ganó dos a cero!",
+        "grafico": {"tipo": "marcador",
+          "equipos": [{"nombre": "RAVENNA", "color": "#D4A017", "goles": 2}, {"nombre": "FORLÌ", "color": "#C8102E", "goles": 0}],
+          "pie": "EL REGRESO DE RONALDINHO"},
+        "hinchada": true
+      },
+      {
+        "texto": "Jugó todo el primer tiempo con la diez, once años después de su último partido oficial.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "45'", "texto": "MINUTOS CON LA 10", "animar": false}
+      },
+      {
+        "texto": "En el uno a cero dejó su sello: protegió la pelota al inicio de la jugada y Giulio Donati la clavó de afuera.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "PRE-ASISTENCIA DEL GAÚCHO", "sobre": "1-0 · GOLAZO DE DONATI"},
+        "destello": true,
+        "tono": "celebracion"
+      },
+      {
+        "texto": "Al salir, el estadio Bruno Benelli lo despidió de pie.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "OVACIÓN DE PIE", "sobre": "ESTADIO BRUNO BENELLI"},
+        "hinchada": true
+      },
+      {
+        "texto": "Y dejó la puerta abierta: si el presidente me llama, vuelvo.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cita", "texto": "“SI EL PRESIDENTE ME LLAMA, VUELVO”", "autor": "RONALDINHO"}
+      },
+      {
+        "texto": "¿Quieres ver otra vez a Ronaldinho en la cancha?",
+        "grafico": {"tipo": "titular", "texto": "¿QUE VUELVA OTRA VEZ?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ],
+    "franja": ["RAVENNA 2-0 FORLÌ", "GOLES: DONATI 35' Y RABBI 58'", "RONALDINHO JUGÓ 45 MINUTOS", "RAVENNA, 2.º DEL GRUPO B CON 32 PUNTOS"]
+  }
+]
