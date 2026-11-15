@@ -560,7 +560,26 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, c
 
 
 def es_auto(esc):
-    return str(esc.get("voz", "")).lower() in VOCES
+    return str(esc.get("voz", "")).lower() in VOCES or str(esc.get("voz", "")).lower() == "mui"
+
+
+def voz_clonada(texto, base, lote):
+    """Frase de Mui ya generada por voz_clon.py (Chatterbox). Devuelve None si no esta."""
+    import hashlib
+    ref = os.path.join(os.path.dirname(os.path.abspath(__file__)), "voz", "mui-ref.wav")
+    h = hashlib.sha1()
+    h.update(texto.strip().encode("utf-8"))
+    h.update(open(ref, "rb").read() if os.path.exists(ref) else b"")
+    src = os.path.join(os.path.dirname(os.path.abspath(lote)), "audio", "clon", h.hexdigest()[:16] + ".wav")
+    if not os.path.exists(src):
+        return None
+    wav = base + ".wav"
+    subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-af",
+                           "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,"
+                           "highpass=f=80,equalizer=f=3000:t=q:w=1.2:g=2,volume=3dB",
+                           "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", wav])
+    with wave.open(wav) as w:
+        return wav, w.getnframes() / w.getframerate(), []
 
 
 def voces_reel(reel, pref, lote):
@@ -579,6 +598,10 @@ def voces_reel(reel, pref, lote):
         for i, (a, b) in zip(humanas, tramos):
             out[i] = tramo(origen, a, b, f"{pref}_{i}")
     for i, e in enumerate(escenas):
+        if out[i] is None and str(e.get("voz", "")).lower() == "mui":
+            out[i] = voz_clonada(e.get("dicho", e["texto"]), f"{pref}_{i}", lote)
+            if out[i] is None:
+                print(f"::warning::Sin voz clonada para: {e['texto'][:40]}... (va con Andrea)", flush=True)
         if out[i] is None:
             out[i] = voz(e.get("dicho", e["texto"]), f"{pref}_{i}", VOCES.get(str(e.get("voz", "")).lower(), reel.get("voz_tts", VOICE)))
     return out

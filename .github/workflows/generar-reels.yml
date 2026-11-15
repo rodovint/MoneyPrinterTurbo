@@ -20,7 +20,7 @@ concurrency:
 jobs:
   generar:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
 
@@ -31,6 +31,22 @@ jobs:
 
       - name: Instalar dependencias
         run: uv sync --frozen
+
+      - name: Cache del modelo de voz clonada
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-chatterbox-mtl-v1
+
+      - name: Voz clonada de Mui (Chatterbox)
+        run: |
+          if grep -q '"voz": *"mui"' lotes/actual.json; then
+            uv venv -q --python 3.11 /tmp/cb
+            uv pip install -q --python /tmp/cb/bin/python chatterbox-tts "setuptools<81"
+            /tmp/cb/bin/python scripts/guineo/voz_clon.py lotes/actual.json 2>&1 | grep -v "Sampling" || echo "::warning::La voz clonada fallo; esas frases van con Andrea"
+          else
+            echo "Sin frases de voz clonada"
+          fi
 
       - name: Generar videos
         env:
