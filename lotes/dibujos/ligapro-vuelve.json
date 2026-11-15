@@ -1,0 +1,35 @@
+{
+  "modelo": "4b",
+  "referencias": [
+    "scripts/guineo/ref/estilo1.jpg"
+  ],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic lighting, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "cancha",
+      "seed": 81,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: an empty football pitch at night in a Latin American stadium, groundskeeper's sprinklers on, floodlights turning on one by one, anticipation mood."
+    },
+    {
+      "id": "calendario",
+      "seed": 82,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a white soccer ball on top of a wooden table next to an old paper wall calendar with no readable text, a red circle marker, warm light."
+    },
+    {
+      "id": "hinchas",
+      "seed": 83,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: packed stands of a football stadium with fans in many different team colors (green, red, white, blue, yellow) waving plain flags with no symbols, confetti, joy, seen from the pitch."
+    }
+  ]
+}

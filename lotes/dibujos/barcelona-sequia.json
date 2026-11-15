@@ -1,0 +1,35 @@
+{
+  "modelo": "4b",
+  "referencias": [
+    "scripts/guineo/ref/estilo1.jpg"
+  ],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic lighting, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "estadio",
+      "seed": 61,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a giant football stadium in a tropical port city at dusk, stands painted yellow, flags waving, an empty trophy pedestal in the foreground with a spotlight on it and no trophy, nostalgic mood."
+    },
+    {
+      "id": "hincha",
+      "seed": 62,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a football fan seen from behind wearing a plain yellow jersey with no text, hands on his head, looking at the pitch from the stands at night, frustrated mood, no face visible."
+    },
+    {
+      "id": "vitrina",
+      "seed": 63,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a dusty glass trophy cabinet with many old golden trophies and one empty space with a small spotlight, yellow light, dramatic shadows."
+    }
+  ]
+}
