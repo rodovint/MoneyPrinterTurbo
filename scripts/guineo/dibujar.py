@@ -48,6 +48,9 @@ def main(spec_path, out_dir):
             if r.ok:
                 break
             print(f"[{esc['id']}] intento {intento + 1}: HTTP {r.status_code} {r.text[:300]}", flush=True)
+            if r.status_code == 429 and "daily free allocation" in r.text:
+                print("::warning::Se acabo el cupo gratis del dia de Cloudflare (se renueva a las 19:00 de Ecuador). Sin dibujos por hoy.", flush=True)
+                return
             time.sleep(10 * (intento + 1))
         else:
             print(f"[{esc['id']}] FALLÓ", flush=True); continue

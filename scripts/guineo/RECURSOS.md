@@ -29,7 +29,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 ## Dibujos automáticos (Cloudflare, ya configurado)
 - Escribe `lotes/dibujos/<reel>.json` (formato de `lotes/dibujos/espana-inglaterra.json`: referencia de estilo `scripts/guineo/ref/estilo1.jpg`, 3–4 escenas, prompts en inglés) y haz push: la Action "Dibujos" solo dibuja los JSON nuevos y los publica en un Release `dibujos-...` como `<reel>-<id>.png`.
 - Bájalos a `lotes/img/` y úsalos como `"foto": "img/<archivo>.png"` con `"movimiento"`. Revísalos antes (Read): si algo sale mal (p. ej. balón de fútbol americano), corrige el prompt y repite solo ese.
-- **Regla de Mui**: ilustraciones de la escena (estadio, hinchas de espaldas, balón, camisetas lisas, objetos), **nunca caras realistas de jugadores reales**, sin escudos, logos ni texto. Cupo gratis ≈ 6 dibujos/día con "9b"; para más usa `"modelo": "4b"`.
+- **Regla de Mui**: ilustraciones de la escena (estadio, hinchas de espaldas, balón, camisetas lisas, objetos), **nunca caras realistas de jugadores reales**, sin escudos, logos ni texto. Cupo gratis: 10.000 neuronas al día, que alcanzan para unos 8 dibujos con "9b" (se renueva a las 19:00 de Ecuador). Repártelo: 2–3 dibujos por reel y solo en los reels más importantes. Si la Action dice que se acabó el cupo, ese reel va con fondos de Pixabay o foto_commons.
 - En la descripción: "Ilustraciones generadas con IA".
 
 ## Créditos (van en la descripción de YouTube)
