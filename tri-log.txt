@@ -1,0 +1,10 @@
+ok A2
+ok A3
+ok A4
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+  2.78-  9.16  A Ronaldinho le falta un gol para llegar a 300, y hoy vuelve a jugar a los 46 años.
+ 10.82- 16.50  A Ronaldinho le falta un gol para llegar a 300, y hoy vuelve a jugar a los 46 años.
+ 25.96- 33.38  Y es titular ante el Forley con estadio lleno y una tribuna que lleva su nombre, R10.
+ 36.66- 43.88  Y es titular ante el Forley con estadio lleno y una tribuna que lleva su nombre, R10.
+ 48.76- 55.76  En ecuador a las 11 y media, haz el gol 300, comenta y suscríbete a Guinea O Comunicaciones.
+ 57.88- 64.82  En ecuador a las 11 y media, haz el gol 300, comenta y suscríbete a Guinea O Comunicaciones.
