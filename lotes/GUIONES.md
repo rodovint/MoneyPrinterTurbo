@@ -1,4 +1,4 @@
-# Guineo Deportes · guiones del 15 de noviembre de 2026 (mañana)
+# Guineo Comunicaciones · guiones del 15 de noviembre de 2026 (mañana)
 
 **Cómo grabar:** un audio por reel. Lee las frases en orden y haz una pausa corta (como medio segundo) entre una y otra; así se sincroniza solo.
 **Nombres de archivo:** `01`, `02`... hasta `05` (sirve .m4a, .mp3, .ogg, .opus o .wav).
@@ -12,7 +12,7 @@
 4. Inglaterra, de Thomas Tuchel, suma cuatro triunfos y una sola derrota.
 5. Y esa derrota fue justamente ante España: tres a dos en Wembley.
 6. ¿Quién gana hoy en Madrid?
-7. Comenta y síguenos en Guineo Deportes.
+7. Comenta y síguenos en Guineo Comunicaciones.
 
 ## 02 · La Sub-17 ya tiene lista para el Mundial
 
@@ -22,7 +22,7 @@
 4. El debut es este jueves 19, a las ocho de la mañana, ante Nueva Caledonia.
 5. Luego vienen Uganda, el domingo 22, y Corea del Sur, el miércoles 25.
 6. ¿Hasta dónde llega la Sub-17?
-7. Comenta y síguenos en Guineo Deportes.
+7. Comenta y síguenos en Guineo Comunicaciones.
 
 ## 03 · Emelec y la idea de la sociedad anónima
 
@@ -33,7 +33,7 @@
 5. Y deja preguntas abiertas: ¿quién pondría la plata y quién tomaría las decisiones?
 6. Mientras tanto, unos doce jugadores saldrán al cierre de 2026, incluidos los tres arqueros.
 7. Hincha eléctrico, ¿sociedad anónima sí o no?
-8. Comenta y síguenos en Guineo Deportes.
+8. Comenta y síguenos en Guineo Comunicaciones.
 
 ## 04 · Barcelona: seis años sin título
 
@@ -43,7 +43,7 @@
 4. Exjugadores apuntan a la dirigencia; Raúl Avilés dijo: Barcelona es una institución que se vende sola.
 5. Lo próximo: visita a Católica el sábado 21, a las cuatro y media, en el Atahualpa.
 6. Torero, ¿quién tiene la culpa de la sequía?
-7. Comenta y síguenos en Guineo Deportes.
+7. Comenta y síguenos en Guineo Comunicaciones.
 
 ## 05 · ¿Cuándo vuelve la LigaPro?
 
@@ -53,4 +53,4 @@
 4. El domingo juegan Manta con Delfín y Orense con Mushuc Runa.
 5. Y cierra Liga de Quito ante Aucas, a las cuatro y media.
 6. ¿Qué partido no te pierdes?
-7. Comenta y síguenos en Guineo Deportes.
+7. Comenta y síguenos en Guineo Comunicaciones.

@@ -1,4 +1,4 @@
-"""Genera los reels de Guineo Deportes a partir de lotes/actual.json.
+"""Genera los reels de Guineo Comunicaciones a partir de lotes/actual.json.
 
 Cada escena lleva una oracion narrada y un grafico de la noticia. Los clips de
 Pixabay solo se usan de fondo, oscurecidos, y se filtran por etiquetas para que
@@ -19,6 +19,7 @@ BG, INK, Y = (13, 20, 17), (248, 246, 238), (246, 201, 14)
 VOICE = "es-EC-LuisNeural"
 GAP = 0.08
 RITMO = "+18%"
+MARCA = "GUINEO COMUNICACIONES"
 BUSQUEDAS = ["soccer stadium", "football stadium", "soccer match", "soccer field", "soccer fans"]
 ETIQUETAS = {"soccer", "football", "stadium", "futbol", "pitch"}
 EXCLUIR = {"woman", "women", "man", "men", "girl", "boy", "person", "model", "portrait", "freestyle",
@@ -147,12 +148,20 @@ def card(c):
         f2, l2 = fit(d, c["dato"], 840, 2, [80, 70, 60, 50])
         titular(d, l2, f2, 600 + (130 - len(l2) * f2.size * 1.16) / 2, W // 2, Y)
     elif kind == "cierre":
-        ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
-        d.rectangle([60, 360, W - 60, 660], fill=Y)
-        f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 1, [150, 130])
-        if len(l) > 1 or d.textlength(l[0], font=f) > 880:
-            f, l = fit(d, c.get("marca", "GUINEO DEPORTES"), 880, 2, [120, 110, 96])
-        titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, BG)
+        marca_txt = c.get("marca", MARCA)
+        logo = os.path.join(ROOT, "scripts/guineo/logo-guineo.png")
+        if os.path.exists(logo):
+            ctext(d, 40, [c["texto"]], fit(d, c["texto"], 900, 1, [110, 96, 84])[0], INK)
+            lg = Image.open(logo).convert("RGBA").resize((330, 330), Image.LANCZOS)
+            im.alpha_composite(lg, ((W - 330) // 2, 185))
+            d.rectangle([60, 545, W - 60, 805], fill=Y)
+            f, l = fit(d, marca_txt, 880, 2, [120, 110, 96, 84])
+            titular(d, l, f, 675 - len(l) * f.size * 1.16 / 2, W // 2, BG)
+        else:
+            ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
+            d.rectangle([60, 360, W - 60, 660], fill=Y)
+            f, l = fit(d, marca_txt, 880, 2, [120, 110, 96, 84])
+            titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, BG)
     else:
         raise ValueError(f"tipo de escena desconocido: {kind}")
     return im
@@ -161,9 +170,11 @@ def card(c):
 def marca(tag):
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
-    d.rectangle([60, 120, 500, 200], fill=Y)
-    d.text((280, 160), "GUINEO DEPORTES", font=A(52), fill=BG, anchor="mm")
-    d.text((525, 160), tag, font=B(36), fill=INK, anchor="lm", stroke_width=3, stroke_fill=BG)
+    f = A(46)
+    w = d.textlength(MARCA, font=f) + 48
+    d.rectangle([60, 120, 60 + w, 200], fill=Y)
+    d.text((60 + w / 2, 160), MARCA, font=f, fill=BG, anchor="mm")
+    d.text((60, 225), tag, font=B(34), fill=INK, anchor="lm", stroke_width=3, stroke_fill=BG)
     return im
 
 
