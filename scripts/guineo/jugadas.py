@@ -76,7 +76,7 @@ def _proyector(s, arriba=190, abajo=890, ancho_arriba=600, ancho_abajo=1240, fon
         a, b = P(x - 1, y), P(x + 1, y)
         return math.dist(a, b) / 2 / s
 
-    return P, escala
+    return P, escala, Hm
 
 
 def _poligono_cancha(d, P, pts, **kw):
@@ -237,29 +237,25 @@ def _retro(c, t, dur, fuente_titulo, fuente_num, fuente_texto):
     im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     d.fontmode = "1"
-    P, esc = _proyector(s, arriba=200, abajo=900, ancho_arriba=760, ancho_abajo=1500, fondo=_alcance(c))
+    fondo_c = _alcance(c)
+    P, esc, Hm = _proyector(s, arriba=255, abajo=900, ancho_arriba=600, ancho_abajo=1060, fondo=fondo_c)
     loc = _rgb(c.get("local", {}).get("color", "#1E8A4C"))
     riv = _rgb(c.get("rival", {}).get("color", "#B3202A"))
 
-    # tribuna detras del arco, con hinchas que se mueven
-    ty0, ty1 = round(120 * s), round(P(0, -7)[1])
-    d.rectangle([0, ty0, w, ty1], fill=(28, 30, 44, 255))
-    rnd = random.Random(int(t * 7))
-    base = random.Random(7)
-    for yy in range(ty0 + 2, ty1 - 3, 4):
-        for xx in range(1, w, 3):
-            colr = base.choice([loc, loc, Y, (230, 230, 230), (60, 60, 80)])
-            salto = 1 if rnd.random() < 0.18 else 0
-            d.rectangle([xx, yy - salto, xx + 1, yy + 1 - salto], fill=(*colr, 255))
-    d.rectangle([0, ty1 - 3, w, ty1], fill=(*Y, 255))  # valla publicitaria lisa
+    # estadio lleno: tribunas detras del arco y a los lados con hinchas del local
+    est = _estadio(c, "retro", s, Hm, w, h, fondo_c)
+    im.alpha_composite(est["base"])
+    _ambiente(im, c, est, t, dur, "retro", s, Hm, None)
+    d = ImageDraw.Draw(im)
+    d.fontmode = "1"
 
     # cesped a franjas, en perspectiva, con un margen fuera de la cancha
-    d.rectangle([0, ty1, w, h], fill=(56, 138, 50, 255))
     franjas = 14
     for i in range(franjas):
-        y_a, y_b = -9 + i * (115 / franjas), -9 + (i + 1) * (115 / franjas)
+        y_a, y_b = -7 + i * (fondo_c + 40) / franjas, -7 + (i + 1) * (fondo_c + 40) / franjas
         colr = (62, 150, 56) if i % 2 else (74, 166, 64)
-        _poligono_cancha(d, P, [(-60, y_a), (160, y_a), (160, y_b), (-60, y_b)], fill=(*colr, 255))
+        _poligono_cancha(d, P, [(-7, max(y_a, -7)), (107, max(y_a, -7)), (107, y_b), (-7, y_b)], fill=(*colr, 255))
+    _vallas(d, P, c, fondo_c, 1)
     _lineas_cancha(d, P, (240, 244, 236, 255), 1)
 
     # arco con red
@@ -359,23 +355,29 @@ def _retro(c, t, dur, fuente_titulo, fuente_num, fuente_texto):
 def _tv(c, t, dur, fuente_titulo, fuente_num, fuente_texto):
     im = Image.new("RGBA", (LW, LH), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
-    P, esc = _proyector(1.0, arriba=190, abajo=900, ancho_arriba=700, ancho_abajo=1500, fondo=_alcance(c))
+    fondo_c = _alcance(c)
+    P, esc, Hm = _proyector(1.0, arriba=255, abajo=900, ancho_arriba=600, ancho_abajo=1060, fondo=fondo_c)
     loc = _rgb(c.get("local", {}).get("color", "#1E8A4C"))
     riv = _rgb(c.get("rival", {}).get("color", "#B3202A"))
 
-    # cesped oscuro con franjas y degradado hacia el fondo
+    est = _estadio(c, "tv", 1.0, Hm, LW, LH, fondo_c)
+    im.alpha_composite(est["base"])
+    _ambiente(im, c, est, t, dur, "tv", 1.0, Hm, None)
+    d = ImageDraw.Draw(im)
     franjas = 12
     for i in range(franjas):
-        y_a, y_b = -8 + i * (115 / franjas), -8 + (i + 1) * (115 / franjas)
-        base = (22, 70, 42) if i % 2 else (26, 80, 48)
-        osc = 0.55 + 0.45 * (i / franjas)
+        y_a, y_b = -7 + i * (fondo_c + 40) / franjas, -7 + (i + 1) * (fondo_c + 40) / franjas
+        base = (24, 78, 46) if i % 2 else (29, 90, 53)
+        osc = 0.7 + 0.3 * (i / franjas)
         colr = tuple(int(v * osc) for v in base)
-        _poligono_cancha(d, P, [(-60, y_a), (160, y_a), (160, y_b), (-60, y_b)], fill=(*colr, 240))
-    # desvanecer los bordes de la cancha
-    alfa = Image.new("L", (LW, LH), 0)
-    ImageDraw.Draw(alfa).rounded_rectangle([40, 150, LW - 40, LH + 60], radius=60, fill=255)
-    alfa = alfa.filter(ImageFilter.GaussianBlur(40))
-    im.putalpha(Image.fromarray(np.minimum(np.array(im.getchannel("A")), np.array(alfa))))
+        _poligono_cancha(d, P, [(-7, max(y_a, -7)), (107, max(y_a, -7)), (107, y_b), (-7, y_b)], fill=(*colr, 255))
+    _vallas(d, P, c, fondo_c, 2)
+    # luz de reflectores sobre el cesped
+    luz = Image.new("RGBA", (LW, LH), (0, 0, 0, 0))
+    dl = ImageDraw.Draw(luz)
+    for cx_ in (LW * 0.22, LW * 0.78):
+        dl.ellipse([cx_ - 330, 260, cx_ + 330, 760], fill=(255, 250, 220, 26))
+    im.alpha_composite(luz.filter(ImageFilter.GaussianBlur(60)))
 
     # lineas con brillo
     lin = Image.new("RGBA", (LW, LH), (0, 0, 0, 0))
@@ -503,6 +505,207 @@ def _titulo_y_texto(d, c, texto, fuente_titulo, fuente_texto):
         tw = d.textlength(texto, font=fuente_texto) + 60
         d.rounded_rectangle([(LW - tw) / 2, LH - 140, (LW + tw) / 2, LH - 52], radius=16, fill=(*BG, 215))
         d.text((LW / 2, LH - 96), texto, font=fuente_texto, fill=INK, anchor="mm")
+
+
+# ---------------------------------------------------------------- estadio y ambiente
+_CACHE_EST = {}
+
+
+def _color2(c):
+    return _rgb(c.get("local", {}).get("color2", "#F6C90E"))
+
+
+def _a_cancha(Hinv, X, Y):
+    v = Hinv @ np.array([X, Y, 1.0])
+    if v[2] <= 1e-6:
+        return None
+    return v[0] / v[2], v[1] / v[2]
+
+
+def _dist_tribuna(u, v):
+    """Distancia (en unidades de cancha) desde el borde de la cancha hacia la tribuna; <=0 es cancha."""
+    return max(-v - 9, -u - 10, u - 110)
+
+
+def _estadio(c, estilo, s, Hm, w, h, fondo):
+    """Tribunas llenas (detras del arco y a los lados) con hinchas en los colores del local.
+    Se calcula una vez por jugada: fondo fijo + 4 cuadros de hinchada normal + 4 de festejo."""
+    loc, c2 = _rgb(c.get("local", {}).get("color", "#1E8A4C")), _color2(c)
+    clave = (estilo, s, tuple(np.round(Hm.flatten(), 3)), loc, c2, fondo)
+    if clave in _CACHE_EST:
+        return _CACHE_EST[clave]
+    Hinv = np.linalg.inv(Hm)
+    retro = estilo == "retro"
+    base = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    db = ImageDraw.Draw(base)
+    techo = round((96 if retro else 100) * s)  # debajo del titulo
+    hinchas, lamparas = [], []
+    paso_x, paso_y = (3, 4) if retro else (9, 9)
+    rnd = random.Random(10)
+    paleta = [loc] * 9 + [c2] * 5 + [(240, 240, 235)] * 2 + [(40, 40, 52)] * 3
+    for Yp in range(techo, h, paso_y):
+        for Xp in range(0, w, paso_x):
+            X_, Y_ = Xp + (0 if retro else rnd.uniform(-2, 2)), Yp + (Yp // paso_y % 2) * paso_x / 2
+            uv = _a_cancha(Hinv, X_ / s, Y_ / s)
+            if uv is None:
+                continue
+            dist = _dist_tribuna(*uv)
+            if dist <= 0:
+                continue
+            luz = max(0.45, 1 - dist / 70)
+            escalon = (dist % 6) < 0.7
+            fondo_c = tuple(int(v * luz * 0.35) for v in (70, 72, 90))
+            if retro:
+                db.rectangle([Xp, Yp, Xp + paso_x - 1, Yp + paso_y - 1], fill=(*fondo_c, 255))
+            else:
+                db.rectangle([Xp - paso_x / 2, Yp - paso_y / 2, Xp + paso_x / 2, Yp + paso_y / 2], fill=(*fondo_c, 255))
+            if escalon:
+                continue
+            col = tuple(int(v * luz) for v in rnd.choice(paleta))
+            hinchas.append((X_, Y_, col, luz, rnd.random(), uv))
+    # techo y torres de luz
+    if retro:
+        db.rectangle([0, techo - 6, w, techo], fill=(18, 18, 28, 255))
+    else:
+        g = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+        dg = ImageDraw.Draw(g)
+        dg.rectangle([0, techo - 12, w, techo + 4], fill=(10, 10, 16, 255))
+        base.alpha_composite(g)
+    for fx in (0.08, 0.92):
+        lamparas.append((w * fx, techo - (5 if retro else 6)))
+    est = {"base": base, "hinchas": [], "gol": [], "lista": hinchas, "lamparas": lamparas, "Hinv": Hinv, "techo": techo}
+    for festejo in (False, True):
+        for k in range(4):
+            cuadro = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+            dc = ImageDraw.Draw(cuadro)
+            r2 = random.Random(100 + k + 10 * festejo)
+            for X_, Y_, col, luz, ph, uv in hinchas:
+                salta = r2.random() < (0.75 if festejo else 0.16)
+                piel = tuple(int(v * luz) for v in ((210, 160, 120) if ph < 0.7 else (120, 85, 60)))
+                if retro:
+                    x, y = round(X_), round(Y_) - (1 if salta else 0)
+                    dc.rectangle([x, y + 1, x + 1, y + 2], fill=(*col, 255))
+                    dc.point((x, y), fill=(*piel, 255))
+                    if festejo and salta and ph < 0.5:
+                        dc.point((x + (1 if ph < 0.25 else 0), y - 1), fill=(*piel, 255))
+                else:
+                    r = 3.2
+                    y = Y_ - (3.5 if salta else 0)
+                    dc.ellipse([X_ - r, y - 1, X_ + r, y + 2 * r], fill=(*col, 255))
+                    dc.ellipse([X_ - 2, y - 5, X_ + 2, y - 1], fill=(*piel, 255))
+                    if festejo and salta and ph < 0.45:  # bufanda arriba
+                        dc.line([(X_ - 4, y - 8), (X_ + 4, y - 8)], fill=(*c2, 255), width=2)
+            if not retro:
+                cuadro = cuadro.filter(ImageFilter.GaussianBlur(0.6))
+            est["gol" if festejo else "hinchas"].append(cuadro)
+    _CACHE_EST[clave] = est
+    return est
+
+
+def _proy_s(Hm, s, u, v):
+    p = Hm @ np.array([u, v, 1.0])
+    return p[0] / p[2] * s, p[1] / p[2] * s
+
+
+def _ambiente(im, c, est, t, dur, estilo, s, Hm, _):
+    """Hinchada que salta, flashes, banderas, pancarta y (con "ambiente": "lleno") bengalas y humo."""
+    retro = estilo == "retro"
+    gol = _estado(c, t, dur)[4]
+    festejo = gol is not None
+    k = int(t * (8 if festejo else 5)) % 4
+    im.alpha_composite((est["gol"] if festejo else est["hinchas"])[k])
+    d = ImageDraw.Draw(im)
+    loc, c2 = _rgb(c.get("local", {}).get("color", "#1E8A4C")), _color2(c)
+    lleno = c.get("ambiente", "lleno") == "lleno"
+    w, h = im.size
+    # reflectores en el techo
+    for (lx, ly) in est["lamparas"]:
+        for i in range(4):
+            x = lx + (i - 1.5) * (5 if retro else 16)
+            if retro:
+                d.rectangle([round(x) - 1, round(ly) - 1, round(x) + 1, round(ly) + 1], fill=(255, 250, 210, 255))
+            else:
+                glow = Image.new("RGBA", (120, 120), (0, 0, 0, 0))
+                ImageDraw.Draw(glow).ellipse([30, 30, 90, 90], fill=(255, 245, 200, 150))
+                glow = glow.filter(ImageFilter.GaussianBlur(14))
+                im.alpha_composite(glow, (round(x - 60), round(ly - 60)))
+                d.ellipse([x - 5, ly - 5, x + 5, ly + 5], fill=(255, 255, 240, 255))
+    # banderas que flamean (lisas, colores del local)
+    for (u, v) in ((22, -16), (78, -17), (-17, 44), (117, 26)):
+        X, Y_ = _proy_s(Hm, s, u, v)
+        if not (0 <= X < w and est["techo"] < Y_ < h):
+            continue
+        bw, bh = (16, 9) if retro else (64, 36)
+        for i in range(bw):
+            ola = math.sin(t * 6 + i * (0.5 if retro else 0.13) + u) * (1.5 if retro else 5)
+            for j, colr in enumerate((loc, c2)):
+                y0 = Y_ - bh + j * bh / 2 + ola
+                d.rectangle([X - bw / 2 + i, y0, X - bw / 2 + i + (0 if retro else 1), y0 + bh / 2 - (0 if retro else 1)], fill=(*colr, 255))
+        d.line([(X - bw / 2, Y_ - bh - 2), (X - bw / 2, Y_ + (4 if retro else 14))], fill=(200, 200, 200, 255), width=1 if retro else 3)
+    # pancarta (p. ej. "RG10")
+    if c.get("pancarta"):
+        X, Y_ = _proy_s(Hm, s, -22, 12)
+        if 0 <= X < w and Y_ < h:
+            from PIL import ImageFont
+            import os
+            f = ImageFont.truetype(os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts", "Anton.ttf"), 13 if retro else 40)
+            tw = d.textlength(c["pancarta"], font=f) + (8 if retro else 26)
+            th = (16 if retro else 52)
+            d.rectangle([X - tw / 2, Y_ - th / 2, X + tw / 2, Y_ + th / 2], fill=(245, 245, 240, 255), outline=(*loc, 255), width=1 if retro else 4)
+            if retro:
+                d.fontmode = "1"
+            d.text((X, Y_), c["pancarta"], font=f, fill=(*loc, 255), anchor="mm")
+    # flashes de celulares/camaras
+    rnd = random.Random(int(t * 12))
+    lista = est["lista"]
+    n = (40 if festejo else 10) + (8 if lleno else 0)
+    for _i in range(min(n, len(lista))):
+        X_, Y_, *_r = rnd.choice(lista)
+        if retro:
+            d.point((round(X_), round(Y_)), fill=(255, 255, 255, 255))
+            d.point((round(X_) + 1, round(Y_)), fill=(255, 255, 255, 180))
+        else:
+            d.line([(X_ - 6, Y_), (X_ + 6, Y_)], fill=(255, 255, 255, 220), width=2)
+            d.line([(X_, Y_ - 6), (X_, Y_ + 6)], fill=(255, 255, 255, 220), width=2)
+            d.ellipse([X_ - 3, Y_ - 3, X_ + 3, Y_ + 3], fill=(255, 255, 255, 255))
+    # bengalas y humo detras del arco
+    if lleno:
+        capa_b = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+        dbg = ImageDraw.Draw(capa_b)
+        for j, (u, v) in enumerate(((34, -14), (66, -13), (-15, 40), (115, 44))):
+            X, Y_ = _proy_s(Hm, s, u, v)
+            if not (0 <= X < w and est["techo"] < Y_ < h):
+                continue
+            tit = 0.75 + 0.25 * math.sin(t * 23 + j * 2)
+            for p in range(7):  # humo que sube
+                f = ((t * 0.35 + p / 7 + j * 0.13) % 1)
+                hx = X + math.sin(f * 5 + j) * (4 if retro else 14) + f * (6 if retro else 22)
+                hy = Y_ - f * (40 if retro else 130)
+                rr = (2 + f * 7) if retro else (10 + f * 40)
+                a = int(120 * (1 - f))
+                dbg.ellipse([hx - rr, hy - rr, hx + rr, hy + rr], fill=(200, 190, 190, a))
+            rr = (3 if retro else 16) * tit
+            dbg.ellipse([X - rr * 2, Y_ - rr * 2, X + rr * 2, Y_ + rr * 2], fill=(255, 90, 40, 110))
+            dbg.ellipse([X - rr, Y_ - rr, X + rr, Y_ + rr], fill=(255, 210, 120, 255))
+        if not retro:
+            capa_b = _brillo(capa_b, 10, 1.2)
+        im.alpha_composite(capa_b)
+
+
+def _vallas(d, P, c, fondo, grosor):
+    """Vallas publicitarias lisas (sin marcas) alrededor de la cancha, en colores del local."""
+    loc, c2 = _rgb(c.get("local", {}).get("color", "#1E8A4C")), _color2(c)
+    tramos = [((u, -7.5), (u + 8, -7.5)) for u in range(-8, 108, 8)]
+    tramos += [((-8, v), (-8, v + 8)) for v in range(-8, int(fondo) + 40, 8)]
+    tramos += [((108, v), (108, v + 8)) for v in range(-8, int(fondo) + 40, 8)]
+    for i, (a, b) in enumerate(tramos):
+        colr = loc if i % 2 else c2
+        if a[1] == b[1]:
+            pts = [P(a[0], a[1]), P(b[0], b[1]), P(b[0], b[1] - 1.6), P(a[0], a[1] - 1.6)]
+        else:
+            dx = -1.6 if a[0] < 50 else 1.6
+            pts = [P(a[0], a[1]), P(b[0], b[1]), P(b[0] + dx, b[1]), P(a[0] + dx, a[1])]
+        d.polygon(pts, fill=(*colr, 255))
 
 
 ESTILOS = {"retro": _retro, "tv": _tv}

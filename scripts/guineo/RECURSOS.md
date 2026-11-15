@@ -84,6 +84,7 @@ Si la escena **no lleva `grafico`** (o `"tipo": "ninguno"`), la foto/dibujo/vide
   - `retro`: videojuego de 16 bits en perspectiva de transmisión, tribuna animada, sprites que corren, balón que se eleva, marcador de consola y ¡GOL! pixelado con confeti.
   - `tv`: gráfico táctico de transmisión, líneas con brillo, fichas con anillo, pases en curva que se dibujan solos, estela del balón.
   - Extras opcionales: `"nombre"` y `"destacado": true` en un jugador (etiqueta y pulso), `"curva"` en un paso, y `"marcador": {"local": "RAV", "rival": "FOR", "antes": [0, 0], "despues": [1, 0], "minuto": "35'"}`. La cámara se acerca sola a la zona de la jugada.
+  - **Estadio lleno** (siempre): tribunas detrás del arco y a los lados con hinchas en los colores del local (`"color2"` en `local` para el segundo color), vallas lisas, reflectores, banderas que flamean, flashes y la hinchada que salta (y festeja con el gol). `"ambiente": "lleno"` (por defecto) agrega bengalas con humo; `"ambiente": "normal"` las quita. `"pancarta": "RG10"` pone un cartel en la tribuna lateral (solo textos verificados).
 Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arriba) hasta la mitad de cancha (100). `y < 0` es dentro del arco. Los pasos se reparten a lo largo de la frase narrada. Describir la jugada solo con lo que cuentan las crónicas verificadas; si no se sabe cómo fue, no inventarla.
 
 ## Dibujos con Cloudflare Workers AI
