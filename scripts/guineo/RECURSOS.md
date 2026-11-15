@@ -3,10 +3,40 @@
 Guía para cualquier chat o agente que arme lotes en `lotes/actual.json`.
 El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels Guineo Comunicaciones").
 
-## Reglas fijas
-- **Voz siempre humana**: Andrea o Mui. Cada reel lleva `"audio": "audio/NN"` y el archivo va en `lotes/audio/`. Nunca la voz automática.
-- **Nada de fotos ni videos de medios, agencias o transmisiones de TV** (derechos de autor y Content ID). Solo lo de esta lista.
-- Mui aprueba los guiones antes de grabar y los videos antes de publicar.
+## Reglas fijas (vienen del doc "Guineo Comunicaciones — Recursos y habilidades para videos")
+- **Marca**: siempre "Guineo Comunicaciones" (cabecera, cierre, voz y textos). Nunca "Guineo Deportes".
+- **Voz**: lo ideal es la voz de Mui para el gancho, la emoción y el cierre, y Andrea (Edge TTS es-EC-AndreaNeural) para los datos.
+  - Escena con `"voz": "andrea"` (o `"luis"`): la genera el generador con Edge TTS. Si una palabra suena mal, pon en `"dicho"` cómo se pronuncia ("Cies") y deja `"texto"` para el subtítulo.
+  - Escenas sin `"voz"`: salen de la grabación humana del reel (`"audio": "audio/NN"`), cortada por pausas. La voz humana se limpia sola (graves, ruido, de-esser, compresor, presencia y +3 dB sobre Andrea).
+  - Si el reel no tiene `"audio"`, todo va con Andrea (solo cuando Mui lo pide).
+- **Primer fotograma**: cara o acción + el texto del gancho, sin fundido (el generador ya pone el texto desde el fotograma 0). La primera frase dice quién hizo qué.
+- **Duración**: 25–35 s (5–7 frases cortas). El generador avisa si pasa de 36 s.
+- **Las noticias institucionales se cuentan a través de una persona.**
+- **Fotos de personas**: solo las que manda Mui. Estadios y lugares: Wikimedia Commons libres (crédito automático).
+- **Nada de fotos ni videos de medios, agencias o transmisiones** salvo lo que Mui mande.
+- Mui aprueba los guiones antes de producir y los videos antes de publicar.
+
+## Efectos automáticos del generador (guineo_fx)
+- Transición de entrada en cada escena (barrido amarillo, zoom, glitch, destello), whoosh en cada corte.
+- **Franja de noticiero** con el logo y texto corrido: `"franja": ["DATO 1", "DATO 2"]` a nivel de reel (si falta, usa título y etiqueta). No sale en el cierre.
+- **Números animados** en las escenas `cifra` (cuentan hacia arriba o rebotan). `"animar": false` en la escena para dejarlo fijo.
+- Por escena: `"destello": true` (flash + golpe de bajo en el momento clave), `"suspenso": true` (latido), `"hinchada": true` (hinchada de fondo), `"tono": "recuerdo" | "urgente" | "celebracion"`, `"transicion": "barrido" | "zoom" | "glitch" | "flash" | "rota"`.
+- **Música** coral de fondo al 15% (`"musica": false` en el reel para quitarla, `"volumen_musica": 0.1`). Master a −14 LUFS.
+- **Cierre** con el logo redondo de Guineo Comunicaciones.
+- La Action sube al Release, además del mp4: `contacto-NN.jpg` (hoja de 12 fotogramas para revisar textos, cortes y superposiciones ANTES de mandar el video a Mui) y `portada-NN.jpg` (portada para Metricool, `videoThumbnailUrl`).
+
+## Créditos (van en la descripción de YouTube)
+- Música: "Epic Celestial Choir 2" – Megis (CC BY), Internet Archive.
+- Hinchada: "Football-crowd-Cheer+Jeers" – paulw2k vía Freesound (CC BY 4.0).
+- Ver `scripts/guineo/audio/LICENSES.csv`.
+
+## Publicación (SEO por red, en Metricool)
+- Un post por red (no uno compartido), cada uno con su texto:
+  - **YouTube Short**: título con nombres completos ("Independiente del Valle", no "IDV") + el hecho + lo que la gente busca + #Shorts (máx. 90). Descripción: la historia en 3–4 frases con nombres y cifras, la pregunta, "Suscríbete a Guineo Comunicaciones", fuentes, créditos de música/sonido y 10–12 hashtags. Sin primer comentario automático.
+  - **Instagram Reel**: gancho en MAYÚSCULAS con emoji, 2–3 líneas, pregunta, créditos y hashtags + #Reels. `firstCommentText` con una pregunta de sí/no o de elegir.
+  - **TikTok**: 1–2 líneas, pregunta y hashtags + #fyp.
+  - Portada: `videoThumbnailUrl` = portada-NN.jpg del Release.
+- Horarios: previa de un partido → YouTube unas 3 h antes (para que se indexe) e Instagram/TikTok en el pico del feed antes del evento; el resto con getBestTimeToPostByNetwork, separados 40 min.
 
 ## Fondos e imágenes (por escena)
 | Recurso | Campo | Notas |

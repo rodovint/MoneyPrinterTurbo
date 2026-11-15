@@ -3,7 +3,6 @@
     "titulo": "España vs. Inglaterra (HOY 14:45)",
     "etiqueta": "NATIONS LEAGUE",
     "color": "#C60B1E",
-    "audio": "audio/01",
     "escenas": [
       {
         "texto": "Partidazo hoy en Europa: España recibe a Inglaterra.",
@@ -11,7 +10,8 @@
           "tipo": "titular",
           "texto": "ESPAÑA VS. INGLATERRA",
           "sobre": "NATIONS LEAGUE"
-        }
+        },
+        "hinchada": true
       },
       {
         "texto": "Es a las tres menos cuarto de la tarde, hora de Ecuador, en el Metropolitano de Madrid.",
@@ -67,7 +67,8 @@
             }
           ],
           "pie": "PRIMERA RUEDA, EN WEMBLEY"
-        }
+        },
+        "destello": true
       },
       {
         "texto": "¿Quién gana hoy en Madrid?",
@@ -84,13 +85,18 @@
           "texto": "COMENTA Y SÍGUENOS"
         }
       }
+    ],
+    "franja": [
+      "ESPAÑA VS. INGLATERRA",
+      "HOY 14:45 (HORA DE ECUADOR)",
+      "METROPOLITANO DE MADRID",
+      "NATIONS LEAGUE"
     ]
   },
   {
     "titulo": "La Sub-17 ya tiene lista para el Mundial",
     "etiqueta": "MUNDIAL SUB-17",
     "color": "#034EA2",
-    "audio": "audio/02",
     "escenas": [
       {
         "texto": "La Sub-17 de Ecuador ya tiene lista para el Mundial de Qatar.",
@@ -137,7 +143,8 @@
           ],
           "hora": "JUE 19 · 08:00",
           "pie": "ASPIRE ZONE, QATAR"
-        }
+        },
+        "destello": true
       },
       {
         "texto": "Luego vienen Uganda, el domingo 22, y Corea del Sur, el miércoles 25.",
@@ -162,13 +169,18 @@
           "texto": "COMENTA Y SÍGUENOS"
         }
       }
+    ],
+    "franja": [
+      "ECUADOR SUB-17",
+      "MUNDIAL DE QATAR",
+      "DEBUT: JUEVES 19, 08:00",
+      "VS. NUEVA CALEDONIA"
     ]
   },
   {
     "titulo": "Emelec y la idea de la sociedad anónima",
     "etiqueta": "EMELEC",
     "color": "#1C4FA0",
-    "audio": "audio/03",
     "escenas": [
       {
         "texto": "Emelec no gana un título nacional desde 2017.",
@@ -202,7 +214,8 @@
           "tipo": "titular",
           "texto": "POR AHORA, SOLO UNA IDEA",
           "sobre": "SIN DECISIÓN FORMAL"
-        }
+        },
+        "suspenso": true
       },
       {
         "texto": "Y deja preguntas abiertas: ¿quién pondría la plata y quién tomaría las decisiones?",
@@ -210,14 +223,6 @@
           "tipo": "titular",
           "texto": "¿QUIÉN PONE LA PLATA?",
           "sobre": "LA GRAN DUDA"
-        }
-      },
-      {
-        "texto": "Mientras tanto, unos doce jugadores saldrán al cierre de 2026, incluidos los tres arqueros.",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "12",
-          "texto": "SALIDAS AL CIERRE DE 2026"
         }
       },
       {
@@ -235,13 +240,18 @@
           "texto": "COMENTA Y SÍGUENOS"
         }
       }
+    ],
+    "franja": [
+      "EMELEC",
+      "¿SOCIEDAD ANÓNIMA?",
+      "SIN DECISIÓN FORMAL",
+      "ÚLTIMO TÍTULO: 2017"
     ]
   },
   {
     "titulo": "Barcelona: seis años sin título",
     "etiqueta": "BARCELONA SC",
     "color": "#B8860B",
-    "audio": "audio/04",
     "escenas": [
       {
         "texto": "Barcelona cumple seis años sin ser campeón.",
@@ -273,7 +283,8 @@
           "tipo": "cita",
           "texto": "“SE VENDE SOLA”",
           "autor": "RAÚL AVILÉS, EXJUGADOR"
-        }
+        },
+        "destello": true
       },
       {
         "texto": "Lo próximo: visita a Católica el sábado 21, a las cuatro y media, en el Atahualpa.",
@@ -308,13 +319,17 @@
           "texto": "COMENTA Y SÍGUENOS"
         }
       }
+    ],
+    "franja": [
+      "BARCELONA SC",
+      "SEIS AÑOS SIN TÍTULO",
+      "SÁB 21: VS. U. CATÓLICA, 16:30"
     ]
   },
   {
     "titulo": "¿Cuándo vuelve la LigaPro?",
     "etiqueta": "FECHA 7",
     "color": "#14213D",
-    "audio": "audio/05",
     "escenas": [
       {
         "texto": "La LigaPro vuelve el viernes 20 de noviembre.",
@@ -340,7 +355,8 @@
           ],
           "hora": "VIE 20 · 12:00",
           "pie": "CAMPEÓN VS. VICECAMPEÓN"
-        }
+        },
+        "destello": true
       },
       {
         "texto": "El sábado, Católica recibe a Barcelona y Técnico a Deportivo Cuenca.",
@@ -411,6 +427,11 @@
           "texto": "COMENTA Y SÍGUENOS"
         }
       }
+    ],
+    "franja": [
+      "LIGAPRO VUELVE EL VIERNES 20",
+      "IDV VS. MACARÁ, 12:00",
+      "ORENSE VS. MUSHUC RUNA, DOM 14:00"
     ]
   }
 ]

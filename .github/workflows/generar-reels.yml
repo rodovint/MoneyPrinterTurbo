@@ -41,7 +41,7 @@ jobs:
         if: always()
         with:
           name: reels
-          path: salida/*.mp4
+          path: salida/*
           if-no-files-found: warn
           retention-days: 14
 
@@ -51,7 +51,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           shopt -s nullglob
-          files=(salida/*.mp4)
+          files=(salida/*.mp4 salida/*.jpg)
           if [ ${#files[@]} -eq 0 ]; then echo "Sin videos"; exit 0; fi
           tag="reels-$(date -u +%Y%m%d-%H%M)-${{ github.run_number }}"
           gh release create "$tag" "${files[@]}" --title "Reels Guineo $tag" --notes "Generado por la ejecucion ${{ github.run_id }}" --target "${{ github.sha }}"
