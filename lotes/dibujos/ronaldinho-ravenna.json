@@ -1,0 +1,11 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "ovacion", "seed": 81, "referencias": [0], "prompt": "Vertical illustration: a small Italian football stadium on a cold late afternoon, the whole crowd standing and applauding, yellow and red scarves raised, seen from the pitch towards the stands, golden sunset light mixed with floodlights, emotional atmosphere."},
+    {"id": "diez", "seed": 82, "referencias": [0], "prompt": "Vertical illustration, seen from behind: a football player with long dark curly hair, a headband, black gloves and black tights, wearing a plain yellow shirt with red sleeves and the number 10 on the back, walking off the pitch raising one arm to the crowd, stands full of fans in yellow and red, no face visible."},
+    {"id": "balon", "seed": 83, "referencias": [0], "prompt": "Vertical illustration, close-up: a white soccer ball resting on wet green grass at the edge of the penalty area, yellow and red confetti falling, floodlight glare, stadium stands blurred behind."}
+  ]
+}
