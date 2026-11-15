@@ -345,39 +345,31 @@
     ]
   },
   {
-    "titulo": "Emelec piensa en ser sociedad anónima",
+    "titulo": "Emelec y la idea de la sociedad anónima",
     "etiqueta": "EMELEC",
     "color": "#1C4FA0",
     "audio": "audio/05",
     "escenas": [
       {
-        "texto": "Emelec busca salida a su crisis.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "EMELEC BUSCA SALIDA",
-          "sobre": "CRISIS AZUL"
-        }
-      },
-      {
-        "texto": "El último título nacional del Bombillo fue en 2017.",
+        "texto": "Emelec no gana un título nacional desde 2017.",
         "grafico": {
           "tipo": "cifra",
           "valor": "2017",
-          "texto": "EL ÚLTIMO TÍTULO NACIONAL"
+          "texto": "EL ÚLTIMO TÍTULO NACIONAL DE EMELEC"
         }
       },
       {
-        "texto": "Su director deportivo, Luis Miguel Escalada, planteó convertir al club en sociedad anónima.",
+        "texto": "Ahora, su director deportivo, Luis Miguel Escalada, planteó convertir al club en sociedad anónima.",
         "grafico": {
           "tipo": "protagonista",
           "rol": "DIRECTOR DEPORTIVO DE EMELEC",
           "nombre": "LUIS MIGUEL ESCALADA",
-          "dato": "PROPONE SOCIEDAD ANÓNIMA",
+          "dato": "PLANTEA SOCIEDAD ANÓNIMA",
           "color": "#1C4FA0"
         }
       },
       {
-        "texto": "Dijo que ese es un poco el camino del club para estabilizarse en lo económico.",
+        "texto": "Según él, ese sería el camino para estabilizar al club en lo económico.",
         "grafico": {
           "tipo": "cita",
           "texto": "“ESTABILIZAR EN LO ECONÓMICO”",
@@ -385,7 +377,23 @@
         }
       },
       {
-        "texto": "Además, confirmó que unos doce jugadores saldrán al cierre de 2026, incluidos los tres arqueros.",
+        "texto": "Pero por ahora es solo una idea: no hay calendario ni una decisión formal.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "POR AHORA, SOLO UNA IDEA",
+          "sobre": "SIN DECISIÓN FORMAL"
+        }
+      },
+      {
+        "texto": "Y deja preguntas abiertas: ¿quién pondría la plata y quién tomaría las decisiones?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN PONE LA PLATA?",
+          "sobre": "LA GRAN DUDA"
+        }
+      },
+      {
+        "texto": "Mientras tanto, unos doce jugadores saldrán al cierre de 2026, incluidos los tres arqueros.",
         "grafico": {
           "tipo": "cifra",
           "valor": "12",
@@ -393,10 +401,10 @@
         }
       },
       {
-        "texto": "Hincha eléctrico, ¿estás de acuerdo con la sociedad anónima?",
+        "texto": "Hincha eléctrico, ¿sociedad anónima sí o no?",
         "grafico": {
           "tipo": "titular",
-          "texto": "¿SOCIEDAD ANÓNIMA?",
+          "texto": "¿SOCIEDAD ANÓNIMA SÍ O NO?",
           "sobre": "TU OPINIÓN"
         }
       },
