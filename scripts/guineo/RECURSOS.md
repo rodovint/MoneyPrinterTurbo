@@ -80,6 +80,10 @@ Si la escena **no lleva `grafico`** (o `"tipo": "ninguno"`), la foto/dibujo/vide
            {"mover": {"9": [55, 18]}, "balon": [55, 18], "flecha": "pase", "texto": "CENTRO"},
            {"balon": [46, -2], "flecha": "tiro", "gol": true, "texto": "REMATE CRUZADO"}]}
 ```
+- **Estilos nuevos** (`scripts/guineo/jugadas.py`), mismo formato, con `"tipo": "retro"` o `"tipo": "tv"`:
+  - `retro`: videojuego de 16 bits en perspectiva de transmisión, tribuna animada, sprites que corren, balón que se eleva, marcador de consola y ¡GOL! pixelado con confeti.
+  - `tv`: gráfico táctico de transmisión, líneas con brillo, fichas con anillo, pases en curva que se dibujan solos, estela del balón.
+  - Extras opcionales: `"nombre"` y `"destacado": true` en un jugador (etiqueta y pulso), `"curva"` en un paso, y `"marcador": {"local": "RAV", "rival": "FOR", "antes": [0, 0], "despues": [1, 0], "minuto": "35'"}`. La cámara se acerca sola a la zona de la jugada.
 Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arriba) hasta la mitad de cancha (100). `y < 0` es dentro del arco. Los pasos se reparten a lo largo de la frase narrada. Describir la jugada solo con lo que cuentan las crónicas verificadas; si no se sabe cómo fue, no inventarla.
 
 ## Dibujos con Cloudflare Workers AI

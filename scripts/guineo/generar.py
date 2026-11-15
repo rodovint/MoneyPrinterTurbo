@@ -74,7 +74,7 @@ def titular(d, lines, f, y, cx, fill=INK):
         y += f.size * 1.16
 
 
-ANIMADOS = {"pizarra", "pixel"}
+ANIMADOS = {"pizarra", "pixel", "retro", "tv"}
 
 
 _ESC = {}

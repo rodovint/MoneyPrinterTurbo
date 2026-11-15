@@ -30,6 +30,8 @@ import math
 
 from PIL import Image, ImageDraw
 
+import jugadas
+
 LW, LH = 1080, 900
 INK, Y, BG = (248, 246, 238), (246, 201, 14), (13, 20, 17)
 
@@ -126,6 +128,8 @@ def _punta(d, a, b, fill, tam):
 
 def capa(c, t, dur, fuente_titulo, fuente_num, fuente_texto):
     """Devuelve una capa RGBA de 1080x900 con la jugada en el instante t."""
+    if c.get("estilo") in jugadas.ESTILOS or c.get("tipo") in jugadas.ESTILOS:
+        return jugadas.capa(c, t, dur, fuente_titulo, fuente_num, fuente_texto)
     pixel = c.get("estilo") == "pixel" or c.get("tipo") == "pixel"
     s = 0.2 if pixel else 1.0
     im = Image.new("RGBA", (round(LW * s), round(LH * s)), (0, 0, 0, 0))
