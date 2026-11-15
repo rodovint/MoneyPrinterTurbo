@@ -1,4 +1,4 @@
-"""Pizarra tactica animada para los reels de Guineo Deportes.
+"""Pizarra tactica animada para los reels de Guineo Comunicaciones.
 
 Dibuja la mitad de ataque de una cancha (el arco arriba) y anima una jugada
 paso a paso. Dos estilos: "pizarra" (tiza sobre pizarra verde) y "pixel"

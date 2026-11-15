@@ -1,4 +1,4 @@
-name: Generar reels Guineo Deportes
+name: Generar reels Guineo Comunicaciones
 
 on:
   workflow_dispatch:

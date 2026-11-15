@@ -249,9 +249,9 @@ def voz(text, base):
 
 
 def abrir(url, timeout=60):
-    agente = "Mozilla/5.0 (X11; Linux x86_64) GuineoDeportes/1.0"
+    agente = "Mozilla/5.0 (X11; Linux x86_64) GuineoComunicaciones/1.0"
     if "wikimedia.org" in url:
-        agente = "GuineoDeportesReels/1.0 (https://github.com/rodovint/MoneyPrinterTurbo)"
+        agente = "GuineoComunicacionesReels/1.0 (https://github.com/rodovint/MoneyPrinterTurbo)"
     pedido = urllib.request.Request(url, headers={"User-Agent": agente, "Accept": "*/*"})
     for intento in range(4):
         try:

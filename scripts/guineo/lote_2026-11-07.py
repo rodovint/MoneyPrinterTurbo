@@ -6,7 +6,7 @@ el generador usa esas pausas para sincronizar la voz con los graficos.
 import json, os
 
 CIERRE = {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
-SIGUE = "Comenta y síguenos en Guineo Deportes."
+SIGUE = "Comenta y síguenos en Guineo Comunicaciones."
 
 def t(texto, sobre):
     return {"tipo": "titular", "texto": texto, "sobre": sobre}
@@ -139,7 +139,7 @@ FUENTES = [
 
 def main():
     root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    lote, md = [], ["# Guineo Deportes · guiones del 7 de noviembre de 2026", "",
+    lote, md = [], ["# Guineo Comunicaciones · guiones del 7 de noviembre de 2026", "",
                     "**Cómo grabar:** un audio por reel. Lee las frases en orden y haz una pausa corta (como medio segundo) entre una y otra; así se sincroniza solo.",
                     "**Nombres de archivo:** `01`, `02`... hasta `10` (sirve .m4a, .mp3, .ogg, .opus o .wav).", ""]
     for i, r in enumerate(REELS, 1):

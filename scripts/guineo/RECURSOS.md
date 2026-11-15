@@ -1,7 +1,7 @@
-# Guineo Deportes · recursos visuales del generador de reels
+# Guineo Comunicaciones · recursos visuales del generador de reels
 
 Guía para cualquier chat o agente que arme lotes en `lotes/actual.json`.
-El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels Guineo Deportes").
+El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels Guineo Comunicaciones").
 
 ## Reglas fijas
 - **Voz siempre humana**: Andrea o Mui. Cada reel lleva `"audio": "audio/NN"` y el archivo va en `lotes/audio/`. Nunca la voz automática.

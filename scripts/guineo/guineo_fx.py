@@ -30,7 +30,7 @@ ease = g.ease
 
 
 def marca(tag):
-    """Cabecera Guineo Comunicaciones (la del generador dice GUINEO DEPORTES)."""
+    """Cabecera Guineo Comunicaciones."""
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im); f = g.A(46)
     w = d.textlength("GUINEO COMUNICACIONES", font=f) + 48
     d.rectangle([60, 120, 60 + w, 200], fill=Y); d.text((60 + w / 2, 160), "GUINEO COMUNICACIONES", font=f, fill=BG, anchor="mm")
