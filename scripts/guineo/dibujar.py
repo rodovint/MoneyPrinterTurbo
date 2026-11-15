@@ -17,6 +17,7 @@ import requests
 from PIL import Image
 
 MODEL = "@cf/black-forest-labs/flux-2-klein-9b"
+MODELOS = {"4b": "@cf/black-forest-labs/flux-2-klein-4b", "9b": MODEL}
 
 
 def ref_bytes(path):
@@ -28,8 +29,10 @@ def ref_bytes(path):
 
 def main(spec_path, out_dir):
     acc, tok = os.environ["CF_ACCOUNT_ID"], os.environ["CF_API_TOKEN"]
-    url = f"https://api.cloudflare.com/client/v4/accounts/{acc}/ai/run/{MODEL}"
     spec = json.load(open(spec_path, encoding="utf-8"))
+    modelo = MODELOS.get(spec.get("modelo", "9b"), MODEL)
+    url = f"https://api.cloudflare.com/client/v4/accounts/{acc}/ai/run/{modelo}"
+    print("modelo", modelo, flush=True)
     os.makedirs(out_dir, exist_ok=True)
     refs = [ref_bytes(p) for p in spec.get("referencias", [])]
     w, h = spec.get("ancho", 1080), spec.get("alto", 1920)

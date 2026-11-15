@@ -19,6 +19,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: astral-sh/setup-uv@v5
       - name: Instalar dependencias
         run: uv sync --frozen
@@ -35,7 +37,9 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
           mkdir -p out
-          for f in lotes/dibujos/*.json; do
+          CAMBIADOS=$(git diff --name-only HEAD~1 HEAD -- lotes/dibujos/ | grep "\.json$" || true)
+          [ -z "$CAMBIADOS" ] && CAMBIADOS=$(ls lotes/dibujos/*.json)
+          for f in $CAMBIADOS; do
             n=$(basename "$f" .json)
             uv run python scripts/guineo/dibujar.py "$f" "out/$n" 2>&1 | tee -a out/log.txt
           done
