@@ -80,7 +80,8 @@ Si la escena **no lleva `grafico`** (o `"tipo": "ninguno"`), la foto/dibujo/vide
            {"mover": {"9": [55, 18]}, "balon": [55, 18], "flecha": "pase", "texto": "CENTRO"},
            {"balon": [46, -2], "flecha": "tiro", "gol": true, "texto": "REMATE CRUZADO"}]}
 ```
-- **Estilos nuevos** (`scripts/guineo/jugadas.py`), mismo formato, con `"tipo": "retro"` o `"tipo": "tv"`:
+- **Regla de Mui (15/11/2026): las jugadas se grafican SIEMPRE con `retro` o `tv` (el "3D"), con el estadio lleno.** Al proponer el guion, ofrece los dos y Mui elige; si no dice nada, usa `tv`. `pizarra` y `pixel` quedan solo para lotes viejos.
+- **Estilos de jugada** (`scripts/guineo/jugadas.py`), mismo formato, con `"tipo": "retro"` o `"tipo": "tv"`:
   - `retro`: videojuego de 16 bits en perspectiva de transmisión, tribuna animada, sprites que corren, balón que se eleva, marcador de consola y ¡GOL! pixelado con confeti.
   - `tv`: gráfico táctico de transmisión, líneas con brillo, fichas con anillo, pases en curva que se dibujan solos, estela del balón.
   - Extras opcionales: `"nombre"` y `"destacado": true` en un jugador (etiqueta y pulso), `"curva"` en un paso, y `"marcador": {"local": "RAV", "rival": "FOR", "antes": [0, 0], "despues": [1, 0], "minuto": "35'"}`. La cámara se acerca sola a la zona de la jugada.
