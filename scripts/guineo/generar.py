@@ -494,6 +494,8 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, c
     g = esc.get("grafico")
     animado = bool(g) and g.get("tipo") in ANIMADOS
     numero = g.get("valor") if g and g.get("tipo") == "cifra" and esc.get("animar", True) else None
+    if numero and (efectos.get("primera") or re.fullmatch(r"(19|20)\d\d", str(numero).strip())):
+        numero = None  # el gancho se ve completo desde el fotograma 0 y los años no "cuentan"
     c, ch = card({**g, "valor": ""} if numero else g), marca(tag)
     F = fx() if (efectos.get("entrada") or efectos.get("franja") or efectos.get("tono") or numero) else None
     logo = Image.open(LOGO).convert("RGBA") if efectos.get("franja") and os.path.exists(LOGO) else None
