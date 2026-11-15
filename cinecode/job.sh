@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Job 21 (2026-11-15): voz es-EC-AndreaNeural para el lote del 15/11 mañana (pedido de Mui, solo por hoy)
+# Job 22 (2026-11-15): voz es-EC-AndreaNeural, lote 15/11 mañana con cierre "Guineo Comunicaciones"
 set -u
 O=cinecode/out; mkdir -p $O
 uv run python - <<'PY'
