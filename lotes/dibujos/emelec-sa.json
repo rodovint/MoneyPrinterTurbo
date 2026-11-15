@@ -4,7 +4,7 @@
   "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic lighting, rich saturated colors, electric blue and navy palette. No text, no letters, no numbers, no logos, no club crests, no sponsors anywhere. No recognizable real people.",
   "ancho": 1080, "alto": 1920,
   "escenas": [
-    {"id": "estadio", "seed": 31, "referencias": [0], "prompt": "Vertical illustration: a big football stadium at night seen from the stands, electric blue seats, floodlights glowing, empty pitch, a lonely blue flag waving, melancholic mood of a long wait."},
+    {"id": "estadio", "seed": 41, "referencias": [0], "prompt": "Vertical illustration: a big football stadium at night seen from the stands, electric blue seats, floodlights glowing, empty pitch, a lonely blue flag waving, melancholic mood of a long wait."},
     {"id": "contrato", "seed": 32, "referencias": [0], "prompt": "Vertical illustration, close-up from above: a wooden boardroom table with a thick contract document, a fountain pen, a calculator and an electric blue scarf next to a football, warm desk lamp light, serious business mood."},
     {"id": "hincha", "seed": 33, "referencias": [0], "prompt": "Vertical illustration: a football fan seen from behind, wearing an electric blue jersey with no text, standing alone in the stands looking at the stadium at dusk, thoughtful mood, no face visible."},
     {"id": "plata", "seed": 34, "referencias": [0], "prompt": "Vertical illustration: a football resting on top of tall stacks of coins and banknotes on a dark table, a big question-mark-shaped shadow on the wall behind, electric blue light, mystery mood."}
