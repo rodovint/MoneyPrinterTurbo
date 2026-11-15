@@ -10,6 +10,9 @@ import edge_tts
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import pizarra  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 W, H, FPS = 1080, 1920, 30
 BG, INK, Y = (13, 20, 17), (248, 246, 238), (246, 201, 14)
@@ -69,7 +72,12 @@ def titular(d, lines, f, y, cx, fill=INK):
         y += f.size * 1.16
 
 
+ANIMADOS = {"pizarra", "pixel"}
+
+
 def card(c):
+    if not c or c.get("tipo") in ANIMADOS or c.get("tipo") == "ninguno":
+        return None
     im = Image.new("RGBA", (W, 900), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     kind = c["tipo"]
@@ -367,11 +375,11 @@ def foto_commons(titulo, carpeta):
         return None, None
 
 
-def lector_fondo(clip, n):
+def lector_fondo(clip, n, desde=0.0):
     if not clip:
         return None
     return subprocess.Popen(
-        ["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-i", clip, "-an",
+        ["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-ss", str(desde), "-i", clip, "-an",
          "-vf", f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}",
          "-frames:v", str(n), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
         stdout=subprocess.PIPE)
@@ -383,12 +391,32 @@ def teñir(arr, color):
     return (lum * np.array(color, np.float32) * 0.85 + lum * 40).clip(0, 255).astype(np.uint8)
 
 
-def foto_cuadro(foto, t, dur):
-    """Encuadre con zoom lento de una foto propia."""
-    z = 1.0 + 0.08 * (t / max(dur, .1))
+MOVIMIENTOS = {"zoom_in", "zoom_out", "paneo_izq", "paneo_der", "subir", "bajar", "quieto"}
+
+
+def foto_cuadro(foto, t, dur, mov="zoom_in"):
+    """Encuadre con movimiento lento (efecto Ken Burns) de una foto o dibujo."""
+    p = min(1.0, t / max(dur, .1))
+    p = p * p * (3 - 2 * p)
     w, h = foto.size
+    if mov == "zoom_out":
+        z = 1.08 - 0.08 * p
+    elif mov in ("paneo_izq", "paneo_der", "subir", "bajar"):
+        z = 1.06
+    elif mov == "quieto":
+        z = 1.0
+    else:
+        z = 1.0 + 0.08 * p
     cw, ch = w / z, h / z
     x, y = (w - cw) / 2, (h - ch) / 2
+    if mov == "paneo_der":
+        x = (w - cw) * p
+    elif mov == "paneo_izq":
+        x = (w - cw) * (1 - p)
+    elif mov == "subir":
+        y = (h - ch) * (1 - p)
+    elif mov == "bajar":
+        y = (h - ch) * p
     return foto.resize((W, H), Image.BILINEAR, box=(x, y, x + cw, y + ch))
 
 
@@ -414,12 +442,26 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, c
             esc = {**esc, "credito": cred}
     if esc.get("foto"):
         foto = cargar_foto(esc["foto"], lote)
-    fondo = None if foto else lector_fondo(clip, n)
+    propio = esc.get("video")
+    if propio:
+        propio = os.path.join(os.path.dirname(os.path.abspath(lote)), propio)
+        if not os.path.exists(propio):
+            print(f"::warning::No existe el video propio {esc['video']}, se usa el fondo normal", flush=True)
+            propio = None
+    mov = esc.get("movimiento", "zoom_in")
+    if mov not in MOVIMIENTOS:
+        mov = "zoom_in"
+    fondo = None if foto else lector_fondo(propio or clip, n, float(esc.get("video_inicio", 0)) if propio else 0.0)
     credito = None
     if esc.get("credito"):
         credito = Image.new("RGBA", (W, 60), (0, 0, 0, 0))
         ImageDraw.Draw(credito).text((W / 2, 30), esc["credito"], font=B(26), fill=INK, anchor="mm", stroke_width=3, stroke_fill=BG)
-    c, ch = card(esc["grafico"]), marca(tag)
+    g = esc.get("grafico")
+    animado = bool(g) and g.get("tipo") in ANIMADOS
+    c, ch = card(g), marca(tag)
+    limpio = c is None and not animado  # sin grafico: la imagen se ve con brillo completo
+    luz_foto, luz_video = (0.92, 0.9) if limpio else (0.45, 0.5)
+    fuentes = (A(56), B(30), A(70))
     caps = trozos(esc["texto"], marcas, wav_dur)
     capa = {}
     plano = np.full((H, W, 3), BG, np.uint8)
@@ -427,19 +469,25 @@ def render_escena(esc, wav_dur, marcas, clip, tag, dest, inicio, total, extra, c
         t = f / FPS
         arr = plano
         if foto:
-            arr = (np.asarray(foto_cuadro(foto, t, dur)) * 0.45).astype(np.uint8)
+            arr = (np.asarray(foto_cuadro(foto, t, dur, mov)) * luz_foto).astype(np.uint8)
         elif fondo:
             raw = fondo.stdout.read(W * H * 3)
             if len(raw) == W * H * 3:
-                arr = (teñir(np.frombuffer(raw, np.uint8).reshape(H, W, 3), color) * 0.55).astype(np.uint8)
+                cuadro = np.frombuffer(raw, np.uint8).reshape(H, W, 3)
+                if propio:
+                    arr = (cuadro * luz_video).astype(np.uint8)
+                else:
+                    arr = (teñir(cuadro, color) * 0.55).astype(np.uint8)
         im = Image.fromarray(arr).convert("RGBA")
         im.alpha_composite(ch)
         e = ease(t / 0.4)
-        layer = c
-        if e < 1:
-            layer = c.copy()
-            layer.putalpha(c.getchannel("A").point(lambda v: int(v * e)))
-        im.alpha_composite(layer, (0, 240 + int((1 - e) * 70)))
+        layer = pizarra.capa(g, t, dur, *fuentes) if animado else c
+        if layer is not None:
+            if e < 1:
+                base = layer
+                layer = base.copy()
+                layer.putalpha(base.getchannel("A").point(lambda v: int(v * e)))
+            im.alpha_composite(layer, (0, 240 + int((1 - e) * 70)))
         cur = caps[0][1]
         for ini, txt in caps:
             if t >= ini:
