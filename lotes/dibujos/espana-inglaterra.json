@@ -1,0 +1,11 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "estadio", "seed": 51, "referencias": [0], "prompt": "Vertical illustration: a huge modern football stadium at night packed with fans, half of the stands in red and yellow colors and a smaller section in white, floodlights, electric atmosphere before kick-off, seen from high in the stands."},
+    {"id": "duelo", "seed": 52, "referencias": [0], "prompt": "Vertical illustration, low angle: two football players seen from behind at the centre circle before kick-off, one in a plain red shirt and blue shorts, the other in a plain white shirt and navy shorts, a white soccer ball between them, floodlights, tension, no faces visible."},
+    {"id": "balon", "seed": 53, "referencias": [0], "prompt": "Vertical illustration, close-up: a classic white soccer ball on the centre spot of a night pitch, red and white confetti falling, floodlight glare, stands blurred behind."}
+  ]
+}
