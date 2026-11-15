@@ -1,0 +1,62 @@
+2.34-6.24 Ronaldinho volvió a los 46 años y el Rabena ganó dos a cero.
+   2.34-2.90  Ronaldinho
+   2.90-3.40  volvió
+   3.40-3.50  a
+   3.50-3.60  los
+   3.60-4.14  46
+   4.14-4.56  años
+   4.56-4.86  y
+   4.86-5.00  el
+   5.00-5.28  Rabena
+   5.28-5.58  ganó
+   5.58-5.82  dos
+   5.82-5.94  a
+   5.94-6.24  cero.
+8.04-11.42 Ronaldinho volvió a los 46 años y el Rabena ganó dos a cero.
+   8.04-8.60  Ronaldinho
+   8.60-8.96  volvió
+   8.96-9.04  a
+   9.04-9.10  los
+   9.10-9.52  46
+   9.52-9.90  años
+   9.90-10.08  y
+   10.08-10.18  el
+   10.18-10.44  Rabena
+   10.44-10.76  ganó
+   10.76-11.00  dos
+   11.00-11.08  a
+   11.08-11.42  cero.
+13.40-15.52 ¿Quieres ver otra vez a Ronaldinho en la cancha?
+   13.40-13.96  ¿Quieres
+   13.96-14.04  ver
+   14.04-14.22  otra
+   14.22-14.44  vez
+   14.44-14.56  a
+   14.56-15.06  Ronaldinho
+   15.06-15.16  en
+   15.16-15.26  la
+   15.26-15.52  cancha?
+17.88-19.92 ¿Quieres ver otra vez a Ronaldinho en la cancha?
+   17.88-18.44  ¿Quieres
+   18.44-18.52  ver
+   18.52-18.70  otra
+   18.70-18.90  vez
+   18.90-18.98  a
+   18.98-19.40  Ronaldinho
+   19.40-19.52  en
+   19.52-19.60  la
+   19.60-19.92  cancha?
+21.54-23.72 Comenta y síguenos en guineo comunicaciones.
+   21.54-22.10  Comenta
+   22.10-22.28  y
+   22.28-22.62  síguenos
+   22.62-22.82  en
+   22.82-23.12  guineo
+   23.12-23.72  comunicaciones.
+24.82-26.88 Comenta y síguenos en guineo comunicaciones.
+   24.82-25.38  Comenta
+   25.38-25.54  y
+   25.54-25.82  síguenos
+   25.82-26.08  en
+   26.08-26.36  guineo
+   26.36-26.88  comunicaciones.
