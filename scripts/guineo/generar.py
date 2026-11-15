@@ -575,8 +575,9 @@ def voz_clonada(texto, base, lote):
         return None
     wav = base + ".wav"
     subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-af",
-                           "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,"
-                           "highpass=f=80,equalizer=f=3000:t=q:w=1.2:g=2,volume=3dB",
+                           "silenceremove=start_periods=1:start_threshold=-38dB,areverse,silenceremove=start_periods=1:start_threshold=-38dB,areverse,"
+                           "afade=t=in:d=0.02,areverse,afade=t=in:d=0.08,areverse,highpass=f=80,lowpass=f=9000,"
+                           "equalizer=f=3000:t=q:w=1.2:g=2,alimiter=limit=0.9",
                            "-ar", "44100", "-ac", "1", "-c:a", "pcm_s16le", wav])
     with wave.open(wav) as w:
         return wav, w.getnframes() / w.getframerate(), []
@@ -622,20 +623,18 @@ def leer_audio(ruta, n):
     return np.tile(a, n // len(a) + 1)[:n]
 
 
-def whoosh(sr=SR, dur=0.35, seed=0):
+def whoosh(sr=SR, dur=0.45, seed=0):
+    """Swoosh grave y suave (sin siseo): ruido limitado a 80-1000 Hz con barrido de tono."""
     rng = np.random.default_rng(seed)
     n = int(sr * dur)
-    ruido = rng.standard_normal(n).astype(np.float32)
+    spec = np.fft.rfft(rng.standard_normal(n))
+    f = np.fft.rfftfreq(n, 1 / sr)
+    spec[(f < 80) | (f > 1000)] = 0
+    ruido = np.fft.irfft(spec, n).astype(np.float32)
     k = np.linspace(0, 1, n)
-    env = np.sin(np.pi * k) ** 2
-    # barrido de filtro: media movil que se abre (agudo) y se cierra
-    out = np.zeros(n, np.float32)
-    acc = 0.0
-    for i in range(n):
-        alpha = 0.04 + 0.5 * env[i]
-        acc += alpha * (ruido[i] - acc)
-        out[i] = acc
-    return out * env * 0.5
+    env = np.sin(np.pi * k) ** 3
+    out = ruido * env
+    return (out / (np.abs(out).max() + 1e-6) * 0.6).astype(np.float32)
 
 
 def golpe(sr=SR, dur=0.6):
@@ -729,14 +728,17 @@ def generar_reel(reel, idx, salida, clips, work, lote):
         fx += mus * env * float(reel.get("volumen_musica", 0.15))
     for k, (t0, esc) in enumerate(cortes):
         if k:
-            pegar(fx, whoosh(seed=k), t0 - 0.18, 0.35)
+            pegar(fx, whoosh(seed=k), t0 - 0.22, 0.12)
         if esc.get("destello"):
             pegar(fx, golpe(), t0, 0.6)
         if esc.get("suspenso"):
             pegar(fx, latido(), t0, 0.5)
         if esc.get("hinchada") and os.path.exists(HINCHADA):
-            pegar(fx, leer_audio(HINCHADA, int(3 * SR)) * np.linspace(1, 0, int(3 * SR)), t0, 0.35)
-    mezcla = np.clip(voz_pista + fx, -1, 1)
+            pegar(fx, leer_audio(HINCHADA, int(3 * SR)) * np.linspace(1, 0, int(3 * SR)), t0, 0.15)
+    mezcla = voz_pista + fx
+    cola = min(n, int(0.6 * SR))
+    mezcla[-cola:] *= np.linspace(1, 0, cola)
+    mezcla = np.clip(mezcla, -1, 1)
     mix = f"{pref}_mix.wav"
     with wave.open(mix, "wb") as w:
         w.setnchannels(1)
