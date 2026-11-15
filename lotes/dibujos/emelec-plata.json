@@ -1,0 +1,9 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic lighting, rich saturated colors, electric blue and navy palette. No text, no letters, no numbers, no logos, no club crests anywhere. No people.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "plata", "seed": 35, "referencias": [0], "prompt": "Vertical illustration: a classic round soccer ball (association football, white with black pentagons, NOT an American football, NOT oval) resting on top of tall stacks of gold coins and banknotes on a dark table, a big question-mark-shaped shadow on the wall behind, electric blue light, mystery mood."}
+  ]
+}
