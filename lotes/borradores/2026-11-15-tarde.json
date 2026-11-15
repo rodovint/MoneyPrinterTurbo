@@ -1,0 +1,634 @@
+[
+  {
+    "titulo": "Ronaldinho jugó 45 minutos y ganó",
+    "etiqueta": "SERIE C DE ITALIA",
+    "color": "#D4A017",
+    "franja": [
+      "RAVENNA 2-0 FORLÌ",
+      "RONALDINHO: 45 MINUTOS CON LA 10",
+      "17 DE 21 PASES BUENOS",
+      "RAVENNA, SEGUNDO CON 32 PUNTOS"
+    ],
+    "escenas": [
+      {
+        "texto": "¡Ronaldinho volvió a los 46 años y el Ravenna ganó dos a cero!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "VOLVIÓ Y GANÓ",
+          "sobre": "RONALDINHO, 46 AÑOS"
+        },
+        "voz": "mui",
+        "hinchada": true
+      },
+      {
+        "texto": "Fue titular con la diez y jugó todo el primer tiempo ante el Forlì.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "45'",
+          "texto": "CON LA NÚMERO 10",
+          "animar": false
+        },
+        "voz": "andrea",
+        "dicho": "Fue titular con la diez y jugó todo el primer tiempo ante el Forlí."
+      },
+      {
+        "texto": "No hizo gol, pero participó en la jugada del primer tanto, de Giulio Donati.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "PARTICIPÓ EN EL 1-0",
+          "sobre": "GOL DE GIULIO DONATI"
+        },
+        "voz": "andrea",
+        "destello": true
+      },
+      {
+        "texto": "Completó diecisiete de veintiún pases.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "17/21",
+          "texto": "PASES COMPLETADOS"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Con el triunfo, el Ravenna es segundo de su grupo con treinta y dos puntos.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "32",
+          "texto": "PUNTOS · SEGUNDO LUGAR"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Le alcanzan las piernas al Gaúcho para seguir?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUE SIGA JUGANDO?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Portugal, goleado en su primer partido sin Cristiano",
+    "etiqueta": "NATIONS LEAGUE",
+    "color": "#C8102E",
+    "franja": [
+      "PORTUGAL 1-4 DINAMARCA",
+      "PRIMER PARTIDO SIN CRISTIANO",
+      "HØJLUND, DOBLETE",
+      "MARTES: GALES VS. PORTUGAL 14:45"
+    ],
+    "escenas": [
+      {
+        "texto": "Portugal jugó su primer partido sin Cristiano Ronaldo y Dinamarca le metió cuatro.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "PORTUGAL",
+              "color": "#006600",
+              "goles": 1
+            },
+            {
+              "nombre": "DINAMARCA",
+              "color": "#7A0E14",
+              "goles": 4
+            }
+          ],
+          "pie": "BRAGA · NATIONS LEAGUE"
+        },
+        "voz": "mui",
+        "destello": true
+      },
+      {
+        "texto": "En el minuto siete, todo el estadio de Braga se paró a ovacionar al Bicho.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "7'",
+          "texto": "LA OVACIÓN A CRISTIANO",
+          "animar": false
+        },
+        "voz": "andrea",
+        "hinchada": true,
+        "tono": "recuerdo"
+      },
+      {
+        "texto": "Cristiano se retiró el 5 de noviembre con récord: doscientos treinta y cuatro partidos y ciento cuarenta y seis goles.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "234",
+          "a_texto": "PARTIDOS",
+          "b": "146",
+          "b_texto": "GOLES",
+          "pie": "RÉCORD MUNDIAL DE SELECCIONES"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "En la cancha, Rasmus Højlund hizo doblete y Bernardo Silva descontó al final.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "DOBLETE DE HØJLUND",
+          "sobre": "DINAMARCA"
+        },
+        "voz": "andrea",
+        "dicho": "En la cancha, Rasmus Joilund hizo doblete y Bernardo Silva descontó al final."
+      },
+      {
+        "texto": "Igual, Portugal sigue líder con doce puntos y el martes visita a Gales.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "GALES",
+              "color": "#C8102E"
+            },
+            {
+              "nombre": "PORTUGAL",
+              "color": "#006600"
+            }
+          ],
+          "hora": "MAR 17 · 14:45",
+          "pie": "HORA DE ECUADOR · CARDIFF"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Portugal ya extraña a Cristiano?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿YA LO EXTRAÑAN?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Enner Valencia vuelve a Barranquilla por un título",
+    "etiqueta": "FINAL SUDAMERICANA",
+    "color": "#0B3D91",
+    "franja": [
+      "BOCA VS. ATLÉTICO MINEIRO",
+      "SÁBADO 21 · BARRANQUILLA",
+      "ENNER BUSCA SU PRIMERA COPA CON BOCA",
+      "BOCA: CAMPEÓN 2004 Y 2005"
+    ],
+    "escenas": [
+      {
+        "texto": "Enner Valencia vuelve al estadio de su gol histórico, ahora por un título con Boca.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "ENNER VUELVE A BARRANQUILLA",
+          "sobre": "FINAL DE LA SUDAMERICANA"
+        },
+        "voz": "mui",
+        "hinchada": true
+      },
+      {
+        "texto": "En 2024, en el Metropolitano de Barranquilla, le dio a la Tri el uno a cero ante Colombia.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "COLOMBIA",
+              "color": "#B8860B",
+              "goles": 0
+            },
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2",
+              "goles": 1
+            }
+          ],
+          "pie": "19/11/2024 · GOL DE ENNER"
+        },
+        "voz": "andrea",
+        "tono": "recuerdo",
+        "destello": true
+      },
+      {
+        "texto": "Este sábado 21, en ese mismo estadio, Boca juega la final ante Atlético Mineiro.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "BOCA JUNIORS",
+              "color": "#0B3D91"
+            },
+            {
+              "nombre": "ATL. MINEIRO",
+              "color": "#111111"
+            }
+          ],
+          "hora": "SÁB 21 NOV",
+          "pie": "ESTADIO METROPOLITANO, BARRANQUILLA"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Boca ganó la Sudamericana en 2004 y 2005, y va por su tercera.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "3ª",
+          "texto": "BOCA VA POR SU TERCERA",
+          "animar": false
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Para Enner es su primera final continental con Boca.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "SU PRIMERA FINAL CON BOCA",
+          "sobre": "ENNER VALENCIA"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Enner le hace gol a Mineiro en la final?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿ENNER HACE GOL?",
+          "sobre": "TU PRONÓSTICO"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Ibarra Norteños golpea primero en la final del ecuavóley",
+    "etiqueta": "ECUAVÓLEY",
+    "color": "#1E8A4C",
+    "franja": [
+      "IBARRA NORTEÑOS 2-0 CUENCA SACROS",
+      "15-13 Y 15-12",
+      "FINAL DE IDA EN CUENCA",
+      "VUELTA EN IBARRA"
+    ],
+    "escenas": [
+      {
+        "texto": "¡Ibarra Norteños ganó la final de ida del ecuavóley en Cuenca!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "IBARRA GOLPEA PRIMERO",
+          "sobre": "FINAL DEL ECUAVÓLEY"
+        },
+        "voz": "mui",
+        "hinchada": true
+      },
+      {
+        "texto": "Le ganó dos a cero a Cuenca Sacros, quince a trece y quince a doce.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "IBARRA NORTEÑOS",
+              "color": "#1E8A4C",
+              "goles": 2
+            },
+            {
+              "nombre": "CUENCA SACROS",
+              "color": "#7A0E14",
+              "goles": 0
+            }
+          ],
+          "pie": "15-13 · 15-12"
+        },
+        "voz": "andrea",
+        "destello": true
+      },
+      {
+        "texto": "Jhonatan Mueses, el Guasca, fue clave en los puntos decisivos.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "EL GUASCA, CLAVE",
+          "sobre": "JHONATAN MUESES"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Y por primera vez, la final de la liga se ve por televisión abierta nacional.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "PRIMERA VEZ EN TV ABIERTA",
+          "sobre": "HISTÓRICO"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "La vuelta será en Ibarra, el fin de semana del 21 y 22 de noviembre.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "VUELTA EN IBARRA",
+          "sobre": "21-22 DE NOVIEMBRE"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Cuenca Sacros remonta en Ibarra?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿HAY REMONTADA?",
+          "sobre": "TU PRONÓSTICO"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Reijnders: tres goles en 21 minutos",
+    "etiqueta": "NATIONS LEAGUE",
+    "color": "#F36C21",
+    "franja": [
+      "PAÍSES BAJOS 7-0 GRECIA",
+      "REIJNDERS: 12', 18' Y 33'",
+      "TIMBER, DOBLETE",
+      "LUNES: ALEMANIA VS. PAÍSES BAJOS 14:45"
+    ],
+    "escenas": [
+      {
+        "texto": "Tijjani Reijnders hizo tres goles en veintiún minutos y Países Bajos le metió siete a Grecia.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "PAÍSES BAJOS",
+              "color": "#F36C21",
+              "goles": 7
+            },
+            {
+              "nombre": "GRECIA",
+              "color": "#0D5EAF",
+              "goles": 0
+            }
+          ],
+          "pie": "ÁMSTERDAM · NATIONS LEAGUE"
+        },
+        "voz": "mui",
+        "destello": true
+      },
+      {
+        "texto": "Marcó al doce, al dieciocho y al treinta y tres.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "3",
+          "texto": "GOLES: 12' · 18' · 33'"
+        },
+        "voz": "andrea",
+        "dicho": "Marcó al doce, al dieciocho y al treinta y tres."
+      },
+      {
+        "texto": "Jurriën Timber metió dos, y también anotaron Summerville y Malen.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "DOBLETE DE TIMBER",
+          "sobre": "Y GOLES DE SUMMERVILLE Y MALEN"
+        },
+        "voz": "andrea",
+        "dicho": "Yurien Timber metió dos, y también anotaron Sámerville y Malen."
+      },
+      {
+        "texto": "Ahora viene el plato fuerte: el lunes a las tres menos cuarto reciben a Alemania.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ALEMANIA",
+              "color": "#111111"
+            },
+            {
+              "nombre": "PAÍSES BAJOS",
+              "color": "#F36C21"
+            }
+          ],
+          "hora": "LUN 16 · 14:45",
+          "pie": "HORA DE ECUADOR"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Quién gana: Alemania o Países Bajos?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿ALEMANIA O PAÍSES BAJOS?",
+          "sobre": "TU PRONÓSTICO"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Gallardo y el 47 % de la Tri en 2026",
+    "etiqueta": "LA TRI",
+    "color": "#FFD100",
+    "franja": [
+      "ECUADOR 2026: 4G · 5E · 3P",
+      "47,2 % DE EFECTIVIDAD",
+      "GALLARDO: 1G · 2E · 1P",
+      "MARTES: ECUADOR VS. BOLIVIA 18:30"
+    ],
+    "escenas": [
+      {
+        "texto": "Marcelo Gallardo tiene un reto el martes: cerrar el año de la Tri con victoria.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "EL RETO DE GALLARDO",
+          "sobre": "LA TRI"
+        },
+        "voz": "mui"
+      },
+      {
+        "texto": "En 2026 Ecuador jugó doce partidos: ganó cuatro, empató cinco y perdió tres.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "12",
+          "texto": "PARTIDOS: 4 GANADOS, 5 EMPATES Y 3 PERDIDOS"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Eso es un cuarenta y siete por ciento de los puntos.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "47,2%",
+          "texto": "EFECTIVIDAD EN 2026"
+        },
+        "voz": "andrea",
+        "destello": true
+      },
+      {
+        "texto": "Con Gallardo van una victoria, dos empates y una derrota.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "1G · 2E · 1P",
+          "sobre": "CON GALLARDO"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Ante Bolivia, el martes a las seis y media en el Monumental, solo sirve ganar.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#034EA2",
+              "escudo": "img/escudos/fef.png"
+            },
+            {
+              "nombre": "BOLIVIA",
+              "color": "#007A33"
+            }
+          ],
+          "hora": "MAR 17 · 18:30",
+          "pie": "ESTADIO MONUMENTAL, GUAYAQUIL"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Qué nota le pones a la Tri este año?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUÉ NOTA LE PONES?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Alonso Reyes, campeón mundial juvenil de jiu-jitsu",
+    "etiqueta": "JIU-JITSU",
+    "color": "#0B4EA2",
+    "franja": [
+      "ORO EN ABU DABI",
+      "ALONSO REYES, 11 AÑOS",
+      "INFANTIL 30 KG · CINTURÓN GRIS",
+      "MUNDIAL JUVENIL AJP 2026"
+    ],
+    "escenas": [
+      {
+        "texto": "¡Con once años, el ecuatoriano Alonso Reyes es campeón mundial juvenil de jiu-jitsu!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡ORO PARA ECUADOR!",
+          "sobre": "ALONSO REYES, 11 AÑOS"
+        },
+        "voz": "mui",
+        "hinchada": true
+      },
+      {
+        "texto": "Ganó el oro en el Mundial Juvenil de Abu Dabi, en Emiratos Árabes.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "ORO",
+          "texto": "MUNDIAL JUVENIL · ABU DABI",
+          "animar": false
+        },
+        "voz": "andrea",
+        "destello": true
+      },
+      {
+        "texto": "Compitió en infantil de treinta kilos, cinturón gris.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "INFANTIL 30 KG",
+          "sobre": "CINTURÓN GRIS"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "En el podio dejó atrás a Rusia, con la plata, y a Kazajistán, con el bronce.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "RUSIA 2.º · KAZAJISTÁN 3.º",
+          "sobre": "EL PODIO"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "Representa a la academia Team Predador International.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "TEAM PREDADOR",
+          "sobre": "SU ACADEMIA"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Hasta dónde llega este campeón?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿HASTA DÓNDE LLEGA?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  }
+]
