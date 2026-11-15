@@ -11,7 +11,7 @@ on:
       - ".github/workflows/generar-reels.yml"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: generar-reels
@@ -44,3 +44,15 @@ jobs:
           path: salida/*.mp4
           if-no-files-found: warn
           retention-days: 14
+
+      - name: Publicar videos en un Release (enlaces publicos para Metricool)
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          shopt -s nullglob
+          files=(salida/*.mp4)
+          if [ ${#files[@]} -eq 0 ]; then echo "Sin videos"; exit 0; fi
+          tag="reels-$(date -u +%Y%m%d-%H%M)-${{ github.run_number }}"
+          gh release create "$tag" "${files[@]}" --title "Reels Guineo $tag" --notes "Generado por la ejecucion ${{ github.run_id }}" --target "${{ github.sha }}"
+          echo "Release: https://github.com/${{ github.repository }}/releases/tag/$tag" >> "$GITHUB_STEP_SUMMARY"
