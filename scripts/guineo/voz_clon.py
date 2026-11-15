@@ -3,7 +3,7 @@
 Uso: python voz_clon.py lotes/actual.json
 Deja cada frase en lotes/audio/clon/<clave>.wav (la clave sale del texto y de la referencia),
 asi que una frase ya generada no se vuelve a generar. generar.py las lee de ahi.
-Referencia: scripts/guineo/voz/mui-ref.wav (unos 10-15 s de Mui, limpia y sin pausas largas).
+Referencia: scripts/guineo/voz/mui-ref.wav (13 s del audio de Ronaldinho con pausas naturales; elegida por Mui el 15/11).
 """
 import hashlib, json, os, sys, time
 
@@ -42,7 +42,7 @@ def main(lote):
     print(f"Modelo cargado en {time.time() - t0:.0f} s", flush=True)
     for t in pendientes:
         t1 = time.time()
-        wav = m.generate(t, language_id="es", audio_prompt_path=REF, exaggeration=0.55, cfg_weight=0.5, temperature=0.7)
+        wav = m.generate(t, language_id="es", audio_prompt_path=REF, exaggeration=0.5, cfg_weight=0.5, temperature=0.8)
         dest = ruta(lote, t)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         ta.save(dest, wav, m.sr)
