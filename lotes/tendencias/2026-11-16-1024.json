@@ -1,0 +1,8 @@
+{
+  "fecha": "2026-11-16T10:24-05:00",
+  "nota": "Modo rápido. Google Trends EC y Google Noticias no cargaron (WebFetch: permiso no respondido). Búsqueda web sin titulares explosivos nuevos. Sin señal.",
+  "temas": [
+    {"tema": "Alemania vs. Países Bajos (hoy 14:45)", "señales": ["lote mañana"], "volumen_EC": null, "avisado": false},
+    {"tema": "Ecuador vs. Bolivia (martes)", "señales": ["noticias"], "volumen_EC": null, "avisado": false}
+  ]
+}
