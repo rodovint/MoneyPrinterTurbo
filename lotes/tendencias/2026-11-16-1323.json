@@ -1,0 +1,9 @@
+{
+  "fecha": "2026-11-16T13:23-05:00",
+  "nota": "Modo rápido (ronda 13:23). Google Trends EC y Google Noticias no cargaron (WebFetch: permiso no respondido). Búsqueda web sin titulares explosivos. Partidos de la tarde: Alemania vs. Países Bajos ya está en el lote; Suiza-Escocia y Grecia-Serbia (14:45) sin peso para el público. Sin señal.",
+  "temas": [
+    {"tema": "Alemania vs. Países Bajos (hoy 14:45)", "señales": ["lote mañana"], "volumen_EC": null, "avisado": false},
+    {"tema": "Suiza vs. Escocia / Grecia vs. Serbia (hoy 14:45, Liga de Naciones)", "señales": ["agenda"], "volumen_EC": null, "avisado": false},
+    {"tema": "Ecuador vs. Bolivia (martes)", "señales": ["noticias"], "volumen_EC": null, "avisado": false}
+  ]
+}
