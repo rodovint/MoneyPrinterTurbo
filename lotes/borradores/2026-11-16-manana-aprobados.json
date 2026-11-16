@@ -1,0 +1,406 @@
+[
+  {
+    "titulo": "Michael Morales, cara a cara con Carlos Prates",
+    "etiqueta": "UFC",
+    "color": "#C8102E",
+    "franja": [
+      "MORALES: 19-0, INVICTO",
+      "CINTURÓN INTERINO WÉLTER",
+      "30 DE ENERO · TORONTO",
+      "ORGULLO DE PASAJE, EL ORO"
+    ],
+    "escenas": [
+      {
+        "texto": "¡El pasajeño Michael Morales ya se vio cara a cara con Carlos Prates!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡CARA A CARA!",
+          "sobre": "MORALES VS. PRATES"
+        },
+        "voz": "mui",
+        "hinchada": true,
+        "movimiento": "zoom_in",
+        "foto_commons": "UFC-Octagon-USMCPhoto.jpg"
+      },
+      {
+        "texto": "Se juegan el cinturón interino del peso wélter de la UFC, el 30 de enero en Toronto.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "CINTURÓN INTERINO",
+          "sobre": "UFC 336 · 30 DE ENERO · TORONTO"
+        },
+        "voz": "andrea",
+        "destello": true,
+        "foto_commons": "UFCOctagon.jpg",
+        "movimiento": "paneo_der"
+      },
+      {
+        "texto": "Morales llega invicto: diecinueve peleas, diecinueve victorias.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "19-0",
+          "texto": "INVICTO",
+          "animar": false
+        },
+        "voz": "andrea",
+        "foto_commons": "UFC-Octagon-USMCPhoto.jpg",
+        "movimiento": "zoom_out"
+      },
+      {
+        "texto": "El brasileño Prates viene de noquear a Leon Edwards y a Jack Della Maddalena.",
+        "dicho": "El brasileño Prates viene de noquear a Leon Edwards y a Yak Dela Madalena.",
+        "grafico": {
+          "tipo": "protagonista",
+          "rol": "SU RIVAL",
+          "nombre": "CARLOS PRATES",
+          "dato": "24-7 · TRES NOCAUTS SEGUIDOS",
+          "color": "#1E8A4C"
+        },
+        "voz": "andrea",
+        "suspenso": true,
+        "foto_commons": "Madison Square Garden (MSG) - Full (48124330357).jpg",
+        "movimiento": "subir"
+      },
+      {
+        "texto": "Y Morales ya le respondió: ahora cállate la boca, vas a necesitar esos pulmones.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“AHORA CÁLLATE LA BOCA”",
+          "autor": "MICHAEL MORALES"
+        },
+        "voz": "andrea",
+        "foto_commons": "UFCOctagon.jpg",
+        "movimiento": "paneo_izq"
+      },
+      {
+        "texto": "Hincha orense, ¿Morales se trae el cinturón a El Oro?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿TRAE EL CINTURÓN?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "UFC-Octagon-USMCPhoto.jpg"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Willian Pacho quería ser marinero o policía",
+    "etiqueta": "PSG",
+    "color": "#004170",
+    "franja": [
+      "DOCUMENTAL DEL PSG",
+      "DE QUININDÉ A EUROPA",
+      "BICAMPEÓN DE CHAMPIONS",
+      "HURACÁN · IDV · AMBERES · FRANKFURT · PSG"
+    ],
+    "escenas": [
+      {
+        "texto": "Willian Pacho no soñaba con ser futbolista: quería ser marinero o policía.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿MARINERO O POLICÍA?",
+          "sobre": "EL SUEÑO DE NIÑO DE PACHO"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "Parc des princes 2018.jpg"
+      },
+      {
+        "texto": "Lo contó en Tras los pasos de Willian Pacho, el documental que estrenó el PSG.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "TRAS LOS PASOS DE WILLIAN PACHO",
+          "sobre": "DOCUMENTAL DEL PSG"
+        },
+        "voz": "andrea",
+        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
+        "movimiento": "paneo_der"
+      },
+      {
+        "texto": "Arrancó en Quinindé, Esmeraldas, en el Huracán, y de ahí pasó a Independiente del Valle.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "QUININDÉ → INDEPENDIENTE DEL VALLE",
+          "sobre": "SUS INICIOS"
+        },
+        "voz": "andrea",
+        "foto_commons": "Esmeraldas - Quinindé.png",
+        "movimiento": "zoom_out"
+      },
+      {
+        "texto": "Luego vinieron el Amberes de Bélgica, el Eintracht Frankfurt y el PSG.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "AMBERES · FRANKFURT · PSG",
+          "sobre": "SU CAMINO EN EUROPA"
+        },
+        "voz": "andrea",
+        "foto_commons": "Paris Parc des Princes 1.jpg",
+        "movimiento": "subir"
+      },
+      {
+        "texto": "Hoy es bicampeón de Europa y lo dice él mismo: nunca imaginé ganar una Champions.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“NUNCA ME HUBIERA IMAGINADO QUE PODRÍA GANAR UNA CHAMPIONS”",
+          "autor": "WILLIAN PACHO"
+        },
+        "voz": "andrea",
+        "destello": true,
+        "tono": "celebracion",
+        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
+        "movimiento": "paneo_izq"
+      },
+      {
+        "texto": "¿Qué otro ecuatoriano merece su propio documental?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN MERECE EL SUYO?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "Parc des princes 2018.jpg"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Klopp contra Xavi: Alemania vs. Países Bajos (HOY 14:45)",
+    "etiqueta": "NATIONS LEAGUE",
+    "color": "#000000",
+    "franja": [
+      "HOY 14:45 · HORA DE ECUADOR",
+      "OLYMPIASTADION DE BERLÍN",
+      "PAÍSES BAJOS 11 · ALEMANIA 8 · GRECIA 8",
+      "KLOPP VS. XAVI"
+    ],
+    "escenas": [
+      {
+        "texto": "¡Klopp contra Xavi! Hoy Alemania se juega el pase ante Países Bajos.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡KLOPP VS. XAVI!",
+          "sobre": "ALEMANIA VS. PAÍSES BAJOS"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "Olympiastadion Berlin Innenansicht.jpg"
+      },
+      {
+        "texto": "Es a las dos y cuarenta y cinco de la tarde, hora de Ecuador, en el Estadio Olímpico de Berlín.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ALEMANIA",
+              "color": "#000000"
+            },
+            {
+              "nombre": "PAÍSES BAJOS",
+              "color": "#F36C21"
+            }
+          ],
+          "hora": "HOY 14:45",
+          "pie": "HORA DE ECUADOR · OLYMPIASTADION DE BERLÍN"
+        },
+        "voz": "andrea",
+        "foto_commons": "Olympiastadion Berlin Innenansicht.jpg",
+        "movimiento": "paneo_der"
+      },
+      {
+        "texto": "Países Bajos ya está en cuartos: lidera con once puntos y sigue invicta con Xavi.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "11",
+          "texto": "PUNTOS DE PAÍSES BAJOS"
+        },
+        "voz": "andrea",
+        "foto_commons": "Olympiastadion Berlin 1.jpg",
+        "movimiento": "zoom_out"
+      },
+      {
+        "texto": "Alemania es tercera con ocho, igual que Grecia, que a la misma hora juega con Serbia.",
+        "grafico": {
+          "tipo": "duo",
+          "a": "8",
+          "a_texto": "ALEMANIA",
+          "b": "8",
+          "b_texto": "GRECIA",
+          "pie": "PELEAN EL SEGUNDO LUGAR"
+        },
+        "voz": "andrea",
+        "suspenso": true,
+        "foto_commons": "Berlin Olympiastadion nach Umbau.jpg",
+        "movimiento": "subir"
+      },
+      {
+        "texto": "Y Klopp lo dijo claro: para Alemania, este partido es una final.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“ES UNA FINAL”",
+          "autor": "JÜRGEN KLOPP, DT DE ALEMANIA"
+        },
+        "voz": "andrea",
+        "destello": true,
+        "foto_commons": "Olympiastadion Berlin 6.jpg",
+        "movimiento": "paneo_izq"
+      },
+      {
+        "texto": "¿Klopp o Xavi: quién gana hoy en Berlín?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿KLOPP O XAVI?",
+          "sobre": "TU PRONÓSTICO"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "Olympiastadion, Berlin.JPG"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  },
+  {
+    "titulo": "Argentina, sin Messi, busca revancha ante Costa Rica (martes 18:00)",
+    "etiqueta": "AMISTOSO",
+    "color": "#6CACE4",
+    "franja": [
+      "URUGUAY 2-1 ARGENTINA",
+      "PRIMER PARTIDO SIN MESSI",
+      "MARTES 18:00 · KEMPES DE CÓRDOBA",
+      "COSTA RICA CAYÓ 2-0 ANTE ECUADOR"
+    ],
+    "escenas": [
+      {
+        "texto": "Argentina perdió su primer partido sin Messi y mañana busca revancha ante Costa Rica.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "ARGENTINA SIN MESSI",
+          "sobre": "PRIMERA DERROTA"
+        },
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "La Bombonera football stadium.jpg"
+      },
+      {
+        "texto": "El viernes, Uruguay le ganó dos a uno en La Bombonera.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "ARGENTINA",
+              "color": "#6CACE4",
+              "goles": 1
+            },
+            {
+              "nombre": "URUGUAY",
+              "color": "#0038A8",
+              "goles": 2
+            }
+          ],
+          "pie": "LA BOMBONERA · AMISTOSO"
+        },
+        "voz": "andrea",
+        "destello": true,
+        "foto_commons": "Estadio Alberto J. Armando field view.jpg",
+        "movimiento": "paneo_der"
+      },
+      {
+        "texto": "Los dos goles celestes llegaron de pelota parada y Julián Álvarez descontó.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "DOS GOLES DE PELOTA PARADA",
+          "sobre": "DESCONTÓ JULIÁN ÁLVAREZ"
+        },
+        "voz": "andrea",
+        "foto_commons": "La Bombonera - panoramica.jpg",
+        "movimiento": "zoom_out"
+      },
+      {
+        "texto": "Mañana martes, a las seis de la tarde hora de Ecuador, recibe a Costa Rica en el Kempes de Córdoba.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "ARGENTINA",
+              "color": "#6CACE4"
+            },
+            {
+              "nombre": "COSTA RICA",
+              "color": "#C8102E"
+            }
+          ],
+          "hora": "MARTES 18:00",
+          "pie": "HORA DE ECUADOR · ESTADIO KEMPES, CÓRDOBA"
+        },
+        "voz": "andrea",
+        "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+        "movimiento": "subir"
+      },
+      {
+        "texto": "Costa Rica llega golpeada: el viernes cayó dos a cero ante Ecuador en Quito.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "ECUADOR",
+              "color": "#FFD100",
+              "escudo": "img/escudos/fef.png",
+              "goles": 2
+            },
+            {
+              "nombre": "COSTA RICA",
+              "color": "#C8102E",
+              "goles": 0
+            }
+          ],
+          "pie": "ESTADIO ATAHUALPA · VIERNES 13"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Argentina extraña a Messi?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿EXTRAÑA A MESSI?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "foto_commons": "Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg",
+        "movimiento": "zoom_in"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  }
+]
