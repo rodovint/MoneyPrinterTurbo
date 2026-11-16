@@ -22,6 +22,25 @@ def ruta(lote, texto):
     return os.path.join(os.path.dirname(os.path.abspath(lote)), "audio", "clon", clave(texto) + ".wav")
 
 
+def recortar_cola(wav, sr, texto):
+    """Quita el "eeehh" que Chatterbox a veces agrega al final: corta donde termina la voz
+    (ultimo tramo a menos de 10 dB del nivel tipico) y nunca deja mas de ~0.075 s por letra."""
+    import numpy as np
+    import torch
+    a = wav.squeeze().cpu().numpy().astype(np.float32)
+    v = max(1, int(0.02 * sr))
+    rms = np.array([np.sqrt(np.mean(a[i:i + v] ** 2)) + 1e-9 for i in range(0, len(a), v)])
+    db = 20 * np.log10(rms)
+    voz = np.where(db > np.percentile(db, 90) - 10)[0]
+    fin = (voz[-1] + 1) * v if len(voz) else len(a)
+    fin = min(fin + int(0.12 * sr), int((0.075 * len(texto) + 0.5) * sr), len(a))
+    a = a[:fin].copy()
+    f = min(len(a), int(0.08 * sr))
+    a[-f:] *= np.linspace(1, 0, f)
+    print(f"cola recortada: {len(wav.squeeze()) / sr:.2f} s -> {len(a) / sr:.2f} s", flush=True)
+    return torch.from_numpy(a).unsqueeze(0)
+
+
 def main(lote):
     reels = json.load(open(lote, encoding="utf-8"))
     pendientes = []
@@ -42,7 +61,7 @@ def main(lote):
     print(f"Modelo cargado en {time.time() - t0:.0f} s", flush=True)
     for t in pendientes:
         t1 = time.time()
-        wav = m.generate(t, language_id="es", audio_prompt_path=REF, exaggeration=0.5, cfg_weight=0.5, temperature=0.8)
+        wav = recortar_cola(m.generate(t, language_id="es", audio_prompt_path=REF, exaggeration=0.5, cfg_weight=0.5, temperature=0.8), m.sr, t)
         dest = ruta(lote, t)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         ta.save(dest, wav, m.sr)

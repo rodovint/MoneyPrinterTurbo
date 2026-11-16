@@ -19,7 +19,8 @@
         },
         "voz": "mui",
         "video": "videos/bacher-autogol.mp4",
-        "video_inicio": 0.0
+        "video_inicio": 0.0,
+        "dicho": "¡El arquero Ezequiel Bácher se hizo un autogol increíble que ya dio la vuelta al mundo!"
       },
       {
         "texto": "Fue con Comunicaciones ante Arsenal de Sarandí, en cuartos de final de la Primera B de Argentina.",

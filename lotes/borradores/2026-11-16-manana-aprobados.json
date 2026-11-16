@@ -20,7 +20,7 @@
         "voz": "mui",
         "hinchada": true,
         "movimiento": "zoom_in",
-        "foto_commons": "UFC-Octagon-USMCPhoto.jpg"
+        "foto_commons": "Michael Morales. QUITO, 27 DE MAYO DEL 2025 (cropped).jpg"
       },
       {
         "texto": "Se juegan el cinturón interino del peso wélter de la UFC, el 30 de enero en Toronto.",
@@ -43,7 +43,7 @@
           "animar": false
         },
         "voz": "andrea",
-        "foto_commons": "UFC-Octagon-USMCPhoto.jpg",
+        "foto_commons": "Michael Morales. QUITO, 27 DE MAYO DEL 2025 (cropped).jpg",
         "movimiento": "zoom_out"
       },
       {
@@ -58,7 +58,7 @@
         },
         "voz": "andrea",
         "suspenso": true,
-        "foto_commons": "Madison Square Garden (MSG) - Full (48124330357).jpg",
+        "foto_commons": "UFC 74 Respect Bout(cropped).jpg",
         "movimiento": "subir"
       },
       {
@@ -80,8 +80,8 @@
           "sobre": "TU OPINIÓN"
         },
         "voz": "mui",
-        "movimiento": "zoom_in",
-        "foto_commons": "UFC-Octagon-USMCPhoto.jpg"
+        "movimiento": "paneo_der",
+        "foto_commons": "Michael Morales. QUITO, 27 DE MAYO DEL 2025 (cropped).jpg"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
