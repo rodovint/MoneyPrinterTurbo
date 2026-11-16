@@ -1,11 +1,11 @@
 {
-  "modelo": "4b",
+  "modelo": "9b",
   "referencias": ["scripts/guineo/ref/estilo1.jpg"],
   "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic arena lights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
   "ancho": 1080, "alto": 1920,
   "escenas": [
-    {"id": "podio", "seed": 71, "referencias": [0], "prompt": "Vertical illustration: a young boy in a plain white jiu-jitsu gi with a grey belt, seen from behind, standing on the top step of a podium in a big indoor arena, a gold medal ribbon around his neck, both arms raised, golden confetti falling, spotlights, no face visible."},
-    {"id": "tatami", "seed": 72, "referencias": [0], "prompt": "Vertical illustration, low angle: an empty blue and yellow competition jiu-jitsu mat in a huge modern indoor arena, bright overhead spotlights, stands with blurred spectators, dramatic atmosphere before a final, no people in focus."},
-    {"id": "cinturon", "seed": 73, "referencias": [0], "prompt": "Vertical illustration, close-up: small hands tying a grey belt on a plain white jiu-jitsu gi, a shiny gold medal resting on the mat beside, warm dramatic light, no face visible."}
+    {"id": "podio", "seed": 81, "referencias": [0], "prompt": "Vertical illustration: a young boy in a plain white jiu-jitsu gi with a grey belt, seen from behind, standing on the top step of a podium in a big indoor arena, a gold medal ribbon around his neck, both arms raised, golden confetti falling, spotlights, no face visible."},
+    {"id": "tatami", "seed": 82, "referencias": [0], "prompt": "Vertical illustration, low angle: an empty blue and yellow competition jiu-jitsu mat in a huge modern indoor arena, bright overhead spotlights, stands with blurred spectators, dramatic atmosphere before a final, no people in focus."},
+    {"id": "cinturon", "seed": 83, "referencias": [0], "prompt": "Vertical illustration, close-up: small hands tying a grey belt on a plain white jiu-jitsu gi, a shiny gold medal resting on the mat beside, warm dramatic light, no face visible."}
   ]
 }
