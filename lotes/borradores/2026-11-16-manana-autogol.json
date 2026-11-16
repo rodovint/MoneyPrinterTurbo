@@ -1,0 +1,183 @@
+[
+  {
+    "titulo": "El autogol del arquero Ezequiel Bacher",
+    "etiqueta": "VIRAL",
+    "color": "#7A0E14",
+    "franja": [
+      "AUTOGOL AL MINUTO 3",
+      "COMUNICACIONES 2-3 ARSENAL",
+      "PRIMERA B DE ARGENTINA",
+      "EL VIDEO DIO LA VUELTA AL MUNDO"
+    ],
+    "escenas": [
+      {
+        "texto": "¡El arquero Ezequiel Bacher se hizo un autogol increíble que ya dio la vuelta al mundo!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡AUTOGOL INCREÍBLE!",
+          "sobre": "EZEQUIEL BACHER, ARQUERO"
+        },
+        "voz": "mui",
+        "video": "videos/bacher-autogol.mp4",
+        "video_inicio": 0.0
+      },
+      {
+        "texto": "Fue con Comunicaciones ante Arsenal de Sarandí, en cuartos de final de la Primera B de Argentina.",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "COMUNICACIONES",
+              "color": "#111111"
+            },
+            {
+              "nombre": "ARSENAL",
+              "color": "#7FB2E5"
+            }
+          ],
+          "pie": "CUARTOS DE FINAL · PRIMERA B DE ARGENTINA"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "A los tres minutos quiso sacar rápido con la mano derecha y la pelota se le soltó.",
+        "voz": "andrea",
+        "suspenso": true,
+        "grafico": {
+          "tipo": "tv",
+          "titulo": "ASÍ FUE EL AUTOGOL",
+          "local": {
+            "nombre": "COMUNICACIONES",
+            "color": "#111111",
+            "color2": "#F5C400"
+          },
+          "rival": {
+            "nombre": "ARSENAL",
+            "color": "#7FB2E5"
+          },
+          "jugadores": [
+            {
+              "id": "1",
+              "equipo": "local",
+              "x": 50,
+              "y": 5,
+              "arquero": true,
+              "nombre": "BACHER",
+              "destacado": true
+            },
+            {
+              "id": "4",
+              "equipo": "local",
+              "x": 30,
+              "y": 25
+            },
+            {
+              "id": "6",
+              "equipo": "local",
+              "x": 68,
+              "y": 30
+            },
+            {
+              "id": "9",
+              "equipo": "rival",
+              "x": 45,
+              "y": 45
+            },
+            {
+              "id": "11",
+              "equipo": "rival",
+              "x": 72,
+              "y": 55
+            }
+          ],
+          "balon": "1",
+          "pasos": [
+            {
+              "mover": {
+                "1": [
+                  52,
+                  8
+                ]
+              },
+              "balon": [
+                53,
+                8
+              ],
+              "texto": "QUIERE SACAR CON LA MANO"
+            },
+            {
+              "balon": [
+                51,
+                -2
+              ],
+              "flecha": "tiro",
+              "gol": true,
+              "texto": "¡SE LE SOLTÓ!"
+            }
+          ],
+          "marcador": {
+            "local": "COM",
+            "rival": "ARS",
+            "antes": [
+              0,
+              0
+            ],
+            "despues": [
+              0,
+              1
+            ],
+            "minuto": "3'"
+          },
+          "ambiente": "normal"
+        }
+      },
+      {
+        "texto": "Así, la pelota terminó en su propio arco y el video dio la vuelta al mundo.",
+        "voz": "andrea",
+        "destello": true,
+        "video": "videos/bacher-autogol.mp4",
+        "video_inicio": 1.5,
+        "grafico": {
+          "tipo": "ninguno"
+        }
+      },
+      {
+        "texto": "Comunicaciones lo empató, pero perdió tres a dos el partido de ida.",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "COMUNICACIONES",
+              "color": "#111111",
+              "goles": 2
+            },
+            {
+              "nombre": "ARSENAL",
+              "color": "#7FB2E5",
+              "goles": 3
+            }
+          ],
+          "pie": "IDA DE CUARTOS · PRIMERA B"
+        },
+        "voz": "andrea"
+      },
+      {
+        "texto": "¿Alguna vez viste un autogol así?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿VISTE ALGO ASÍ?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  }
+]
