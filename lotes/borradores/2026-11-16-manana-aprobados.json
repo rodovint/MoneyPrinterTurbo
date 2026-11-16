@@ -65,7 +65,7 @@
         "texto": "Y Morales ya le respondió: ahora cállate la boca, vas a necesitar esos pulmones.",
         "grafico": {
           "tipo": "cita",
-          "texto": "“AHORA CÁLLATE LA BOCA”",
+          "texto": "“¡CÁLLATE LA BOCA!”",
           "autor": "MICHAEL MORALES"
         },
         "voz": "andrea",
@@ -130,7 +130,7 @@
         "texto": "Arrancó en Quinindé, Esmeraldas, en el Huracán, y de ahí pasó a Independiente del Valle.",
         "grafico": {
           "tipo": "titular",
-          "texto": "QUININDÉ → INDEPENDIENTE DEL VALLE",
+          "texto": "QUININDÉ · INDEPENDIENTE DEL VALLE",
           "sobre": "SUS INICIOS"
         },
         "voz": "andrea",
@@ -152,7 +152,7 @@
         "texto": "Hoy es bicampeón de Europa y lo dice él mismo: nunca imaginé ganar una Champions.",
         "grafico": {
           "tipo": "cita",
-          "texto": "“NUNCA ME HUBIERA IMAGINADO QUE PODRÍA GANAR UNA CHAMPIONS”",
+          "texto": "“NUNCA ME HUBIERA IMAGINADO…”",
           "autor": "WILLIAN PACHO"
         },
         "voz": "andrea",
@@ -202,7 +202,8 @@
         },
         "voz": "mui",
         "movimiento": "zoom_in",
-        "foto_commons": "Olympiastadion Berlin Innenansicht.jpg"
+        "foto_commons": "Jürgen Klopp (cropped).jpg",
+        "dicho": "¡Klopp contra Shavi! Hoy Alemania se juega el pase ante Países Bajos."
       },
       {
         "texto": "Es a las dos y cuarenta y cinco de la tarde, hora de Ecuador, en el Estadio Olímpico de Berlín.",
@@ -228,13 +229,16 @@
       {
         "texto": "Países Bajos ya está en cuartos: lidera con once puntos y sigue invicta con Xavi.",
         "grafico": {
-          "tipo": "cifra",
-          "valor": "11",
-          "texto": "PUNTOS DE PAÍSES BAJOS"
+          "tipo": "protagonista",
+          "rol": "DT DE PAÍSES BAJOS",
+          "nombre": "XAVI HERNÁNDEZ",
+          "dato": "11 PUNTOS · INVICTO",
+          "color": "#F36C21"
         },
         "voz": "andrea",
-        "foto_commons": "Olympiastadion Berlin 1.jpg",
-        "movimiento": "zoom_out"
+        "foto_commons": "Xavi Hernandez (31521652051).jpg",
+        "movimiento": "zoom_in",
+        "dicho": "Países Bajos ya está en cuartos: lidera con once puntos y sigue invicta con Shavi."
       },
       {
         "texto": "Alemania es tercera con ocho, igual que Grecia, que a la misma hora juega con Serbia.",
@@ -260,8 +264,8 @@
         },
         "voz": "andrea",
         "destello": true,
-        "foto_commons": "Olympiastadion Berlin 6.jpg",
-        "movimiento": "paneo_izq"
+        "foto_commons": "Klopp (24669321424).jpg",
+        "movimiento": "zoom_out"
       },
       {
         "texto": "¿Klopp o Xavi: quién gana hoy en Berlín?",
@@ -271,8 +275,9 @@
           "sobre": "TU PRONÓSTICO"
         },
         "voz": "mui",
-        "movimiento": "zoom_in",
-        "foto_commons": "Olympiastadion, Berlin.JPG"
+        "movimiento": "paneo_der",
+        "foto_commons": "Xavi Hernández - 002.jpg",
+        "dicho": "¿Klopp o Shavi: quién gana hoy en Berlín?"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -304,7 +309,7 @@
         },
         "voz": "mui",
         "movimiento": "zoom_in",
-        "foto_commons": "La Bombonera football stadium.jpg"
+        "foto_commons": "Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg"
       },
       {
         "texto": "El viernes, Uruguay le ganó dos a uno en La Bombonera.",
@@ -390,7 +395,7 @@
           "sobre": "TU OPINIÓN"
         },
         "voz": "mui",
-        "foto_commons": "Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg",
+        "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
         "movimiento": "zoom_in"
       },
       {
