@@ -81,17 +81,20 @@ def modo_rss():
     return datos
 
 
-def impulso(serie):
-    """Promedio de las últimas 24 h vs las 24 h anteriores (serie horaria de 7 días)."""
-    vals = [p["value"] for p in serie if not p.get("is_partial")]
-    if len(vals) < 48:
-        return None, None
-    ult, ant = sum(vals[-24:]) / 24, sum(vals[-48:-24]) / 24
+def _cambio(ult, ant):
     if ant == 0:
-        return None, "explosiva" if ult > 0 else "sin datos"
+        return None, ("nueva" if ult > 0 else "sin datos")
     pct = round((ult - ant) / ant * 100)
     estado = "explosiva" if pct >= 100 else "en crecimiento" if pct >= 20 else "estable" if pct > -20 else "en declive"
     return pct, estado
+
+
+def impulso(serie, horas):
+    """Promedio de las últimas `horas` vs las `horas` anteriores (serie horaria de 7 días)."""
+    vals = [p["value"] for p in serie]
+    if len(vals) < 2 * horas:
+        return None, None
+    return _cambio(sum(vals[-horas:]) / horas, sum(vals[-2 * horas:-horas]) / horas)
 
 
 def modo_explore(temas):
@@ -110,16 +113,19 @@ def modo_explore(temas):
                 include_related=True, include_geo=True, max_retries=3, retry_wait=10,
             )
             serie = env.get("interest_over_time", [])
-            pct, estado = impulso(serie)
+            pct, estado = impulso(serie, 24)
+            pct3, estado3 = impulso(serie, 3)
             pico = max(serie, key=lambda p: p["value"]) if serie else None
             regiones = sorted(env.get("interest_by_region", []), key=lambda r: -r["value"])
             datos["temas"].append({
                 "tema": tema,
                 "impulso_24h_pct": pct,
                 "estado": estado,
+                "impulso_3h_pct": pct3,
+                "estado_3h": estado3,
                 "pico": pico,
                 "ultimo_valor": serie[-1]["value"] if serie else None,
-                "provincias_top": [f'{r["geo_name"]} {r["value"]}' for r in regiones[:8]],
+                "provincias_top": [f'{r["geo_name"].replace(" Province", "")} {r["value"]}' for r in regiones[:8]],
                 "el_oro": next((r["value"] for r in regiones if "Oro" in r["geo_name"]), None),
                 "busquedas_en_alza": [f'{q["query"]} ({q["formatted_value"]})' for q in env.get("related_queries", {}).get("rising", [])[:8]],
                 "serie": [[p["date"][5:13], p["value"]] for p in serie[-48:]],
