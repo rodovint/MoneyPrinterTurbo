@@ -1,75 +1,92 @@
 [
   {
-    "titulo": "Ronaldinho volvió y el Ravenna ganó",
-    "etiqueta": "SERIE C DE ITALIA",
-    "color": "#8C1C1C",
-    "audio": "audio/08",
+    "titulo": "Alonso Reyes, campeón mundial juvenil de jiu-jitsu",
+    "etiqueta": "JIU-JITSU",
+    "color": "#0B4EA2",
+    "franja": [
+      "ORO EN ABU DABI",
+      "ALONSO REYES, 11 AÑOS",
+      "INFANTIL 30 KG · CINTURÓN GRIS",
+      "MUNDIAL JUVENIL AJP 2026"
+    ],
     "escenas": [
       {
-        "texto": "¡Ronaldinho volvió a los 46 años y el Ravenna ganó dos a cero!",
-        "inicio": 7.9, "fin": 11.6,
-        "grafico": {"tipo": "marcador",
-          "equipos": [{"nombre": "RAVENNA", "color": "#8C1C1C", "goles": 2, "escudo": "img/escudos/ravenna.png"},
-                      {"nombre": "FORLÌ", "color": "#B71C1C", "goles": 0, "escudo": "img/escudos/forli.png"}],
-          "pie": "EL REGRESO DE RONALDINHO"},
+        "texto": "¡Con once años, el ecuatoriano Alonso Reyes es campeón mundial juvenil de jiu-jitsu!",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡ORO PARA ECUADOR!",
+          "sobre": "ALONSO REYES, 11 AÑOS"
+        },
+        "voz": "mui",
         "hinchada": true,
-        "tono": "celebracion",
-        "transicion": "flash"
+        "foto": "img/alonso-podio.png",
+        "movimiento": "zoom_in"
       },
       {
-        "texto": "Jugó todo el primer tiempo con la diez, once años después de su último partido oficial.",
+        "texto": "Ganó el oro en el Mundial Juvenil de Abu Dabi, en Emiratos Árabes.",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "ORO",
+          "texto": "MUNDIAL JUVENIL · ABU DABI",
+          "animar": false
+        },
         "voz": "andrea",
-        "foto_commons": "Stadio Benelli Ravenna 1.JPG",
-        "grafico": {"tipo": "protagonista", "rol": "EL REGRESO DEL GAÚCHO · 46 AÑOS", "nombre": "RONALDINHO", "dato": "45 MINUTOS CON LA 10", "color": "#8C1C1C"},
-        "tono": "recuerdo"
+        "destello": true,
+        "foto": "img/alonso-medalla.png",
+        "movimiento": "zoom_in"
       },
       {
-        "texto": "En el uno a cero dejó su sello: protegió la pelota al inicio de la jugada y Giulio Donati la clavó de afuera.",
+        "texto": "Compitió en infantil de treinta kilos, cinturón gris.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "INFANTIL 30 KG",
+          "sobre": "CINTURÓN GRIS"
+        },
         "voz": "andrea",
-        "grafico": {"tipo": "pixel", "titulo": "ASÍ FUE EL 1-0",
-          "local": {"nombre": "RAVENNA", "color": "#8C1C1C"}, "rival": {"nombre": "FORLÌ", "color": "#E8E8E8"},
-          "jugadores": [
-            {"id": "10", "equipo": "local", "x": 50, "y": 52},
-            {"id": "a", "dorsal": "", "equipo": "local", "x": 72, "y": 44},
-            {"id": "d", "dorsal": "", "equipo": "local", "x": 34, "y": 46},
-            {"id": "r1", "dorsal": "", "equipo": "rival", "x": 52, "y": 58},
-            {"id": "r2", "dorsal": "", "equipo": "rival", "x": 45, "y": 24},
-            {"id": "r3", "dorsal": "", "equipo": "rival", "x": 62, "y": 26},
-            {"id": "1", "equipo": "rival", "x": 50, "y": 4, "arquero": true}],
-          "balon": "10",
-          "pasos": [
-            {"mover": {"r1": [51, 55]}, "texto": "RONALDINHO PROTEGE"},
-            {"balon": [72, 44], "flecha": "pase", "texto": "PRE-ASISTENCIA DEL 10"},
-            {"mover": {"d": [38, 38]}, "balon": [38, 38], "flecha": "pase", "texto": "LLEGA A DONATI"},
-            {"balon": [44, -2], "flecha": "tiro", "gol": true, "texto": "¡GOLAZO DE AFUERA!"}]},
-        "destello": true
+        "foto": "img/alonso-tatami.png",
+        "movimiento": "subir"
       },
       {
-        "texto": "Al salir, el estadio Bruno Benelli lo despidió de pie.",
+        "texto": "En el podio dejó atrás a Rusia, con la plata, y a Kazajistán, con el bronce.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "RUSIA 2.º · KAZAJISTÁN 3.º",
+          "sobre": "EL PODIO"
+        },
         "voz": "andrea",
-        "foto_commons": "Stadio Benelli Ravenna 2.JPG",
-        "grafico": {"tipo": "titular", "texto": "OVACIÓN DE PIE", "sobre": "ESTADIO BRUNO BENELLI"},
-        "hinchada": true
+        "foto": "img/alonso-podio.png",
+        "movimiento": "zoom_out"
       },
       {
-        "texto": "Y dejó la puerta abierta: si el presidente me llama, vuelvo.",
+        "texto": "Representa a la academia Team Predador International.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "TEAM PREDADOR",
+          "sobre": "SU ACADEMIA"
+        },
         "voz": "andrea",
-        "foto_commons": "Stadio Benelli Ravenna 3.JPG",
-        "grafico": {"tipo": "cita", "texto": "“SI EL PRESIDENTE ME LLAMA, VUELVO”", "autor": "RONALDINHO"},
-        "suspenso": true
+        "foto": "img/alonso-tatami.png",
+        "movimiento": "paneo_der"
       },
       {
-        "texto": "¿Quieres ver otra vez a Ronaldinho en la cancha?",
-        "inicio": 17.7, "fin": 20.1,
-        "grafico": {"tipo": "escudo", "escudo": "img/escudos/ravenna.png", "sobre": "TU OPINIÓN", "texto": "¿QUE VUELVA OTRA VEZ?"},
-        "transicion": "glitch"
+        "texto": "¿Hasta dónde llega este campeón?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿HASTA DÓNDE LLEGA?",
+          "sobre": "TU OPINIÓN"
+        },
+        "voz": "mui",
+        "foto": "img/alonso-medalla.png",
+        "movimiento": "zoom_in"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-        "inicio": 24.7, "fin": 27.25,
-        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
       }
-    ],
-    "franja": ["RAVENNA 2-0 FORLÌ", "GOLES: DONATI 35' Y RABBI 58'", "RONALDINHO JUGÓ 45 MINUTOS", "RAVENNA, 2.º DEL GRUPO B CON 32 PUNTOS"]
+    ]
   }
 ]
