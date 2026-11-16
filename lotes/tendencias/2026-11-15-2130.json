@@ -1,0 +1,10 @@
+{
+  "fecha": "2026-11-15T21:30-05:00",
+  "nota": "Primera foto. Google Trends (EC/US/ES/AR/MX) y Google Noticias no cargaron (WebFetch sin permiso); solo búsqueda web.",
+  "temas": [
+    {"tema": "Bélgica 4-1 Italia, Italia eliminada de la Liga de Naciones", "señales": ["noticias"], "volumen_EC": null, "volumen_max": null, "avisado": true},
+    {"tema": "España 2-3 Inglaterra", "señales": ["noticias"], "volumen_EC": null, "volumen_max": null, "avisado": true},
+    {"tema": "Exatlón México eliminado", "señales": ["noticias"], "volumen_EC": null, "volumen_max": null, "avisado": false},
+    {"tema": "NFL semana 11", "señales": ["noticias"], "volumen_EC": null, "volumen_max": null, "avisado": false}
+  ]
+}

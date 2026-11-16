@@ -1,0 +1,66 @@
+[
+  {
+    "titulo": "Bélgica golea y elimina a Italia",
+    "etiqueta": "LIGA DE NACIONES",
+    "color": "#0064AA",
+    "audio": "audio/10",
+    "franja": ["BÉLGICA 4-1 ITALIA", "ITALIA ELIMINADA", "LE BASTABA EMPATAR", "BÉLGICA A CUARTOS"],
+    "escenas": [
+      {
+        "texto": "¡Bélgica le metió cuatro a Italia y la dejó fuera de la Liga de Naciones!",
+        "grafico": {"tipo": "marcador", "equipos": [
+          {"nombre": "BÉLGICA", "color": "#E30613", "goles": 4},
+          {"nombre": "ITALIA", "color": "#0064AA", "goles": 1}], "pie": "ITALIA, ELIMINADA EN BRUSELAS"},
+        "hinchada": true
+      },
+      {
+        "texto": "A Italia le bastaba un empate en Bruselas para pasar a cuartos de final.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "LE BASTABA EL EMPATE", "sobre": "PASE A CUARTOS EN JUEGO"},
+        "suspenso": true
+      },
+      {
+        "texto": "Francesco Pio Esposito puso el uno a cero al minuto once, pero Bélgica la dio vuelta en un cuarto de hora.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "DEL 0-1 AL 3-1", "sobre": "MINUTOS 11 A 26"},
+        "tono": "urgente"
+      },
+      {
+        "texto": "Maxim De Cuyper empató, Nathan Ngoy hizo el dos a uno y Jérémy Doku clavó el tres a uno de zurda, desde lejos.",
+        "voz": "andrea",
+        "destello": true,
+        "grafico": {
+          "tipo": "tv", "titulo": "ASÍ FUE EL 3-1",
+          "local": {"nombre": "BÉLGICA", "color": "#E30613", "color2": "#FDDA24"},
+          "rival": {"nombre": "ITALIA", "color": "#0064AA"},
+          "jugadores": [
+            {"id": "11", "equipo": "local", "x": 30, "y": 45, "nombre": "DOKU", "destacado": true},
+            {"id": "D1", "equipo": "rival", "x": 40, "y": 30},
+            {"id": "D2", "equipo": "rival", "x": 55, "y": 20},
+            {"id": "1", "equipo": "rival", "x": 50, "y": 3, "arquero": true}
+          ],
+          "balon": "11",
+          "pasos": [
+            {"mover": {"11": [42, 28]}, "balon": [42, 28], "flecha": "conduccion", "texto": "DOKU ENCARA"},
+            {"balon": [56, -2], "flecha": "tiro", "curva": 0.2, "gol": true, "texto": "ZURDAZO DE LEJOS"}
+          ],
+          "marcador": {"local": "BEL", "rival": "ITA", "antes": [2, 1], "despues": [3, 1], "minuto": "26'"}
+        }
+      },
+      {
+        "texto": "Diego Moreira cerró la goleada a diez minutos del final, con pase de Kevin De Bruyne.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "4-1 DE MOREIRA", "sobre": "ASISTENCIA DE DE BRUYNE"}
+      },
+      {
+        "texto": "Italia se perdió los últimos tres Mundiales y ahora esto: ¿cuándo vuelve la Azzurra?",
+        "grafico": {"tipo": "titular", "texto": "¿CUÁNDO VUELVE ITALIA?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]
