@@ -1,9 +1,55 @@
 {
   "fecha": "2026-11-16T15:24-05:00",
-  "nota": "Modo rápido. Google Trends EC y Google Noticias no cargaron (WebFetch: permiso no respondido). Búsqueda web sin titulares explosivos. Sin señal.",
+  "nota": "Modo rápido. Google Trends EC y Google Noticias no cargaron (WebFetch: permiso no respondido). Búsqueda web sin titulares explosivos. Sin señal. Reintento con Mui presente: Google Trends EC ya carga; Google Noticias RSS bloqueado (robots_disallowed).",
   "temas": [
-    {"tema": "Alemania vs. Países Bajos (hoy 14:45)", "señales": ["lote mañana"], "volumen_EC": null, "avisado": false},
-    {"tema": "Ecuador vs. Bolivia (martes)", "señales": ["noticias"], "volumen_EC": null, "avisado": false},
-    {"tema": "Michael Morales vs. Carlos Prates (UFC)", "señales": ["lote mañana"], "volumen_EC": null, "avisado": false}
+    {
+      "tema": "Alemania vs. Países Bajos",
+      "señales": [
+        "Google Trends EC",
+        "lote mañana"
+      ],
+      "volumen_EC": "10000+",
+      "avisado": false
+    },
+    {
+      "tema": "Suiza vs. Escocia",
+      "señales": [
+        "Google Trends EC"
+      ],
+      "volumen_EC": "1000+",
+      "avisado": false
+    },
+    {
+      "tema": "Grecia vs. Serbia",
+      "señales": [
+        "Google Trends EC"
+      ],
+      "volumen_EC": "500+",
+      "avisado": false
+    },
+    {
+      "tema": "Sudán vs. Senegal",
+      "señales": [
+        "Google Trends EC"
+      ],
+      "volumen_EC": "200+",
+      "avisado": false
+    },
+    {
+      "tema": "Ecuador vs. Bolivia (martes)",
+      "señales": [
+        "noticias"
+      ],
+      "volumen_EC": null,
+      "avisado": false
+    },
+    {
+      "tema": "Michael Morales vs. Carlos Prates (UFC)",
+      "señales": [
+        "lote mañana"
+      ],
+      "volumen_EC": null,
+      "avisado": false
+    }
   ]
 }
