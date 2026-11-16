@@ -14,6 +14,7 @@ on:
         default: ""
   schedule:
     - cron: "5 0-3,11-23 * * *" # cada hora, 6:05 a 22:05 hora Ecuador
+    - cron: "10 11 * * *" # 6:10 Ecuador: explore antes del agente de noticias (6:28)
     - cron: "45 17 * * *" # 12:45 Ecuador: explore antes de la ronda de las 13:23
 
 permissions:
@@ -36,7 +37,7 @@ jobs:
         run: pip install -q "trendspyg==1.9.0"
       - name: Leer Google Trends
         env:
-          MODO: ${{ github.event.schedule == '45 17 * * *' && 'explore' || inputs.modo || 'rss' }}
+          MODO: ${{ (github.event.schedule == '45 17 * * *' || github.event.schedule == '10 11 * * *') && 'explore' || inputs.modo || 'rss' }}
           TEMAS: ${{ inputs.temas }}
         run: python scripts/tendencias/tendencias.py "$MODO" "$TEMAS"
       - name: Guardar en el repo
