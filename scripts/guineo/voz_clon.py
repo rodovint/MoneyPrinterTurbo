@@ -45,6 +45,40 @@ def recortar_cola(wav, sr, texto):
     return torch.from_numpy(a).unsqueeze(0)
 
 
+def puntaje(wav, sr, texto):
+    """Menor es mejor: duracion fuera de lo normal, picos (gritos/ruidos) y tono que sube al final
+    en frases que no son pregunta."""
+    import numpy as np
+    a = wav.squeeze().cpu().numpy().astype(np.float32)
+    dur = len(a) / sr
+    esperado = 0.062 * len(texto) + 0.3
+    p_dur = abs(dur - esperado) / esperado
+    v = int(0.02 * sr)
+    rms = np.array([np.sqrt(np.mean(a[i:i + v] ** 2)) for i in range(0, len(a) - v, v)]) + 1e-9
+    voz = rms[rms > np.percentile(rms, 30)]
+    p_pico = max(0.0, 20 * np.log10(rms.max() / np.median(voz)) - 9) / 3 if len(voz) else 0
+    f0 = []
+    n = int(0.04 * sr)
+    lo, hi = int(sr / 320), int(sr / 70)
+    for i in range(0, len(a) - n, n // 2):
+        x = a[i:i + n] - a[i:i + n].mean()
+        if np.sqrt(np.mean(x ** 2)) < np.median(voz) * 0.5:
+            continue
+        c = np.correlate(x, x, "full")[n - 1:]
+        if c[0] <= 0:
+            continue
+        j = lo + int(np.argmax(c[lo:hi]))
+        if c[j] / c[0] > 0.45:
+            f0.append(sr / j)
+    p_tono = 0.0
+    sube = 1.0
+    if len(f0) >= 8:
+        sube = float(np.median(f0[-3:]) / np.median(f0))
+        if not texto.strip().endswith("?"):
+            p_tono = max(0.0, sube - 1.08) * 8
+    return p_dur + p_pico + p_tono, f"dur {dur:.2f}/{esperado:.2f} s, pico {p_pico:.2f}, final x{sube:.2f}"
+
+
 def main(lote):
     reels = json.load(open(lote, encoding="utf-8"))
     pendientes = []
@@ -63,14 +97,25 @@ def main(lote):
     t0 = time.time()
     m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
     print(f"Modelo cargado en {time.time() - t0:.0f} s", flush=True)
+    import torch
     for t in pendientes:
         t1 = time.time()
-        wav = recortar_cola(m.generate(t, language_id="es", audio_prompt_path=REF, exaggeration=0.5, cfg_weight=0.5, temperature=0.8), m.sr, t)
+        # Mui (16/11): sin tono arriba al cerrar las afirmaciones y sin ruidos raros.
+        # Las exclamaciones se leen como afirmacion; se hacen 3 tomas y queda la mejor.
+        habla = t.replace("¡", "").replace("!", ".").replace("..", ".").strip()
+        tomas = []
+        for k in range(3):
+            torch.manual_seed(1000 + k)
+            w = recortar_cola(m.generate(habla, language_id="es", audio_prompt_path=REF,
+                                         exaggeration=0.4, cfg_weight=0.5, temperature=0.6), m.sr, habla)
+            p, info = puntaje(w, m.sr, habla)
+            print(f"  toma {k + 1}: {info} -> {p:.2f}", flush=True)
+            tomas.append((p, k, w))
+        p, k, wav = min(tomas, key=lambda x: x[0])
         dest = ruta(lote, t)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         ta.save(dest, wav, m.sr)
-        print(f"ok ({time.time() - t1:.0f} s): {t}", flush=True)
-
+        print(f"ok ({time.time() - t1:.0f} s, toma {k + 1}): {t}", flush=True)
 
 if __name__ == "__main__":
     main(sys.argv[1])
