@@ -1,0 +1,12 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic arena lights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "morales-octagono", "seed": 161, "referencias": [0], "prompt": "Vertical illustration: a muscular mixed martial arts fighter seen from behind, wearing plain red shorts and small black MMA gloves, standing inside an eight-sided cage octagon with black fence, fists raised, huge dark arena with bright spotlights from above, smoke, crowd blurred in the dark, no face visible."},
+    {"id": "pacho-quininde", "seed": 162, "referencias": [0], "prompt": "Vertical illustration: a young boy seen from behind, barefoot, plain white t-shirt, kicking a round black-and-white soccer ball on a dirt field in a small tropical town, tall palm trees, green jungle hills, wooden houses, warm golden sunset light, no face visible."},
+    {"id": "alemania-camisetas", "seed": 163, "referencias": [0], "prompt": "Vertical illustration: two plain soccer jerseys without any logo or number hanging side by side in a stadium locker room, one plain white with black trim, one plain bright orange, a round black-and-white soccer ball on the bench below, dramatic light from the tunnel to the pitch behind."},
+    {"id": "argentina-tribuna", "seed": 164, "referencias": [0], "prompt": "Vertical illustration: a big football stadium at night seen from the stands, fans seen from behind wearing plain light-blue and white striped shirts, raised arms, bright floodlights, green pitch below, confetti in the air, no faces visible."}
+  ]
+}
