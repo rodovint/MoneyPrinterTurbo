@@ -37,6 +37,10 @@ def recortar_cola(wav, sr, texto):
     a = a[:fin].copy()
     f = min(len(a), int(0.08 * sr))
     a[-f:] *= np.linspace(1, 0, f)
+    # Mui pidio su voz mas fuerte (16/11): nivel parejo a -16 dBFS RMS (Andrea queda mas baja).
+    rms_voz = np.sqrt(np.mean(a[a != 0] ** 2)) if np.any(a) else 0
+    if rms_voz > 0:
+        a = np.clip(a * (0.16 / rms_voz), -0.99, 0.99)
     print(f"cola recortada: {len(wav.squeeze()) / sr:.2f} s -> {len(a) / sr:.2f} s", flush=True)
     return torch.from_numpy(a).unsqueeze(0)
 

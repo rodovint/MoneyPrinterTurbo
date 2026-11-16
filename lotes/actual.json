@@ -104,7 +104,8 @@
         },
         "voz": "mui"
       }
-    ]
+    ],
+    "volumen_musica": 0.09
   },
   {
     "titulo": "Michael Morales, cara a cara con Carlos Prates",
@@ -198,7 +199,8 @@
         },
         "voz": "mui"
       }
-    ]
+    ],
+    "volumen_musica": 0.09
   },
   {
     "titulo": "Willian Pacho quería ser marinero o policía",
@@ -287,7 +289,8 @@
         },
         "voz": "mui"
       }
-    ]
+    ],
+    "volumen_musica": 0.09
   },
   {
     "titulo": "Argentina, sin Messi, busca revancha ante Costa Rica (martes 18:00)",
@@ -406,7 +409,8 @@
         },
         "voz": "mui"
       }
-    ]
+    ],
+    "volumen_musica": 0.09
   },
   {
     "titulo": "El autogol del arquero Ezequiel Bacher",
@@ -589,6 +593,7 @@
         },
         "voz": "mui"
       }
-    ]
+    ],
+    "volumen_musica": 0.09
   }
 ]
