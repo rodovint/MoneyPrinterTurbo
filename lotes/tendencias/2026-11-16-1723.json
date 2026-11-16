@@ -1,0 +1,11 @@
+{
+  "fecha": "2026-11-16T17:23-05:00",
+  "nota": "Modo rápido. rss-ultimo.json de 16:16 comparado con la foto de 15:24. Búsqueda web sin titulares explosivos. Sin brecha temprana. Sin señal.",
+  "temas": [
+    {"tema": "Alemania vs. Países Bajos", "señales": ["Google Trends EC"], "volumen_EC": "10000+", "volumen_anterior": "10000+", "estado": "estable", "brecha": "local", "avisado": false},
+    {"tema": "Suiza vs. Escocia", "señales": ["Google Trends EC"], "volumen_EC": "1000+", "volumen_anterior": "1000+", "estado": "estable", "brecha": "local", "avisado": false},
+    {"tema": "Grecia vs. Serbia", "señales": ["Google Trends EC", "Google Trends MX"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "estable", "brecha": "sincronizada", "avisado": false},
+    {"tema": "Sudán vs. Senegal", "señales": ["Google Trends EC"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "estable", "brecha": "local", "avisado": false},
+    {"tema": "Islandia vs. Luxemburgo / Estonia vs. Bulgaria", "señales": ["Google Trends EC"], "volumen_EC": "100+", "volumen_anterior": null, "estado": "nueva (bajo volumen)", "brecha": "local", "avisado": false}
+  ]
+}
