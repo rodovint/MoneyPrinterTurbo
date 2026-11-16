@@ -1,0 +1,50 @@
+name: Tendencias Guineo (Google Trends)
+
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "rss (lista de tendencias) o explore (curvas y provincias)"
+        type: choice
+        options: [rss, explore]
+        default: rss
+      temas:
+        description: "Solo explore: temas separados por coma (vacío = los deportivos más fuertes de EC)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "5 0-3,11-23 * * *" # cada hora, 6:05 a 22:05 hora Ecuador
+    - cron: "45 17 * * *" # 12:45 Ecuador: explore antes de la ronda de las 13:23
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tendencias
+  cancel-in-progress: false
+
+jobs:
+  tendencias:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar trendspyg
+        run: pip install -q "trendspyg==1.9.0"
+      - name: Leer Google Trends
+        env:
+          MODO: ${{ github.event.schedule == '45 17 * * *' && 'explore' || inputs.modo || 'rss' }}
+          TEMAS: ${{ inputs.temas }}
+        run: python scripts/tendencias/tendencias.py "$MODO" "$TEMAS"
+      - name: Guardar en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A lotes/tendencias/auto
+          git diff --cached --quiet && exit 0
+          git commit -qm "Guineo: tendencias auto $(TZ=America/Guayaquil date '+%F %H:%M') [skip ci]"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
