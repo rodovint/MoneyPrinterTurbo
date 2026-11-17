@@ -1,0 +1,11 @@
+{
+  "fecha": "2026-11-17T17:24-05:00",
+  "nota": "Modo rápido sin señal. Gales-Portugal baja (5000+ -> 1000+). Carlos Forbs nuevo en EC solo 200+ (US 1000+, un solo país). Níger-Marruecos ya avisado, ahora sincronizado 500+. Ecuador-Bolivia (18:30) ya en lote de la mañana.",
+  "temas": [
+    {"tema": "Gales vs. Portugal (Liga de Naciones)", "señales": ["EC 5000+ -> 1000+"], "volumen_EC": "1000+", "volumen_anterior": "5000+", "estado": "EN DECLIVE", "brecha": "SINCRONIZADA", "avisado": false},
+    {"tema": "Carlos Forbs", "señales": ["nuevo EC 200+", "US 1000+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+    {"tema": "Níger vs. Marruecos", "señales": ["EC 500+", "antes ausente"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+    {"tema": "Alexander Zverev", "señales": ["nuevo EC 200+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": null, "avisado": false},
+    {"tema": "Israel - Austria", "señales": ["EC 200+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false}
+  ]
+}
