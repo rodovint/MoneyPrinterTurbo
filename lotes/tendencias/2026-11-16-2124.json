@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-11-16T21:24-05:00",
+  "nota": "Modo rápido con rss-ultimo 21:07 vs rss 18:38. Subidas moderadas por la fecha FIFA (Ecuador vs. Bolivia, Canadá vs. Guatemala). Aviso corto, sin reel urgente.",
+  "temas": [
+    {"tema": "Selección de Bolivia (Ecuador vs. Bolivia, amistoso fecha FIFA)", "señales": ["Google Trends EC", "Teleamazonas"], "volumen_EC": "500+", "volumen_anterior": "200+", "estado": "en crecimiento", "brecha": "local", "avisado": true},
+    {"tema": "Canadá vs. Guatemala (amistoso en Toronto)", "señales": ["Google Trends EC", "ES", "MX"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "en crecimiento", "brecha": "sincronizada", "avisado": true},
+    {"tema": "Gonzalo Plata y Denil Castillo dejan la convocatoria", "señales": ["Google Trends EC"], "volumen_EC": "200+", "volumen_anterior": "100+", "estado": "estable", "brecha": "local", "avisado": true},
+    {"tema": "Alphonso Davies lesionado tras Canadá", "señales": ["Google Trends EC", "AR", "ESPN"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "nueva", "brecha": "sincronizada", "avisado": false},
+    {"tema": "Pelicans vs. Warriors (NBA)", "señales": ["Google Trends EC", "ES"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "nueva", "brecha": "sincronizada", "avisado": false},
+    {"tema": "Alemania vs. Países Bajos", "señales": ["Google Trends EC"], "volumen_EC": "200+", "volumen_anterior": "20000+", "estado": "en declive", "brecha": "local", "avisado": true}
+  ]
+}
