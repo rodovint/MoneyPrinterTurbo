@@ -10,6 +10,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
   - `"voz": "andrea"` (o `"luis"`): Edge TTS. Si una palabra suena mal, pon en `"dicho"` cómo se pronuncia ("Cies") y deja `"texto"` para el subtítulo.
   - Escenas sin `"voz"`: salen de una grabación real de Mui (`"audio": "audio/NN"`), cortada por pausas y limpiada sola. Solo si Mui manda audios.
   - Si la voz clonada falla, esa frase sale con Andrea (aviso en el log).
+  - **Pronunciación obligatoria (corrección de Mui, 17/11)**: toda frase que nombre a **Xavi** (Xavi Hernández) lleva `"dicho"` con **"Chavi"** (Andrea y el clon lo leen "Javi", y está mal). Revisa siempre los nombres extranjeros con X, J, Ll, W, etc. y ponles `"dicho"` antes de generar.
   - **Entonación (regla de Mui, 17/11):** toda frase que cierra (afirmación o exclamación) debe terminar con el **tono hacia abajo**; solo las preguntas suben. `voz_clon.py` hace hasta 6 tomas y descarta las que no bajan al final. Escribe las frases para que cierren con punto (no con "!" ni puntos suspensivos).
   - **Final completo:** la última palabra no se puede cortar (ej. "la vuelta al mundo"). Si en la hoja de contacto o al escuchar se nota cortada, regenera esa frase.
   - Revisa siempre que el final de cada frase clonada se escuche entero y bajando antes de mandar el video a Mui.

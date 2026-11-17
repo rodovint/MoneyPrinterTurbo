@@ -137,7 +137,8 @@
     "voz": "mui",
     "foto": "img/berlin-goleada.png",
     "movimiento": "zoom_in",
-    "destello": true
+    "destello": true,
+    "dicho": "¡Klopp le metió cinco a Chavi! Alemania goleó cinco a cero a Países Bajos."
    },
    {
     "texto": "Marcaron Derry Scherhant, Nico Schlotterbeck, Brajan Gruda y Florian Wirtz, dos veces.",
@@ -175,7 +176,8 @@
      "autor": "XAVI, DT DE PAÍSES BAJOS"
     },
     "voz": "andrea",
-    "tono": "urgente"
+    "tono": "urgente",
+    "dicho": "Y Chavi pidió disculpas: mostramos nuestra peor cara."
    },
    {
     "texto": "¿Klopp ya puso a Alemania entre los favoritos?",
