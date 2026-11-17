@@ -1,92 +1,204 @@
 [
-  {
-    "titulo": "Willian Pacho quería ser marinero o policía",
-    "etiqueta": "PSG",
-    "color": "#004170",
-    "franja": [
-      "DOCUMENTAL DEL PSG",
-      "DE QUININDÉ A EUROPA",
-      "BICAMPEÓN DE CHAMPIONS",
-      "HURACÁN · IDV · AMBERES · FRANKFURT · PSG"
-    ],
-    "escenas": [
+ {
+  "titulo": "Ecuador vs. Bolivia sin Plata ni Castillo (HOY 18:30)",
+  "etiqueta": "LA TRI",
+  "color": "#FFD100",
+  "franja": [
+   "HOY 18:30 · ESTADIO MONUMENTAL, GUAYAQUIL",
+   "BAJAS: GONZALO PLATA Y DENIL CASTILLO",
+   "10 PARTIDOS SIN PERDER ANTE BOLIVIA",
+   "ÚLTIMO PARTIDO DE LA TRI EN 2026"
+  ],
+  "escenas": [
+   {
+    "texto": "¡La Tri pierde a Gonzalo Plata y a Denil Castillo horas antes de jugar con Bolivia!",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡DOS BAJAS!",
+     "sobre": "PLATA Y CASTILLO, FUERA"
+    },
+    "voz": "mui",
+    "foto": "img/tri-camerino.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "Plata dejó la concentración por motivos personales y Castillo, por una lesión en el tobillo.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "PLATA",
+     "a_texto": "MOTIVOS PERSONALES",
+     "b": "CASTILLO",
+     "b_texto": "LESIÓN DE TOBILLO",
+     "pie": "COMUNICADO DE LA FEF"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "El partido es hoy a las seis y media de la tarde, en el Estadio Monumental de Guayaquil.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
       {
-        "texto": "Willian Pacho no soñaba con ser futbolista: quería ser marinero o policía.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿MARINERO O POLICÍA?",
-          "sobre": "EL SUEÑO DE NIÑO DE PACHO"
-        },
-        "voz": "mui",
-        "movimiento": "zoom_in",
-        "foto_commons": "Parc des princes 2018.jpg"
+       "nombre": "ECUADOR",
+       "color": "#FFD100",
+       "escudo": "img/escudos/fef.png"
       },
       {
-        "texto": "Lo contó en Tras los pasos de Willian Pacho, el documental que estrenó el PSG.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "TRAS LOS PASOS DE WILLIAN PACHO",
-          "sobre": "DOCUMENTAL DEL PSG"
-        },
-        "voz": "andrea",
-        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
-        "movimiento": "paneo_der"
-      },
-      {
-        "texto": "Arrancó en Quinindé, Esmeraldas, en el Huracán, y de ahí pasó a Independiente del Valle.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "QUININDÉ · INDEPENDIENTE DEL VALLE",
-          "sobre": "SUS INICIOS"
-        },
-        "voz": "andrea",
-        "foto_commons": "Esmeraldas - Quinindé.png",
-        "movimiento": "zoom_out"
-      },
-      {
-        "texto": "Luego vinieron el Amberes de Bélgica, el Eintracht Frankfurt y el PSG.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "AMBERES · FRANKFURT · PSG",
-          "sobre": "SU CAMINO EN EUROPA"
-        },
-        "voz": "andrea",
-        "foto_commons": "Paris Parc des Princes 1.jpg",
-        "movimiento": "subir"
-      },
-      {
-        "texto": "Hoy es bicampeón de Europa y lo dice él mismo: nunca imaginé ganar una Champions.",
-        "grafico": {
-          "tipo": "cita",
-          "texto": "“NUNCA ME HUBIERA IMAGINADO…”",
-          "autor": "WILLIAN PACHO"
-        },
-        "voz": "andrea",
-        "destello": true,
-        "tono": "celebracion",
-        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
-        "movimiento": "paneo_izq"
-      },
-      {
-        "texto": "¿Qué otro ecuatoriano merece su propio documental?",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿QUIÉN MERECE EL SUYO?",
-          "sobre": "TU OPINIÓN"
-        },
-        "voz": "mui",
-        "movimiento": "zoom_in",
-        "foto_commons": "Parc des princes 2018.jpg"
-      },
-      {
-        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-        "grafico": {
-          "tipo": "cierre",
-          "texto": "COMENTA Y SÍGUENOS"
-        },
-        "voz": "mui"
+       "nombre": "BOLIVIA",
+       "color": "#007A3D"
       }
-    ],
-    "volumen_musica": 0.09
-  }
+     ],
+     "hora": "HOY 18:30",
+     "pie": "ESTADIO MONUMENTAL · GUAYAQUIL"
+    },
+    "voz": "andrea",
+    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg"
+   },
+   {
+    "texto": "Y hay racha: Ecuador suma diez partidos seguidos sin perder ante Bolivia.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "10",
+     "texto": "PARTIDOS SIN PERDER ANTE BOLIVIA"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "La última derrota fue en la Copa América de 2015: tres a dos.",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ECUADOR",
+       "goles": 2,
+       "color": "#FFD100",
+       "escudo": "img/escudos/fef.png"
+      },
+      {
+       "nombre": "BOLIVIA",
+       "goles": 3,
+       "color": "#007A3D"
+      }
+     ],
+     "pie": "COPA AMÉRICA 2015 · ÚLTIMA DERROTA"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Hincha de la Tri, ¿quién reemplaza a Plata esta noche?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿QUIÉN ENTRA?",
+     "sobre": "TU ONCE PARA HOY"
+    },
+    "voz": "mui",
+    "foto": "img/tri-camerino.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui"
+   }
+  ]
+ },
+ {
+  "titulo": "Klopp golea 5-0 a Xavi: Alemania, líder y a cuartos",
+  "etiqueta": "NATIONS LEAGUE",
+  "color": "#000000",
+  "franja": [
+   "ALEMANIA 5-0 PAÍSES BAJOS",
+   "DOBLETE DE FLORIAN WIRTZ",
+   "ALEMANIA, PRIMERA DEL GRUPO",
+   "CUARTOS EN MARZO DE 2027"
+  ],
+  "escenas": [
+   {
+    "texto": "¡Klopp le metió cinco a Xavi! Alemania goleó cinco a cero a Países Bajos.",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ALEMANIA",
+       "goles": 5,
+       "color": "#000000"
+      },
+      {
+       "nombre": "PAÍSES BAJOS",
+       "goles": 0,
+       "color": "#F36C21"
+      }
+     ],
+     "pie": "OLYMPIASTADION DE BERLÍN"
+    },
+    "voz": "mui",
+    "foto": "img/berlin-goleada.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "Marcaron Derry Scherhant, Nico Schlotterbeck, Brajan Gruda y Florian Wirtz, dos veces.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2",
+     "texto": "GOLES DE FLORIAN WIRTZ"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "Alemania llegó tercera y terminó primera del grupo, con once puntos.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "11",
+     "texto": "PUNTOS: ALEMANIA, LÍDER"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Klopp no se guardó nada: el partido fue simplemente una locura.",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "“SIMPLEMENTE UNA LOCURA”",
+     "autor": "JÜRGEN KLOPP, DT DE ALEMANIA"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Y Xavi pidió disculpas: mostramos nuestra peor cara.",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "“MOSTRAMOS NUESTRA PEOR CARA”",
+     "autor": "XAVI, DT DE PAÍSES BAJOS"
+    },
+    "voz": "andrea",
+    "tono": "urgente"
+   },
+   {
+    "texto": "¿Klopp ya puso a Alemania entre los favoritos?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿FAVORITA?",
+     "sobre": "LA ALEMANIA DE KLOPP"
+    },
+    "voz": "mui",
+    "foto": "img/berlin-goleada.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui"
+   }
+  ]
+ }
 ]
