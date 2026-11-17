@@ -1,0 +1,11 @@
+{
+  "fecha": "2026-11-17T15:24-05:00",
+  "nota": "Ronda de la tarde. Gales-Portugal (Liga de Naciones, en juego, 1-1 según VAVEL) aparece nuevo en EC con 5000+. Sin alerta urgente: partido sin terminar. Ecuador-Bolivia (18:30) ya está en el lote de la mañana.",
+  "temas": [
+    {"tema": "Gales vs. Portugal (Liga de Naciones, en juego)", "señales": ["nuevo en EC 5000+", "MX 20000+", "AR 5000+", "MX 'wales vs portugal' 1000+"], "volumen_EC": "5000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "¿A qué hora juega Ecuador? (vs. Bolivia 18:30)", "señales": ["nuevo en EC 1000+", "ya en lote mañana"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+    {"tema": "Níger vs. Marruecos", "señales": ["ES 2000+", "MX 1000+", "US 500+"], "volumen_EC": null, "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "TEMPRANA", "avisado": true},
+    {"tema": "Polonia-Suecia / Bosnia-Rumania / Israel-Austria", "señales": ["EC 200+", "AR/MX 500-1000+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+    {"tema": "Alexander Zverev", "señales": ["ES 1000+", "MX 100+"], "volumen_EC": null, "volumen_anterior": null, "estado": "ESTABLE", "brecha": null, "avisado": false}
+  ]
+}
