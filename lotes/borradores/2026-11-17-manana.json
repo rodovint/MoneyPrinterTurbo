@@ -1,0 +1,47 @@
+[
+ {
+  "titulo": "Ecuador vs. Bolivia sin Plata ni Castillo (HOY 18:30)",
+  "etiqueta": "LA TRI",
+  "color": "#FFD100",
+  "franja": ["HOY 18:30 · ESTADIO MONUMENTAL, GUAYAQUIL", "BAJAS: GONZALO PLATA Y DENIL CASTILLO", "10 PARTIDOS SIN PERDER ANTE BOLIVIA", "ÚLTIMO PARTIDO DE LA TRI EN 2026"],
+  "escenas": [
+   {"texto": "¡La Tri pierde a Gonzalo Plata y a Denil Castillo horas antes de jugar con Bolivia!", "grafico": {"tipo": "titular", "texto": "¡DOS BAJAS!", "sobre": "PLATA Y CASTILLO, FUERA"}, "voz": "mui", "foto": "img/tri-camerino.png", "movimiento": "zoom_in", "destello": true},
+   {"texto": "Plata dejó la concentración por motivos personales y Castillo, por una lesión en el tobillo.", "grafico": {"tipo": "duo", "a": "PLATA", "a_texto": "MOTIVOS PERSONALES", "b": "CASTILLO", "b_texto": "LESIÓN DE TOBILLO", "pie": "COMUNICADO DE LA FEF"}, "voz": "andrea"},
+   {"texto": "El partido es hoy a las seis y media de la tarde, en el Estadio Monumental de Guayaquil.", "grafico": {"tipo": "partido", "equipos": [{"nombre": "ECUADOR", "color": "#FFD100", "escudo": "img/escudos/fef.png"}, {"nombre": "BOLIVIA", "color": "#007A3D"}], "hora": "HOY 18:30", "pie": "ESTADIO MONUMENTAL · GUAYAQUIL"}, "voz": "andrea", "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg"},
+   {"texto": "Y hay racha: Ecuador suma diez partidos seguidos sin perder ante Bolivia.", "grafico": {"tipo": "cifra", "valor": "10", "texto": "PARTIDOS SIN PERDER ANTE BOLIVIA"}, "voz": "andrea", "hinchada": true},
+   {"texto": "La última derrota fue en la Copa América de 2015: tres a dos.", "grafico": {"tipo": "marcador", "equipos": [{"nombre": "ECUADOR", "goles": 2, "color": "#FFD100", "escudo": "img/escudos/fef.png"}, {"nombre": "BOLIVIA", "goles": 3, "color": "#007A3D"}], "pie": "COPA AMÉRICA 2015 · ÚLTIMA DERROTA"}, "voz": "andrea", "tono": "recuerdo"},
+   {"texto": "Hincha de la Tri, ¿quién reemplaza a Plata esta noche?", "grafico": {"tipo": "titular", "texto": "¿QUIÉN ENTRA?", "sobre": "TU ONCE PARA HOY"}, "voz": "mui", "foto": "img/tri-camerino.png", "movimiento": "zoom_out"},
+   {"texto": "Comenta y síguenos en Guineo Comunicaciones.", "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}, "voz": "mui"}
+  ]
+ },
+ {
+  "titulo": "Klopp golea 5-0 a Xavi: Alemania, líder y a cuartos",
+  "etiqueta": "NATIONS LEAGUE",
+  "color": "#000000",
+  "franja": ["ALEMANIA 5-0 PAÍSES BAJOS", "DOBLETE DE FLORIAN WIRTZ", "ALEMANIA, PRIMERA DEL GRUPO", "CUARTOS EN MARZO DE 2027"],
+  "escenas": [
+   {"texto": "¡Klopp le metió cinco a Xavi! Alemania goleó cinco a cero a Países Bajos.", "grafico": {"tipo": "marcador", "equipos": [{"nombre": "ALEMANIA", "goles": 5, "color": "#000000"}, {"nombre": "PAÍSES BAJOS", "goles": 0, "color": "#F36C21"}], "pie": "OLYMPIASTADION DE BERLÍN"}, "voz": "mui", "foto": "img/berlin-goleada.png", "movimiento": "zoom_in", "destello": true},
+   {"texto": "Marcaron Derry Scherhant, Nico Schlotterbeck, Brajan Gruda y Florian Wirtz, dos veces.", "grafico": {"tipo": "cifra", "valor": "2", "texto": "GOLES DE FLORIAN WIRTZ"}, "voz": "andrea", "hinchada": true},
+   {"texto": "Alemania llegó tercera y terminó primera del grupo, con once puntos.", "grafico": {"tipo": "cifra", "valor": "11", "texto": "PUNTOS: ALEMANIA, LÍDER"}, "voz": "andrea"},
+   {"texto": "Klopp no se guardó nada: el partido fue simplemente una locura.", "grafico": {"tipo": "cita", "texto": "“SIMPLEMENTE UNA LOCURA”", "autor": "JÜRGEN KLOPP, DT DE ALEMANIA"}, "voz": "andrea"},
+   {"texto": "Y Xavi pidió disculpas: mostramos nuestra peor cara.", "grafico": {"tipo": "cita", "texto": "“MOSTRAMOS NUESTRA PEOR CARA”", "autor": "XAVI, DT DE PAÍSES BAJOS"}, "voz": "andrea", "tono": "urgente"},
+   {"texto": "¿Klopp ya puso a Alemania entre los favoritos?", "grafico": {"tipo": "titular", "texto": "¿FAVORITA?", "sobre": "LA ALEMANIA DE KLOPP"}, "voz": "mui", "foto": "img/berlin-goleada.png", "movimiento": "zoom_out"},
+   {"texto": "Comenta y síguenos en Guineo Comunicaciones.", "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}, "voz": "mui"}
+  ]
+ },
+ {
+  "titulo": "Oluwaseyi, doblete y Canadá elimina a la Guatemala de Tena",
+  "etiqueta": "CONCACAF",
+  "color": "#D80621",
+  "franja": ["CANADÁ 4-1 GUATEMALA", "GLOBAL 7-3", "DOBLETE DE TANI OLUWASEYI", "CANADÁ, AL FINAL FOUR · MARZO 2027"],
+  "escenas": [
+   {"texto": "¡Tani Oluwaseyi hizo doblete y Canadá eliminó a la Guatemala del Flaco Tena!", "grafico": {"tipo": "titular", "texto": "¡ADIÓS, GUATEMALA!", "sobre": "DOBLETE DE OLUWASEYI"}, "voz": "mui", "foto": "img/toronto-noche.png", "movimiento": "zoom_in", "destello": true},
+   {"texto": "Canadá ganó cuatro a uno en Toronto y siete a tres en el global.", "grafico": {"tipo": "marcador", "equipos": [{"nombre": "CANADÁ", "goles": 4, "color": "#D80621"}, {"nombre": "GUATEMALA", "goles": 1, "color": "#4997D0"}], "pie": "GLOBAL 7-3 · BMO FIELD, TORONTO"}, "voz": "andrea"},
+   {"texto": "Guatemala se ilusionó: Óscar Santis abrió el marcador al minuto treinta y cuatro.", "grafico": {"tipo": "cifra", "valor": "34'", "texto": "GOL DE ÓSCAR SANTIS", "animar": false}, "voz": "andrea", "suspenso": true},
+   {"texto": "Pero Jonathan David empató de penal, y luego llegaron Oluwaseyi, Buchanan y otra vez Oluwaseyi, de cabeza.", "grafico": {"tipo": "cifra", "valor": "2", "texto": "GOLES DE TANI OLUWASEYI"}, "voz": "andrea", "hinchada": true},
+   {"texto": "Canadá jugará el Final Four en marzo de dos mil veintisiete.", "grafico": {"tipo": "titular", "texto": "FINAL FOUR", "sobre": "MARZO 2027"}, "voz": "andrea"},
+   {"texto": "¿Canadá es ya la tercera fuerza de la Concacaf?", "grafico": {"tipo": "titular", "texto": "¿TERCERA FUERZA?", "sobre": "TU OPINIÓN"}, "voz": "mui", "foto": "img/toronto-noche.png", "movimiento": "zoom_out"},
+   {"texto": "Comenta y síguenos en Guineo Comunicaciones.", "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}, "voz": "mui"}
+  ]
+ }
+]
