@@ -122,6 +122,14 @@ def escudo_auto(e):
     return e.get("escudo") or ("img/escudos/" + slug(e.get("nombre", "")) + ".png" if e.get("nombre") else None)
 
 
+def todos_con_escudo(equipos):
+    """Regla de Mui (17/11): o salen los escudos de TODOS los equipos o no sale ninguno."""
+    ok = all(escudo_auto(e) and escudo_img(escudo_auto(e), 180) is not None for e in equipos)
+    if not ok:
+        print("::warning::Falta el escudo de algún equipo: la tarjeta sale SIN escudos (regla de Mui)", flush=True)
+    return ok
+
+
 def escudo_img(ruta, lado):
     """Escudo (PNG con transparencia) de lotes/<ruta>, escalado a un cuadrado de 'lado'."""
     if not ruta:
@@ -171,11 +179,12 @@ def card(c):
         f2, l2 = fit(d, c["texto"], 880, 3, [72, 64, 56, 50], B)
         ctext(d, 650 - (len(l2) - 1) * 28, l2, f2, INK, 1.1)
     elif kind == "marcador":
+        con_escudo = todos_con_escudo(c["equipos"])
         for i, e in enumerate(c["equipos"]):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
             x0 = 105
-            if escudo_auto(e) and pegar_escudo(im, escudo_auto(e), 170, y + 140, 180):
+            if con_escudo and pegar_escudo(im, escudo_auto(e), 170, y + 140, 180):
                 x0 = 280
             f, l = fit(d, e["nombre"], W - 300 - x0 - 20, 1, [130, 112, 96, 84, 72, 62])
             d.text((x0, y + 140), l[0], font=f, fill=INK, anchor="lm")
@@ -201,10 +210,11 @@ def card(c):
         f, l = fit(d, c["pie"], 900, 2, [56, 50, 44], B)
         ctext(d, 680, l, f, INK)
     elif kind == "partido":
+        con_escudo = todos_con_escudo(c["equipos"])
         for i, e in enumerate(c["equipos"]):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
-            if escudo_auto(e) and pegar_escudo(im, escudo_auto(e), 175, y + 140 + (-20 if i == 0 else 20), 190):
+            if con_escudo and pegar_escudo(im, escudo_auto(e), 175, y + 140 + (-20 if i == 0 else 20), 190):
                 f, l = fit(d, e["nombre"], 680, 1, [120, 104, 92, 80, 70])
                 d.text(((290 + W - 60) / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
             else:
