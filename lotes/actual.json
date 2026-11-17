@@ -1,176 +1,82 @@
 [
   {
-    "titulo": "El autogol del arquero Ezequiel Bacher",
-    "etiqueta": "VIRAL",
-    "color": "#7A0E14",
+    "titulo": "Willian Pacho quería ser marinero o policía",
+    "etiqueta": "PSG",
+    "color": "#004170",
     "franja": [
-      "AUTOGOL AL MINUTO 3",
-      "COMUNICACIONES 2-3 ARSENAL",
-      "PRIMERA B DE ARGENTINA",
-      "EL VIDEO DIO LA VUELTA AL MUNDO"
+      "DOCUMENTAL DEL PSG",
+      "DE QUININDÉ A EUROPA",
+      "BICAMPEÓN DE CHAMPIONS",
+      "HURACÁN · IDV · AMBERES · FRANKFURT · PSG"
     ],
     "escenas": [
       {
-        "texto": "¡El arquero Ezequiel Bacher se hizo un autogol increíble que ya dio la vuelta al mundo!",
+        "texto": "Willian Pacho no soñaba con ser futbolista: quería ser marinero o policía.",
         "grafico": {
           "tipo": "titular",
-          "texto": "¡AUTOGOL INCREÍBLE!",
-          "sobre": "EZEQUIEL BACHER, ARQUERO"
+          "texto": "¿MARINERO O POLICÍA?",
+          "sobre": "EL SUEÑO DE NIÑO DE PACHO"
         },
         "voz": "mui",
-        "video": "videos/bacher-autogol.mp4",
-        "video_inicio": 0.0,
-        "dicho": "¡El arquero Ezequiel Bácher se hizo un autogol increíble que ya dio la vuelta al mundo!"
+        "movimiento": "zoom_in",
+        "foto_commons": "Parc des princes 2018.jpg"
       },
       {
-        "texto": "Fue con Comunicaciones ante Arsenal de Sarandí, en cuartos de final de la Primera B de Argentina.",
-        "grafico": {
-          "tipo": "partido",
-          "equipos": [
-            {
-              "nombre": "COMUNICACIONES",
-              "color": "#111111"
-            },
-            {
-              "nombre": "ARSENAL",
-              "color": "#7FB2E5"
-            }
-          ],
-          "pie": "PRIMERA B DE ARGENTINA · IDA",
-          "hora": "CUARTOS DE FINAL"
-        },
-        "voz": "andrea"
-      },
-      {
-        "texto": "A los tres minutos quiso sacar rápido con la mano derecha y la pelota se le soltó.",
-        "voz": "andrea",
-        "suspenso": true,
-        "grafico": {
-          "tipo": "tv",
-          "titulo": "ASÍ FUE EL AUTOGOL",
-          "local": {
-            "nombre": "COMUNICACIONES",
-            "color": "#111111",
-            "color2": "#F5C400"
-          },
-          "rival": {
-            "nombre": "ARSENAL",
-            "color": "#7FB2E5"
-          },
-          "jugadores": [
-            {
-              "id": "1",
-              "equipo": "local",
-              "x": 50,
-              "y": 5,
-              "arquero": true,
-              "nombre": "BACHER",
-              "destacado": true
-            },
-            {
-              "id": "4",
-              "equipo": "local",
-              "x": 30,
-              "y": 25
-            },
-            {
-              "id": "6",
-              "equipo": "local",
-              "x": 68,
-              "y": 30
-            },
-            {
-              "id": "9",
-              "equipo": "rival",
-              "x": 45,
-              "y": 45
-            },
-            {
-              "id": "11",
-              "equipo": "rival",
-              "x": 72,
-              "y": 55
-            }
-          ],
-          "balon": "1",
-          "pasos": [
-            {
-              "mover": {
-                "1": [
-                  52,
-                  8
-                ]
-              },
-              "balon": [
-                53,
-                8
-              ],
-              "texto": "QUIERE SACAR CON LA MANO"
-            },
-            {
-              "balon": [
-                51,
-                -2
-              ],
-              "flecha": "tiro",
-              "gol": true,
-              "texto": "¡SE LE SOLTÓ!"
-            }
-          ],
-          "marcador": {
-            "local": "COM",
-            "rival": "ARS",
-            "antes": [
-              0,
-              0
-            ],
-            "despues": [
-              0,
-              1
-            ],
-            "minuto": "3'"
-          },
-          "ambiente": "normal"
-        }
-      },
-      {
-        "texto": "Así, la pelota terminó en su propio arco y el video dio la vuelta al mundo.",
-        "voz": "andrea",
-        "destello": true,
-        "video": "videos/bacher-autogol.mp4",
-        "video_inicio": 1.5,
-        "grafico": {
-          "tipo": "ninguno"
-        }
-      },
-      {
-        "texto": "Comunicaciones lo empató, pero perdió tres a dos el partido de ida.",
-        "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {
-              "nombre": "COMUNICACIONES",
-              "color": "#111111",
-              "goles": 2
-            },
-            {
-              "nombre": "ARSENAL",
-              "color": "#7FB2E5",
-              "goles": 3
-            }
-          ],
-          "pie": "IDA DE CUARTOS · PRIMERA B"
-        },
-        "voz": "andrea"
-      },
-      {
-        "texto": "¿Alguna vez viste un autogol así?",
+        "texto": "Lo contó en Tras los pasos de Willian Pacho, el documental que estrenó el PSG.",
         "grafico": {
           "tipo": "titular",
-          "texto": "¿VISTE ALGO ASÍ?",
+          "texto": "TRAS LOS PASOS DE WILLIAN PACHO",
+          "sobre": "DOCUMENTAL DEL PSG"
+        },
+        "voz": "andrea",
+        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
+        "movimiento": "paneo_der"
+      },
+      {
+        "texto": "Arrancó en Quinindé, Esmeraldas, en el Huracán, y de ahí pasó a Independiente del Valle.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "QUININDÉ · INDEPENDIENTE DEL VALLE",
+          "sobre": "SUS INICIOS"
+        },
+        "voz": "andrea",
+        "foto_commons": "Esmeraldas - Quinindé.png",
+        "movimiento": "zoom_out"
+      },
+      {
+        "texto": "Luego vinieron el Amberes de Bélgica, el Eintracht Frankfurt y el PSG.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "AMBERES · FRANKFURT · PSG",
+          "sobre": "SU CAMINO EN EUROPA"
+        },
+        "voz": "andrea",
+        "foto_commons": "Paris Parc des Princes 1.jpg",
+        "movimiento": "subir"
+      },
+      {
+        "texto": "Hoy es bicampeón de Europa y lo dice él mismo: nunca imaginé ganar una Champions.",
+        "grafico": {
+          "tipo": "cita",
+          "texto": "“NUNCA ME HUBIERA IMAGINADO…”",
+          "autor": "WILLIAN PACHO"
+        },
+        "voz": "andrea",
+        "destello": true,
+        "tono": "celebracion",
+        "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
+        "movimiento": "paneo_izq"
+      },
+      {
+        "texto": "¿Qué otro ecuatoriano merece su propio documental?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿QUIÉN MERECE EL SUYO?",
           "sobre": "TU OPINIÓN"
         },
-        "voz": "mui"
+        "voz": "mui",
+        "movimiento": "zoom_in",
+        "foto_commons": "Parc des princes 2018.jpg"
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",

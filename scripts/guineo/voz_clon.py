@@ -76,7 +76,9 @@ def puntaje(wav, sr, texto):
     if len(f0) >= 8:
         sube = float(np.median(f0[-3:]) / np.median(f0))
         if not texto.strip().endswith("?"):
-            p_tono = max(0.0, sube - 1.08) * 8
+            # Mui (17/11): toda frase que cierra (no pregunta) debe terminar con el tono HACIA ABAJO.
+            # Se castiga cualquier final que no baje (antes solo se castigaba si subia mas de 8 %).
+            p_tono = max(0.0, sube - 0.96) * 12
     return p_dur + p_pico + p_tono, f"dur {dur:.2f}/{esperado:.2f} s, pico {p_pico:.2f}, final x{sube:.2f}"
 
 
@@ -104,14 +106,18 @@ def main(lote):
         # Mui (16/11): sin tono arriba al cerrar las afirmaciones y sin ruidos raros.
         # Las exclamaciones se leen como afirmacion; se hacen 3 tomas y queda la mejor.
         habla = t.replace("¡", "").replace("!", ".").replace("..", ".").strip()
+        # 17/11: hasta 6 tomas; se para antes si una ya cierra con el tono hacia abajo y sin fallas.
+        pregunta = habla.endswith("?")
         tomas = []
-        for k in range(3):
+        for k in range(6):
             torch.manual_seed(1000 + k)
             w = recortar_cola(m.generate(habla, language_id="es", audio_prompt_path=REF,
                                          exaggeration=0.4, cfg_weight=0.5, temperature=0.6), m.sr, habla)
             p, info = puntaje(w, m.sr, habla)
             print(f"  toma {k + 1}: {info} -> {p:.2f}", flush=True)
             tomas.append((p, k, w))
+            if k >= 2 and (pregunta or min(t[0] for t in tomas) < 0.6):
+                break
         p, k, wav = min(tomas, key=lambda x: x[0])
         dest = ruta(lote, t)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
