@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-17T07:56-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "singapore vs brazil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "0-7: Vini Jr.'s hat-trick and an Endrick goal lead Brazil to a rout over Singapore (Real Madrid CF | Web Oficial)",
+     "Licensable picture: Mizuho Blue Challenge - Singapore v Brazil (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "prisión",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Un hincha es condenado por insultos racistas contra Kylian Mbappé (Primicias)",
+     "LaLiga alcanza las 12 resoluciones por racismo en el fútbol español tras el caso Mbappé (IUSPORT)"
+    ]
+   },
+   {
+    "tema": "brasil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Entenda por que a Seleção Brasileira está jogando com uma faixa preta no braço (tmc.com.br)",
+     "0-7: 'Hat-trick' de Vini Jr. e um gol de Endrick na goleada do Brasil contra Singapura (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "cuando juega ecuador",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde juegan Ecuador y Bolivia su partido amistoso por la fecha FIFA: todo lo que debe saber del partido (El Universo)",
+     "¡La Tri va por otra alegría! ¿Dónde ver el último partido del año? (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "clima guayaquil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico del clima en Guayaquil este lunes, 16 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
+     "Pronóstico del clima en Guayaquil este domingo, 15 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)"
+    ]
+   },
+   {
+    "tema": "huevo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precio de los huevos desde hoy, lunes, 16 de noviembre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo (El Mundo)",
+     "El precio de los huevos desde hoy en los supermercados, de Mercadona a Lidl, Dia o Carrefour (Las Provincias)"
+    ]
+   },
+   {
+    "tema": "primicias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "50 personas detenidas en operativo en Europa contra una presunta red que enviaba droga desde Ecuador (Primicias)",
+     "Cae red que enviaba cocaína desde Ecuador a Europa; cerca de 50 detenidos (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "policía judicial",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "911Society: la empresa que conecta el presunto lavado de Aquiles Alvarez con la familia Dieb y Luisa González (Primicias)",
+     "La empresa 911 Society, vinculada a cuñada de Navila Dieb, conecta los casos La Reina y Laberinto por presunto lavado de activos (El Universo)"
+    ]
+   },
+   {
+    "tema": "brasil vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T02:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Vinícius Jr. convirtió un hat-trick en una ráfaga para Brasil contra Singapur (ESPN Ecuador)",
+     "Brasil busca ante Singapur un desquite que le dé respiro al DT Carlo Ancelotti (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "pago",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T00:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gobierno del Ecuador desembolsa USD 390 millones para el pago anticipado del décimo a 485.000 servidores públicos (La República EC)",
+     "Cerca de 485 mil servidores públicos reciben el décimo tercer sueldo (El Telégrafo (por eliminar))"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "ethiopia vs mozambique",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mozambique vs Ethiopia: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Ethiopia vs Mozambique Prediction, Betting Tips & Odds | 17 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "bryson dechambeau",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bryson DeChambeau joins DP World Tour to end golf exile (The Telegraph)",
+     "Bryson DeChambeau to join European tour in 2027 after demise of LIV Golf (ESPN)"
+    ]
+   },
+   {
+    "tema": "tornado warning san francisco bay area",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Live storm updates: Waterspouts spotted over San Francisco Bay amid severe weather (ABC7 Bay Area)",
+     "Video: Waterspout spotted over SF Bay (KRON4)"
+    ]
+   },
+   {
+    "tema": "sls stock",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eli Lilly to Buy Calytrix Bio for Up to $1.5 Billion (WSJ)",
+     "SLS Stock Jumps After-Hours: Retail Eyes Lilly’s Cancer Deal for Valuation Clues — 2 Big Investors Grab Shares (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "china vs bahrain",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "China vs Bahrain: Friendlies stats & head-to-head (BBC)",
+     "Football: Bahrain ‘ready’ for China test (Gulf Daily News (Bahrain))"
+    ]
+   },
+   {
+    "tema": "gta 6 delay",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Teacher Cancels Exams And Assignments To Let Students Enjoy GTA 6 At Launch (Tech4Gamers)",
+     "Professor Clears Homework & Delays Exam For ‘GTA 6’ Launch Week (SAYS)"
+    ]
+   },
+   {
+    "tema": "connections today",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "NYT Connections Answers for November 17, 2026 (The New York Times)",
+     "NYT Connections hints today: Meanings for each word for Nov. 17, 2026 (Mashable)"
+    ]
+   },
+   {
+    "tema": "its going down strands",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "NYT Strands Hints for November 17, 2026 (The New York Times)",
+     "NYT Strands hints, answers for November 17, 2026 (Mashable)"
+    ]
+   },
+   {
+    "tema": "home depot stock",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Implied Volatility Surging for Home Depot Stock Options (Yahoo Finance)",
+     "Implied Volatility Surging for Home Depot Stock Options (Zacks Investment Research)"
+    ]
+   },
+   {
+    "tema": "amistosos",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba (ESPN Deportes)",
+     "La formación de la Selección Argentina contra Costa Rica, por un amistoso (TyC Sports)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "george soros",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Soros Joined Family Offices Selling Nvidia Before CEO Exit (Bloomberg.com)",
+     "NVIDIA Corporation $NVDA Shares Sold by Warwick Investment Management Inc. (MarketBeat)"
+    ]
+   },
+   {
+    "tema": "vinícius júnior",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T04:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Singapur 0 - Brasil 7: resumen, resultado y goles del partido (Diario AS)",
+     "Vuelve el mejor Vini (MARCA)"
+    ]
+   },
+   {
+    "tema": "josé luis rodríguez zapatero",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación (EL PAÍS)",
+     "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez (El Mundo)"
+    ]
+   },
+   {
+    "tema": "misil",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin (EL PAÍS)",
+     "Guerra de Ucrania – Día 1727: Ucrania destruye el puente de Kerch por segunda vez (Ejércitos)"
+    ]
+   },
+   {
+    "tema": "matrícula",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las nuevas matrículas españolas que plantea la DGT: Adiós al sistema de cuatro cifras y tres letras (Car and Driver)",
+     "Giro en las matrículas españolas: desde noviembre llega el cambio a los coches españoles y la DGT lo ha con... (OkDiario)"
+    ]
+   },
+   {
+    "tema": "vacaciones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pedro Sánchez, en la entrevista con Jordi Wild, sobre sus vacaciones durante la crisis de Ceuta: \"Estuve trabajando todos los días y dando la cara\" (El Confidencial)",
+     "Pedro Sánchez reconoce que \"se podría haber reaccionado antes\" en la DANA: \"Mazón no quería ceder el mando\" (Telecinco)"
+    ]
+   },
+   {
+    "tema": "luis zahera",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Luis Zahera, 60 años: «Desayuno cuatro huevos fritos con pan, fruta, un sándwich de jamón y queso fundido y leche de avena con polen» (ABC)",
+     "El Top-1 de Netflix es español: esta película de Luis Zahera es la más vista de la plataforma (20Minutos)"
+    ]
+   },
+   {
+    "tema": "brasil",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "0-7: 'Hat-trick' de Vini Jr. e um gol de Endrick na goleada do Brasil contra Singapura (Real Madrid CF | Web Oficial)",
+     "Vini brilha com três gols, e seleção fecha ano com goleada sobre Singapura (UOL)"
+    ]
+   },
+   {
+    "tema": "guaguas municipales",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El desvío de las guaguas en San José enfrenta la seguridad con las dificultades: «Aquí hay gente que va a trabajar» (Canarias7)",
+     "Guaguas Municipales modifica los recorridos de las líneas 9, 12 y L1 por motivos de seguridad (Ayuntamiento de Las Palmas de Gran Canaria.)"
+    ]
+   },
+   {
+    "tema": "el diario montañés",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una nueva promoción levantará 24 pisos en Vista Alegre que partirán de los 375.000 euros (El Diario Montañés)",
+     "Zabiri, un sueño imposible del Racing (El Diario Montañés)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "ileon",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El tiempo en León hoy, 17 de noviembre: lluvias hasta la tarde y temperaturas de hasta 18 grados (ILEON)",
+     "La lluvia da una tregua parcial este martes en algunos puntos de la provincia de León (Leonoticias)"
+    ]
+   },
+   {
+    "tema": "diario el eco de tandil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Casi 500 hectáreas y más de 8 mil vecinos: cual es el barrio más grande de Tandil (El Eco)",
+     "Se estrenará \"1872\", el cortometraje que revive uno de los episodios más oscuros de la historia de Tandil (El Eco)"
+    ]
+   },
+   {
+    "tema": "17 de noviembre que se celebra",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lola Mora desafió los prejuicios de una sociedad que rechazó sus esculturas, murió pobre y olvidada, y el tiempo la reivindicó (Infobae)",
+     "Día Nacional del Escultor y las Artes Plásticas (Chajarí Digital)"
+    ]
+   },
+   {
+    "tema": "dia de la militancia peronista",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El día que Juan Domingo Perón volvió a la Argentina después de 17 años de exilio (Infobae)",
+     "De militancias y lealtades traicioneras, entre la unidad y los otros (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "singapore vs brazil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "0-7: Vini Jr.'s hat-trick and an Endrick goal lead Brazil to a rout over Singapore (Real Madrid CF | Web Oficial)",
+     "Licensable picture: Mizuho Blue Challenge - Singapore v Brazil (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "marta fort",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "María Becerra en el Movistar Arena: “Todo lo que hago, siempre lo hago desde el amor” (Página|12)",
+     "Eva de Dominici y Marta Fort desfilaron en el show de María Becerra con estilos naked y los fans enloquecieron (TN)"
+    ]
+   },
+   {
+    "tema": "juliana awada lolo longinotti",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Así es José Luis Longinotti, el señalado como nuevo novio de Juliana Awada: empresario y publicista (Caras)",
+     "¿Juliana Awada volvió a enamorarse? Revelan quién sería su nueva pareja tras separarse de Mauricio Macri (FM Impacto 107.3)"
+    ]
+   },
+   {
+    "tema": "banco de la pampa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una falla de la red Link afecta al home banking de distintos bancos (La Arena)",
+     "Reportan problemas para acceder al BPN y podría ser general (Cutral Co al Instante)"
+    ]
+   },
+   {
+    "tema": "que dijo nelson castro en peru",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un gobernador de Perú trató de “descerebrado” a Nelson Castro por sus dichos sobre Chiclayo (Diario El Día de La Plata)",
+     "Escándalo con Nelson Castro en el cierre de la gira del papa León XIV por Perú: una fuerte acusación sacudió la cobertura (A24.com)"
+    ]
+   },
+   {
+    "tema": "calingasta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Deshielo en San Juan: por qué crecen los ríos cordilleranos (Si San Juan)",
+     "El deshielo cordillerano muestra su fuerza en Calingasta (Diario Huarpe)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "temperatura cdmx",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T04:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Activan alerta amarilla por bajas temperaturas en tres alcaldías de CDMX (El Universal)",
+     "Clima en CdMx HOY 16 de noviembre: Prevén ambiente frío con mínimas de 11°C este lunes (Milenio)"
+    ]
+   },
+   {
+    "tema": "estado del tiempo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Temperaturas en Barranquilla: prepárate antes de salir de casa (Infobae)",
+     "Clima hoy en Barranquilla, Colombia: el pronóstico del tiempo para este martes 17 noviembre de 2026 (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "clima monterrey",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Prevén nuevo frente frío, nubosidad y lluvia persistente este lunes en Monterrey (Milenio)",
+     "Clima en Monterrey hoy: el pronóstico para el lunes 16 de noviembre de 2026 (El Informador)"
+    ]
+   },
+   {
+    "tema": "apagon 17 noviembre 2026",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T04:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Apagón mundial: qué hay detrás de la teoría de las 72 horas sin luz ni internet (Ambito)",
+     "No te asustes: Esto es lo que pasará mañana durante la prueba nacional del Sistema de Alertas de Emergencia en EEUU (Univision)"
+    ]
+   },
+   {
+    "tema": "météo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Météo en Corse : coup de vent, averses orageuses, éclaircies… À quoi faut-il s'attendre cette semaine ? (Corse Matin)",
+     "Météo. Quel temps est-il prévu à Ajaccio et ses environs le mardi 17 novembre 2026 ? (Ouest-France)"
+    ]
+   },
+   {
+    "tema": "clima slp",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Frente frío número 6 traerá ambiente fresco y ligeras lluvias a SLP (Código San Luis)",
+     "Tiempo otoñal con lluvias este jueves en el Altiplano, tornándose frío por corriente en chorro, aire polar y frente frío (Meteored México)"
+    ]
+   },
+   {
+    "tema": "clima monclova",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "lluvia de meteoros",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lluvia de meteoros de las leónidas: cuándo y cómo ver (CNN en Español)",
+     "Cómo ver la lluvia de estrellas de las leónidas (The New York Times)"
+    ]
+   },
+   {
+    "tema": "clima de hoy",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Frente frío 7 dejará días nublados y bajas temperaturas por las mañanas en Sinaloa (www.noroeste.com.mx)",
+     "Clima en Sinaloa: Sin lluvias; mañana fresca, y tarde cálida a calurosa (Noticiero Altavoz)"
+    ]
+   },
+   {
+    "tema": "pronostico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Chapala hoy: el pronóstico para el martes 17 de noviembre de 2026 (El Informador)",
+     "Clima en Chapala hoy: el pronóstico para el domingo 15 de noviembre de 2026 (El Informador)"
+    ]
+   }
+  ]
+ }
+}
