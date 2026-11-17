@@ -1,8 +1,19 @@
 {
- "fecha": "2026-11-17T06:45-05:00",
+ "fecha": "2026-11-17T06:55-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
+   {
+    "tema": "prisión",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Condenado un aficionado del Oviedo a 11 meses de prisión por insultos racistas contra Mbappé (Yahoo)",
+     "La Audiencia de Asturias condena a once meses de prisión al autor de gestos racistas contra Mbappé (Europa Press)"
+    ]
+   },
    {
     "tema": "brasil",
     "volumen": "100+",
@@ -10,8 +21,8 @@
     "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nvidia alerta clientes sobre riscos legais ligados ao acesso da China a chips de IA (Times Brasil | CNBC)",
-     "China acusa EUA de repressão tecnológica e ameaça com contramedidas (Plataforma Media)"
+     "Criciúma fica em primeiro lugar do Brasil em ranking de Educação (Santa Catarina em Pauta)",
+     "SPTuris detalha aplicação de inteligência de dados de mobilidade no planejamento urbano durante o Connected Smart Cities 2026 (Brasil Inovador)"
     ]
    },
    {
@@ -60,8 +71,8 @@
    },
    {
     "tema": "brasil vs",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T02:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -76,8 +87,8 @@
     "desde": "2026-11-17T00:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Décimo de Navidad: ¿Cuánto recibirá este 2026 en Ecuador? Calcule aquí su bono (Primicias)",
-     "Gobierno del Ecuador desembolsa USD 390 millones para el pago anticipado del décimo a 485.000 servidores públicos (La República EC)"
+     "Gobierno del Ecuador desembolsa USD 390 millones para el pago anticipado del décimo a 485.000 servidores públicos (La República EC)",
+     "Décimo de Navidad: ¿Cuánto recibirá este 2026 en Ecuador? Calcule aquí su bono (Primicias)"
     ]
    },
    {
@@ -101,20 +112,53 @@
      "Warriors get blown out faster than the British in 1815 in disaster trip to New Orleans (Golden State Of Mind)",
      "‘This Is a Joke,’ ‘At Least Be Competitive’ — NBA World Sounds Alarm As ‘Lifeless’ Stephen Curry-Less Warriors Get ‘Embarrassed’ by Pelicans (Yahoo Sports)"
     ]
-   },
-   {
-    "tema": "canada vs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T17:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bayern Munich confirm Alphonso Davies hamstring injury after Canada win (ESPN)",
-     "Canada vs Guatemala: Concacaf Nations League stats & head-to-head (BBC)"
-    ]
    }
   ],
   "US": [
+   {
+    "tema": "kelsey mitchell",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘No one believing’ – Kelsey Mitchell’s emotional admission prompts responses from Caitlin Clark, Aliyah Boston (Yahoo Sports)",
+     "Kelsey Mitchell's Instagram message leaves Indiana Fever fans confused about future (IndyStar)"
+    ]
+   },
+   {
+    "tema": "cra",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FDIC releases CRA performance evaluations for August 2026 (JD Supra)",
+     "OCC releases CRA performance evaluations for October 2026 (JD Supra)"
+    ]
+   },
+   {
+    "tema": "the further mis-adventures of cliff booth",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Brad Pitt and Ines de Ramon Attend ‘The Further Mis-Adventures of Cliff Booth’ Premiere (People.com)",
+     "David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions (The Hollywood Reporter)"
+    ]
+   },
+   {
+    "tema": "jeremy davies minnesota wild trade",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Minnesota Wild Acquires Defenseman Jeremy Davies from Vegas Golden Knights (NHL.com)",
+     "Golden Knights, Wild swap players in joint NHL-AHL deal (Daily Faceoff)"
+    ]
+   },
    {
     "tema": "hd stock",
     "volumen": "200+",
@@ -135,6 +179,17 @@
     "titulares": [
      "‘Dancing With The Stars’ Semifinals Dances Revealed As Six Couples Battle For Finale Spots (Forbes)",
      "DWTS Semifinal Elimination Odds: Maura Higgins & 'None' Tied (Covers.com)"
+    ]
+   },
+   {
+    "tema": "harry potter hbo show character posters",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Harry Potter’ HBO Series Drops Hogwarts Banquet First Look, Gets Trolled for ‘Not Hitting the Mark’ (TheWrap)",
+     "John Lithgow’s Dumbledore Is ‘Totally Off His Rocker’ in the First Clip from HBO’s New Harry Potter Series (People.com)"
     ]
    },
    {
@@ -169,64 +224,20 @@
      "Why are five EU countries reviving plans to deport migrants to Rwanda? (Al Jazeera)",
      "Germany news: Plans for Rwanda migrant hub come under fire (DW.com)"
     ]
-   },
-   {
-    "tema": "ms dhoni",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "IPL 2027 retention - CSK announce 'Mentor' Singh Dhoni (Cricinfo)",
-     "IPL career over, Dhoni unveiled as Chennai team mentor (Reuters)"
-    ]
-   },
-   {
-    "tema": "saving private ryan",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Forget 'Saving Private Ryan,' WWII Thriller Hailed \"One of the Year's Best\" Is Being Pulled From Streaming (MovieWeb)",
-     "Operation That Sealed Fate... Psychological Drama on Weather and War 'Pressure' (SBS 뉴스)"
-    ]
-   },
-   {
-    "tema": "nyt connections hints today",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "NYT Connections Answers for November 17, 2026 (The New York Times)",
-     "NYT Connections hints today: Meanings for each word for Nov. 15, 2026 (Mashable)"
-    ]
-   },
-   {
-    "tema": "tiempo de hoy",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Clima en Rochester, New York hoy: cuál es el pronóstico del tiempo para hoy 17 de noviembre (La Nación)",
-     "Clima en Syracuse, New York hoy: cuál es el pronóstico del tiempo para hoy 17 de noviembre (La Nación)"
-    ]
-   },
-   {
-    "tema": "r.j. decker",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "High Potential Season 3: Everything We Know So Far (IMDb)",
-     "ABC’s ‘High Potential’ Replacement Isn’t Officially Renewed for Season 3 Yet (Collider)"
-    ]
    }
   ],
   "ES": [
+   {
+    "tema": "luis zahera",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Luis Zahera, 60 años: «Desayuno cuatro huevos fritos con pan, fruta, un sándwich de jamón y queso fundido y leche de avena con polen» (ABC)",
+     "El Top-1 de Netflix es español: esta película de Luis Zahera es la más vista de la plataforma (20Minutos)"
+    ]
+   },
    {
     "tema": "brasil",
     "volumen": "1000+",
@@ -236,17 +247,6 @@
     "titulares": [
      "Ao vivo: Singapura x Brasil | Amistosos 2026 | Amistosos da Seleção Brasileira (ge)",
      "Seleção treina com super trio no ataque e Rayan no meio; Raphinha é poupado (UOL)"
-    ]
-   },
-   {
-    "tema": "luis zahera",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T02:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Luis Zahera, 60 años: «Desayuno cuatro huevos fritos con pan, fruta, un sándwich de jamón y queso fundido y leche de avena con polen» (ABC)",
-     "El Top-1 de Netflix es español: esta película de Luis Zahera es la más vista de la plataforma (20Minutos)"
     ]
    },
    {
@@ -305,17 +305,6 @@
     ]
    },
    {
-    "tema": "joan manuel serrat",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T01:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Serrat se sincera sobre su voto en las próximas elecciones: \"Hace mucho tiempo que tengo decidido el sentido de mi voto\" (LaSexta)",
-     "El mensaje de Serrat ante el 29N: \"Los tiranos se perpetúan gracias a la complicidad de la buena gente que mantiene silencio\" (Onda Cero)"
-    ]
-   },
-   {
     "tema": "blas ziarreta",
     "volumen": "5000+",
     "volumen_min": 5000,
@@ -324,6 +313,17 @@
     "titulares": [
      "Obituario: fallece Blas Ziarreta, un insigne y querido obrero del fútbol (MARCA)",
      "Fallece Blas Ziarreta, uno de los técnicos más importantes de Lezama durante dos décadas (naiz:)"
+    ]
+   },
+   {
+    "tema": "joan manuel serrat",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Serrat se sincera sobre su voto en las próximas elecciones: \"Hace mucho tiempo que tengo decidido el sentido de mi voto\" (LaSexta)",
+     "El mensaje de Serrat ante el 29N: \"Los tiranos se perpetúan gracias a la complicidad de la buena gente que mantiene silencio\" (Onda Cero)"
     ]
    },
    {
@@ -351,14 +351,14 @@
     ]
    },
    {
-    "tema": "tormentas",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "tema": "marta fort",
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Granizo y fuertes tormentas golpearon a varias provincias y hay alertas amarilla y naranja para este martes (Clarín)",
-     "Las tormentas afectaron a varias provincias: granizo, calles anegadas, actividad eléctrica y ráfagas de más de 100 km/h (Infobae)"
+     "María Becerra en el Movistar Arena: “Todo lo que hago, siempre lo hago desde el amor” (Página|12)",
+     "Marta Fort se robó todas las miradas en el recital de María Becerra (MinutoUno)"
     ]
    },
    {
@@ -370,17 +370,6 @@
     "titulares": [
      "Así es José Luis Longinotti, el señalado como nuevo novio de Juliana Awada: empresario y publicista (Caras)",
      "¿Juliana Awada volvió a enamorarse? Revelan quién sería su nueva pareja tras separarse de Mauricio Macri (Urgente24)"
-    ]
-   },
-   {
-    "tema": "marta fort",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T03:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "María Becerra en el Movistar Arena: “Todo lo que hago, siempre lo hago desde el amor” (Página|12)",
-     "Marta Fort se robó todas las miradas en el recital de María Becerra (MinutoUno)"
     ]
    },
    {
@@ -424,7 +413,7 @@
     "deporte_probable": false,
     "titulares": [
      "Clima en Necochea hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026 (La Nación)",
-     "Cómo estará el clima este lunes en Necochea y Quequén (Diario Necochea)"
+     "Cómo estará el tiempo este martes en Necochea y Quequén (TSN Necochea)"
     ]
    },
    {
@@ -448,9 +437,31 @@
      "Una aerolínea europea suspendió por tiempo indeterminado sus vuelos a la Argentina: qué deberán hacer los pasajeros (Infobae)",
      "La aerolínea española Plus Ultra canceló sus vuelos entre Ezeiza y Madrid, a un año y medio de su llegada al país (Clarín)"
     ]
+   },
+   {
+    "tema": "brasil",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T02:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ao vivo: Singapura x Brasil | Amistosos 2026 | Amistosos da Seleção Brasileira (ge)",
+     "Entenda por que a Seleção Brasileira está jogando com uma faixa preta no braço (tmc.com.br)"
+    ]
    }
   ],
   "MX": [
+   {
+    "tema": "clima hoy",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Puebla: Pronóstico para las Próximas Horas en Capital y Municipios (N+)",
+     "Clima en Puebla: Pronóstico para las Próximas Horas en Capital y Zona Conurbada (N+)"
+    ]
+   },
    {
     "tema": "pronostico del tiempo",
     "volumen": "200+",
@@ -460,6 +471,17 @@
     "titulares": [
      "Clima en Guadalajara hoy: pronóstico del tiempo para este lunes 16 de noviembre (Milenio)",
      "Prevén lunes con contraste térmico y baja probabilidad de lluvia en GDL (Quadratin Jalisco)"
+    ]
+   },
+   {
+    "tema": "tiempo de hoy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Frente Frío traerá temperaturas de hasta 6° C (Periódico Ruta)",
+     "¿Cómo estará el clima en México y CDMX el 17 de noviembre de 2026? (ADN 40)"
     ]
    },
    {
@@ -486,8 +508,8 @@
    },
    {
     "tema": "singapore vs brazil",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-17T02:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -500,10 +522,21 @@
     "volumen": "200+",
     "volumen_min": 200,
     "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Vacaciones de diciembre: ¿cuándo empiezan según el calendario de la SEP? (La Crónica de Hoy)",
+     "SEP: las próximas fechas de Consejo Técnico, vacaciones y preinscripciones que deben conocer las familias (Debate)"
+    ]
+   },
+   {
+    "tema": "río atmosférico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Gómez Palacio Refuerza Prevención Del Delito En Escuelas (YODeportivo)",
-     "Lleva la SSP pláticas de prevención y orientación a escuelas de GP - El Sol de Durango (El Sol de México)"
+     "Roberto Brasero: \"Semana de lluvias y viento, con algunos ratos de sol entre frente y frente\" (Antena 3 Noticias)",
+     "Un río atmosférico procedente del Caribe trae lluvias abundantes en buena parte de la Península desde este miércoles (El Mundo)"
     ]
    },
    {
@@ -513,8 +546,8 @@
     "desde": "2026-11-17T02:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nvidia alerta clientes sobre riscos legais ligados ao acesso da China a chips de IA (Times Brasil | CNBC)",
-     "China acusa EUA de repressão tecnológica e ameaça com contramedidas (Plataforma Media)"
+     "Singapura x Brasil: onde assistir ao vivo, horário e escalações (ge)",
+     "Entenda por que a Seleção Brasileira está jogando com uma faixa preta no braço (tmc.com.br)"
     ]
    },
    {
@@ -526,39 +559,6 @@
     "titulares": [
      "Deja 16 heridos riña en balneario El Tephé en Ixmiquilpan (Reforma)",
      "Riña en balneario El Tephé en Ixmiquilpan, Hidalgo: Turistas y trabajadores se enfrentan; hay 16 heridos (El Financiero)"
-    ]
-   },
-   {
-    "tema": "brasil vs",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T02:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Singapur - Brasil, en directo: amistosos internacionales, hoy en vivo (Diario AS)",
-     "Cuándo juegan Singapur vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo (ESPN México)"
-    ]
-   },
-   {
-    "tema": "villa 360 exatlon hoy",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T01:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Exatlón México. Regresa Atleta al Equipo Rojo y el juego podría cambiar (TV Azteca)",
-     "‘Exatlón México’ HOY lunes 16 de noviembre 2026: ¿Quién ganaría Villa 360? Heliud y Emilio tiene fuerte pelea (La Tribuna (México))"
-    ]
-   },
-   {
-    "tema": "club tigres",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T01:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Tigres vs Club América – ¿Cuándo y por dónde ver el partido en vivo? (Yahoo)",
-     "Tigres a punto de terminar la pesadilla del Apertura 2026 (Reforma)"
     ]
    }
   ]
