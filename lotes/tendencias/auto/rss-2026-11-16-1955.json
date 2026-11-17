@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-16T19:54-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "telemundo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sin Senos Sí Hay Paraíso 4 regresa con nuevos peligros y grandes regresos (Telemundo)",
+     "Quiénes son los nuevos personajes de ‘Sin senos sí hay paraíso’ y qué papel jugarán en la historia (People en Español)"
+    ]
+   },
+   {
+    "tema": "ciclón",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pronóstico del tiempo: semana cargada de humedad, con lluvias de hasta 150 mm, calor de 40 grados y riesgo de tornados (Radio Mitre)",
+     "Alerta por un ciclón extratropical en Argentina: qué provincias podrían recibir hasta 200 milímetros de lluvia (La Gaceta)"
+    ]
+   },
+   {
+    "tema": "gonzalo plata",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gonzalo Plata y Denil Castillo dejan la convocatoria de Ecuador antes del amistoso ante Bolivia (El Universo)",
+     "Marcelo Gallardo pierde a Gonzalo Plata y Denil Castillo para el amistoso ante Bolivia - (Bendito Fútbol)"
+    ]
+   },
+   {
+    "tema": "brajan gruda",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bei Klopp hat er die Nase vor Karl: Dieses DFB-Juwel hat der FC Bayern schon länger im Blick (Abendzeitung München)",
+     "Marcel Reif adelt Star Klopp-Star nach Gala gegen Serbien (Sport Bild)"
+    ]
+   },
+   {
+    "tema": "selección de fútbol de bolivia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde juegan Ecuador y Bolivia su partido amistoso por la fecha FIFA: todo lo que debe saber del partido (El Universo)",
+     "Ecuador vs Bolivia: esta sería la alineación de La Tri para su amistoso en Guayaquil (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "paises bajos vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ver partidos en sitios piratas expone a robo de datos (Identidad Correntina)",
+     "Ver Alemania vs Países Bajos en Fútbol Libre: los riesgos al buscar partidos gratis (Infobae)"
+    ]
+   },
+   {
+    "tema": "germany vs netherlands",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UEFA Nations League Matchday 6 highlights: Germany, Netherlands into quarter-finals (UEFA.com)",
+     "Licensable picture: UEFA Nations League - Group A2 - Germany v Netherlands (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "grecia vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-16T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Grecia muere en la orilla (Diario AS)",
+     "Alineaciones de Grecia y Serbia por la Liga de Naciones: formaciones probables (Bolavip)"
+    ]
+   },
+   {
+    "tema": "suiza - escocia",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-16T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Suiza - Escocia EN VIVO: transmisión, horario y dónde ver hoy | UEFA Nations League (Diario Extra)",
+     "Grecia - Serbia, en directo | Nations League (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "alemania - países bajos",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-16T11:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Klopp y Alemania exprimen a la 'Oranje' de Xavi (MARCA)",
+     "Final entre Klopp y Xavi (Diario AS)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "butch jones",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Arkansas State fires head coach Butch Jones after six seasons (On3)",
+     "Former Tennessee Football Head Coach Butch Jones Fired in Sixth Year Leading New School (Rocky Top Insider)"
+    ]
+   },
+   {
+    "tema": "james comer",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "James Comer launches bid for Ketucky governor (Fox News)",
+     "James Comer files to run for Kentucky governor in 2027 (WLKY)"
+    ]
+   },
+   {
+    "tema": "estafa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "WhatsApp sin clic: alerta por una posible estafa (NeoTeo)",
+     "Guía práctica de la Policía Foral para prevenir y actuar ante el secuestro o suplantación de la cuenta de WhatsApp - PARTE 1 (navarra.es)"
+    ]
+   },
+   {
+    "tema": "jakobi lane",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Is it over for Ja'Kobi Lane in fantasy this season? (Yahoo Sports)",
+     "Ja'Kobi Lane: Must-Add Waiver Wire Pickup for Week 11 Fantasy Football? - NFL News (RotoBaller)"
+    ]
+   },
+   {
+    "tema": "tulsa basketball",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Western Kentucky vs Tulsa Prediction, Picks & Odds | 16 Nov 2026 (Sportsgambler)",
+     "Western Kentucky Hilltoppers vs Tulsa Golden Hurricane Prediction, 11/16/2026 College Basketball Picks, Best Bets & Odds (Doc's Sports)"
+    ]
+   },
+   {
+    "tema": "richmond vs virginia tech",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Five Things To Watch: Virginia Tech hosts Richmond (247Sports)",
+     "Richmond vs Virginia Tech Prediction, Picks & Odds | 16 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "sam heughan",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Outlander's Sam Heughan & His Girlfriend Make Red Carpet Debut (TV Insider)",
+     "Outstanding Contribution to Television: Outlander (Bafta)"
+    ]
+   },
+   {
+    "tema": "heidi gardner",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'SNL' Alum Heidi Gardner's Boyfriend Dead at 43 (TMZ)",
+     "Ray Tintori, Boyfriend of ‘SNL’ Alum Heidi Gardner, Dead at 43 (Parade Magazine)"
+    ]
+   },
+   {
+    "tema": "pep guardiola",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Who should be the USMNT's coaching candidates to succeed Mauricio Pochettino? (ESPN)",
+     "Pep Guardiola's Stance on USMNT Job After Mauricio Pochettino Exit Reportedly Revealed (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "simone biles colts game outfit",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Simone Biles Revives Her ‘Touchdown Shots’ Tradition During Colts’ Victory (People.com)",
+     "Licensable picture: Simone Biles (left) speaks with Kalen Jackson, Indianapolis Colts owner and chief brand officer, on the sideline Sunday, Nov. 8 (Reuters Connect)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "óscar puente",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La afición de Óscar Puente, en la que se centra tras su dimisión política: nueva vida y sus palabras (Vanitatis)",
+     "Carmen, hija de Óscar Puente: \"Nos enseñan a admirar a quienes acumulan poder, pero pocas veces hablamos de la valentía de quienes saben renunciar a él\" (Lecturas)"
+    ]
+   },
+   {
+    "tema": "cavaliers - bulls",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[[\"LiVeSTreaM\"]]tv* Bulls vs Cavaliers LIvE FrEe StReAm (UB - Universitat de Barcelona)",
+     "Cavaliers score vs Bulls. Live game updates, injury news, highlights, stats (Akron Beacon Journal)"
+    ]
+   },
+   {
+    "tema": "celtics - magic",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Magic at Celtics: How to watch as Boston looks to extend winning streak to seven (The Boston Globe)",
+     "Boston - Orlando, 2026: watch sports online in high quality on Kyivstar TV (Київстар ТБ)"
+    ]
+   },
+   {
+    "tema": "killian hayes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Killian Hayes: Signs with FC Barcelona (CBS Sports)",
+     "Killian Hayes To Sign With Barcelona (Hoops Rumors)"
+    ]
+   },
+   {
+    "tema": "subida salarial funcionarios 2027",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-16T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027 (EL PAÍS)",
+     "El Gobierno aprobará mañana la subida de sueldo de los funcionarios para 2027 (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "precio de la luz hoy",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-16T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Desplome del precio de la luz: la electricidad será un 51,29% más barata este martes 17 de noviembre (TarifaLuzHora)",
+     "Precio de la luz por horas hoy, lunes 16 de noviembre: las horas más baratas y más caras (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "united airlines",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T15:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "United Airlines says it resolved system outage that delayed flights (CNN)",
+     "United Airlines Flights Resume After ‘Widespread System Outage’ (The New York Times)"
+    ]
+   },
+   {
+    "tema": "playstation 5",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T15:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El «GTA VI», ante un nuevo hito histórico en la industria del videojuego: «El empuje de este juego es una barbaridad» (La Voz de Galicia)",
+     "¿Puedo jugar a GTA 6 en Xbox One? El juego en la nube hace posible lo impensable (Diario de Mallorca)"
+    ]
+   },
+   {
+    "tema": "maria escote",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T15:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿A qué hora es la final de ‘MasterChef Celebrity Legends’ hoy? Finalistas, jurado y cómo ver en TV y online el (Diario AS)",
+     "Así será la final de 'MasterChef Celebrity Legends' en RTVE: las pruebas y los paladares que determinarán al ganador (elDiario.es)"
+    ]
+   },
+   {
+    "tema": "variante genética",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una variante genética heredada de los neandertales reduce el volumen del cerebro y el riesgo de esquizofrenia en humanos actuales (EL PAÍS)",
+     "Esta parte de nuestro ADN, heredada de los neandertales, determina el volumen de nuestro cerebro (La Razón)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "heat - rockets",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[!Buffstreams!] Where To Watch Rockets vs Heat Live Free NBA Game in US UK AU 16 November 2026 (UB - Universitat de Barcelona)",
+     "Amen Thompson (knee) downgraded to out Monday (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "mpox",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Brasil confirma la primera muerte por viruela del mono del año y enciende alarmas por un brote de contagios (Diario Río Negro)",
+     "Viruela símica: casos en Brasil y Argentina, síntomas y prevención (El Esquiu)"
+    ]
+   },
+   {
+    "tema": "canadá - guatemala",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Luis Fernando Tena: \"Tenemos confianza y creemos en nuestras fuerzas\" (ESPN Argentina)",
+     "Canadá vs Guatemala: cómo, cuándo y dónde ver el partido de Luis Fernando Tena en la Nations League (Infobae)"
+    ]
+   },
+   {
+    "tema": "estadio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lionel Messi Extends Inter Miami Stay Amid Argentina Talk (Yahoo Sports)",
+     "International Friendly: River Plate vs. Inter Miami CF at Estadio Monumental (Inter Miami CF)"
+    ]
+   },
+   {
+    "tema": "apagon",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "De un anuncio oficial a Los Simpson: la teoría que anuncia 72 horas sin luz ni internet y genera alarma en las redes (La Nación)",
+     "FEMA activará la alerta de emergencia en Estados Unidos: esto es todo lo que debes saber (Univision)"
+    ]
+   },
+   {
+    "tema": "united airlines",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "United Airlines says it resolved system outage that delayed flights (CNN)",
+     "United Airlines Flights Resume After ‘Widespread System Outage’ (The New York Times)"
+    ]
+   },
+   {
+    "tema": "planetario universidad nacional de la plata",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encontraron muerto a un trabajador en el Observatorio de La Plata (La Nación)",
+     "Encontraron muerto a un trabajador del Planetario de La Plata: investigan si cayó del techo (Infobae)"
+    ]
+   },
+   {
+    "tema": "pelicans - warriors",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Game Preview: Warriors at New Orleans Pelicans - 11/16/26 (NBA.com)",
+     "Preview: Lessons were learned in Texas (Dub Nation HQ)"
+    ]
+   },
+   {
+    "tema": "bancos en estados unidos",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clientes de varios de los principales bancos de Estados Unidos reportaron fallas para acceder a sus cuentas (Infobae)",
+     "Miles de clientes de Chase Bank reportan problemas con los servicios bancarios en línea en EE.UU. (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "unión tranviarios automotor",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Paro de colectivos: fracasó la reunión entre la UTA y los empresarios y crece la incertidumbre (Ambito)",
+     "Sueldo de colectiveros noviembre 2026: cuánto cobra un chofer de colectivo (iProfesional)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "ravens - chargers",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How Chargers' Harbaugh, Ravens' Minter can revive seasons (ESPN)",
+     "Omarion Hampton, Kimani Vidal or Keaton Mitchell: Fantasy Football Start or Sit Advice for Week 10 (DraftKings Network)"
+    ]
+   },
+   {
+    "tema": "liechtenstein vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Preview: Lithuania vs Liechtenstein - prediction, team news, lineups (Sports Mole)",
+     "[LIVE𝐒𝐓𝐑𝐄𝐀𝐌][!WATCHLIVE]4K!] Liechtenstein vs Lithuania UEFA Nations League Game Live (Universitat de Barcelona)"
+    ]
+   },
+   {
+    "tema": "canada fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-16T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Canada hosts Guatemala with Nations League Finals ticket on the line (Concacaf | Official Website)",
+     "Bayern star lost his temper in the dressing room after injury: \"This is what I fear\" (LiveScore)"
+    ]
+   },
+   {
+    "tema": "canadá - guatemala",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jehú Fajardo vuelve a la titularidad de Guatemala ante Canadá (ESPN México)",
+     "Luis Fernando Tena: \"Tenemos confianza y creemos en nuestras fuerzas\" (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "nets - 76ers",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[CRACKSTREAMS] 76ers vs Nets Live Free NBA Basketball Week 2 On TV November, 16, 2026 (UB - Universitat de Barcelona)",
+     "What channel are Sixers on tonight? Will LeBron play tonight vs. Nets? (Delawareonline.com)"
+    ]
+   },
+   {
+    "tema": "pelicans - warriors",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Game Preview: Warriors at New Orleans Pelicans - 11/16/26 (NBA.com)",
+     "Preview: Lessons were learned in Texas (Dub Nation HQ)"
+    ]
+   },
+   {
+    "tema": "heat - rockets",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T16:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[!Buffstreams!] Where To Watch Rockets vs Heat Live Free NBA Game in US UK AU 16 November 2026 (UB - Universitat de Barcelona)",
+     "Jaylon Tyson (ankle) downgraded to out Monday (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "boda",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T16:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Inhabilitan a ex funcionario de SRE por boda en el Munal (Reforma)",
+     "Anticorrupción inhabilita a Martín Borrego, ex funcionario de la SRE por usar el MUNAL para su boda (La Jornada)"
+    ]
+   },
+   {
+    "tema": "wizards - grizzlies",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[LIVESTREAM]FREE!!] Grizzlies vs Wizards ＬＩＶＥ Ｓｔｒｅａｍ in 25 September 2026 (UB - Universitat de Barcelona)",
+     "Tre Johnson News: Cleared to play Monday (RotoWire)"
+    ]
+   },
+   {
+    "tema": "johnny depp",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-16T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Weekend Box Office: Ebenezer Wins a Sleepy Weekend (Rotten Tomatoes)",
+     "‘Ebenezer’ Review: Holiday Humbug (The New York Times)"
+    ]
+   }
+  ]
+ }
+}
