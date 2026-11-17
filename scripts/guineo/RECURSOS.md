@@ -17,7 +17,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - **Duración**: 25–35 s (5–7 frases cortas). El generador avisa si pasa de 36 s.
 - **Las noticias institucionales se cuentan a través de una persona.**
 - **Fotos de personas**: solo las que manda Mui. Estadios y lugares: Wikimedia Commons libres (crédito automático).
-- **Nada de fotos ni videos de medios, agencias o transmisiones** salvo lo que Mui mande.
+- **Nada de fotos ni videos de medios, agencias o transmisiones** salvo lo que Mui mande y apruebe (ver regla 4 de "Lecciones de las métricas").
 - Mui aprueba los guiones antes de producir y los videos antes de publicar.
 
 ## Efectos automáticos del generador (guineo_fx)
@@ -50,7 +50,7 @@ Datos: YouTube 13,6 k vistas y +22 suscriptores en 28 días, pero el **61 % desl
 1. **Primer segundo = cara o acción + gancho de 3–5 palabras en grande.** Nada de portadas solo de texto, cifras sueltas o fondo plano ("¡TITULAR!", "0", "3.321 días", pantalla roja de "Última hora" rindieron menos). Los mejores: Ronaldinho, Klopp vs. Xavi, Morales cara a cara.
 2. **Temas que ganan:** figuras famosas (Ronaldinho, Messi) y ecuatorianos con un logro concreto (Jordy Caicedo, Enner Valencia, IDV, Alonso Reyes, Pacho), contados como historia. Lo institucional (horarios, aniversarios sin título) rinde poco: contarlo a través de una persona o dejarlo fuera.
 3. **Partidos "X vs Y" del día** con el nombre exacto que la gente busca en el título de YouTube (ej. "Ravenna vs Forlì"), publicados mientras se busca.
-4. **Cero imágenes de transmisiones** (ej. "Imágenes: transmisión Teleamazonas"): riesgo de reclamo de derechos. Las jugadas se recrean con pizarra, pixel, retro o tv.
+4. **Imágenes oficiales o de transmisiones (decisión de Mui, 17/11): solo como excepción y solo si Mui las manda ella misma** y dice que las usa. El agente NUNCA las busca ni las descarga. Reglas: máximo 2–3 s por video, solo para ilustrar el momento clave (el resto con pizarra, pixel, retro o tv), sin el audio original, crédito en pantalla y en la descripción ("Imágenes: <fuente>"), y preferir las publicadas por el propio club o federación en sus redes. Avisar a Mui en el mensaje de entrega que ese video lleva material de terceros (puede recibir reclamo de derechos o quedar sin monetizar). Alternativa sin riesgo en TikTok, Instagram y YouTube: usar las funciones de la propia app (Dúo/Stitch, Remix) sobre el video oficial.
 5. **Cierres con tono hacia abajo** y última palabra completa (ver Voz).
 
 ## Publicación manual (mientras Metricool esté en su límite; después, Metricool solo para emergencias)
