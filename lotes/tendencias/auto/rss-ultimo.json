@@ -1,17 +1,105 @@
 {
- "fecha": "2026-11-16T22:49-05:00",
+ "fecha": "2026-11-17T06:45-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
+    "tema": "brasil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nvidia alerta clientes sobre riscos legais ligados ao acesso da China a chips de IA (Times Brasil | CNBC)",
+     "China acusa EUA de repressão tecnológica e ameaça com contramedidas (Plataforma Media)"
+    ]
+   },
+   {
+    "tema": "cuando juega ecuador",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde juegan Ecuador y Bolivia su partido amistoso por la fecha FIFA: todo lo que debe saber del partido (El Universo)",
+     "“Esperamos darle una alegría a todo este pueblo”, Jordy Caicedo desea marcar más goles para ayudar a Ecuador (futbolecuador.com)"
+    ]
+   },
+   {
+    "tema": "clima guayaquil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico del clima en Guayaquil este lunes, 16 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
+     "Pronóstico del clima en Guayaquil este domingo, 15 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)"
+    ]
+   },
+   {
+    "tema": "primicias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Petro se reunió con políticos acusados en EE.UU. por narcotráfico, según el presidente de Ecuador (EFE - Agencia de noticias)",
+     "Noboa anuncia aeropuerto internacional en Taura y vincula a Petro con los Estrada (Vistazo)"
+    ]
+   },
+   {
+    "tema": "policía judicial",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "911Society: la empresa que conecta el presunto lavado de Aquiles Alvarez con la familia Dieb y Luisa González (Primicias)",
+     "La empresa 911 Society, vinculada a cuñada de Navila Dieb, conecta los casos La Reina y Laberinto por presunto lavado de activos (El Universo)"
+    ]
+   },
+   {
+    "tema": "brasil vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T02:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Singapur vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
+     "Brasil busca ante Singapur un desquite que le dé respiro al DT Carlo Ancelotti (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "pago",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T00:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Décimo de Navidad: ¿Cuánto recibirá este 2026 en Ecuador? Calcule aquí su bono (Primicias)",
+     "Gobierno del Ecuador desembolsa USD 390 millones para el pago anticipado del décimo a 485.000 servidores públicos (La República EC)"
+    ]
+   },
+   {
     "tema": "noviembre",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-16T18:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "¿Qué pasará el 17 de noviembre? La verdad sobre el supuesto apagón mundial (Vistazo)",
-     "¿Sin internet este 17 de noviembre? La verdad detrás del supuesto apagón mundial (El Universo)"
+     "FEMA activará la alerta de emergencia en Estados Unidos: esto es todo lo que debes saber (Univision)"
+    ]
+   },
+   {
+    "tema": "pelicans - warriors",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-16T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Warriors get blown out faster than the British in 1815 in disaster trip to New Orleans (Golden State Of Mind)",
+     "‘This Is a Joke,’ ‘At Least Be Competitive’ — NBA World Sounds Alarm As ‘Lifeless’ Stephen Curry-Less Warriors Get ‘Embarrassed’ by Pelicans (Yahoo Sports)"
     ]
    },
    {
@@ -22,543 +110,455 @@
     "deporte_probable": true,
     "titulares": [
      "Bayern Munich confirm Alphonso Davies hamstring injury after Canada win (ESPN)",
-     "Canada vs. Guatemala: How to watch, stream Nations League quarterfinal Leg 2 (MLSsoccer.com)"
-    ]
-   },
-   {
-    "tema": "pelicans - warriors",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T17:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "[ＦＲＥＥ-ＬＩＶＥ] Pelicans v Warriors Live HD Free (UB - Universitat de Barcelona)",
-     "Preview: Lessons were learned in Texas (Dub Nation HQ)"
-    ]
-   },
-   {
-    "tema": "canadá - guatemala",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-16T16:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡Adiós Flaco! Canadá golea a Guatemala y jugará el Final Four (TUDN)",
-     "4-1. Canadá, con doblete de Oluwaseyi, alcanza las semifinales de la Liga de Naciones (Yahoo)"
-    ]
-   },
-   {
-    "tema": "telemundo",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-16T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sin Senos Sí Hay Paraíso 4 regresa con nuevos peligros y grandes regresos (Telemundo)",
-     "Quiénes son los nuevos personajes de ‘Sin senos sí hay paraíso’ y qué papel jugarán en la historia (People en Español)"
-    ]
-   },
-   {
-    "tema": "ciclón",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T15:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Se aproxima un ciclón que aumentará la frecuencia de lluvias y tormentas, con picos de más de 180 milímetros: las zonas afectadas (La Nación)",
-     "Lluvias de hasta 120 mm ponen en alerta al agro: qué regiones recibirán más agua (AgroLatam)"
-    ]
-   },
-   {
-    "tema": "gonzalo plata",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Gonzalo Plata y Denil Castillo dejan la convocatoria de Ecuador antes del amistoso ante Bolivia (El Universo)",
-     "Revelan los “motivos personales” por los que Gonzalo Plata fue desafectado de la Selección de Ecuador (Ecuagol)"
-    ]
-   },
-   {
-    "tema": "brajan gruda",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Bei Klopp hat er die Nase vor Karl: Dieses DFB-Juwel hat der FC Bayern schon länger im Blick (Abendzeitung München)",
-     "Marcel Reif adelt Star Klopp-Star nach Gala gegen Serbien (Sport Bild)"
-    ]
-   },
-   {
-    "tema": "selección de fútbol de bolivia",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T13:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¿Dónde ver el partido de Ecuador ante Bolivia por la fecha FIFA? (Teleamazonas)",
-     "“Esperamos darle una alegría a todo este pueblo”, Jordy Caicedo desea marcar más goles para ayudar a Ecuador (futbolecuador.com)"
-    ]
-   },
-   {
-    "tema": "germany vs netherlands",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: UEFA Nations League - Group A2 - Greece v Serbia (Reuters Connect)",
-     "Year in Review: Joshua Kimmich talks Germany’s 2026 campaign after wrecking the Netherlands (Yahoo Sports)"
+     "Canada vs Guatemala: Concacaf Nations League stats & head-to-head (BBC)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "phil collins",
+    "tema": "hd stock",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance (Yahoo Finance)",
+     "Ahead of Home Depot Earnings, Here's What Barchart Data Says Comes Next for HD Stock (Barchart.com)"
+    ]
+   },
+   {
+    "tema": "dancing with the stars semi-finals",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Dancing With The Stars’ Semifinals Dances Revealed As Six Couples Battle For Finale Spots (Forbes)",
+     "DWTS Semifinal Elimination Odds: Maura Higgins & 'None' Tied (Covers.com)"
+    ]
+   },
+   {
+    "tema": "phoenix weather",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Arizona weather forecast: Rain, strong winds and high-country snow expected Tuesday (FOX 10 Phoenix)",
+     "Scattered rain and thunderstorms for Tuesday morning in the Phoenix area (AZ Family)"
+    ]
+   },
+   {
+    "tema": "amazon black friday deals",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Don’t wait for Black Friday. Our deals expert found 64 discounts worth shopping early (CNN)",
+     "Amazon’s Best Early Black Friday Deals Secretly Start Now — Up to 70% Off Breville, Yeti, OXO, and More (Food & Wine)"
+    ]
+   },
+   {
+    "tema": "deportation",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Why are five EU countries reviving plans to deport migrants to Rwanda? (Al Jazeera)",
+     "Germany news: Plans for Rwanda migrant hub come under fire (DW.com)"
+    ]
+   },
+   {
+    "tema": "ms dhoni",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "IPL 2027 retention - CSK announce 'Mentor' Singh Dhoni (Cricinfo)",
+     "IPL career over, Dhoni unveiled as Chennai team mentor (Reuters)"
+    ]
+   },
+   {
+    "tema": "saving private ryan",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Forget 'Saving Private Ryan,' WWII Thriller Hailed \"One of the Year's Best\" Is Being Pulled From Streaming (MovieWeb)",
+     "Operation That Sealed Fate... Psychological Drama on Weather and War 'Pressure' (SBS 뉴스)"
+    ]
+   },
+   {
+    "tema": "nyt connections hints today",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-16T19:30:00-08:00",
+    "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Phil Collins shares health update at Rock & Roll Hall of Fame induction (Global News)",
-     "Phil Collins says he hopes to make new music, perform again despite health challenges (ABC News - Breaking News, Latest News and Videos)"
-    ]
-   },
-   {
-    "tema": "rangers",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T19:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Blackhawks and Rangers Make Goaltending Trade (Rockford IceHogs)",
-     "Rangers Acquire Arvid Söderblom in Exchange for Spencer Martin | New York Rangers (NHL.com)"
-    ]
-   },
-   {
-    "tema": "connections hint november 16",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-16T19:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "NYT Connections Answers for November 16, 2026 (The New York Times)",
+     "NYT Connections Answers for November 17, 2026 (The New York Times)",
      "NYT Connections hints today: Meanings for each word for Nov. 15, 2026 (Mashable)"
     ]
    },
    {
-    "tema": "brian hallisay",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T19:30:00-08:00",
+    "tema": "tiempo de hoy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Jennifer Love Hewitt Reveals the Secret to 13 Years of Marriage with Husband Brian Hallisay (Exclusive) (People.com)",
-     "Jennifer Love Hewitt Explains Why 13-Year Marriage With Brian Hallisay Is a “Choice Every Day” (E! News)"
+     "Clima en Rochester, New York hoy: cuál es el pronóstico del tiempo para hoy 17 de noviembre (La Nación)",
+     "Clima en Syracuse, New York hoy: cuál es el pronóstico del tiempo para hoy 17 de noviembre (La Nación)"
     ]
    },
    {
-    "tema": "madden movie",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T19:20:00-08:00",
+    "tema": "r.j. decker",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "David O. Russell’s ‘Madden’ Biopic Is Out Next Week — Does Anybody Know or Care? (IndieWire)",
-     "Nicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says (Reuters)"
-    ]
-   },
-   {
-    "tema": "long beach st vs ucla",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T19:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "No. 9 Men's Basketball to Host Long Beach State, Cal State Fullerton (UCLA Bruins)",
-     "Nikola Kusturica finishes tough and-one layup, extending UCLA's lead over Long Beach State (FOX Sports)"
-    ]
-   },
-   {
-    "tema": "grand canyon",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T19:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "No survivors after aircraft goes down near North Rim of Grand Canyon (12News)",
-     "3 dead after airplane goes down near north rim of Grand Canyon (KTAR News 92.3 FM)"
-    ]
-   },
-   {
-    "tema": "optimizely",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T19:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sprawling Malware Attack Reportedly Affects Zoom and Other Major Brands (Gizmodo)",
-     "Poisoned Scripts on BBC, Zoom and Other Major Websites Linked to iPhone Exploit Loaders (InfoStealers)"
-    ]
-   },
-   {
-    "tema": "ralph fiennes",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T19:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Ralph Fiennes jokes new Bond Robert Pattinson should play Voldemort in Harry Potter series (AP News)",
-     "Ralph Fiennes jokes new Bond Robert Pattinson should play Voldemort in Harry Potter series (Yahoo News Canada)"
-    ]
-   },
-   {
-    "tema": "the odyssey",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-16T19:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Zendaya “Felt Overwhelmed” on the Set of The Odyssey. Luckily, Tom Holland Came to Support Her (Vanity Fair)",
-     "Zendaya stuns in dress by 'Project Runway' contestant at 'Odyssey' event (Yahoo)"
+     "High Potential Season 3: Everything We Know So Far (IMDb)",
+     "ABC’s ‘High Potential’ Replacement Isn’t Officially Renewed for Season 3 Yet (Collider)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "grand theft auto vi",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "GTA 6 hacker pleads guilty after release from secure hospital (BBC)",
-     "Hacker behind 2022 GTA VI leaks pleads guilty (The Verge)"
-    ]
-   },
-   {
-    "tema": "idealista",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Por qué los datos de los alquileres del Gobierno y las ofertas de Idealista no coinciden? (Diari ARA)",
-     "El precio de compraventa de la vivienda crece a mayor ritmo en Madrid que en Barcelona desde la regulación de los alquileres (El Periódico)"
-    ]
-   },
-   {
-    "tema": "gta vi",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T18:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The biggest entertainment event of the year isn’t a movie — it’s ‘Grand Theft Auto VI’ (CNN)",
-     "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI (The Guardian)"
-    ]
-   },
-   {
-    "tema": "nets - 76ers",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T18:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Nets - 76ers LIVE. NBA latest updates (MARCA)",
-     "Joel Embiid (foot) off injury report Monday (FantasyPros)"
-    ]
-   },
-   {
-    "tema": "masterchef celebrity legends",
+    "tema": "brasil",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-16T17:40:00-08:00",
+    "desde": "2026-11-17T02:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "'MasterChef Celebrity Legends' vuelve a hacer historia: Santiago Segura y Flo, ganadores ex aequo en una final inesperada (RTVE.es)",
-     "Santiago Segura emociona en la final: “A mi madre le habría gustado verme en 'MasterChef'” (La Vanguardia)"
+     "Ao vivo: Singapura x Brasil | Amistosos 2026 | Amistosos da Seleção Brasileira (ge)",
+     "Seleção treina com super trio no ataque e Rayan no meio; Raphinha é poupado (UOL)"
     ]
    },
    {
-    "tema": "pasapalabra",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Paz Herrera, ganadora de 'Pasapalabra': 'Es incomparable la audiencia que ve 'Pasapalabra' y la que ve 'Saber y ganar' (El Periódico)",
-     "Diana Bolocco tuvo complicado debut en \"Pasapalabra\" por críticas de los espectadores (Guioteca)"
-    ]
-   },
-   {
-    "tema": "pelicans - warriors",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T17:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "[ＦＲＥＥ-ＬＩＶＥ] Pelicans v Warriors Live HD Free (UB - Universitat de Barcelona)",
-     "Preview: Lessons were learned in Texas (Dub Nation HQ)"
-    ]
-   },
-   {
-    "tema": "canadá - guatemala",
+    "tema": "luis zahera",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-16T17:10:00-08:00",
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Luis Zahera, 60 años: «Desayuno cuatro huevos fritos con pan, fruta, un sándwich de jamón y queso fundido y leche de avena con polen» (ABC)",
+     "El Top-1 de Netflix es español: esta película de Luis Zahera es la más vista de la plataforma (20Minutos)"
+    ]
+   },
+   {
+    "tema": "brasil singapur",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T02:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Luis Fernando Tena congelado y eliminado en la Concacaf Nations League: Resumen Canadá vs. Guatemala (MARCA)",
-     "Canadá - Guatemala | Pronóstico y cuotas 17.11.2026 (Diario AS)"
+     "La encrucijada de Raphinha en la selección brasileña: “Siempre hice todo lo posible por estar presente” (EL PAÍS)",
+     "Un emocionado Raphinha sale al paso de las críticas en Brasil: “No me quiero volver a lesionar” (La Vanguardia)"
     ]
    },
    {
-    "tema": "agencia estatal de seguridad ferroviaria",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T17:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La Agencia de Seguridad Ferroviaria blinda la exigencia de la doble verificación de las órdenes de Adif a los maquinistas (EL PAÍS)",
-     "La Agencia Estatal de Seguridad Ferroviaria anuncia nuevos protocolos en caso de que falle el sistema LZB (RTVE.es)"
-    ]
-   },
-   {
-    "tema": "bancos eeuu",
+    "tema": "brasil vs",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-16T16:50:00-08:00",
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ancelotti no se corta un pelo contra Romario (Diario AS)",
+     "Brasil no libera a Raphinha, que fue expulsado ante Japón, y no regresará a Barcelona antes de tiempo (Cadena SER)"
+    ]
+   },
+   {
+    "tema": "guaguas municipales",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Los clientes de algunos grandes bancos de Estados Unidos reportan problemas para acceder a sus cuentas (EL PAÍS)",
-     "Miles de clientes de Chase Bank reportan problemas con los servicios bancarios en línea en EE.UU. (CNN en Español)"
+     "El desvío de las guaguas en San José enfrenta la seguridad con las dificultades: «Aquí hay gente que va a trabajar» (Canarias7)",
+     "Guaguas Municipales modifica los recorridos de las líneas 9, 12 y L1 por motivos de seguridad (Ayuntamiento de Las Palmas de Gran Canaria.)"
+    ]
+   },
+   {
+    "tema": "el diario montañés",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una nueva promoción levantará 24 pisos en Vista Alegre que partirán de los 375.000 euros (El Diario Montañés)",
+     "Zabiri, un sueño imposible del Racing (El Diario Montañés)"
+    ]
+   },
+   {
+    "tema": "javier ambrossi",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El pequeño paraíso gallego donde Javier Ambrossi pasó los veranos de su infancia con Macarena García y tiene vistas a las Islas Cíes (HOLA)",
+     "Los Javis: “Pensar en el Óscar es el camino para que se te vaya la olla, escribimos y dirigimos La Bola Negra por razones más importantes que un premio” (GQ España)"
+    ]
+   },
+   {
+    "tema": "joan manuel serrat",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Serrat se sincera sobre su voto en las próximas elecciones: \"Hace mucho tiempo que tengo decidido el sentido de mi voto\" (LaSexta)",
+     "El mensaje de Serrat ante el 29N: \"Los tiranos se perpetúan gracias a la complicidad de la buena gente que mantiene silencio\" (Onda Cero)"
+    ]
+   },
+   {
+    "tema": "blas ziarreta",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T01:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Obituario: fallece Blas Ziarreta, un insigne y querido obrero del fútbol (MARCA)",
+     "Fallece Blas Ziarreta, uno de los técnicos más importantes de Lezama durante dos décadas (naiz:)"
+    ]
+   },
+   {
+    "tema": "ferland mendy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ferland Mendy's ordeal (OneFootball)",
+     "1.000 días sin Mendy (MARCA)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "racing de santander",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T19:00:00-08:00",
+    "tema": "singapore vs brazil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Malakai Hafoka, mejor jugador del Europeo Sub-18 de rugby (Cadena SER)",
-     "Fiebre txuri urdin para ver a la Real volver al Sardinero (Mundo Deportivo)"
+     "Singapore vs Brazil: Friendlies stats & head-to-head (BBC)",
+     "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil (The Straits Times)"
     ]
    },
    {
-    "tema": "rosario3",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T18:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Un camión chocó y quedó incrustado en la cochera de una casa de zona norte (Página|12)",
-     "La inquilina de la casa contra la que chocó un camión reclamó que el conductor cubra las reparaciones: \"Nos... (Rosario3)"
-    ]
-   },
-   {
-    "tema": "nicolás tagliafico",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T18:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Boca piensa en un campeón del mundo si pierde a una de sus figuras (TyC Sports)",
-     "Nicolás Tagliafico suena como refuerzo de Boca para 2027: qué se sabe del interés de Riquelme (Perfil)"
-    ]
-   },
-   {
-    "tema": "clima rosario",
+    "tema": "tormentas",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-16T18:20:00-08:00",
+    "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Clima hoy en Rosario, Santa Fe: el pronóstico del tiempo para este martes 17 noviembre de 2026 (Clarin.com)",
-     "Clima en ciudad de Santa Fe hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026 (La Nación)"
+     "Granizo y fuertes tormentas golpearon a varias provincias y hay alertas amarilla y naranja para este martes (Clarín)",
+     "Las tormentas afectaron a varias provincias: granizo, calles anegadas, actividad eléctrica y ráfagas de más de 100 km/h (Infobae)"
     ]
    },
    {
-    "tema": "nico occhiato",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T18:10:00-08:00",
+    "tema": "juliana awada lolo longinotti",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Divertido cruce entre Mario Pergolini y Nicolás Occhiato en Otro día perdido: “Me rompió la oficina” (eltrecetv)",
-     "Mario Pergolini elogió a Nico Occhiato y destacó el crecimiento de Luzu TV (El Liberal)"
+     "Así es José Luis Longinotti, el señalado como nuevo novio de Juliana Awada: empresario y publicista (Caras)",
+     "¿Juliana Awada volvió a enamorarse? Revelan quién sería su nueva pareja tras separarse de Mauricio Macri (Urgente24)"
     ]
    },
    {
-    "tema": "nuggets - suns",
+    "tema": "marta fort",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-16T18:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "NBA Prop Bet for Devin Booker on Monday, November 16 (Action Network)",
-     "+![𝕋𝕆𝕋𝔸𝕃 𝕊ℙ𝕆ℝ𝕋𝔼𝕂]! Nuggets vs Suns Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ (UB - Universitat de Barcelona)"
-    ]
-   },
-   {
-    "tema": "los juegos del hambre",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-16T18:00:00-08:00",
+    "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere (Variety)",
-     "'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More (Deadline)"
+     "María Becerra en el Movistar Arena: “Todo lo que hago, siempre lo hago desde el amor” (Página|12)",
+     "Marta Fort se robó todas las miradas en el recital de María Becerra (MinutoUno)"
     ]
    },
    {
-    "tema": "daniel ricciardo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-16T18:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "\"Me estaban dando una paliza\": una ex figura de la Fórmula 1 habló de la \"humillación\" que lo llevó a retirarse (Infobae)",
-     "El histórico de la F1 que reveló la \"humillación\" que llevó a su retiro: \"Me estaban dando una paliza\" (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "guillermo michel",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T17:40:00-08:00",
+    "tema": "que dijo nelson castro en peru",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo (Clarin.com)",
-     "Giro pragmático de Cristina: elige a Guillermo Michel para el Consejo de la Magistratura (La Política Online)"
+     "Un gobernador de Perú trató de “descerebrado” a Nelson Castro por sus dichos sobre Chiclayo (Diario El Día de La Plata)",
+     "Escándalo con Nelson Castro en el cierre de la gira del papa León XIV por Perú: una fuerte acusación sacudió la cobertura (A24.com)"
     ]
    },
    {
-    "tema": "timberwolves - trail blazers",
+    "tema": "calingasta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A favor de filiales de extranjeras (Página|12)",
+     "El Gobierno modificó el RIGI y las empresas extranjeras también podrán anotarse como proveedoras locales (Clarín)"
+    ]
+   },
+   {
+    "tema": "polvo",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-16T17:40:00-08:00",
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alerta en Estados Unidos: un estudio reveló cómo el polvo de un lago de California daña los pulmones y el intestino (Infobae)",
+     "Suspensión de clases presenciales en Tunuyán y Tupungato en los turnos vespertino y nocturno por viento Zonda (Portal Educativo DGE)"
+    ]
+   },
+   {
+    "tema": "clima necochea",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Necochea hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026 (La Nación)",
+     "Cómo estará el clima este lunes en Necochea y Quequén (Diario Necochea)"
+    ]
+   },
+   {
+    "tema": "apagón mundial",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T02:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Micah Nori returns to Minnesota to compete against, laugh with old Timberwolves’ friends (Pioneer Press)",
-     "[!Buffstreams!] Where To Watch Trail Blazers vs Timberwolves Live Free NBA Game in US UK AU 16 November 2026 (UB - Universitat de Barcelona)"
+     "De un anuncio oficial a Los Simpson: la teoría que anuncia 72 horas sin luz ni internet y genera alarma en las redes (La Nación)",
+     "Apagón mundial: qué hay detrás de la teoría de las 72 horas sin luz ni internet (Ambito)"
+    ]
+   },
+   {
+    "tema": "plus ultra",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una aerolínea europea suspendió por tiempo indeterminado sus vuelos a la Argentina: qué deberán hacer los pasajeros (Infobae)",
+     "La aerolínea española Plus Ultra canceló sus vuelos entre Ezeiza y Madrid, a un año y medio de su llegada al país (Clarín)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "acción",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Acciones de Mayne Pharma suben por oferta de compra de $407 mil millones (Investing.com México - Finanzas, Bolsa y Forex)",
-     "La australiana Mayne Pharma acepta una oferta de 408 millones USD de Gedeon Richter (MarketScreener España)"
-    ]
-   },
-   {
-    "tema": "guardia nacional de méxico",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Guardia Nacional destituye a 17 elementos por presentar certificados de estudios falsos (El Financiero)",
-     "Guardia Nacional y especialistas en seguridad coordinan fuerzas contra pérdidas del autotransporte (El Sol de México)"
-    ]
-   },
-   {
-    "tema": "gales vs portugal",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Dónde ver Gales vs Portugal: Hora y canal TV para la UEFA Nations League 2026 (MARCA)",
-     "Gales - Portugal Pronóstico y Apuestas | 17/11/2026 (apuestas-deportivas.es)"
-    ]
-   },
-   {
-    "tema": "gta vi",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T19:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The biggest entertainment event of the year isn’t a movie — it’s ‘Grand Theft Auto VI’ (CNN)",
-     "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI (The Guardian)"
-    ]
-   },
-   {
-    "tema": "predicción",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Economist revela su portada de 2027; Irán, era post-Trump, la IA y otras tendencias que marcarán el próximo año (El Universal)",
-     "The Economist y tendencias mundiales que podrían transformar 2027 (El Heraldo de México)"
-    ]
-   },
-   {
-    "tema": "gran apagon mundial",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-16T19:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¿Se irán la luz e Internet durante tres días? Esto se sabe del supuesto apagón mundial (Univision)",
-     "¿Habrá un apagón de 72 horas el 17 de noviembre? Esto es lo que realmente ocurrirá (Telemundo Miami)"
-    ]
-   },
-   {
-    "tema": "quien entro a la mansion vip",
+    "tema": "pronostico del tiempo",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-16T19:20:00-08:00",
+    "desde": "2026-11-17T03:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Estreno de ‘La Mansión VIP 2’: Así quedaron los cuartos en el arranque del reality show (El Financiero)",
-     "La Mansión VIP 2 mantiene en secreto su ubicación en Guadalajara (Diario de México)"
+     "Clima en Guadalajara hoy: pronóstico del tiempo para este lunes 16 de noviembre (Milenio)",
+     "Prevén lunes con contraste térmico y baja probabilidad de lluvia en GDL (Quadratin Jalisco)"
     ]
    },
    {
-    "tema": "los angeles chargers",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-16T19:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bears 27-24 Buccaneers (Nov 8, 2026) Final Score (ESPN)",
-     "Pittsburgh Steelers vs. Cincinnati Bengals highlights | Week 10 (NFL.com)"
-    ]
-   },
-   {
-    "tema": "indonesia",
+    "tema": "temperatura",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-16T19:00:00-08:00",
+    "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Magnitude-6.6 earthquake prompts scientist's 'drop, cover, hold' reminder (ABC News & Headlines – Australian Broadcasting Corporation)",
-     "Mild Earthquake Quake Hits Coast Of West Sumatra, No Tsunami Warning Issued (BusinessToday Malaysia)"
+     "Frente frío trae lluvias y fuertes vientos a Baja California (Semanario ZETA)",
+     "Inicia este lunes con cielo nublado; se esperan chubascos por la tarde (El Sol de México)"
     ]
    },
    {
-    "tema": "zay flowers",
+    "tema": "temperatura monterrey",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-16T18:40:00-08:00",
+    "desde": "2026-11-17T03:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Derrick Henry Fantasy Rankings & Outlook (Pro Football Network)",
-     "Monday Showdown: Week 10 (Footballguys)"
+     "Prevén nuevo frente frío, nubosidad y lluvia persistente este lunes en Monterrey (Milenio)",
+     "Clima en Monterrey hoy: el pronóstico para el lunes 16 de noviembre de 2026 (El Informador)"
+    ]
+   },
+   {
+    "tema": "singapore vs brazil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Singapore vs Brazil: Friendlies stats & head-to-head (BBC)",
+     "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil (The Straits Times)"
+    ]
+   },
+   {
+    "tema": "escuela",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gómez Palacio Refuerza Prevención Del Delito En Escuelas (YODeportivo)",
+     "Lleva la SSP pláticas de prevención y orientación a escuelas de GP - El Sol de Durango (El Sol de México)"
+    ]
+   },
+   {
+    "tema": "brasil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nvidia alerta clientes sobre riscos legais ligados ao acesso da China a chips de IA (Times Brasil | CNBC)",
+     "China acusa EUA de repressão tecnológica e ameaça com contramedidas (Plataforma Media)"
+    ]
+   },
+   {
+    "tema": "el tephé",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Deja 16 heridos riña en balneario El Tephé en Ixmiquilpan (Reforma)",
+     "Riña en balneario El Tephé en Ixmiquilpan, Hidalgo: Turistas y trabajadores se enfrentan; hay 16 heridos (El Financiero)"
+    ]
+   },
+   {
+    "tema": "brasil vs",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T02:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Singapur - Brasil, en directo: amistosos internacionales, hoy en vivo (Diario AS)",
+     "Cuándo juegan Singapur vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo (ESPN México)"
+    ]
+   },
+   {
+    "tema": "villa 360 exatlon hoy",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T01:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Exatlón México. Regresa Atleta al Equipo Rojo y el juego podría cambiar (TV Azteca)",
+     "‘Exatlón México’ HOY lunes 16 de noviembre 2026: ¿Quién ganaría Villa 360? Heliud y Emilio tiene fuerte pelea (La Tribuna (México))"
+    ]
+   },
+   {
+    "tema": "club tigres",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T01:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tigres vs Club América – ¿Cuándo y por dónde ver el partido en vivo? (Yahoo)",
+     "Tigres a punto de terminar la pesadilla del Apertura 2026 (Reforma)"
     ]
    }
   ]
