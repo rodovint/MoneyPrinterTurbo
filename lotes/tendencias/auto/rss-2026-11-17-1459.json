@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-17T14:58-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "bosnia y herzegovina - rumania",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico Bosnia Y Herzegovina Rumania - Nations League 17/11/26 (SportyTrader)",
+     "Apuestas Bosnia y Herzegovina - Rumanía (Gainblers)"
+    ]
+   },
+   {
+    "tema": "gales vs portugal",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Gales vs. Portugal por la UEFA Nations League 2026-27: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
+     "Así se juega la jornada en la UEFA Nations League: partidos, horarios y cómo ver en vivo (DSports)"
+    ]
+   },
+   {
+    "tema": "apagon mundial",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Esto es solo una prueba\": el test de la alerta de emergencia del martes se produce en un momento de gran inquietud en EE.UU. (CNN en Español)",
+     "¿Qué pasará el 17 de noviembre? La verdad sobre el supuesto apagón mundial (Vistazo)"
+    ]
+   },
+   {
+    "tema": "a que hora juega ecuador",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ecuador vs Bolivia: esta sería la alineación de La Tri para su amistoso en Guayaquil (El Telégrafo (por eliminar))",
+     "Todo listo en los exteriores del estadio Monumental previo al amistoso entre Ecuador y Bolivia (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "polonia - suecia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Polonia vs Suecia: Pronósticos de Apuestas, Cuotas y Alineaciones 17/11/2026 (Oddschecker)",
+     "Ucrania - Georgia, en directo | Nations League (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "gales - portugal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Wales vs Portugal LIVE! Nations League Group A4 match updates, score, line-ups and commentary (Sky Sports)",
+     "Licensable picture: Nations League - Group A4 - Wales v Portugal (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "dinamarca vs noruega",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Duelo colchonero por una plaza en los cuartos de la Nations League (Mundo Deportivo)",
+     "Dinamarca vs Noruega: previa, alineaciones y estadísticas de la Nations League (Sofascore)"
+    ]
+   },
+   {
+    "tema": "icloud",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is Apple down? Thousands report problems accessing services (USA Today)",
+     "Apple: Many of our systems back up and running after an internal update caused some outages (CNBC)"
+    ]
+   },
+   {
+    "tema": "rusia vs venezuela",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rusia venció 2-0 a Venezuela de José Contreras en un histórico amistoso (Ecuavisa)",
+     "SORPRESA EN KRASNODAR: Rusia venció a Venezuela en su último amistoso de 2026 (Studiofutbol)"
+    ]
+   },
+   {
+    "tema": "togo - argelia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Togo vs Algeria: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Late goals keep Algeria, Angola on course as Uganda held in Afcon 2027 qualifiers (Daily Monitor)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "paris hilton",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Paris Hilton makes DC return to fight against deepfake porn with AOC, demanding ‘justice’ for survivors (New York Post)",
+     "Congress Should Give Deepfake Pornography Survivors a Path to Justice by Passing DEFIANCE Act (NCOSE)"
+    ]
+   },
+   {
+    "tema": "pentagon",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pentagon fails ninth straight audit despite progress in organizing finances (Reuters)",
+     "New DoW Audit Progress Marks Breakthrough Toward a Department-Wide Clean Opinion (U.S. Department of War (.gov))"
+    ]
+   },
+   {
+    "tema": "players era 8",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How the teams match up in the first round of the Players Era 8 (ESPN)",
+     "2026 Players Era 8: Bracket, schedule, scores (NCAA.com)"
+    ]
+   },
+   {
+    "tema": "alexis bledel",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Gilmore Girls’ doc claims Alexis Bledel ‘didn’t want to be there’ after being cast as a teen (Entertainment Weekly)",
+     "Gilmore Girls Alum Exposed Show’s Toxic Work Culture ‘Grueling’ Alexis Bledel (Yahoo)"
+    ]
+   },
+   {
+    "tema": "bosnia y herzegovina - rumania",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico Bosnia Y Herzegovina - Rumania - Nations League (SportyTrader)",
+     "Bosnia vs Rumanía: previa de la UEFA Nations League (Sofascore)"
+    ]
+   },
+   {
+    "tema": "polonia - suecia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico Polonia - Suecia - Nations League (SportyTrader)",
+     "Ucrania - Georgia, en directo | Nations League (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "jj gabriel",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "JJ Gabriel confirms Man United exit as Real Madrid transfer nears (ESPN)",
+     "JJ Gabriel transfer news: Manchester United teenager announces departure from club amid Real Madrid agreement (Sky Sports)"
+    ]
+   },
+   {
+    "tema": "players era tournament",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Players Era 8: No. 1 Florida vs Notre Dame (Tuesday, 4:30 pm) (Florida Gators)",
+     "Florida vs. Notre Dame prediction, odds: 2026 Players Era 8 picks for Tuesday, Nov. 17 by proven model (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "niger vs morocco",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Morocco Meets Niger Again in Rabat With 2027 AFCON Qualification in Sight (Barlaman Today)",
+     "Achraf Hakimi hailed as 'best right-back in history' as he hits new highs for PSG and Morocco (www.thenationalnews.com)"
+    ]
+   },
+   {
+    "tema": "live radio",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "22News InFocus Host Patrick Berry stars in It’s a Wonderful Life: The Live Radio Play (WWLP)",
+     "It's a Wonderful Life Preview Photo (November 9, 2026) (BroadwayWorld)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "alexander zverev",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "What are the Nitto ATP Finals semi-final qualification scenarios? (ATP Tour)",
+     "Alexander Zverev v Ben Shelton: ATP Finals tennis group stage – live (The Guardian)"
+    ]
+   },
+   {
+    "tema": "niger – maroc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "5-1 : Brahim offre une passe décisive dans la victoire du Maroc contre le Niger (Real Madrid CF | Web Oficial)",
+     "El-Zabiri : « Mon premier but avec l'équipe nationale était un rêve que je caressais depuis l'enfance » (Elbotola)"
+    ]
+   },
+   {
+    "tema": "ángel gabilondo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ángel Gabilondo se despide como Defensor del Pueblo: “Ni somos un ministerio, ni una embajada, ni una facción política” (EL PAÍS)",
+     "Quién es Teresa Jiménez-Becerril, periodista y exparlamentaria europea: de directora de Prada a sustituir a Ángel Gabilondo como Defensora del Pueblo (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "españa sub 21",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Albania - España sub-21, en directo | Amistosos de selecciones hoy en vivo (MARCA)",
+     "Albania Sub 21 - España Sub 21, en directo: amistoso internacional hoy en vivo (Diario AS)"
+    ]
+   },
+   {
+    "tema": "badalona",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Detectado un terremoto de magnitud 2,3 en la costa de Badalona (La Vanguardia)",
+     "Registrado un terremoto de magnitud 2,3 en la costa del Barcelonés sin causar daños (Diari ARA)"
+    ]
+   },
+   {
+    "tema": "euroleague",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dubai's star veteran achieves historic EuroLeague scoring feat (BasketNews.com)",
+     "Real Madrid head coach reveals his pick between EuroLeague and NBA Europe (BasketNews.com)"
+    ]
+   },
+   {
+    "tema": "entradas estopa barcelona 2027",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Todo sobre la venta general de entradas para conciertos de Estopa en 2027: a qué hora empieza, dónde comprarlas y los precios de la gira (EuropaFM)",
+     "Esta noche, El Hormiguero recibe a Estopa (Antena 3)"
+    ]
+   },
+   {
+    "tema": "cadáver",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hallan el cadáver de un hombre con heridas de arma de fuego en Cruz de Humilladero (Diario Sur)",
+     "Los Mossos d’Esquadra investigan la muerte violenta de una mujer en Llívia (Girona) (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "níger - marruecos",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Níger - Marruecos, en directo: Fase de clasificación de la Copa Africana de Naciones hoy, en vivo (Diario AS)",
+     "Alineaciones oficiales del Níger - Marruecos (bet365 - Apuestas deportivas en la red)"
+    ]
+   },
+   {
+    "tema": "elia galera",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Quiénes son los invitados de \"Pasapalabra\" hoy: así son Elia Galera, Javier de Miguel, Natalia Sánchez y Xavier Deltell (EuropaFM)",
+     "Quiénes son los invitados de hoy en ‘Pasapalabra’: Natalia Sánchez, Javier de Miguel, Xavier Deltell y Elia Galera (Vozpopuli)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "comercio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comercio bilateral con México podría duplicarse en cinco años tras el acuerdo con la UE (Infobae)",
+     "Francia busca triplicar su comercio con México para 2031 👉 Internacional (En blanco y Negro | Noticias de Chihuahua)"
+    ]
+   },
+   {
+    "tema": "ciclón extratropical",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega un ciclón extratropical que aumentará las lluvias y tormentas: cuáles son las zonas afectadas (Infobae)",
+     "Siguen las tormentas severas en el nordeste, con el Paraná aún en ascenso: dónde lloverá más hasta el domingo 22 (Meteored Argentina)"
+    ]
+   },
+   {
+    "tema": "asociación de trabajadores del estado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trabajadores de Iosfa reclamaron frente a la sede en Rosario: “Necesitamos que nos digan qué van a hacer con nosotros” (Página|12)",
+     "ATE presentará un amparo para solicitar la reincorporación de las 14 despedidas de la oficina local de OSFA (El Eco)"
+    ]
+   },
+   {
+    "tema": "cuando sale gta 6",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega GTA VI, el videojuego que cambiará el negocio de las consolas: cuándo sale en Argentina y cómo descargarlo antes del lanzamiento (Clarin.com)",
+     "\"Grand Theft Auto VI\" se prepara para su lanzamiento ante una expectación frenética (Yahoo en Español Vida y Estilo)"
+    ]
+   },
+   {
+    "tema": "cadáver",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una imagen terrorífica en un cementerio dejó a un sepulturero con el corazón en la boca (Radio Sudamericana)",
+     "¿Qué pasó con el hombre hallado sin vida en la sede vecinal del barrio Ceferino? (Red43)"
+    ]
+   },
+   {
+    "tema": "bosnia y herzegovina - rumania",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alineaciones de Bosnia y Herzegovina y Rumania por la Liga de Naciones: formaciones probables (Bolavip)",
+     "Dónde ver hoy en directo el Bosnia y Herzegovina-Rumanía: ¿quién retransmite el partido por televisión y en streaming? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "acuerdo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Patricia Bullrich desafía a Karina Milei y manda a su tropa a cuestionar las colectoras (Página|12)",
+     "El Gobierno se abraza a la polarización electoral y ya habla de un “Boca-River” contra el peronismo (Infobae)"
+    ]
+   },
+   {
+    "tema": "gales - portugal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Gales vs. Portugal por la UEFA Nations League 2026-27: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
+     "UEFA Nations League, en vivo el minuto a minuto de los partidos de la última fecha (La Nación)"
+    ]
+   },
+   {
+    "tema": "polonia - suecia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Polonia vs Suecia, en directo hoy: ¿Dónde ver el partido por televisión y en streaming? (Goal.com)",
+     "Alineaciones de Polonia y Suecia para el duelo de la fecha 6 de la Liga de Naciones (Bolavip Argentina)"
+    ]
+   },
+   {
+    "tema": "israel - austria",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Israel vs Austria Confirmed Lineups (WhoScored.com)",
+     "Israel vs Austria live: TV coverage, live stream and kick-off time | UEFA Nations League B (Goal.com)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "zverev",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "ATP Finals 2026 live updates: Latest as Shelton takes on Zverev after Fils defeats Jodar on day three - The Athletic (The New York Times)",
+     "What were the Nitto ATP Finals results? (Nitto ATP Finals)"
+    ]
+   },
+   {
+    "tema": "artex",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ (TechCrunch)",
+     "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents (Amazon Web Services (AWS))"
+    ]
+   },
+   {
+    "tema": "hungria vs irlanda del norte",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver Hungría vs Irlanda del Norte: Canales y hora del partido de la UEFA Nations League (Récord)",
+     "Alineaciones de Hungría e Irlanda del Norte por la Liga de Naciones: formaciones probables (Bolavip Perú)"
+    ]
+   },
+   {
+    "tema": "wales vs portugal",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "bet365 bonus code: Get £30 in Nations League free bets (MyBettingSites.co.uk)",
+     "Bellamy demands Wales turns moments into results (beIN SPORTS)"
+    ]
+   },
+   {
+    "tema": "ucrania - georgia",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver hoy en directo el Ucrania-Georgia: televisión y streaming (Goal.com)",
+     "Alineaciones de Ucrania y Georgia por la Liga de Naciones: formaciones probables (Bolavip Perú)"
+    ]
+   },
+   {
+    "tema": "níger - marruecos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "5-1: Brahim da una asistencia en el triunfo de Marruecos frente a Níger (Real Madrid CF | Web Oficial)",
+     "Ouzane: \"El segundo partido contra Níger es muy importante (Elbotola)"
+    ]
+   },
+   {
+    "tema": "liga de expansión mx",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Club Atlético La Paz vs Atlético Morelia: una Final de Expansión entre clubes 'rebeldes' que luchan por el ascenso (Mediotiempo)",
+     "Finalista Atlético Morelia en la Liga de Expansión (Quadratín Tabasco)"
+    ]
+   },
+   {
+    "tema": "israel - austria",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Israel vs Austria live: TV coverage, live stream and kick-off time | UEFA Nations League B (Goal.com)",
+     "Israel vs Austria Confirmed Lineups (WhoScored.com)"
+    ]
+   },
+   {
+    "tema": "denmark vs norway",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
+     "European BTTS Tips: Scandinavian showdown to serve up goals in 3/1 Treble (MrFixitsTips)"
+    ]
+   },
+   {
+    "tema": "gales - portugal",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-17T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde y cómo ver en vivo y gratis Gales vs. Portugal hoy: TV y streaming online del partido de la Nations League 2026 (Yahoo)",
+     "Nations League EN DIRECTO: juegan Dinamarca-Noruega y Gales-Portugal; también le toca a Bosnia (Goal.com)"
+    ]
+   }
+  ]
+ }
+}
