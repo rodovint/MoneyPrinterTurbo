@@ -45,7 +45,22 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - Hinchada: "Football-crowd-Cheer+Jeers" – paulw2k vía Freesound (CC BY 4.0).
 - Ver `scripts/guineo/audio/LICENSES.csv`.
 
-## Publicación (SEO por red, en Metricool)
+## Lecciones de las métricas (revisión de Mui, 17/11) — aplicar en TODA producción
+Datos: YouTube 13,6 k vistas y +22 suscriptores en 28 días, pero el **61 % desliza** sin quedarse; 13 % de las vistas viene del buscador (casi todo "ravenna vs forli"). Instagram: reels nuevos 100–175 vistas (el mejor histórico 5.770). TikTok: normal 500–900, pero algunos subidos por API quedaron en 6–9.
+1. **Primer segundo = cara o acción + gancho de 3–5 palabras en grande.** Nada de portadas solo de texto, cifras sueltas o fondo plano ("¡TITULAR!", "0", "3.321 días", pantalla roja de "Última hora" rindieron menos). Los mejores: Ronaldinho, Klopp vs. Xavi, Morales cara a cara.
+2. **Temas que ganan:** figuras famosas (Ronaldinho, Messi) y ecuatorianos con un logro concreto (Jordy Caicedo, Enner Valencia, IDV, Alonso Reyes, Pacho), contados como historia. Lo institucional (horarios, aniversarios sin título) rinde poco: contarlo a través de una persona o dejarlo fuera.
+3. **Partidos "X vs Y" del día** con el nombre exacto que la gente busca en el título de YouTube (ej. "Ravenna vs Forlì"), publicados mientras se busca.
+4. **Cero imágenes de transmisiones** (ej. "Imágenes: transmisión Teleamazonas"): riesgo de reclamo de derechos. Las jugadas se recrean con pizarra, pixel, retro o tv.
+5. **Cierres con tono hacia abajo** y última palabra completa (ver Voz).
+
+## Publicación manual (mientras Metricool esté en su límite; después, Metricool solo para emergencias)
+El agente entrega cada mp4 + un archivo textos-*.txt con los textos por red y la hora sugerida. Al final del txt agrega SIEMPRE esta lista para Mui:
+- **TikTok:** subir desde la app; agregar un sonido en tendencia a volumen muy bajo (5–10 %) bajo la voz; si un video queda con menos de 50 vistas en 2 h, revisar si está "en revisión" o con alcance limitado.
+- **Instagram:** subir desde la app como Reel; compartirlo en Historias; invitar como colaborador a una página de hinchas o local de El Oro cuando aplique; poner el "Primer comentario".
+- **YouTube:** título con el término exacto que se busca; responder los comentarios en la primera hora (ej. "¿Pero y Emelec?").
+- **Las 3 redes:** responder comentarios la primera hora; no publicar dos videos con menos de 60 min de diferencia.
+
+## Publicación (SEO por red: textos para Metricool o para publicar a mano)
 - Un post por red (no uno compartido), cada uno con su texto:
   - **YouTube Short**: título con nombres completos ("Independiente del Valle", no "IDV") + el hecho + lo que la gente busca + #Shorts (máx. 90). Descripción: la historia en 3–4 frases con nombres y cifras, la pregunta, "Suscríbete a Guineo Comunicaciones", fuentes, créditos de música/sonido y 10–12 hashtags. Sin primer comentario automático.
   - **Instagram Reel**: gancho en MAYÚSCULAS con emoji, 2–3 líneas, pregunta, créditos y hashtags + #Reels. `firstCommentText` con una pregunta de sí/no o de elegir.
