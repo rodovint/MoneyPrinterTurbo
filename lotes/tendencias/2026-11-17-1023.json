@@ -1,0 +1,6 @@
+{"fecha": "2026-11-17T10:23-05:00", "nota": "rss-ultimo.json de 09:12 vs rss de 07:56. Señal: 'brasil vs' sube de escalón (1000+ a 2000+) y 'malaui - egipto' nuevo con 500+. Sin brecha temprana. Sin reel urgente.", "temas": [
+ {"tema": "Brasil 7-0 Singapur (hat-trick de Vinícius)", "señales": ["Google Trends EC 'brasil vs'", "'singapore vs brazil' EC y AR"], "volumen_EC": "2000+", "volumen_anterior": "1000+", "estado": "en crecimiento", "brecha": "sincronizada", "avisado": true},
+ {"tema": "Malaui vs Egipto (Salah)", "señales": ["Google Trends EC", "MX 'egipto vs' 1000+", "AR 200+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "en crecimiento", "brecha": "sincronizada", "avisado": true},
+ {"tema": "Rafael Jódar (ATP Finals vs Fils)", "señales": ["ES 10000+", "AR 200+", "US 'jodar' 200+"], "volumen_EC": null, "volumen_anterior": null, "estado": "fuera de EC", "brecha": "no temprana (solo ES con 2000+)", "avisado": false},
+ {"tema": "Japón vs Paraguay", "señales": ["EC 100+", "AR 'paraguay vs' 1000+", "MX 'japon vs' 1000+"], "volumen_EC": "100+", "volumen_anterior": null, "estado": "nueva (bajo volumen)", "brecha": "sincronizada", "avisado": false}
+]}
