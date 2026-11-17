@@ -1,0 +1,559 @@
+{
+ "fecha": "2026-11-17T15:49-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "alexander zverev",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Fils off the mark in Turin! Frenchman outlasts Jodar for first win (ATP Tour)",
+     "Licensable picture: Tennis 2026: Nitto ATP Finals: FILS 4-6, 6-2, 6-2 JODAR (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "portugal fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes (A Bola)",
+     "FC Porto retoma os treinos com jogadores condicionados (OneFootball)"
+    ]
+   },
+   {
+    "tema": "portugal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mezian faz história e dá vitória a Portugal (Sport TV)",
+     "Seleção portuguesa de sub-21 vence Noruega em particular (RTP)"
+    ]
+   },
+   {
+    "tema": "wales vs portugal",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
+     "Football Bet of the Day: Danish delight in front of goal on Tuesday (MrFixitsTips)"
+    ]
+   },
+   {
+    "tema": "israel - austria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Israel vs Austria live: TV coverage, live stream and kick-off time | UEFA Nations League B (Goal.com)",
+     "Israel vs Austria Confirmed Lineups (WhoScored.com)"
+    ]
+   },
+   {
+    "tema": "bosnia vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bosnia and Herzegovina vs Romania Confirmed Lineups (WhoScored.com)",
+     "Bosnia vs Romania: UEFA Nations League preview (Sofascore)"
+    ]
+   },
+   {
+    "tema": "gales vs portugal",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Gales vs. Portugal por la UEFA Nations League 2026-27: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
+     "Así se juega la jornada en la UEFA Nations League: partidos, horarios y cómo ver en vivo (DSports)"
+    ]
+   },
+   {
+    "tema": "bosnia y herzegovina - rumania",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico Bosnia Y Herzegovina - Rumania - Nations League (SportyTrader)",
+     "Bosnia vs Rumanía: previa de la UEFA Nations League (Sofascore)"
+    ]
+   },
+   {
+    "tema": "apagon mundial",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Esto es solo una prueba\": el test de la alerta de emergencia del martes se produce en un momento de gran inquietud en EE.UU. (CNN en Español)",
+     "¿Qué pasará el 17 de noviembre? La verdad sobre el supuesto apagón mundial (Vistazo)"
+    ]
+   },
+   {
+    "tema": "a que hora juega ecuador",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ecuador vs Bolivia Horarioa canal y donde ver EN VIVO el partido completamente GRATIS (futbolecuador.com)",
+     "Cómo ver gratis el partido amistoso de Ecuador y Bolivia por la fecha FIFA (El Universo)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "bill fritz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nora Mary Sperle (The Bismarck Tribune)",
+     "'American Pickers' star Frank Fritz's multimillion-dollar estate fight heads to trial (Yahoo)"
+    ]
+   },
+   {
+    "tema": "taylor sheridan",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Yellowstone creator Taylor Sheridan has no apologies for spending big money on his hit TV shows (Fox News)",
+     "'Yellowstone' creator Taylor Sheridan on why he signed a big deal with NBCUniversal after years with Paramount (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "austria vs israel",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Israel vs Austria: UEFA Nations League stats & head-to-head (BBC)",
+     "Israel vs Austria Betting Odds, Tips, Predictions, Preview 17th November 2026 (Easyodds.com)"
+    ]
+   },
+   {
+    "tema": "charles bronson",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Luton-born Charles Bronson denied parole for ninth time (BBC)",
+     "Charles Bronson, one of UK’s longest-serving inmates, again refused release (LBC)"
+    ]
+   },
+   {
+    "tema": "christopher laneve",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump nominates new top Army general, setting stage for confirmation fight (The Washington Post)",
+     "Hegseth Nominates His Former Aide to Lead the Army (The New York Times)"
+    ]
+   },
+   {
+    "tema": "ciara",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ciara, Expecting Baby No. 5, Says There Shouldn’t Be Pressure on Moms to Make Christmas Perfect: ‘It’s About Love’ (Exclusive) (People.com)",
+     "Russell Wilson and Ciara Share Pregnancy Update Prepping for Baby No. 5 (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "chip gaines",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Joanna Gaines Shares Rare Photo of Son Crew Bonding with His Older Brother on the Golf Course (People.com)",
+     "Joanna & Chip Gaines Celebrate Special Occasion Ahead of New Show (IMDb)"
+    ]
+   },
+   {
+    "tema": "alexander zverev",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "ATP Finals 2026 live updates: Latest as Zverev takes first set against USA's Shelton on day three - The Athletic (The New York Times)",
+     "Alexander Zverev starts ATP Finals with convincing win over Rafael Jodar (ESPN)"
+    ]
+   },
+   {
+    "tema": "portugal",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mais de meia centena de tendas amanhecem no Rossio (RTP)"
+    ]
+   },
+   {
+    "tema": "uefa nations league schedule",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nations League quarter-finals: Who is through? Who can join them? What is the state of play in each League A group? (UEFA.com)",
+     "England Nations League permutations: What they need vs. Spain and why it matters (ESPN)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "portugal fc",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes (A Bola)",
+     "FC Porto retoma os treinos com jogadores condicionados (OneFootball)"
+    ]
+   },
+   {
+    "tema": "play 5",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19 (XBOX Wire)",
+     "When will 'GTA 6' be available on Xbox Game Pass and Cloud Gaming? (Mashable)"
+    ]
+   },
+   {
+    "tema": "niger vs morocco",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Niger vs Morocco: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Atlas Lions barometer: Hakimi and Yassine in form · SNA (Sport News Africa)"
+    ]
+   },
+   {
+    "tema": "sijena",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pedro Olloqui, director de Cultura de Aragón: “Hoy es el momento cero del regreso de las pinturas de Sijena” (EL PAÍS)",
+     "19:50 INFORMATIVOS DE ARAGÓN 17/11/2026 (RTVE.es)"
+    ]
+   },
+   {
+    "tema": "david bisbal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El duro golpe personal de David Bisbal en plena gira por Latinoamérica: \"Nuestra casa tendrá un vacío sin ella\" (HOLA)",
+     "David Bisbal llora la muerte de su perra Nala: \"Hay seres que se convierten en familia\" (Diez Minutos ES)"
+    ]
+   },
+   {
+    "tema": "cuando sale gta 6",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Que tu ansia por jugar a 'GTA VI' no te cueste cara: “Los ciberdelincuentes lo usan como un cebo especialmente atractivo” (La Vanguardia)",
+     "GTA 6 en PC: ¿Cuándo estará disponible para ordenador y qué ha confirmado Rockstar? (SPORT)"
+    ]
+   },
+   {
+    "tema": "carril",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sóller estudia crear un tercer carril en la carretera del desvío para evitar la congestión (Diario de Mallorca)",
+     "Adamuz: el CSIC investigará 10 meses después por qué se rompió la vía y tendrá 53.000 € de presupuesto (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "shenzhen",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps (Reuters)",
+     "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China (CNN)"
+    ]
+   },
+   {
+    "tema": "a que hora sale el gta 6 en españa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El verdadero reto de ‘GTA VI’: cuántas unidades debe vender el videojuego para que sea un éxito histórico y superar a ‘GTA V’ (La Vanguardia)",
+     "¿Cuánto cuesta GTA 6 en México? Precios para PlayStation y Xbox y cuánto cuesta cada edición (MARCA)"
+    ]
+   },
+   {
+    "tema": "debate feijoo sanchez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El debate electoral a cuatro será el jueves 26 de noviembre (La Vanguardia)",
+     "El próximo jueves, cobertura especial de Antena 3 Noticias para el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo (Atresmedia)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "fifa",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Argentinos Juniors fue inhibido por FIFA para tres mercados (TyC Sports)",
+     "El duro castigo de la FIFA a un club del fútbol argentino: no podrá incorporar jugadores en los próximos tres mercados de pases (TN)"
+    ]
+   },
+   {
+    "tema": "fórmula",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Es uno de los circuitos más espectaculares\": Colapinto palpitó el GP de Las Vegas (ESPN Argentina)",
+     "Franco Colapinto vuelve al GP de Las Vegas con un Alpine más rosa y sed de revancha: \"el objetivo es tener un buen fin de semana\" (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "portugal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mezian faz história e dá vitória a Portugal (Sport TV)",
+     "Só tem 17 aninhos: o grande talento comparado a Yamal voltou a fazer história nos sub-21 (A Bola)"
+    ]
+   },
+   {
+    "tema": "granadero baigorria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda (Rosario3)",
+     "Una casa en Granadero Baigorria perdió su techo en el medio del temporal: \"Se llevó muchos años de esfuerzo\" (La Capital)"
+    ]
+   },
+   {
+    "tema": "diario los andes",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "sindicato",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Quiebra de SanCor: los trabajadores anuncian una movilización para reclamar una resolución definitiva (TN)",
+     "SanCor: ATILRA anunció una movilización para exigir que se acelere la liquidación judicial (Diario La Opinión de Rafaela)"
+    ]
+   },
+   {
+    "tema": "portugal fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes (A Bola)",
+     "FC Porto prepara Taça de Portugal com uma boa notícia (Record)"
+    ]
+   },
+   {
+    "tema": "selección de fútbol de paraguay",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gustavo Alfaro, tras la victoria ante Japón: “Este fue un año histórico para la selección paraguaya” (Olé)",
+     "Ver EN VIVO Japón vs Paraguay: dónde seguirlo por TV y ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "cabo verde vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cape Verde vs Liberia: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Botswana vs Uganda: First Half BTTS (Coinbase)"
+    ]
+   },
+   {
+    "tema": "línea mitre",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El ramal Tigre del tren Mitre estará interrumpido el fin de semana largo: cómo funcionarán los demás servicios (TN)",
+     "Vuelven a interrumpir un ramal del tren del AMBA para avanzar con obras de renovación (iProfesional)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "portugal fc",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes (A Bola)",
+     "FC Porto retoma os treinos com jogadores condicionados (OneFootball)"
+    ]
+   },
+   {
+    "tema": "nations league",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "FA wants to host Nations League finals in England (BBC)",
+     "England launch major Nations League bid! FA face competition from France and Spain to host finals ahead of Euro 2028 (Goal.com)"
+    ]
+   },
+   {
+    "tema": "portugal",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "(Gratuito) Assistir Portugal x País de Gales Ao Vivo agora: veja onde assistir jogo 17 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)",
+     "Liga Nações: Jesus lança Cancelo, António Silva, João Neves e Trincão no ‘onze’ (Correio da Manhã Canadá)"
+    ]
+   },
+   {
+    "tema": "israel vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": []
+   },
+   {
+    "tema": "bruno fernandes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bruno Fernandes to SHELVE new Man Utd contract talks until Mauricio Pochettino proves himself to £300k-a-week star (The Sun)",
+     "Bruno Fernandes rejects second Manchester United contract offer - The Athletic (The New York Times)"
+    ]
+   },
+   {
+    "tema": "alineaciones de selección de fútbol de gales contra selección de fútbol de portugal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Wales vs Portugal: Uefa Nations League stats & head-to-head (BBC)",
+     "(8) Wales v Portugal: Nations League football – live (The Guardian)"
+    ]
+   },
+   {
+    "tema": "neymar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Neymar sueña con volver a jugar con la Selección de Brasil (Telemundo)",
+     "El equipo que propone Neymar para su desembarco en la Kings League: Tres exazulgranas para un proyecto cada vez más real (SPORT)"
+    ]
+   },
+   {
+    "tema": "alexander zverev",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Fils off the mark in Turin! Frenchman outlasts Jodar for first win (ATP Tour)",
+     "Licensable picture: Tennis 2026: Nitto ATP Finals: FILS 4-6, 6-2, 6-2 JODAR (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "rasmus højlund",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Portugal boss responds to criticism from Ronaldo's mum (BBC)",
+     "International round-up: Damsgaard and Jensen both assist in Denmark win over Portugal (Brentford FC)"
+    ]
+   },
+   {
+    "tema": "carlos forbs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jorge Jesus responde a las críticas de la madre de Cristiano (ESPN México)",
+     "Delantero de Dinamarca que anotó doblete a Portugal manda mensaje a Cristiano Ronaldo (Mediotiempo)"
+    ]
+   }
+  ]
+ }
+}
