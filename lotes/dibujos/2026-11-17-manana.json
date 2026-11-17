@@ -1,0 +1,10 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic arena lights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "tri-camerino", "seed": 171, "referencias": [0], "prompt": "Vertical illustration: a stadium locker room before a night match, a row of plain bright yellow soccer jerseys without any logo or number hanging on hooks, two empty hooks with no jersey, a round black-and-white soccer ball on the wooden bench, dramatic light from the tunnel to a green pitch behind, tense mood."},
+    {"id": "berlin-goleada", "seed": 172, "referencias": [0], "prompt": "Vertical illustration: a huge oval stadium at night with tall stone colonnade arches, a round black-and-white soccer ball bulging the back of the goal net in the foreground, players in plain white shirts seen from behind celebrating with arms raised, bright floodlights, confetti, no faces visible."}
+  ]
+}
