@@ -10,6 +10,9 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
   - `"voz": "andrea"` (o `"luis"`): Edge TTS. Si una palabra suena mal, pon en `"dicho"` cómo se pronuncia ("Cies") y deja `"texto"` para el subtítulo.
   - Escenas sin `"voz"`: salen de una grabación real de Mui (`"audio": "audio/NN"`), cortada por pausas y limpiada sola. Solo si Mui manda audios.
   - Si la voz clonada falla, esa frase sale con Andrea (aviso en el log).
+  - **Entonación (regla de Mui, 17/11):** toda frase que cierra (afirmación o exclamación) debe terminar con el **tono hacia abajo**; solo las preguntas suben. `voz_clon.py` hace hasta 6 tomas y descarta las que no bajan al final. Escribe las frases para que cierren con punto (no con "!" ni puntos suspensivos).
+  - **Final completo:** la última palabra no se puede cortar (ej. "la vuelta al mundo"). Si en la hoja de contacto o al escuchar se nota cortada, regenera esa frase.
+  - Revisa siempre que el final de cada frase clonada se escuche entero y bajando antes de mandar el video a Mui.
 - **Primer fotograma**: cara o acción + el texto del gancho, sin fundido (el generador ya pone el texto desde el fotograma 0). La primera frase dice quién hizo qué.
 - **Duración**: 25–35 s (5–7 frases cortas). El generador avisa si pasa de 36 s.
 - **Las noticias institucionales se cuentan a través de una persona.**
