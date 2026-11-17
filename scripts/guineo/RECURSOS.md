@@ -20,6 +20,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - **Fotos de personas**: solo las que manda Mui. Estadios y lugares: Wikimedia Commons libres (crédito automático).
 - **Nada de fotos ni videos de medios, agencias o transmisiones** salvo lo que Mui mande y apruebe (ver regla 4 de "Lecciones de las métricas").
 - Mui aprueba los guiones antes de producir y los videos antes de publicar.
+- **Las correcciones de Mui son permanentes**: cuando corrija algo (pronunciación, escudos, estilo), anótalo aquí como regla en el mismo commit del arreglo, para que ningún agente lo repita. Antes de generar, repasa esta lista de reglas contra el JSON.
 
 ## Efectos automáticos del generador (guineo_fx)
 - Transición de entrada en cada escena (barrido amarillo, zoom, glitch, destello), whoosh en cada corte.
@@ -40,6 +41,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - Están en `lotes/img/escudos/<club>.png` (barcelona, catolica, idv, liga, tecnico, macara, orense, mushuc, aucas, cuenca, manta, delfin, fef). Se usan con `"escudo": "img/escudos/<club>.png"` en cada equipo de `partido`/`marcador`, o con el gráfico `{"tipo": "escudo", "escudo": ..., "sobre": ..., "texto": ...}`.
 - Si falta un club: TheSportsDB (`searchteams.php?t=<club>`, campo strBadge) o Wikimedia Commons, bajados desde una Action (este entorno no llega a esas webs).
 - Una agenda de fecha va con una tarjeta `partido` por cada partido (todos los partidos, todos con escudo), no en texto chico.
+- **Regla permanente (Mui, 17/11): TODO equipo en `partido` o `marcador` lleva escudo, también las selecciones y los rivales extranjeros.** El generador lo busca solo: si el equipo no trae `"escudo"`, usa `img/escudos/<nombre-sin-tildes>.png` (ej. `bolivia.png`, `paises-bajos.png`) y, si ese archivo no existe, lo baja de TheSportsDB durante la Action (`bajar_escudo` en generar.py; nombres en español mapeados en `ESCUDO_EN`). Revisa en la hoja de contacto que salga el escudo correcto; si no salió, súbelo a `lotes/img/escudos/` antes de mandar el video a Mui.
 
 ## Créditos (van en la descripción de YouTube)
 - Música: "Epic Celestial Choir 2" – Megis (CC BY), Internet Archive.

@@ -79,6 +79,48 @@ ANIMADOS = {"pizarra", "pixel", "retro", "tv"}
 
 _ESC = {}
 
+# Nombres en español -> como los busca TheSportsDB (selecciones y clubes que no salen igual).
+ESCUDO_EN = {"paises-bajos": "Netherlands", "holanda": "Netherlands", "alemania": "Germany", "espana": "Spain",
+             "inglaterra": "England", "francia": "France", "italia": "Italy", "belgica": "Belgium",
+             "brasil": "Brazil", "estados-unidos": "USA", "mexico": "Mexico", "canada": "Canada",
+             "peru": "Peru", "japon": "Japan", "gales": "Wales", "escocia": "Scotland", "grecia": "Greece",
+             "dinamarca": "Denmark", "noruega": "Norway", "suiza": "Switzerland", "croacia": "Croatia",
+             "serbia": "Serbia", "turquia": "Turkey", "marruecos": "Morocco", "corea-del-sur": "South Korea",
+             "republica-dominicana": "Dominican Republic", "haiti": "Haiti", "panama": "Panama"}
+
+
+def slug(t):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", str(t)).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+
+
+def bajar_escudo(destino):
+    """Si falta lotes/img/escudos/<slug>.png, lo baja de TheSportsDB (strBadge) por el nombre del archivo."""
+    base = os.path.splitext(os.path.basename(destino))[0]
+    for q in dict.fromkeys([ESCUDO_EN.get(base, ""), base.replace("-", " ")]):
+        if not q:
+            continue
+        try:
+            url = "https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=" + urllib.parse.quote(q)
+            with urllib.request.urlopen(url, timeout=20) as r:
+                equipos = json.load(r).get("teams") or []
+            equipos = [t for t in equipos if t.get("strSport") == "Soccer" and t.get("strBadge")]
+            if not equipos:
+                continue
+            os.makedirs(os.path.dirname(destino), exist_ok=True)
+            urllib.request.urlretrieve(equipos[0]["strBadge"], destino)
+            print(f"::notice::Escudo bajado de TheSportsDB: {equipos[0]['strTeam']} -> {destino}", flush=True)
+            return True
+        except Exception as e:
+            print(f"::warning::No se pudo bajar el escudo de {q}: {e}", flush=True)
+    return False
+
+
+def escudo_auto(e):
+    """Escudo de un equipo de partido/marcador: el que diga el JSON o, si falta, img/escudos/<slug del nombre>.png."""
+    return e.get("escudo") or ("img/escudos/" + slug(e.get("nombre", "")) + ".png" if e.get("nombre") else None)
+
 
 def escudo_img(ruta, lado):
     """Escudo (PNG con transparencia) de lotes/<ruta>, escalado a un cuadrado de 'lado'."""
@@ -87,6 +129,8 @@ def escudo_img(ruta, lado):
     clave = (ruta, lado)
     if clave not in _ESC:
         f = ruta if os.path.isabs(ruta) else os.path.join(ROOT, "lotes", ruta)
+        if not os.path.exists(f):
+            bajar_escudo(f)
         try:
             im = Image.open(f).convert("RGBA")
             im.thumbnail((lado, lado), Image.LANCZOS)
@@ -131,7 +175,7 @@ def card(c):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
             x0 = 105
-            if e.get("escudo") and pegar_escudo(im, e["escudo"], 170, y + 140, 180):
+            if escudo_auto(e) and pegar_escudo(im, escudo_auto(e), 170, y + 140, 180):
                 x0 = 280
             f, l = fit(d, e["nombre"], W - 300 - x0 - 20, 1, [130, 112, 96, 84, 72, 62])
             d.text((x0, y + 140), l[0], font=f, fill=INK, anchor="lm")
@@ -160,7 +204,7 @@ def card(c):
         for i, e in enumerate(c["equipos"]):
             y = 90 + i * 300
             d.rectangle([60, y, W - 60, y + 280], fill=rgb(e["color"]))
-            if e.get("escudo") and pegar_escudo(im, e["escudo"], 175, y + 140 + (-20 if i == 0 else 20), 190):
+            if escudo_auto(e) and pegar_escudo(im, escudo_auto(e), 175, y + 140 + (-20 if i == 0 else 20), 190):
                 f, l = fit(d, e["nombre"], 680, 1, [120, 104, 92, 80, 70])
                 d.text(((290 + W - 60) / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
             else:

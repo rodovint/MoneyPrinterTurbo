@@ -43,7 +43,8 @@
       },
       {
        "nombre": "BOLIVIA",
-       "color": "#007A3D"
+       "color": "#007A3D",
+       "escudo": "img/escudos/bolivia.png"
       }
      ],
      "hora": "HOY 18:30",
@@ -76,7 +77,8 @@
       {
        "nombre": "BOLIVIA",
        "goles": 3,
-       "color": "#007A3D"
+       "color": "#007A3D",
+       "escudo": "img/escudos/bolivia.png"
       }
      ],
      "pie": "COPA AMÉRICA 2015 · ÚLTIMA DERROTA"
