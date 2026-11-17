@@ -1,0 +1,559 @@
+{
+ "fecha": "2026-11-17T11:57-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Malawi vs Egypt: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Salah breaks Egypt scoring record as Tunisia lose to Libya (Reuters)"
+    ]
+   },
+   {
+    "tema": "indonesia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Indonesia dismisses another police general as wiretapping scandal deepens (10TV)",
+     "Indonesian police say they have enough evidence to pursue treason charges in Prabowo wiretapping case (Reuters)"
+    ]
+   },
+   {
+    "tema": "paraguay vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T06:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Paraguay tiene equipo confirmado para su último baile del año (VS Sports)",
+     "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\" (Olé)"
+    ]
+   },
+   {
+    "tema": "malaui - egipto",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T04:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "EN VIVO: Malaui vs Egipto | Eliminatorias AFCON 2027 (beIN SPORTS)",
+     "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Goal.com)"
+    ]
+   },
+   {
+    "tema": "singapore vs brazil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Carlo Ancelotti explains why Raphinha has remained with Brazil and not returned to Barcelona (Barca Blaugranes)",
+     "Raphinha: \"Siempre estaré disponible para representar a Brasil\" (OneFootball)"
+    ]
+   },
+   {
+    "tema": "prisión",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Condenado el aficionado que profirió insultos racistas a Mbappé en Oviedo de 2025 (EL PAÍS)",
+     "LALIGA logra su duodécima sentencia por racismo tras la condena por las actitudes racistas contra Mbappé en Oviedo (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "brasil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Singapura 0 x 7 Brasil | Amistosos da Seleção Brasileira: melhores momentos (ge)",
+     "Auxiliar de Ancelotti na seleção: 'Trabalho não foi suficiente até agora' (UOL)"
+    ]
+   },
+   {
+    "tema": "clima guayaquil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico del clima en Guayaquil hoy, 17 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
+     "El Inamhi prevé índices muy altos de radiación UV para este jueves (El Comercio)"
+    ]
+   },
+   {
+    "tema": "huevo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precio de los huevos desde hoy, lunes, 16 de noviembre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo (El Mundo)",
+     "De Mercadona a Carrefour: el precio de los huevos desde hoy en los supermercados (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "primicias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   }
+  ],
+  "US": [
+   {
+    "tema": "libya vs tunisia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Libya vs Tunisia Prediction, Betting Tips & Odds | 17 Nov 2026 (Sportsgambler)",
+     "Tunisia vs Libya: Africa Cup of Nations Qualification stats & head-to-head (BBC)"
+    ]
+   },
+   {
+    "tema": "measles",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health (The New York Times)",
+     "Measles Now Endemic Across the Americas in Blow to Public Health (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "hung cao",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "glastonbury high school",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Officers investigating incident at Glastonbury High School (WFSB)",
+     "Glastonbury High School locked down, nearby streets closed due to 'suspicious call' (New Haven Register)"
+    ]
+   },
+   {
+    "tema": "charles schwab down",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Charles Schwab Website Goes Down As Users Report Issues (Business Insider)",
+     "Charles Schwab's User Reports Showing Outage, According to Downdetector (marketscreener.com)"
+    ]
+   },
+   {
+    "tema": "dustin may",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Source - White Sox, Dustin May reach 3-year, $52.5M contract (ESPN)",
+     "2-Time World Series Champion Signs With the White Sox (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "gavin baker",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO (WSJ)",
+     "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation (CNBC)"
+    ]
+   },
+   {
+    "tema": "nasa",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "NASA's Voyager 1 to reach one light-day away on Wednesday (10TV)",
+     "Far from home. Voyager 1 is now farther than anything man has sent into space (NPR)"
+    ]
+   },
+   {
+    "tema": "now stock",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "ServiceNow Stock’s (NOW) Historic Sell-Off May Have Gone Too Far (Yahoo Finance)",
+     "ServiceNow's Record Plunge Leaves Shares at 21x 2027 Earnings as AI Bookings Swell (BigGo Finance)"
+    ]
+   },
+   {
+    "tema": "gambia vs côte d'ivoire",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T07:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "@!!LIVESTREAM!TODAY!) Gambia vs. Côte d'Ivoire l̇i̇v̇ė ̇ṡṫṙėȧṁṡ ̇ḟṙėė (Comité Asesor de Vacunas de la AEP)",
+     "Liberia vs Cape Verde: First Half Spread (Coinbase)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "croacia - españa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Croacia - España, en directo: clasificación del EuroBasket 2027, hoy en vivo (Diario AS)",
+     "Croacia-España, objetivo 3-0 (18:00, Teledeporte (Federación Española de Baloncesto)"
+    ]
+   },
+   {
+    "tema": "beatriz biedma",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pedraz frustra el intento de impedir que declare la testigo clave de la supuesta trama para «eliminar» a la jueza Biedma (La Voz de Galicia)",
+     "Pedraz mantiene la declaración de Cintia Rocho porque podría tener «conocimiento» sobre el acoso a la jueza Biedma (ABC)"
+    ]
+   },
+   {
+    "tema": "liverpool football club",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
+     "UEFA Nations League Matchday 6 highlights: Germany, Netherlands into quarter-finals (UEFA.com)"
+    ]
+   },
+   {
+    "tema": "arthur dias",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El Liverpool amenaza con arrebatarle un fichaje al Barça (SPORT)",
+     "Report: Liverpool send scouts to watch €30m Brazilian ace Tottenham failed to sign (Yardbarker)"
+    ]
+   },
+   {
+    "tema": "dubai basketball - anadolu efes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Anadolu Efes Dubai’de 925. Avrupa Sınavında: Hedef Galibiyet Serisi (Bölge Gündemi)",
+     "Beşiktaş, EuroLeague'de Real Madrid'i konuk ediyor (NTVSpor)"
+    ]
+   },
+   {
+    "tema": "resultados nvidia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jensen Huang rompe su silencio tras el escándalo y dice que está dispuesto a regresar de consejero delegado a Nvidia (EL PAÍS)",
+     "El Nasdaq, ansioso por conocer los resultados de Nvidia (Expansión)"
+    ]
+   },
+   {
+    "tema": "el hierro",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gestión frente a la xenofobia (EL PAÍS)",
+     "Más de 11.000 inmigrantes han llegado a Canarias en lo que llevamos de noviembre (Antena 3 Noticias)"
+    ]
+   },
+   {
+    "tema": "katy perry",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Katy Perry and Justin Trudeau break cover in first public outing since her ex Russell Brand’s rape conviction (Page Six)",
+     "Baby2Baby 2026: The Colorful and Shiny (Go Fug Yourself)"
+    ]
+   },
+   {
+    "tema": "gambia - costa de marfil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gambia - Costa de Marfil, en directo: clasificación Copa de África, hoy en vivo (Diario AS)",
+     "Diomande se enfunda la '10' y asiste para liderar a Costa de Marfil (MARCA)"
+    ]
+   },
+   {
+    "tema": "esperanza aguirre",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Entramos en el comedor de estilo rústico que Esperanza Aguirre tiene en su palacete madrileño: techos altos, maderas nobles y porcelana (Semana)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "conmebol",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sale a la venta un nuevo lote de plateas para la gran final de Estudiantes en Montevideo (Infocielo)",
+     "Final de la Copa Libertadores 2026: fecha, horario, sede y todo lo que hay que saber (La Nación)"
+    ]
+   },
+   {
+    "tema": "barranquilla",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El video que subió el hincha de Boca que viaja en moto a Barranquilla (Olé)",
+     "Hinchas de Boca Juniors presentes en la Torre del Reloj en Cartagena (Infobae)"
+    ]
+   },
+   {
+    "tema": "clasificación para la copa africana de naciones",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Goal.com)",
+     "Mohamed Salah hizo historia con Egipto: llegó a los 70 goles y lideró la goleada ante Malaui (ovacion.pe)"
+    ]
+   },
+   {
+    "tema": "miranda de la serna",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La dolorosa confesión de Miranda de la Serna sobre su mamá, Erica Rivas, y su salida de Casados con hijos (A24.com)",
+     "Miranda de la Serna habló de su mamá, Erica Rivas y Casados con hijos (Pronto)"
+    ]
+   },
+   {
+    "tema": "milton delgado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alerta en Boca: Milton Delgado se realizó estudios y preocupa de cara a la final de la Sudamericana (ESPN Argentina)",
+     "Alarma en Boca: una figura clave no pudo terminar la práctica a días de la final de la Copa Sudamericana (Radio Mitre)"
+    ]
+   },
+   {
+    "tema": "ulises bueno te quedaste sola",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ulises Bueno la rompió con el estreno de un inédito (eldoce)",
+     "Ulises Bueno presentó “Te quedaste sola”, su nuevo tema inédito (La Popu)"
+    ]
+   },
+   {
+    "tema": "red link",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Banco Rioja advirtió sobre demoras en sus canales digitales (Medios Provincia)",
+     "Una falla de Red Link afecta el acceso al Home Banking (Diario Jornada)"
+    ]
+   },
+   {
+    "tema": "gambia - costa de marfil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diomande se enfunda la '10' y asiste para liderar a Costa de Marfil (MARCA)",
+     "En vídeo: los regalos de Diomandé se imponen en la victoria de Costa de Marfil (Goal.com)"
+    ]
+   },
+   {
+    "tema": "desastre",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas (La Nación)",
+     "Lluvias en Córdoba: los acumulados superaron los 90 milímetros en distintos puntos de la provincia (· Gobierno de Córdoba)"
+    ]
+   },
+   {
+    "tema": "ciberataque",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alerta por un ciberataque mundial que usó los sitios de la BBC, CNN, Zoom e Ikea para robar datos bancarios (La Nación)",
+     "Un ataque infectó a 178 sitios para robar criptomonedas y atacar iPhones (Infobae)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "ucrania vs georgia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ucrania vs. Georgia en directo hoy: ¿quién retransmite el partido por televisión y en streaming? (Goal.com)",
+     "Ucrania vs Georgia EN VIVO, resultado, goles y minuto a minuto en la UEFA Nations League (VAVEL.com)"
+    ]
+   },
+   {
+    "tema": "embassy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 (U.S. Embassy in Bulgaria (.gov))",
+     "Europe Terror Alert: Americans Urged to Stay Vigilant in Broad Warning (Newsweek)"
+    ]
+   },
+   {
+    "tema": "ticketmaster",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T08:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Karol G sorprende a sus fans al cantar con Thalía en su primer concierto en la Ciudad de México (Quién)",
+     "La fuerza femenina que mueve a Belinda (El Universal)"
+    ]
+   },
+   {
+    "tema": "argelia vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Doble golpe: confirmada la baja de dos jugadores de Argelia para el duelo ante Togo (Goal.com)",
+     "Argelia 1-0 Togo, goles y resumen en Eliminatorias Copa Africana (VAVEL.com)"
+    ]
+   },
+   {
+    "tema": "fema",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FEMA will test its Emergency Alert System tomorrow. Here’s what to expect. (Yahoo)",
+     "Emergency alerts will sound across Utah today. Here’s what to expect (TownLift Park City)"
+    ]
+   },
+   {
+    "tema": "shenzhen",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit (The Guardian)",
+     "Horns and drones banned as Shenzhen hushes for Trump and APEC (Reuters)"
+    ]
+   },
+   {
+    "tema": "jordania vs australia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pide Australia cambio de sede para amistoso ante Jordania (Reforma)",
+     "Jordania vs Australia EN VIVO, minuto a minuto en Fecha FIFA (1-0) (VAVEL.com)"
+    ]
+   },
+   {
+    "tema": "ups",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport (ABC News - Breaking News, Latest News and Videos)",
+     "Planes collide at Miami runway crossing a day after national grounding (CNN)"
+    ]
+   },
+   {
+    "tema": "venezuela",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T08:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Venezuela, desafíos de reconstrucción tras Maduro y daños del terremoto (Vatican News)",
+     "Un 64 % de comercios ya opera en el estado más devastado por los terremotos en Venezuela (Yahoo)"
+    ]
+   },
+   {
+    "tema": "congo vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T08:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sierra Leone vs Congo DR: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "TotalEnergies CAF AFCON 2027 Qualifiers: DR Congo extend perfect run as Guinea-Bissau and Zimbabwe held to draws (CAFOnline.com)"
+    ]
+   }
+  ]
+ }
+}
