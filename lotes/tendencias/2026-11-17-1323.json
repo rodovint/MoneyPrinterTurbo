@@ -1,0 +1,11 @@
+{
+  "fecha": "2026-11-17T13:23-05:00",
+  "nota": "Ronda 13:23. rss 12:56 vs 10:51. Dos temas suben de escalón (200+ a 500+). Sin titular explosivo, sin brecha temprana. Sin reel urgente. explore-ultimo sigue en 06:55 (no corrió el de 12:45).",
+  "temas": [
+    {"tema": "Japón vs. Paraguay (amistoso 17/11)", "señales": ["Google Trends EC 'paraguay vs'"], "volumen_EC": "500+", "volumen_anterior": "200+", "estado": "en crecimiento", "brecha": "local", "avisado": true},
+    {"tema": "Brasil vs. Japón / Singapur (Japón 3-2, doblete de Vinícius, 14/11)", "señales": ["Google Trends EC 'singapore vs brazil'", "explore 'brasil vs' explosiva, El Oro 75"], "volumen_EC": "500+", "volumen_anterior": "200+", "estado": "en crecimiento", "brecha": "local", "avisado": true},
+    {"tema": "Malaui vs. Egipto (récord goleador de Salah)", "señales": ["Google Trends EC"], "volumen_EC": "1000+", "volumen_anterior": "1000+", "estado": "estable", "brecha": "local", "avisado": false},
+    {"tema": "Togo vs. Argelia", "señales": ["Google Trends EC"], "volumen_EC": "100+", "volumen_anterior": null, "estado": "nueva (bajo volumen)", "brecha": "local", "avisado": false},
+    {"tema": "Croacia vs. España", "señales": ["Google Trends ES"], "volumen_EC": null, "volumen_anterior": null, "estado": "fuera de EC", "brecha": "un solo país", "avisado": false}
+  ]
+}
