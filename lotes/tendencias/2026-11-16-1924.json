@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-11-16T19:24-05:00",
+  "nota": "Modo rápido con rss-ultimo 18:38 vs rss 16:16. Subidas de escalón en partidos de Nations League ya terminados (pico post-partido). Aviso corto de tendencias, sin reel urgente.",
+  "temas": [
+    {"tema": "Alemania vs. Países Bajos", "señales": ["Google Trends EC", "lote mañana"], "volumen_EC": "20000+", "volumen_anterior": "10000+", "estado": "en crecimiento", "brecha": "local", "avisado": true},
+    {"tema": "Suiza vs. Escocia", "señales": ["Google Trends EC"], "volumen_EC": "2000+", "volumen_anterior": "1000+", "estado": "en crecimiento", "brecha": "local", "avisado": true},
+    {"tema": "Grecia vs. Serbia", "señales": ["Google Trends EC"], "volumen_EC": "1000+", "volumen_anterior": "500+", "estado": "en crecimiento", "brecha": "local", "avisado": false},
+    {"tema": "Gonzalo Plata y Denil Castillo dejan la convocatoria de Ecuador (vs. Bolivia)", "señales": ["Google Trends EC", "El Universo"], "volumen_EC": "100+", "volumen_anterior": null, "estado": "nueva", "brecha": "local", "avisado": true},
+    {"tema": "Selección de Bolivia (Ecuador vs. Bolivia)", "señales": ["Google Trends EC"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "nueva", "brecha": "local", "avisado": false},
+    {"tema": "Cavaliers vs. Bulls / Magic vs. Celtics (NBA)", "señales": ["Google Trends US"], "volumen_EC": null, "volumen_anterior": null, "estado": "ausente en EC", "brecha": "solo US", "avisado": false}
+  ]
+}
