@@ -1,27 +1,60 @@
 {
- "fecha": "2026-11-17T09:12-05:00",
+ "fecha": "2026-11-17T10:50-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "japon vs paraguay",
+    "tema": "indonesia",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-17T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Indonesia dismisses another police general as wiretapping scandal deepens (10TV)",
+     "Indonesian police say they have enough evidence to pursue treason charges in Prabowo wiretapping case (Reuters)"
+    ]
+   },
+   {
+    "tema": "feriado noviembre",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Feriados de noviembre: Dos provincias de Ecuador tendrán un puente de cuatro días (Primicias)",
+     "¿Por qué se decretó feriado nacional en Ecuador el viernes 20 de noviembre? (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "paraguay vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T06:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Paraguay tiene equipo confirmado para su último baile del año (VS Sports)",
+     "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\" (Olé)"
+    ]
+   },
+   {
+    "tema": "japon vs paraguay",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-17T06:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Japan vs Paraguay: Friendlies stats & head-to-head (BBC)",
-     "Licensable picture: Mizuho Blue Challenge - Japan v Paraguay (Reuters Connect)"
+     "Japan stumble after Brazil high as Paraguay crash Hajime Moriyasu farewell party (ESPN)",
+     "Japan vs Paraguay: Friendlies stats & head-to-head (BBC)"
     ]
    },
    {
     "tema": "malaui - egipto",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T04:50:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Con una celebración especial para Salah, Egipto reabre el debate sobre su máximo goleador histórico (Yahoo)",
+     "EN VIVO: Malaui vs Egipto | Eliminatorias AFCON 2027 (beIN SPORTS)",
      "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Goal.com)"
     ]
    },
@@ -32,8 +65,8 @@
     "desde": "2026-11-17T03:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "0-7: Vini Jr.'s hat-trick and an Endrick goal lead Brazil to a rout over Singapore (Real Madrid CF | Web Oficial)",
-     "Licensable picture: Mizuho Blue Challenge - Singapore v Brazil (Reuters Connect)"
+     "Carlo Ancelotti explains why Raphinha has remained with Brazil and not returned to Barcelona (Barca Blaugranes)",
+     "Raphinha: \"Siempre estaré disponible para representar a Brasil\" (OneFootball)"
     ]
    },
    {
@@ -43,7 +76,7 @@
     "desde": "2026-11-17T03:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Un hincha es condenado por insultos racistas contra Kylian Mbappé (Primicias)",
+     "Condenado el aficionado que profirió insultos racistas a Mbappé en Oviedo de 2025 (EL PAÍS)",
      "LaLiga alcanza las 12 resoluciones por racismo en el fútbol español tras el caso Mbappé (IUSPORT)"
     ]
    },
@@ -52,10 +85,10 @@
     "volumen": "200+",
     "volumen_min": 200,
     "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": true,
+    "deporte_probable": false,
     "titulares": [
-     "7 a 0 constrangedor em amistoso garante Carlo Ancelotti na Seleção? (tmc.com.br)",
-     "0-7: 'Hat-trick' de Vini Jr. e um gol de Endrick na goleada do Brasil contra Singapura (Real Madrid CF | Web Oficial)"
+     "Quando o Brasil volta a jogar? Veja calendário da Seleção em 2027 (tmc.com.br)",
+     "Nesta terça-feira (17), a Seleção Brasileira atropelou Singapura por 3 a 0, em amistoso internacional que encerra o calendário da Amarelinha em 2026. Assim, o Palmeiras viu algumas das suas Crias da Academia brilharem e marcarem gols no confronto. De (Instagram)"
     ]
    },
    {
@@ -66,7 +99,7 @@
     "deporte_probable": true,
     "titulares": [
      "Pronóstico del clima en Guayaquil hoy, 17 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
-     "Lluvias provocan acumulación de agua en sectores de Guayaquil; así estará el clima hoy (El Comercio Ecuador)"
+     "Lluvias provocan acumulación de agua en sectores de Guayaquil; así estará el clima hoy (El Comercio)"
     ]
    },
    {
@@ -77,272 +110,316 @@
     "deporte_probable": false,
     "titulares": [
      "Precio de los huevos desde hoy, lunes, 16 de noviembre de 2026, en los supermercados: cuánto cuestan en Mercadona, Carrefour o Alcampo (El Mundo)",
-     "El precio de los huevos desde hoy en los supermercados, de Mercadona a Lidl, Dia o Carrefour (Las Provincias)"
-    ]
-   },
-   {
-    "tema": "primicias",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T02:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "China Max, Hiperasia y otros megaalmacenes chinos se expanden en Ecuador con locales de 4.000 metros cuadrados (Primicias)",
-     "Petro se reunió con políticos acusados en EE.UU. por narcotráfico, según el presidente de Ecuador (EFE - Agencia de noticias)"
-    ]
-   },
-   {
-    "tema": "policía judicial",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T02:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La Policía judicial requiere 28 documentos al alcalde de Garrucha sobre los sueldos de 4 funcionarios municipales (Actualidad Almanzora)",
-     "El Gobierno de Garrucha lleva a Antifraude el informe de la Cámara de Cuentas sobre la gestión del PSOE (Ideal)"
-    ]
-   },
-   {
-    "tema": "brasil vs",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T02:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Vinícius Jr. convirtió un hat-trick en una ráfaga para Brasil contra Singapur (ESPN Ecuador)",
-     "Brasil busca ante Singapur un desquite que le dé respiro al DT Carlo Ancelotti (Teleamazonas)"
+     "De Mercadona a Carrefour: el precio de los huevos desde hoy en los supermercados (El Confidencial)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "brittany snow",
+    "tema": "togo vs algeria",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Simon G Jewels Worn By McKenna Grace and Brittany Snow at Recent Profile Events (Centurion Jewelry Show)",
-     "Malin Akerman blows a kiss on the 'Hunting Wives' Season 2 red carpet and more star snaps (Page Six)"
-    ]
-   },
-   {
-    "tema": "malin akerman",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Malin Akerman blows a kiss on the 'Hunting Wives' Season 2 red carpet and more star snaps (Page Six)",
-     "Brittany Snow’s Disco Dress Brought a Healthy Dose of Sparkle to ‘The Hunting Wives’ Season Two Premiere (Yahoo)"
-    ]
-   },
-   {
-    "tema": "jodar",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T05:50:00-08:00",
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Arthur Fils - Rafa Jódar en directo | Última hora de las ATP Finals, en vivo (MARCA)",
-     "Jódar busca seguir con opciones en Turín; Zverev y Shelton juegan por el liderato (Nitto ATP Finals)"
+     "Algeria vs Togo: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "The secret behind the exclusion: did Luca Zidane pay the price for his father's stance on the thorny issue? (Yardbarker)"
     ]
    },
    {
-    "tema": "sellas life sciences",
+    "tema": "kenya vs south africa",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T05:40:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-17T07:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Sellas’ GPS Cuts Death Risk By 41% In Pivotal AML Trial – Firm Eyes FDA Filing In First Half Of 2027 (Yahoo Finance)",
-     "Sellas' vaccine extends survival in blood cancer trial (Reuters)"
+     "Kenya vs. South Africa - AFCON qualifier LIVE updates, as it happens (ESPN)",
+     "Kenya vs South Africa Afcon clash live on NTV (Daily Nation)"
     ]
    },
    {
-    "tema": "mcdonalds home alone meal",
+    "tema": "crm stock",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T05:40:00-08:00",
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Macaulay Culkin Reprises His Role as Kevin for the Launch of McDonald’s Home Alone Meal (People.com)",
-     "McDonald’s Is Releasing an All-New Holiday Meal for a Limited Time (Allrecipes)"
+     "Salesforce shares drop on AI concerns and spending caution (StreetInsider)",
+     "CRM support and resistance levels as stock hits oversold territory (Investing.com)"
     ]
    },
    {
-    "tema": "rob lowe",
+    "tema": "sierra leone vs dr congo",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-17T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "What Is Rob Lowe Thinking? (The Free Press)",
-     "Ben Shapiro’s Screenwriting Debut Is Here. It’s … a Movie, All Right. (Slate)"
-    ]
-   },
-   {
-    "tema": "ohio powerball winners nov 16",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Winning Powerball numbers for the $76 million jackpot on Monday, Nov. 16, 2026: See all the prizes hit in Ohio (WKYC)",
-     "Luck strikes in Ohio with multiple Powerball winners (FOX 8 News)"
-    ]
-   },
-   {
-    "tema": "nitto atp finals",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T05:30:00-08:00",
+    "desde": "2026-11-17T07:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "A different perspective: Szilveszter Makó reimagines Nitto ATP Finals stars (ATP Tour)",
-     "Exclusive: The World’s Top Players Look Back on a Wild Year in Men’s Tennis (GQ)"
+     "TotalEnergies CAF AFCON 2027 Qualifiers: DR Congo extend perfect run as Guinea-Bissau and Zimbabwe held to draws (CAFOnline.com)",
+     "Congo DR vs Sierra Leone: Africa Cup of Nations Qualification stats & head-to-head (BBC)"
     ]
    },
    {
-    "tema": "ocarina of time remake pc port",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T05:30:00-08:00",
+    "tema": "jetblue turbulence fort lauderdale airport",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T07:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Can Nintendo Do Anything to Stop The Legend of Zelda: Ocarina of Time Remake Running Rampant on PC? (IGN)",
-     "PC ports of Zelda: Ocarina of Time and Super Mario 64 make emulation pointless (XDA)"
+     "Several people injured after turbulence on flight headed to Florida, officials say (CNN)",
+     "Five people injured amid severe turbulence on JetBlue flight to Florida (The Guardian)"
     ]
    },
    {
-    "tema": "i heart radio",
+    "tema": "mansfield university",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T05:30:00-08:00",
+    "desde": "2026-11-17T07:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mansfield University to close (Lock Haven Express)",
+     "PASSHE plans to shut down Mansfield University campus in 2028 (Inquirer.com)"
+    ]
+   },
+   {
+    "tema": "turkey",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T06:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Giant sinkholes tear through Turkey’s parched farmland (Financial Times)",
+     "British carmakers face limbo over EU’s Made in Europe rules (The Times)"
+    ]
+   },
+   {
+    "tema": "granblue fantasy relink leaving ps plus",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T06:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Grand Canyon vs. Santa Clara TV & Stream – Nov. 17 (iHeart)",
-     "TNA Wrestling Radio To Launch As Part Of Partnership With iHeartRadio (Fightful)"
+     "Games Leaving PlayStation Plus in December 2026 Confirmed (PlayStation LifeStyle)",
+     "PlayStation Plus issues December free game update, last chance to play 100-hour RPG (GAMINGbible)"
+    ]
+   },
+   {
+    "tema": "unh stock",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T06:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Unitedhealth Group Inc Stock (UNH) Opened Down by 4.78% on Nov 17: What Investors Need To Know (TradingKey)",
+     "Why is UnitedHealth stock sliding today? (Investing.com)"
+    ]
+   },
+   {
+    "tema": "hero world challenge",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T06:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tiger Woods to return for next month's Hero World Challenge (ESPN)",
+     "Tiger Woods to return to competitive golf next month for Hero World Challenge (The New York Times)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "precio luz",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T06:00:00-08:00",
+    "tema": "reforma",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Precio de la luz por horas hoy, martes 17 de noviembre: las horas más baratas y más caras (El Confidencial)",
-     "Desplome del precio de la luz: la electricidad será un 51,29% más barata este martes 17 de noviembre (TarifaLuzHora)"
+     "Competencia pide al Gobierno una reforma urgente de su estructura ante la \"atribución masiva de funciones\" (El Confidencial)",
+     "Competencia reclama una reforma \"urgente\" de su estructura ante la ampliación de sus funciones (El Periódico)"
     ]
    },
    {
-    "tema": "ticketmaster",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T05:50:00-08:00",
+    "tema": "venezuela",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "How Ticketmaster Changed Concert Culture (The Cornell Daily Sun)",
-     "Concert culture has to change (The News-Item)"
+     "Venezuela tacha de «injerencia» las declaraciones del presidente uruguayo en Madrid sobre la democracia en el país (ABC)",
+     "Venezuela cuestiona unas declaraciones \"injerencistas\" del presidente uruguayo, Yamandú Orsi (SWI swissinfo.ch)"
     ]
    },
    {
-    "tema": "tamara falcó",
+    "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Malawi vs Egypt: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Salah breaks Egypt scoring record as Tunisia lose to Libya (Reuters)"
+    ]
+   },
+   {
+    "tema": "álvaro cervera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cervera responde a Piqué por Owono: “Debería ver la acción” (Diario AS)",
+     "Cervera (Tenerife) responde a Piqué: \"No es una acción que se ve todos los días, creo que se podía haber evitado\" (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "fernando grande-marlaska",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Si te gustó el ministro Marlaska, ya verás el ministro Albiol (elDiario.es)",
+     "Marlaska y el cortafuegos ministerial (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "fernando clavijo",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-17T05:50:00-08:00",
+    "desde": "2026-11-17T07:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Isabel Preysler y Tamara Falcó reaparecen juntas con chaquetas a juego en el homenaje a Julio Iglesias (ELLE)",
-     "Julio Iglesias Jr. conquista Madrid con las canciones de su padre y una Isabel Preysler pletórica entre el público (ABC)"
+     "Archipiélago Noticias Canarias - 16/11/26 (RTVE.es)",
+     "Clavijo afea al Gobierno su \"falta de previsión\" con la inmigración (ABC)"
     ]
    },
    {
-    "tema": "mónica garcía",
+    "tema": "paraguay vs",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-17T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sanidad envía un requerimiento para exigir crear ya un registro de objetores al aborto en Andalucía y Baleares (EL PAÍS)",
-     "Andalucía y Baleares se aferran a que cumplen la ley con el registro de objetores al aborto: \"Está en trámite\" (Redacción Médica)"
-    ]
-   },
-   {
-    "tema": "movistar arena",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T05:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "C. Tangana regresa al directo con Agorazein: cuatro noches de nostalgia, caos y rap en Madrid (El Mundo)",
-     "Concierto de Agorazein en Madrid hoy lunes: horario, cómo llegar al Movistar Arena, accesos y setlist (EuropaFM)"
-    ]
-   },
-   {
-    "tema": "jon echeverria pp",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T05:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Feijóo se planta entre gritos e insultos ante los violentos en Guipúzcoa: \"¡Ni un paso atrás!\" (El Mundo)",
-     "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España” (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "veronika voráčková",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T05:40:00-08:00",
+    "desde": "2026-11-17T07:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Veronika Vorackova, jugadora del Casademont Zaragoza, indignada con el rendimiento de su selección: \"Jugamos sin ganas\" (heraldo.es)",
-     "El último partido con España de Mariona Ortiz antes de iniciar su cuenta atrás con el Casademont Zaragoza (El Periódico de Aragón)"
+     "Japón 1 - Paraguay 2: resumen, resultado y goles del partido (Diario AS)",
+     "Japón - Paraguay en directo - Amistosos: Resultados y resúmenes de Fútbol - 17/11/2026 (Eurosport)"
     ]
    },
    {
-    "tema": "audiencia provincial de madrid",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T05:30:00-08:00",
+    "tema": "josé ángel carmona",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T06:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "La Audiencia de Madrid ordena reabrir la causa contra el director de la Policía por acoso al portavoz de Interior de Vox (EL PAÍS)",
-     "La Justicia procesa al director de la Policía Nacional por acoso y coacciones al portavoz de Vox de Interior (La Razón)"
+     "JOSÉ ÁNGEL CARMONA SUFRE UNA FRACTURA DE TIBIA Y PERONÉ DE SU PIERNA DERECHA (Sevilla FC)",
+     "Carmona se fractura la tibia y el peroné en el entrenamiento: adiós a la temporada (MARCA)"
     ]
    },
    {
-    "tema": "llívia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los Mossos d’Esquadra investigan la muerte violenta de una mujer en Llívia (Girona) (EL PAÍS)",
-     "Conmoción en Llívia por el asesinato de Carme, una vecina muy conocida en la localidad (El Periódico)"
-    ]
-   },
-   {
-    "tema": "rafael jódar",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T05:20:00-08:00",
+    "tema": "paraguay vs japon",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T06:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo (EL PAÍS)",
-     "Jódar se juega su supervivencia en las ATP Finals ante su víctima favorita (El Mundo)"
+     "El Salvador vs San Martín FR de S60-SELECCIONES NACIONALES ABSOLUTAS (Futbolme)",
+     "Jornada - CAMPEONATO EUROPEO SUB-19 DE LA UEFA - Edición 2025-26 - Nombre fase 225 (Futbolme)"
+    ]
+   },
+   {
+    "tema": "basket zaragoza",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T06:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "DOS PARTIDOS LEJOS DE CASA (Basket Zaragoza |)",
+     "CASADEMONT ZARAGOZA PELEA HASTA EL FINAL EN BADALONA (Basket Zaragoza |)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "egipto vs",
+    "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Malawi vs Egypt: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Salah breaks Egypt scoring record as Tunisia lose to Libya (Reuters)"
+    ]
+   },
+   {
+    "tema": "nadia podoroska",
     "volumen": "200+",
     "volumen_min": 200,
+    "desde": "2026-11-17T07:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "November 18, 2026: Florian Broska vs Christian Langmo Prediction Market (Robinhood)",
+     "November 16, 2026: Michael Agwi vs Luka Mikrut Tennis Prediction Market (Robinhood)"
+    ]
+   },
+   {
+    "tema": "moratoria",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jubilaciones de Anses: cuánto cobro en diciembre 2026 con el aumento, el bono y el aguinaldo (La Nación)",
+     "Jubilados de Anses: qué día cobran el aguinaldo en diciembre 2026 (Diario El Día de La Plata)"
+    ]
+   },
+   {
+    "tema": "periodista nelson castro",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Furia en las redes libertarias por lo que dijo Nelson Castro sobre Milei (Revista Noticias)",
+     "La homilía histórica del presidente Milei (Infobae)"
+    ]
+   },
+   {
+    "tema": "nigeria vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T06:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "'I take responsibility': Nigeria's Chelle stands firm on tactics ahead of Tanzania clash (Flashscore.com)",
+     "AFCON 2027: Super Eagles' hopes all but over as Eric Chelle’s men disappoint again (Pulse Nigeria)"
+    ]
+   },
+   {
+    "tema": "mercado de divisas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T06:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dólar: el tipo de cambio real tocó mínimos desde el inicio del esquema de bandas y crece la alerta por la demanda de divisas (Ambito)",
+     "Dólar: el tipo de cambio real toca mínimos desde el inicio de las bandas y crece la alerta por la demanda de divisas (Rosario Finanzas)"
+    ]
+   },
+   {
+    "tema": "médico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T06:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Agravaron la imputación contra el entrenador de rugby que golpeó a un médico en una pizzería y le agregaron un antecedente (La Nación)",
+     "El relato de otra víctima del profesor de rugby que golpeó a un médico en Córdoba: “Me fracturó el cráneo” (Infobae)"
+    ]
+   },
+   {
+    "tema": "egipto vs",
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-17T05:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -357,105 +434,50 @@
     "desde": "2026-11-17T05:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Jódar busca seguir con opciones en Turín; Zverev y Shelton juegan por el liderato (ATP Tour)",
-     "Arthur Fils vs. Rafael Jódar: a qué hora juegan y dónde ver en vivo las ATP Finals 2026 (ESPN Argentina)"
+     "Arthur Fils vs. Rafael Jódar: a qué hora juegan y dónde ver en vivo las ATP Finals 2026 (ESPN Argentina)",
+     "Arthur Fils - Rafa Jódar: resumen, resultado y estadísticas de las ATP Finals (MARCA)"
     ]
    },
    {
     "tema": "paraguay vs",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-17T05:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\" (Olé)",
-     "Ver EN VIVO Japón vs Paraguay: dónde seguirlo por TV y ONLINE (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "alerta tormentas",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T05:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Granizo y fuertes tormentas golpearon a varias provincias y hay alertas amarilla y naranja para este martes (Clarin.com)",
-     "Más de medio país está bajo alerta: las lluvias continuarán durante la mañana en el AMBA (Infobae)"
-    ]
-   },
-   {
-    "tema": "ileon",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T04:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El tiempo en León hoy, 17 de noviembre: lluvias hasta la tarde y temperaturas de hasta 18 grados (ILEON)",
-     "La lluvia da una tregua parcial este martes en algunos puntos de la provincia de León (Leonoticias)"
-    ]
-   },
-   {
-    "tema": "diario el eco de tandil",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T04:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Casi 500 hectáreas y más de 8 mil vecinos: cual es el barrio más grande de Tandil (El Eco)",
-     "Se estrenará \"1872\", el cortometraje que revive uno de los episodios más oscuros de la historia de Tandil (El Eco)"
-    ]
-   },
-   {
-    "tema": "17 de noviembre que se celebra",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T04:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Lola Mora desafió los prejuicios de una sociedad que rechazó sus esculturas, murió pobre y olvidada, y el tiempo la reivindicó (Infobae)",
-     "Día Nacional del Escultor y las Artes Plásticas (Chajarí Digital)"
-    ]
-   },
-   {
-    "tema": "dia de la militancia peronista",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T03:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El día que Juan Domingo Perón volvió a la Argentina después de 17 años de exilio (Infobae)",
-     "De militancias y lealtades traicioneras, entre la unidad y los otros (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "singapore vs brazil",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T03:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "0-7: Vini Jr.'s hat-trick and an Endrick goal lead Brazil to a rout over Singapore (Real Madrid CF | Web Oficial)",
-     "Licensable picture: Mizuho Blue Challenge - Singapore v Brazil (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "marta fort",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T03:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "María Becerra en el Movistar Arena: “Todo lo que hago, siempre lo hago desde el amor” (Página|12)",
-     "Eva de Dominici y Marta Fort desfilaron en el show de María Becerra con estilos naked y los fans enloquecieron (TN)"
+     "Ver EN VIVO Japón vs Paraguay: dónde seguirlo por TV y ONLINE (TyC Sports)",
+     "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\" (Olé)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "copa africana",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T05:50:00-08:00",
+    "tema": "scotiabank",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "CP: Strong volume momentum and prebuilt capacity support a path toward mid-teens earnings growth (TradingView)",
+     "CPKC at 26th Annual Scotiabank Transportation & Industrials Conference: growth outlook (Investing.com Canada)"
+    ]
+   },
+   {
+    "tema": "al calor politico",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cierra la Xalapa-Misantla: Derrumbe en \"La Z\" bloquea la circulación por Frente Frío 6 (PalabrasClaras.mx)",
+     "Derrumbe causó el cierre total de carretera en Yecuatla, este martes tras fuertes lluvias (Al Calor Político)"
+    ]
+   },
+   {
+    "tema": "kenia - sudáfrica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Kenia vs Sudáfrica EN VIVO, minuto a minuto en Eliminatorias a la Copa Africana (VAVEL.com)",
@@ -463,100 +485,81 @@
     ]
    },
    {
-    "tema": "emma watson",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Emma Watson, 25 years after ‘Harry Potter’: From the girl who conquered the world to the woman who stepped back from Hollywood (EL PAÍS English)",
-     "Rupert Grint is Bob Cratchit to Johnny Depp’s ‘Ebenezer’ (AP News)"
-    ]
-   },
-   {
-    "tema": "japon",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T05:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Le Japon ouvre ses stockages pétroliers aux pays de l’Asean (Connaissance des Énergies)",
-     "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole (Le Monde.fr)"
-    ]
-   },
-   {
-    "tema": "jorge linares",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T05:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jorge Linares, bajo custodia de ICE, confirma Gilberto Mendoza (ESPN México)",
-     "Autoridades migratorias de EEUU detienen al exboxeador Jorge Linares en El Paso (Univision)"
-    ]
-   },
-   {
-    "tema": "bloqueos carreteros",
+    "tema": "el economista",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T05:20:00-08:00",
+    "desde": "2026-11-17T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "La Tremenda Corte (Milenio)",
-     "Gobierno de Jalisco mantiene diálogo ante protesta de productores del campo (El Informador)"
+     "VOTUdos (El Economista)",
+     "Un minuto y jamás (Yahoo)"
     ]
    },
    {
-    "tema": "japon vs",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T05:10:00-08:00",
+    "tema": "israel vs austria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T07:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Más fuego cruzado entre Ancelotti y Romario por Brasil tras petición de despido (ESPN México)",
-     "«¡Ya hemos hecho bastante el ridículo!»: piden la dimisión de Carlo Ancelotti como seleccionador de Brasil (Goal.com)"
+     "Israel vs Austria Bet Builder Tips Tonight (7.45pm KO): our 5/1 three-leg pick (Squawka)",
+     "Israel vs. Austria live today: Who is showing the match on TV and via live stream? (Goal.com)"
     ]
    },
    {
-    "tema": "egipto vs",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T05:10:00-08:00",
+    "tema": "nitto atp finals",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T07:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Con una celebración especial para Salah, Egipto reabre el debate sobre su máximo goleador histórico (Yahoo)",
-     "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Goal.com)"
+     "Alcaraz dispatches Tiafoe for opening win in Turin (ATP Tour)",
+     "'Superman' Alcaraz fires warning shot with Medvedev next in line | Daily Sabah (Daily Sabah)"
     ]
    },
    {
-    "tema": "clima xalapa",
+    "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T07:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Malawi vs Egypt: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Salah breaks Egypt scoring record as Tunisia lose to Libya (Reuters)"
+    ]
+   },
+   {
+    "tema": "josh o'connor",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T05:10:00-08:00",
+    "desde": "2026-11-17T07:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Domingo con ambiente templado: así estará el clima este 15 de noviembre en Xalapa (La Silla Rota)",
-     "Prevén disminución de lluvias y ligero aumento de temperatura (Meganoticias.mx)"
+     "Josh O'Connor WON'T be the next James Bond as actor 'turns down role' after previously insisting he would be 'taking some time out' in 2027 (Daily Mail)",
+     "Southampton-born actor misses out on James Bond role (Daily Echo)"
     ]
    },
    {
-    "tema": "nieve",
+    "tema": "arabia saudita vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T04:50:00-08:00",
+    "desde": "2026-11-17T07:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nuevo golpe: Arabia Saudí pierde a su estrella para el amistoso ante Uzbekistán (Goal.com)",
+     "Apuestas Arabia Saudita - Uzbekistán (Gainblers)"
+    ]
+   },
+   {
+    "tema": "whats",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T07:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¡Nieve frente al mar en San Diego! Seaport Village tendrá nevadas artificiales durante diciembre (SanDiegoRed)",
-     "¿Habrá más nieve este invierno? Los meteorólogos miran a un fenómeno de El Niño ocurrido hace 30 años (National Geographic España)"
+     "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US (CNN)",
+     "What to expect during Tuesday’s nationwide FEMA emergency alert test (NBC News)"
     ]
-   },
-   {
-    "tema": "clima aguascalientes",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T04:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
    }
   ]
  }
