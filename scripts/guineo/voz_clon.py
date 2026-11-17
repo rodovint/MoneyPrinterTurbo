@@ -24,7 +24,7 @@ def ruta(lote, texto):
 
 def recortar_cola(wav, sr, texto):
     """Quita el "eeehh" que Chatterbox a veces agrega al final: corta donde termina la voz
-    (ultimo tramo a menos de 10 dB del nivel tipico) y nunca deja mas de ~0.075 s por letra."""
+    (ultimo tramo a menos de 10 dB del nivel tipico) y nunca deja mas de ~0.095 s por letra."""
     import numpy as np
     import torch
     a = wav.squeeze().cpu().numpy().astype(np.float32)
@@ -33,7 +33,8 @@ def recortar_cola(wav, sr, texto):
     db = 20 * np.log10(rms)
     voz = np.where(db > np.percentile(db, 90) - 10)[0]
     fin = (voz[-1] + 1) * v if len(voz) else len(a)
-    fin = min(fin + int(0.12 * sr), int((0.075 * len(texto) + 0.5) * sr), len(a))
+    # 17/11: el tope anterior (0.075 s/letra) cortaba frases largas ("la vuelta al mu...").
+    fin = min(fin + int(0.15 * sr), int((0.095 * len(texto) + 0.8) * sr), len(a))
     a = a[:fin].copy()
     f = min(len(a), int(0.08 * sr))
     a[-f:] *= np.linspace(1, 0, f)
