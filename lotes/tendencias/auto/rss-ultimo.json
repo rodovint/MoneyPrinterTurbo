@@ -1,28 +1,94 @@
 {
- "fecha": "2026-11-17T16:48-05:00",
+ "fecha": "2026-11-17T17:49-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "marruecos vs",
+    "tema": "john reimberg",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-17T14:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Live: Niger vs. Morocco | AFCON 2027 Qualifiers (beIN SPORTS)",
-     "Achraf Hakimi hailed as 'best right-back in history' as he hits new highs for PSG and Morocco (www.thenationalnews.com)"
+     "John Reimberg apunta a Rafael Correa y anticipa una posible captura antes de Navidad. (Machala Móvil)",
+     "Ministro John Reimberg sobre llevar a Rafael Correa ante la justicia: “Es solo cuestión de tiempo” (El Universo)"
     ]
    },
    {
-    "tema": "carlos forbs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:20:00-08:00",
+    "tema": "chile - colombia",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Ronaldo’s €850 million brand raises questions about Portugal’s global appeal (The Portugal News)",
-     "Portugal Immortalizes Cristiano Ronaldo's Legacy With a New No. 7 Jersey Design (Hypebeast)"
+     "Dónde ver Chile vs Colombia EN VIVO: canales y transmisión por país del amistoso internacional (365Scores)",
+     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "argentina - costa rica",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba (ESPN Deportes)",
+     "Argentina vs. Costa Rica, por un amistoso: seguilo EN VIVO (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "erling haaland",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
+     "Football Bet of the Day: Danish delight in front of goal on Tuesday (MrFixitsTips)"
+    ]
+   },
+   {
+    "tema": "agencia de seguridad nacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes (CNN en Español)",
+     "Nueva caída en las infraestructuras de EE UU: ahora, la red de comunicación interna de los servicios secretos (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "sociedad deportiva aucas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Superclásico capitalino se jugará sin aficionados de Aucas en Casa Blanca (El Telégrafo (por eliminar))",
+     "Liga de Quito prohíbe el ingreso de hinchas de Aucas para el Superclásico Capitalino (Primicias)"
+    ]
+   },
+   {
+    "tema": "marruecos vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Niger vs Morocco: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "0-1: Brahim provides assist in Morocco's victory (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "austria vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Israel vs Austria: UEFA Nations League stats & head-to-head (BBC)",
+     "Israel vs Austria predictions tonight (7.45pm KO): Rangnick's promoted side to sign off with a win (Squawka)"
     ]
    },
    {
@@ -32,8 +98,8 @@
     "desde": "2026-11-17T12:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "FC PORTO FELICITA CONCEIÇÃO E NETO DE PINTO DA COSTA DÁ RECADO (24Horas.pt)",
-     "Caderneta de Cromos de 15 nov 2026 (RTP)"
+     "Sub-18 de Portugal sofrem para vencer EUA (A Bola)",
+     "Triunfo frente aos EUA (FPF)"
     ]
    },
    {
@@ -43,460 +109,408 @@
     "desde": "2026-11-17T12:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "(3) Alexander Zverev v Ben Shelton: ATP Finals tennis group stage – live (The Guardian)",
-     "Fils vs Jodar and Zverev vs Shelton – Nitto ATP Finals Predictions (Tennisnerd)"
-    ]
-   },
-   {
-    "tema": "portugal",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "[TRANSMISSÃO AO VIVO]TV!!]ACESSO GRÁTIS Portugal vs. País de Gales Assistir em direto grátis. November 17 2026 (Comité Asesor de Vacunas de la AEP)",
-     "Jesus lança Cancelo, António Silva, João Neves e Trincão no 'onze' (SAPO)"
-    ]
-   },
-   {
-    "tema": "wales vs portugal",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bruno Fernandes and David Brooks score goals in Wales v Portugal (BBC)",
-     "Bruno Fernandes stunner lights up Wales v Portugal amid fresh twist in Man Utd future (football360.com.au)"
-    ]
-   },
-   {
-    "tema": "israel - austria",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Israel vs Austria: UEFA Nations League stats & head-to-head (BBC)",
-     "Licensable picture: UEFA Nations League - Group B3 - Israel v Austria (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "bosnia vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Preview: Bosnia-Herzegovina vs Romania - prediction, team news, lineups (Sports Mole)",
-     "Barbarez: We want to conclude the Year with a Victory against Romania (Sarajevo Times)"
-    ]
-   },
-   {
-    "tema": "níger - marruecos",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T12:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Níger - Marruecos, en directo: Fase de clasificación de la Copa Africana de Naciones hoy, en vivo (Diario AS)",
-     "Ouzane: \"El segundo partido contra Níger es muy importante (Elbotola)"
-    ]
-   },
-   {
-    "tema": "gales vs portugal",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T11:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Gales 2-3 Portugal: resumen, goles y resultados (Diario AS)",
-     "Jorge Jesus debe reconducir la época post Cristiano (Mundo Deportivo)"
+     "Zverev opens ATP Finals with convincing win over Jodar (KCAU 9 News)",
+     "The one stat that makes Shelton vs Zverev a near-impossible task in Turin (www.tenniswatcher.com)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "jubilación",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:30:00-08:00",
+    "tema": "dow jones industrial average",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El IRS anuncia nuevos ajustes tributarios para 2027: cuánto podrán deducir los contribuyentes y qué créditos aumentarán (Infobae)",
-     "Crédito por hijos en Estados Unidos: hasta 1750 dólares por menor en 2025 (Directorio Cubano)"
+     "Dow drops more than 800 points, S&P 500 posts lowest close since July (CNBC)",
+     "Nvidia, Other Chip Stocks Climb After Hours (WSJ)"
     ]
    },
    {
-    "tema": "ecuador vs bolivia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Hernán Galíndez, previo al duelo vs. Bolivia: \"El otro día se vieron cosas muy buenas\" (ESPN Deportes)",
-     "Cómo ver gratis el partido amistoso de Ecuador y Bolivia por la fecha FIFA (El Universo)"
-    ]
-   },
-   {
-    "tema": "politics",
+    "tema": "anne hathaway",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-17T13:20:00-08:00",
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Five reasons why Republicans lost so badly (BBC)",
-     "The Simple Message That Produced a Democratic Landslide (The Atlantic)"
+     "Anne Hathaway Welcomes New Baby, Spotted With Newborn in NYC (TMZ)",
+     "Anne Hathaway Welcomes Third Child With Husband Adam Shulman (The Hollywood Reporter)"
     ]
    },
    {
-    "tema": "ryan jeffers",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Top free-agent catcher accepts qualifying offer to remain with Twins (MLB.com)",
-     "Ryan Jeffers to return to Twins (MLB.com)"
-    ]
-   },
-   {
-    "tema": "wandale robinson",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Titans put Wan'Dale Robinson on injured reserve (Yahoo Sports)",
-     "Ravens release Harrison Mevis (NBC Sports)"
-    ]
-   },
-   {
-    "tema": "carlos forbs",
+    "tema": "aircraft",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-17T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him? (The Guardian)",
-     "Cristiano Ronaldo Receives Rare Honor From Portugal Following His Retirement (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "david bednar",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:10:00-08:00",
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sources - Yankees' Bednar, Twins' Jeffers accept $23.15M offer (ESPN)",
-     "Bednar returning to Yankees after accepting qualifying offer (MLB.com)"
+     "Man accessed US military plane at Ireland airport and destroyed it, DOJ says (CNN)",
+     "Irish National Indicted For Destroying $60 Million U.S. Military C-130H Aircraft At Shannon Airport, Ireland (Department of Justice (.gov))"
     ]
    },
    {
-    "tema": "abel nunez",
+    "tema": "league of legends",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T13:00:00-08:00",
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Muere futbolista a causa de un pelotazo en liga juvenil de Argentina (Los Angeles Times)",
-     "Un jugador de fútbol juvenil muere en Argentina tras recibir un pelotazo durante un partido (EL PAÍS)"
+     "League of Legends World Championship Grand Final: Riot Games Continues To Blaze the Remote-Production Trail at Barclays Center (Sports Video Group)",
+     "Find a Worlds 2026 Watch Party Near You (Riot Games)"
     ]
    },
    {
-    "tema": "starz",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:50:00-08:00",
-    "deporte_probable": false,
+    "tema": "argentina - costa rica",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Early Black Friday streaming deal: Save 50% on a year of Paramount+ Premium (Mashable)",
-     "The best early Black Friday streaming deals start at just $4.99 (USA Today)"
+     "How to watch Argentina vs Costa Rica live: Stream, TV, team news, prediction (Yahoo Sports)",
+     "Argentina vs. Costa Rica: Preview, Predictions and Lineups (Sports Illustrated)"
     ]
    },
    {
-    "tema": "portugal fc",
+    "tema": "chile vs colombia",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡Atención, chilenos! La probable formación para enfrentar a Colombia (ESPN Deportes)",
+     "Posible alineación de Colombia para enfrentar a Chile en Santiago (AS Colombia)"
+    ]
+   },
+   {
+    "tema": "chile - colombia",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lorenzo hails Colombia's fight in 'intense' friendly win over Chile (beIN SPORTS)",
+     "Colombia Chile Soccer (Idaho Press)"
+    ]
+   },
+   {
+    "tema": "eastern mi vs wmu",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-17T12:40:00-08:00",
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How to watch Eastern Michigan vs Western Michigan: Live stream NCAA College Football, TV channel (Yahoo Sports)",
+     "Eastern Michigan vs. Western Michigan prediction, odds: Week 12 Tuesday MACtion picks from proven model (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "harvey jones",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes (A Bola)",
-     "FC Porto prepara Taça de Portugal com uma boa notícia (Record)"
+     "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards (CNBC)",
+     "Nvidia board needs 'some heavyweights,' ex-Medtronic CEO Bill George says (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "oklahoma city thunder",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Oklahoma native Blake Griffin says taxpayers had little choice on $900 million Thunder arena (The New York Times)",
+     "OKC native Blake Griffin says taxpayers 'hamstrung' on $900M Thunder arena deal (Yahoo Sports)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "bombero",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Un bombero alerta del error más frecuente al dejar la llave puesta por dentro: \"Por la noche, no lo hagas\" (Telecinco)",
-     "Un cerrajero profesional avisa en TikTok del error de dejar la llave puesta por dentro: «Haciendo esto faci... (OkDiario)"
-    ]
-   },
-   {
-    "tema": "tomas gomez",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tomás Gómez, exsecretario del PSOE en Madrid: «Pedro Sánchez intenta transmitir una falsa euforia. En el PSOE están muy preocupados. Dan por perdidas las elecciones» (ABC)",
-     "Tomás Gómez desvela la clave para darle una patada en el trasero a Sánchez el 29-N (Periodista Digital)"
-    ]
-   },
-   {
-    "tema": "nvidia results",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "US tech stocks slide ahead of Nvidia results (Financial Times)",
-     "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO (Reuters)"
-    ]
-   },
-   {
-    "tema": "bonoloto 17 noviembre 2026",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Comprobar Bonoloto de hoy martes 17 de noviembre de 2026 (La Vanguardia)",
-     "Bonoloto: comprobar sorteo del lunes 16 de noviembre (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "martín caparrós",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Xenofobia en campaña (EL PAÍS)",
-     "Martín Caparrós y el acecho de Vox (El Mundo)"
-    ]
-   },
-   {
-    "tema": "debate final isla de las tentaciones",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Las tres bombas del debate final de 'La isla de las tentaciones 11': los mensajes de Andrea, la confesión de Fran y una infidelidad de Juanpi (El Confidencial)",
-     "La crisis de Náyades y Andrea ante una posible infidelidad del italiano y los ‘bombazos’ de Fran y Mara, en ‘El debate final de las tentaciones’ (Mediaset)"
-    ]
-   },
-   {
-    "tema": "carlos forbs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "📸 Portugal's new No. 7 delivers with memorable first international goal (Yahoo Sports)",
-     "📸 Portugal's new No. 7 delivers with memorable first international goal (OneFootball)"
-    ]
-   },
-   {
-    "tema": "selección de fútbol sub-21 de albania",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Albania Sub 21 0 - España Sub 21 0: resumen, goles y resultado (Diario AS)",
-     "0-0: Carlos Espí y Thiago jugaron en el amistoso frente a Albania (Real Madrid CF | Web Oficial)"
-    ]
-   },
-   {
-    "tema": "mercedes zarzalejo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los profesores vuelven a la Asamblea de Madrid mientras la consejera de Educación defiende sus presupuestos: “¡Aquí están las garrapatas!” (EL PAÍS)",
-     "Zarzalejo sigue ignorando a los docentes en huelga y anuncia un 9% más de inversión a la educación concertada (LaSexta)"
-    ]
-   },
-   {
-    "tema": "nvidia earnings",
+    "tema": "la cena de los idiotas",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T13:00:00-08:00",
+    "desde": "2026-11-17T14:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster (CNBC)",
-     "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO (Yahoo Finance)"
+     "'La cena de los idiotas' reúne a Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás (RTVE.es)",
+     "Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís se sientan con Gonzalo Miró en 'La cena de los idiotas' para debatir sin filtros sobre el dinero (El Periódico)"
     ]
-   }
-  ],
-  "AR": [
+   },
    {
-    "tema": "uefa nations league",
+    "tema": "euro stoxx 50",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "STOXX 50-Handel aktuell: So steht der STOXX 50 aktuell (finanzen.ch)",
+     "Nachzügler zieht nach (Wallstreet Online)"
+    ]
+   },
+   {
+    "tema": "pablo iglesias",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-17T14:30:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
-     "Germany 5-0 Netherlands, Switzerland 4-0 Scotland and more: Nations League – as it happened (The Guardian)"
+     "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\" (elDiario.es)",
+     "29N Elecciones Generales, Entrevista a Irene... (CanalSur Más)"
     ]
    },
    {
-    "tema": "messi tapia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Messi se despega del Chiqui Tapia y el AFAGATE (Clarin.com)",
-     "Lionel Messi toma distancia de Claudio \"Chiqui\" Tapia en medio de las denuncias contra la AFA (A24.com)"
-    ]
-   },
-   {
-    "tema": "agencia de seguridad nacional",
+    "tema": "edurne",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T13:30:00-08:00",
+    "desde": "2026-11-17T14:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Red clasificada de comunicaciones de la NSA de EEUU sufre caída, dice funcionario de defensa (Clarin.com)",
-     "La red interna clasificada de la Agencia de Seguridad Nacional de Estados Unidos sufrió una caída tras una semana de fallos tecnológicos (Infobae)"
-    ]
-   },
-   {
-    "tema": "marruecos vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Níger - Marruecos, en directo: Fase de clasificación de la Copa Africana de Naciones hoy, en vivo (Diario AS)",
-     "La selección marroquí finaliza sus preparativos para enfrentar a Níger mañana martes (Elbotola)"
-    ]
-   },
-   {
-    "tema": "plus ultra líneas aéreas",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T12:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La aerolínea europea que frenó sus vuelos a la Argentina: los motivos y cómo reclamar por los pasajes (Infobae)",
-     "Plus Ultra, una aerolínea que lleva años envuelta en polémicas y cuentas en rojo (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "fifa",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Argentinos Juniors fue inhibido por FIFA para tres mercados (TyC Sports)",
-     "El duro castigo de la FIFA a un club del fútbol argentino: no podrá incorporar jugadores en los próximos tres mercados de pases (TN)"
-    ]
-   },
-   {
-    "tema": "fórmula",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "\"Es uno de los circuitos más espectaculares\": Colapinto palpitó el GP de Las Vegas (ESPN Argentina)",
-     "Franco Colapinto vuelve al GP de Las Vegas con un Alpine más rosa y sed de revancha: \"el objetivo es tener un buen fin de semana\" (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "portugal",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Mezian faz história e dá vitória a Portugal (Sport TV)",
-     "Só tem 17 aninhos: o grande talento comparado a Yamal voltou a fazer história nos sub-21 (A Bola)"
-    ]
-   },
-   {
-    "tema": "granadero baigorria",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda (Rosario3)",
-     "Una casa en Granadero Baigorria perdió su techo en el medio del temporal: \"Se llevó muchos años de esfuerzo\" (La Capital)"
-    ]
-   },
-   {
-    "tema": "diario los andes",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   }
-  ],
-  "MX": [
-   {
-    "tema": "nvda stock",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T13:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster (CNBC)",
-     "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO (Yahoo Finance)"
-    ]
-   },
-   {
-    "tema": "milwaukee brewers",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T13:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sources - White Sox, Dustin May reach 3-year, $52.5M contract (ESPN)",
-     "Brewers lose World Series champion pitcher to White Sox in free agency (The Big Lead)"
+     "Lorena Vázquez desvela el motivo por el que Edurne ha roto su relación con David de Gea (Antena 3)",
+     "Edurne, sola en Disneyland con su hija mientras David de Gea comparte un enigmático mensaje en medio de los rumores de crisis (El Mundo)"
     ]
    },
    {
     "tema": "chile vs colombia",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T13:30:00-08:00",
+    "desde": "2026-11-17T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alineaciones del Chile vs. Colombia: Así sería la formación titular para el amistoso FIFA (MARCA)",
+     "PARTIDO COMPLETO PARA SUAZO EN LA DERROTA DE CHILE ANTE COLOMBIA (Sevilla FC)"
+    ]
+   },
+   {
+    "tema": "carmen tomas",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El PP cuestiona a la AIReF y al Banco de España y esconde sus planes hasta tener una auditoría “independiente” del Estado (elDiario.es)",
+     "Los barones celebran el \"momento dulce\" de Feijóo y su giro \"gestor\": \"Nos diferencia de Vox\" (El Mundo)"
+    ]
+   },
+   {
+    "tema": "begoña villacís",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El motivo por el que Cayetano Martínez de Irujo, Begoña Villacís y Pablo Iglesias han compartido mesa para cenar (HOLA)",
+     "Begoña Villacís: \"Cuando trabajaba en Zara, mi padre venía a la tienda para interesarse por lo que hacía. No me lo merezco, es cariñoso, un buen profe, un hombre leído y una persona buena y generosa\" (Semana)"
+    ]
+   },
+   {
+    "tema": "ana botella",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "María Ángeles, secretaria de la Moncloa: “Ana Botella, desde el principio, se quejó de lo frías e inhóspitas que eran aquellas estancias” (Lecturas)",
+     "La nueva vida de Ana Botella tras dejar la política: labor social, discreción y familia (Diario AS)"
+    ]
+   },
+   {
+    "tema": "rosario sanchez grau",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Prohens arremete contra Rosario Sánchez por las propiedades de su pareja: Sabíamos que no trabaja, pero no que vive de rentas (Demócrata)",
+     "Ampliación | Costa arremete contra la “descomunal hipocresía” de Rosario Sánchez por las supuestas 40 propiedades de su pareja (Demócrata)"
+    ]
+   },
+   {
+    "tema": "argentina - costa rica",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Argentina - Costa Rica, en directo: amistosos internacionales, hoy en vivo (Diario AS)",
+     "Argentina - Costa Rica: horario y dónde ver por TV el partido amistoso desde España (El Mundo)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "alexis mac allister",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Giro inesperado en el futuro de Alexis Mac Allister: la decisión que tomó el Liverpool (Infobae)",
+     "La decisión que tomó Liverpool con Alexis Mac Allister, en medio de la incertidumbre por su futuro (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "promedio industrial dow jones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Noticias de Mercado 17-11-2026: Superávit Fiscal, Riesgo País y Nvidia (invertironline)",
+     "Las cinco empresas que dominan la inteligencia artificial caen en Wall Street: qué preocupa al mercado (La Nación)"
+    ]
+   },
+   {
+    "tema": "chile - colombia",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Argentina)",
+     "Alineaciones Colombia para el juego ante Chile (Infobae)"
+    ]
+   },
+   {
+    "tema": "olimpo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Reválida: Olimpo recibe a Kimberley en busca de las semifinales (La Nueva Provincia)",
+     "Kimberley quiere dar el golpe (Diario La Capital de Mar del Plata)"
+    ]
+   },
+   {
+    "tema": "saturnino",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La historia de Saturnino, el pequeño elefante marino que conmueve a Mar del Plata: su mamá lo abandonó y debe volver al mar (eltrecetv)",
+     "Video: Saturnino se mudó a otra playa y volvió a robarse todas las miradas (AHORA Mar del Plata)"
+    ]
+   },
+   {
+    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)",
+     "Botswana vs Uganda: First Half BTTS (Coinbase)"
+    ]
+   },
+   {
+    "tema": "argentina - costa rica",
+    "volumen": "100000+",
+    "volumen_min": 100000,
+    "desde": "2026-11-17T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Argentina vs. Costa Rica hoy en vivo por un amistoso: hora, TV y formaciones (Página|12)",
+     "Los precios de las entradas para ver a la Selección, en la mira: más caros que ver España vs Inglaterra en la Nations League (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "erling haaland",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
+     "Football Bet of the Day: Danish delight in front of goal on Tuesday (MrFixitsTips)"
+    ]
+   },
+   {
+    "tema": "carlos forbs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller (BBC)",
+     "Licensable picture: Nations League - Group A4 - Wales v Portugal (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "nvda stock",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates (CNBC)",
+     "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "costa rica vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Argentina vs Costa Rica LIVE, Latest Score, Goals and Friendly Updates (VAVEL.com)",
+     "Argentina vs Costa Rica Predictions, Lineups, Odds & Tips: Scaloni’s men need to bounce back (Goal.com)"
+    ]
+   },
+   {
+    "tema": "markwayne mullin",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage (New York Post)",
+     "CNBC Host Grills DHS Secretary on Taking Private Jet to Football Game Amid Plane Grounding Chaos (TheWrap)"
+    ]
+   },
+   {
+    "tema": "chile - colombia",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN México)",
-     "Jugadores colombianos analizaron el fútbol \"rocoso\" de Chile en Cali (ESPN Deportes)"
+     "Alineaciones del Chile vs. Colombia: Así sería la formación titular para el amistoso FIFA (MARCA)"
     ]
    },
    {
-    "tema": "pedro neto",
+    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)",
+     "Botswana vs Uganda: First Half BTTS (Coinbase)"
+    ]
+   },
+   {
+    "tema": "aviación",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-17T13:30:00-08:00",
+    "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pedro Neto opens up to Portuguese media about where he likes to play most (Yardbarker)",
-     "Pedro Neto reveals his preferred position to play, and I fully agree (Si Phillips Talks Chelsea)"
+     "Pete Buttigieg le responde a Trump y lo culpa de la interrupción de las operaciones aéreas (CNN en Español)",
+     "Frena EU instalación de enrutadores tras caos aéreo (Reforma)"
     ]
    },
    {
-    "tema": "argentina vs costa rica",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T13:00:00-08:00",
+    "tema": "argentina - costa rica",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-17T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "La Selección llegó a Córdoba y renovó el vínculo con la gente (ESPN México)",
@@ -504,58 +518,44 @@
     ]
    },
    {
-    "tema": "gta",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T13:00:00-08:00",
+    "tema": "uruguay vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Kalshi is hiring a 'GTA VI' researcher to livestream their gameplay. The job pays six figures. (Business Insider)",
-     "#TSRCoinz—Not @Kalshi turning somebody’s gaming addiction into a six-figure career! The company is offering up to $135K for someone to play GTA VI, livestream their gameplay, and study the game’s economy. And get this, they’re throwing in a 100-inch T (Instagram)"
+     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN Costa Rica)",
+     "Selección Uruguaya (previa): dos ómnibus escoltados rumbo al CAMPUS llamaron la atención de vecinos. (Cadena del Mar)"
     ]
    },
    {
-    "tema": "austria fc",
+    "tema": "posiciones de selección de fútbol de bosnia y herzegovina contra selección de fútbol de rumania",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bosnia-Herzegovina vs Romania: UEFA Nations League stats & head-to-head (BBC)",
+     "Licensable picture: UEFA Nations League - Bosnia and Herzegovina v Romania (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "lorena de la garza venecia",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T12:50:00-08:00",
+    "desde": "2026-11-17T14:00:00-08:00",
     "deporte_probable": false,
-    "titulares": [
-     "Austria captain Carina Wenninger: 'Munich is a big part of my life' (FC Bayern)",
-     "Familiar faces, unfamiliar territory: the facts on the clash in Vienna (OneFootball)"
-    ]
+    "titulares": []
    },
    {
-    "tema": "portugal fc",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T12:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "FC PORTO FELICITA CONCEIÇÃO E NETO DE PINTO DA COSTA DÁ RECADO (24Horas.pt)",
-     "Caderneta de Cromos de 15 nov 2026 (RTP)"
-    ]
-   },
-   {
-    "tema": "nations league",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T12:30:00-08:00",
+    "tema": "haití vs. estados unidos",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T13:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Ukraine vs Georgia: UEFA Nations League stats & head-to-head (BBC)",
-     "Four changes — Maldera has announced the lineup for the final Nations League match (Українські Національні Новини (УНН))"
-    ]
-   },
-   {
-    "tema": "portugal",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "[TRANSMISSÃO AO VIVO]TV!!]ACESSO GRÁTIS Portugal vs. País de Gales Assistir em direto grátis. November 17 2026 (Comité Asesor de Vacunas de la AEP)",
-     "Jesus lança Cancelo, António Silva, João Neves e Trincão no 'onze' (SAPO)"
+     "Estados Unidos vs. Haití y México vs. Jamaica cierran los Cuartos de Final de la Liga de Naciones (Concacaf | Official Website)",
+     "Pochettino sobre su legado en Estados Unidos: “Dejamos la base; la tierra fértil para dar frutos” (Telemundo)"
     ]
    }
   ]
