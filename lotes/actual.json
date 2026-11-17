@@ -25,12 +25,9 @@
    {
     "texto": "Plata dejó la concentración por motivos personales y Castillo, por una lesión en el tobillo.",
     "grafico": {
-     "tipo": "duo",
-     "a": "PLATA",
-     "a_texto": "MOTIVOS PERSONALES",
-     "b": "CASTILLO",
-     "b_texto": "LESIÓN DE TOBILLO",
-     "pie": "COMUNICADO DE LA FEF"
+     "tipo": "titular",
+     "texto": "PERSONALES Y TOBILLO",
+     "sobre": "PLATA Y CASTILLO: LOS MOTIVOS"
     },
     "voz": "andrea"
    },
@@ -96,99 +93,6 @@
     },
     "voz": "mui",
     "foto": "img/tri-camerino.png",
-    "movimiento": "zoom_out"
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    },
-    "voz": "mui"
-   }
-  ]
- },
- {
-  "titulo": "Klopp golea 5-0 a Xavi: Alemania, líder y a cuartos",
-  "etiqueta": "NATIONS LEAGUE",
-  "color": "#000000",
-  "franja": [
-   "ALEMANIA 5-0 PAÍSES BAJOS",
-   "DOBLETE DE FLORIAN WIRTZ",
-   "ALEMANIA, PRIMERA DEL GRUPO",
-   "CUARTOS EN MARZO DE 2027"
-  ],
-  "escenas": [
-   {
-    "texto": "¡Klopp le metió cinco a Xavi! Alemania goleó cinco a cero a Países Bajos.",
-    "grafico": {
-     "tipo": "marcador",
-     "equipos": [
-      {
-       "nombre": "ALEMANIA",
-       "goles": 5,
-       "color": "#000000"
-      },
-      {
-       "nombre": "PAÍSES BAJOS",
-       "goles": 0,
-       "color": "#F36C21"
-      }
-     ],
-     "pie": "OLYMPIASTADION DE BERLÍN"
-    },
-    "voz": "mui",
-    "foto": "img/berlin-goleada.png",
-    "movimiento": "zoom_in",
-    "destello": true
-   },
-   {
-    "texto": "Marcaron Derry Scherhant, Nico Schlotterbeck, Brajan Gruda y Florian Wirtz, dos veces.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "2",
-     "texto": "GOLES DE FLORIAN WIRTZ"
-    },
-    "voz": "andrea",
-    "hinchada": true
-   },
-   {
-    "texto": "Alemania llegó tercera y terminó primera del grupo, con once puntos.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "11",
-     "texto": "PUNTOS: ALEMANIA, LÍDER"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Klopp no se guardó nada: el partido fue simplemente una locura.",
-    "grafico": {
-     "tipo": "cita",
-     "texto": "“SIMPLEMENTE UNA LOCURA”",
-     "autor": "JÜRGEN KLOPP, DT DE ALEMANIA"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Y Xavi pidió disculpas: mostramos nuestra peor cara.",
-    "grafico": {
-     "tipo": "cita",
-     "texto": "“MOSTRAMOS NUESTRA PEOR CARA”",
-     "autor": "XAVI, DT DE PAÍSES BAJOS"
-    },
-    "voz": "andrea",
-    "tono": "urgente"
-   },
-   {
-    "texto": "¿Klopp ya puso a Alemania entre los favoritos?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿FAVORITA?",
-     "sobre": "LA ALEMANIA DE KLOPP"
-    },
-    "voz": "mui",
-    "foto": "img/berlin-goleada.png",
     "movimiento": "zoom_out"
    },
    {
