@@ -1,456 +1,530 @@
 {
- "fecha": "2026-11-17T17:49-05:00",
+ "fecha": "2026-11-17T18:45-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
+    "tema": "ecuador vs",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde juegan Ecuador y Bolivia su partido amistoso por la fecha FIFA: todo lo que debe saber del partido (El Universo)",
+     "Todo listo en los exteriores del estadio Monumental previo al amistoso entre Ecuador y Bolivia (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "estados unidos - haití",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Guía completa para ir a ver USA vs Haití en el TQL Stadium: cómo llegar, parking y guía de acceso (Claro Sports)",
+     "Estados Unidos y el adiós a Mauricio Pochettino (FOX Deportes)"
+    ]
+   },
+   {
+    "tema": "teleamazonas en vivo",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Portada de The Economist 2027 anticipa un año marcado por transiciones políticas y avances en IA (Teleamazonas)",
+     "De viajes al espacio a Ozempic: las predicciones en la portada de The Economist sobre lo que viene en 2027 (Expansión)"
+    ]
+   },
+   {
+    "tema": "uruguay - república dominicana",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN Ecuador)",
+     "Selección Uruguaya (previa): dos ómnibus escoltados rumbo al CAMPUS llamaron la atención de vecinos. (Cadena del Mar)"
+    ]
+   },
+   {
+    "tema": "ecuador versus bolivia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ecuador vs. Bolivia Lineups, Live Streaming, How & Where to Watch on TV (Athlon Sports)",
+     "Ecuador v Bolivia Prediction: 4/5 hosts to blank Bolivia in Guayaquil (news.bet365.com)"
+    ]
+   },
+   {
+    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liberia vs Cape Verde: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
+     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)"
+    ]
+   },
+   {
     "tema": "john reimberg",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-17T14:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "John Reimberg apunta a Rafael Correa y anticipa una posible captura antes de Navidad. (Machala Móvil)",
+     "Reimberg afirma que llevar a Correa ante la justicia sea hasta dicimbre como «un regalo que han pedido los ecuatorianos (La República EC)",
      "Ministro John Reimberg sobre llevar a Rafael Correa ante la justicia: “Es solo cuestión de tiempo” (El Universo)"
     ]
    },
    {
     "tema": "chile - colombia",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "5000+",
+    "volumen_min": 5000,
     "desde": "2026-11-17T14:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Dónde ver Chile vs Colombia EN VIVO: canales y transmisión por país del amistoso internacional (365Scores)",
+     "Chile definió a sus titulares para enfrentar a Colombia en el Estadio Monumental (DSports)",
      "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Deportes)"
     ]
    },
    {
     "tema": "argentina - costa rica",
-    "volumen": "5000+",
-    "volumen_min": 5000,
+    "volumen": "10000+",
+    "volumen_min": 10000,
     "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba (ESPN Deportes)",
-     "Argentina vs. Costa Rica, por un amistoso: seguilo EN VIVO (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "erling haaland",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
-     "Football Bet of the Day: Danish delight in front of goal on Tuesday (MrFixitsTips)"
+     "La formación de la Selección Argentina vs. Costa Rica (TyC Sports)",
+     "Argentina - Costa Rica, en directo: amistosos internacionales, hoy en vivo (Diario AS)"
     ]
    },
    {
     "tema": "agencia de seguridad nacional",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes (CNN en Español)",
-     "Nueva caída en las infraestructuras de EE UU: ahora, la red de comunicación interna de los servicios secretos (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "sociedad deportiva aucas",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Superclásico capitalino se jugará sin aficionados de Aucas en Casa Blanca (El Telégrafo (por eliminar))",
-     "Liga de Quito prohíbe el ingreso de hinchas de Aucas para el Superclásico Capitalino (Primicias)"
-    ]
-   },
-   {
-    "tema": "marruecos vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T13:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Niger vs Morocco: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
-     "0-1: Brahim provides assist in Morocco's victory (Real Madrid CF | Web Oficial)"
-    ]
-   },
-   {
-    "tema": "austria vs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Israel vs Austria: UEFA Nations League stats & head-to-head (BBC)",
-     "Israel vs Austria predictions tonight (7.45pm KO): Rangnick's promoted side to sign off with a win (Squawka)"
-    ]
-   },
-   {
-    "tema": "portugal fc",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T12:40:00-08:00",
+    "desde": "2026-11-17T14:00:00-08:00",
     "deporte_probable": false,
-    "titulares": [
-     "Sub-18 de Portugal sofrem para vencer EUA (A Bola)",
-     "Triunfo frente aos EUA (FPF)"
-    ]
-   },
-   {
-    "tema": "alexander zverev",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Zverev opens ATP Finals with convincing win over Jodar (KCAU 9 News)",
-     "The one stat that makes Shelton vs Zverev a near-impossible task in Turin (www.tenniswatcher.com)"
-    ]
+    "titulares": []
    }
   ],
   "US": [
    {
-    "tema": "dow jones industrial average",
+    "tema": "iu basketball",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MBB Preview: Arkansas vs Indiana @ Bad Boy Mower Series – New York (Arkansas Razorbacks)",
+     "Game 5: IU basketball vs. Arkansas preview (Inside the Hall)"
+    ]
+   },
+   {
+    "tema": "seleccion mexicana",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Dow drops more than 800 points, S&P 500 posts lowest close since July (CNBC)",
-     "Nvidia, Other Chip Stocks Climb After Hours (WSJ)"
+     "Selección Mexicana: No eres tú, Rafa... es Mikel, los dueños, el sistema (ESPN Deportes)",
+     "¿Cuándo juegan México vs Jamaica? Entérate hora y dónde ver (The Arizona Republic)"
     ]
    },
    {
-    "tema": "anne hathaway",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Anne Hathaway Welcomes New Baby, Spotted With Newborn in NYC (TMZ)",
-     "Anne Hathaway Welcomes Third Child With Husband Adam Shulman (The Hollywood Reporter)"
-    ]
-   },
-   {
-    "tema": "aircraft",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Man accessed US military plane at Ireland airport and destroyed it, DOJ says (CNN)",
-     "Irish National Indicted For Destroying $60 Million U.S. Military C-130H Aircraft At Shannon Airport, Ireland (Department of Justice (.gov))"
-    ]
-   },
-   {
-    "tema": "league of legends",
+    "tema": "tennessee basketball",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "League of Legends World Championship Grand Final: Riot Games Continues To Blaze the Remote-Production Trail at Barclays Center (Sports Video Group)",
-     "Find a Worlds 2026 Watch Party Near You (Riot Games)"
+     "HOOPS CENTRAL: #14/14 Tennessee vs. #2/3 Michigan State (University of Tennessee Athletics)",
+     "Michigan State basketball at Tennessee Tipoff: Matchup analysis and a prediction (Lansing State Journal)"
     ]
    },
    {
-    "tema": "argentina - costa rica",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How to watch Argentina vs Costa Rica live: Stream, TV, team news, prediction (Yahoo Sports)",
-     "Argentina vs. Costa Rica: Preview, Predictions and Lineups (Sports Illustrated)"
-    ]
-   },
-   {
-    "tema": "chile vs colombia",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡Atención, chilenos! La probable formación para enfrentar a Colombia (ESPN Deportes)",
-     "Posible alineación de Colombia para enfrentar a Chile en Santiago (AS Colombia)"
-    ]
-   },
-   {
-    "tema": "chile - colombia",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Lorenzo hails Colombia's fight in 'intense' friendly win over Chile (beIN SPORTS)",
-     "Colombia Chile Soccer (Idaho Press)"
-    ]
-   },
-   {
-    "tema": "eastern mi vs wmu",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How to watch Eastern Michigan vs Western Michigan: Live stream NCAA College Football, TV channel (Yahoo Sports)",
-     "Eastern Michigan vs. Western Michigan prediction, odds: Week 12 Tuesday MACtion picks from proven model (CBS Sports)"
-    ]
-   },
-   {
-    "tema": "harvey jones",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards (CNBC)",
-     "Nvidia board needs 'some heavyweights,' ex-Medtronic CEO Bill George says (Yahoo Finance)"
-    ]
-   },
-   {
-    "tema": "oklahoma city thunder",
+    "tema": "lipscomb vs purdue",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T14:10:00-08:00",
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Boilermakers Aim For 3rd Straight Win Tuesday vs. Lipscomb (Purdue Boilermakers)",
+     "Purdue sharpshooter available, starting lineup change for game vs Lipscomb (IndyStar)"
+    ]
+   },
+   {
+    "tema": "charlotte flair",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Oklahoma native Blake Griffin says taxpayers had little choice on $900 million Thunder arena (The New York Times)",
-     "OKC native Blake Griffin says taxpayers 'hamstrung' on $900M Thunder arena deal (Yahoo Sports)"
+     "WWE's Charlotte Flair reassures fans about her father Ric Flair's heath after recent scares (Fox News)",
+     "WWE's Charlotte Flair reassures fans about Ric Flair's health (Fox News)"
+    ]
+   },
+   {
+    "tema": "pluribus",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Pluribus' Season 2 Cast News Teases New Plot Details (Gizmodo)",
+     "Apple TV’s Best Sci-Fi Series Officially Confirms Major Season 2 Change (Collider)"
+    ]
+   },
+   {
+    "tema": "senators vs jets",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "GAMEDAY: Senators at Jets (NHL.com)",
+     "Ottawa Senators vs Winnipeg Jets Prediction, Picks & Odds | 17 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "cia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Judicial Watch: CIA Refuses to Confirm or Deny Existence of January 6 Records (Judicial Watch)",
+     "Court Orders CIA to Produce Jan 6 Records! (Judicial Watch)"
+    ]
+   },
+   {
+    "tema": "états-unis – haïti",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Avant de rejoindre Manchester United, Mauricio Pochettino se dit « concentré » pour un dernier match « très émouvant » avec les États-Unis (L'Équipe)",
+     "Battue par les USA 6-0, Haïti condamnée à l’exploit ce mardi à l’Ohio (Le Nouvelliste)"
+    ]
+   },
+   {
+    "tema": "the circle hulu",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Meet the Cast of Hulu’s ‘The Circle’ Revival (People.com)",
+     "‘The Circle’ season 8 premiere: How to watch episode 1 free on Hulu (Cleveland.com)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "la cena de los idiotas",
+    "tema": "argentina fc",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T14:40:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "'La cena de los idiotas' reúne a Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás (RTVE.es)",
-     "Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís se sientan con Gonzalo Miró en 'La cena de los idiotas' para debatir sin filtros sobre el dinero (El Periódico)"
+     "Tragedia en el fútbol argentino: muere un jugador de 16 años tras recibir un fuerte balonazo en la cabeza (El Mundo)",
+     "Muere Abel Núñez, futbolista juvenil del FC Ezeiza, tras recibir un pelotazo en la cabeza (Antena 3 Noticias)"
     ]
    },
    {
-    "tema": "euro stoxx 50",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "STOXX 50-Handel aktuell: So steht der STOXX 50 aktuell (finanzen.ch)",
-     "Nachzügler zieht nach (Wallstreet Online)"
-    ]
-   },
-   {
-    "tema": "pablo iglesias",
+    "tema": "albania españa sub 21",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\" (elDiario.es)",
-     "29N Elecciones Generales, Entrevista a Irene... (CanalSur Más)"
-    ]
-   },
-   {
-    "tema": "edurne",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Lorena Vázquez desvela el motivo por el que Edurne ha roto su relación con David de Gea (Antena 3)",
-     "Edurne, sola en Disneyland con su hija mientras David de Gea comparte un enigmático mensaje en medio de los rumores de crisis (El Mundo)"
-    ]
-   },
-   {
-    "tema": "chile vs colombia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:30:00-08:00",
+    "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Alineaciones del Chile vs. Colombia: Así sería la formación titular para el amistoso FIFA (MARCA)",
-     "PARTIDO COMPLETO PARA SUAZO EN LA DERROTA DE CHILE ANTE COLOMBIA (Sevilla FC)"
+     "Albania Sub 21 0 - España Sub 21 0: resumen, goles y resultado (Diario AS)",
+     "0-0: Carlos Espí y Thiago jugaron en el amistoso frente a Albania (Real Madrid CF | Web Oficial)"
     ]
    },
    {
-    "tema": "carmen tomas",
+    "tema": "nvda",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "desde": "2026-11-17T15:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El PP cuestiona a la AIReF y al Banco de España y esconde sus planes hasta tener una auditoría “independiente” del Estado (elDiario.es)",
-     "Los barones celebran el \"momento dulce\" de Feijóo y su giro \"gestor\": \"Nos diferencia de Vox\" (El Mundo)"
+     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
+     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
     ]
    },
    {
-    "tema": "begoña villacís",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El motivo por el que Cayetano Martínez de Irujo, Begoña Villacís y Pablo Iglesias han compartido mesa para cenar (HOLA)",
-     "Begoña Villacís: \"Cuando trabajaba en Zara, mi padre venía a la tienda para interesarse por lo que hacía. No me lo merezco, es cariñoso, un buen profe, un hombre leído y una persona buena y generosa\" (Semana)"
-    ]
-   },
-   {
-    "tema": "ana botella",
+    "tema": "jennifer lawrence",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "desde": "2026-11-17T15:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "María Ángeles, secretaria de la Moncloa: “Ana Botella, desde el principio, se quejó de lo frías e inhóspitas que eran aquellas estancias” (Lecturas)",
-     "La nueva vida de Ana Botella tras dejar la política: labor social, discreción y familia (Diario AS)"
+     "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era (The Guardian)",
+     "Jennifer Lawrence and Josh Hutcherson Reunite at the Hunger Games: Sunrise on the Reaping Premiere 14 Years After Their Franchise Debut (People.com)"
     ]
    },
    {
-    "tema": "rosario sanchez grau",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Prohens arremete contra Rosario Sánchez por las propiedades de su pareja: Sabíamos que no trabaja, pero no que vive de rentas (Demócrata)",
-     "Ampliación | Costa arremete contra la “descomunal hipocresía” de Rosario Sánchez por las supuestas 40 propiedades de su pareja (Demócrata)"
-    ]
-   },
-   {
-    "tema": "argentina - costa rica",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T14:10:00-08:00",
+    "tema": "uruguay - república dominicana",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Argentina - Costa Rica, en directo: amistosos internacionales, hoy en vivo (Diario AS)",
-     "Argentina - Costa Rica: horario y dónde ver por TV el partido amistoso desde España (El Mundo)"
+     "Selección: el once que perfila Forlán para recibir a República Dominicana este martes (Montevideo Portal)",
+     "Uruguay - República Dominicana: alineaciones, estadísticas, horario y dónde ver (bet365 - Apuestas deportivas en la red)"
+    ]
+   },
+   {
+    "tema": "ascensor",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El deterioro del ascensor de la calle Gisbert de Cartagena requerirá más reparaciones (La Verdad)",
+     "Ya ha entrado en vigor: el Gobierno cambia las normas de los ascensores y obliga a pagar hasta 40.000 euros por comunidad de vecinos para adaptarlos a la nueva normativa (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "heidi gardner",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'SNL' Alum Heidi Gardner's Boyfriend Dead at 43 (TMZ)",
+     "Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43 (People.com)"
+    ]
+   },
+   {
+    "tema": "yan diomande",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gambia 2 - Costa de Marfil 2: resumen, resultado y goles del partido (Diario AS)",
+     "2-2: Yan Diomande participa en el empate de Costa de Marfil en Gambia (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "san silvestre salamanca 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Giro de 180 grados de la San Silvestre Salmantina 2026: cambio de recorrido y horario, con aumento de inscripciones (Salamancahoy)",
+     "La San Silvestre Salmantina dará la vuelta a su recorrido y se meterá en plena Plaza Mayor (Tribuna de Salamanca.)"
+    ]
+   },
+   {
+    "tema": "ecuador vs bolivia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Uruguay vs Rep. Dominicana de S60-SELECCIONES NACIONALES ABSOLUTAS (Futbolme)",
+     "Jornada - CAMPEONATO EUROPEO SUB-19 DE LA UEFA - Edición 2025-26 - Nombre fase 225 (Futbolme)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "alexis mac allister",
+    "tema": "ecuador vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T14:30:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Giro inesperado en el futuro de Alexis Mac Allister: la decisión que tomó el Liverpool (Infobae)",
-     "La decisión que tomó Liverpool con Alexis Mac Allister, en medio de la incertidumbre por su futuro (TyC Sports)"
+     "Hernán Galíndez, previo al duelo vs. Bolivia: \"El otro día se vieron cosas muy buenas\" (ESPN Argentina)",
+     "Gallardo y un nuevo amistoso con Ecuador: la joyita que la rompió en una práctica, los elogios de un histórico arquero de la LigaPro y el posible 11 (Olé)"
     ]
    },
    {
-    "tema": "promedio industrial dow jones",
+    "tema": "condena",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T14:30:00-08:00",
+    "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Noticias de Mercado 17-11-2026: Superávit Fiscal, Riesgo País y Nvidia (invertironline)",
-     "Las cinco empresas que dominan la inteligencia artificial caen en Wall Street: qué preocupa al mercado (La Nación)"
+     "Caso Agostina Páez: la Justicia de Brasil rechazó un acuerdo para evitar una condena (Página|12)",
+     "Revés para Agostina Páez a la espera de la sentencia: la fiscalía de Río rechaza un acuerdo para evitar una condena (La Nación)"
     ]
    },
    {
-    "tema": "chile - colombia",
+    "tema": "amistosos internacionales",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "desde": "2026-11-17T15:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Argentina)",
-     "Alineaciones Colombia para el juego ante Chile (Infobae)"
+     "EN VIVO: Brasil busca recuperarse ante Singapur tras la derrota frente a Japón (ESPN Argentina)",
+     "No hay nadie como Vini (Diario AS)"
     ]
    },
    {
-    "tema": "olimpo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "tema": "prestianni",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Reválida: Olimpo recibe a Kimberley en busca de las semifinales (La Nueva Provincia)",
-     "Kimberley quiere dar el golpe (Diario La Capital de Mar del Plata)"
+     "El ranking de promesas Sub 21 que tiene a Prestianni y a Mastantuono por encima de Lamine Yamal (Olé)",
+     "El ranking de promesas Sub 21 que tiene a Prestianni y a Mastantuono por encima de Lamine Yamal (La Señal FM - 97.7)"
     ]
    },
    {
-    "tema": "saturnino",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La historia de Saturnino, el pequeño elefante marino que conmueve a Mar del Plata: su mamá lo abandonó y debe volver al mar (eltrecetv)",
-     "Video: Saturnino se mudó a otra playa y volvió a robarse todas las miradas (AHORA Mar del Plata)"
-    ]
-   },
-   {
-    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
+    "tema": "estados unidos - haití",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T14:10:00-08:00",
+    "desde": "2026-11-17T15:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)",
-     "Botswana vs Uganda: First Half BTTS (Coinbase)"
+     "El último partido de Mauricio Pochettino en Estados Unidos: sin títulos, se va a Inglaterra con un reconocimiento general (La Nación)",
+     "Estados Unidos vs. Haití, EN VIVO: dónde ver por TV y ONLINE (TyC Sports)"
     ]
    },
    {
-    "tema": "argentina - costa rica",
-    "volumen": "100000+",
-    "volumen_min": 100000,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Argentina vs. Costa Rica hoy en vivo por un amistoso: hora, TV y formaciones (Página|12)",
-     "Los precios de las entradas para ver a la Selección, en la mira: más caros que ver España vs Inglaterra en la Nations League (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "erling haaland",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Denmark vs Norway: UEFA Nations League stats & head-to-head (BBC)",
-     "Football Bet of the Day: Danish delight in front of goal on Tuesday (MrFixitsTips)"
-    ]
-   },
-   {
-    "tema": "carlos forbs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T13:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller (BBC)",
-     "Licensable picture: Nations League - Group A4 - Wales v Portugal (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "nvda stock",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T13:40:00-08:00",
+    "tema": "nvda",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates (CNBC)",
-     "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
+     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
+     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "agustín giay",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Agustín Giay, cada vez más importante en Palmeiras: renovación hasta 2031 :: Olé - ole.com.ar (Olé)",
+     "El jugador de la selección argentina que renovó con su club hasta 2031 y está en la mira de tres clubes europeos (Infobae)"
+    ]
+   },
+   {
+    "tema": "mariano troilo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "La emoción de la familia Troilo por la presencia de Mariano con la selección en Córdoba: \"Un orgullo\" (La Voz del Interior)",
+     "Argentina vs. Costa Rica hoy en vivo por un amistoso: el partido, minuto a minuto (Página|12)"
+    ]
+   },
+   {
+    "tema": "walter samuel",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T15:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Otro adiós en la Selección Argentina en el amistoso ante Costa Rica (TyC Sports)",
+     "Walter Samuel y el adiós de una pieza clave para Scaloni y la Selección Argentina (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "afa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Octavos de final del Torneo Clausura 2026: días y horarios confirmados (Página|12)",
+     "Se confirmaron los árbitros de los octavos de final del Torneo Clausura (Bolavip Argentina)"
     ]
    }
   ],
   "MX": [
+   {
+    "tema": "usa vs haiti",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "USA vs. Haiti, Mexico vs. Jamaica close out Nations League Quarterfinals (Concacaf | Official Website)",
+     "Cavan Sullivan's moment? Folarin Balogun or Julian Hall? How the USMNT should line up for Mauricio Pochettino's farewell vs. Haiti (Goal.com)"
+    ]
+   },
+   {
+    "tema": "argentina fc",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Otra muerte por impacto en el futbol conmociona a toda Argentina (TUDN)",
+     "¡Terrible! Muere futbolista tras recibir PELOTAZO en la cabeza en pleno partido (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "nvda",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
+     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "estados unidos - haití",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T15:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Estados Unidos vs. Haití y México vs. Jamaica cierran los Cuartos de Final de la Liga de Naciones (Concacaf | Official Website)",
+     "Pochettino sobre su legado en Estados Unidos: “Dejamos la base; la tierra fértil para dar frutos” (Telemundo)"
+    ]
+   },
+   {
+    "tema": "colombia vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chile anuncia sorpresivo cambio de estadio ante Colombia: ¿Qué pasó? (ESPN México)",
+     "Apuntan a BTS por deterioro del césped en el Estadio Nacional (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "uruguay - república dominicana",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T14:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN México)",
+     "Selección Uruguaya (previa): dos ómnibus escoltados rumbo al CAMPUS llamaron la atención de vecinos. (Cadena del Mar)"
+    ]
+   },
+   {
+    "tema": "maría estela ríos gonzález",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pide Ministra respeto a proyecto: 'No me pueden obligar' (Reforma)",
+     "María Estela Ríos confronta a ministros de la Corte tras rechazar su proyecto: ‘Respeten mi decisión’ (El Financiero)"
+    ]
+   },
    {
     "tema": "costa rica vs",
     "volumen": "100+",
@@ -458,8 +532,8 @@
     "desde": "2026-11-17T14:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Argentina vs Costa Rica LIVE, Latest Score, Goals and Friendly Updates (VAVEL.com)",
-     "Argentina vs Costa Rica Predictions, Lineups, Odds & Tips: Scaloni’s men need to bounce back (Goal.com)"
+     "[ＳＴＲＥＡＭ]Argentina vs Costa Rica Live Broadcast (Comité Asesor de Vacunas de la AEP)",
+     "Blacktie Sports - Free 𝚁eddit Argentina vs Costa Rica BuffStreams International Friendlyl StreamS (Comité Asesor de Vacunas de la AEP)"
     ]
    },
    {
@@ -470,92 +544,18 @@
     "deporte_probable": true,
     "titulares": [
      "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage (New York Post)",
-     "CNBC Host Grills DHS Secretary on Taking Private Jet to Football Game Amid Plane Grounding Chaos (TheWrap)"
+     "Mullin Flew to Football Game While Flights Were Grounded (The New Republic)"
     ]
    },
    {
     "tema": "chile - colombia",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN México)",
-     "Alineaciones del Chile vs. Colombia: Así sería la formación titular para el amistoso FIFA (MARCA)"
-    ]
-   },
-   {
-    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)",
-     "Botswana vs Uganda: First Half BTTS (Coinbase)"
-    ]
-   },
-   {
-    "tema": "aviación",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "10000+",
+    "volumen_min": 10000,
     "desde": "2026-11-17T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pete Buttigieg le responde a Trump y lo culpa de la interrupción de las operaciones aéreas (CNN en Español)",
-     "Frena EU instalación de enrutadores tras caos aéreo (Reforma)"
-    ]
-   },
-   {
-    "tema": "argentina - costa rica",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La Selección llegó a Córdoba y renovó el vínculo con la gente (ESPN México)",
-     "Bryan pide una Costa Rica valiente ante Argentina y alerta sobre echarse atrás (ESPN Deportes)"
-    ]
-   },
-   {
-    "tema": "uruguay vs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN Costa Rica)",
-     "Selección Uruguaya (previa): dos ómnibus escoltados rumbo al CAMPUS llamaron la atención de vecinos. (Cadena del Mar)"
-    ]
-   },
-   {
-    "tema": "posiciones de selección de fútbol de bosnia y herzegovina contra selección de fútbol de rumania",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bosnia-Herzegovina vs Romania: UEFA Nations League stats & head-to-head (BBC)",
-     "Licensable picture: UEFA Nations League - Bosnia and Herzegovina v Romania (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "lorena de la garza venecia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "haití vs. estados unidos",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T13:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Estados Unidos vs. Haití y México vs. Jamaica cierran los Cuartos de Final de la Liga de Naciones (Concacaf | Official Website)",
-     "Pochettino sobre su legado en Estados Unidos: “Dejamos la base; la tierra fértil para dar frutos” (Telemundo)"
+     "¡Atención, chilenos! La probable formación para enfrentar a Colombia (ESPN México)",
+     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Deportes)"
     ]
    }
   ]
