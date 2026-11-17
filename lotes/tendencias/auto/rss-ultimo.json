@@ -1,12 +1,45 @@
 {
- "fecha": "2026-11-17T12:56-05:00",
+ "fecha": "2026-11-17T13:29-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "togo - argelia",
+    "tema": "feriado ecuador",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Feriados de noviembre: Dos provincias de Ecuador tendrán un puente de cuatro días (Primicias)",
+     "¿Por qué se decretó feriado nacional en Ecuador el viernes 20 de noviembre? (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "icloud",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is Apple down? Thousands report problems accessing services (USA Today)",
+     "Apple services down, as Apple Pay, App Store and Apple Support experience outages (New York Post)"
+    ]
+   },
+   {
+    "tema": "rusia vs venezuela",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "SORPRESA EN KRASNODAR: Rusia venció a Venezuela en su último amistoso de 2026 (Studiofutbol)",
+     "La Vinotinto afronta la última prueba del año en fecha FIFA contra Rusia este martes 17 de noviembre (Noticias Barquisimeto)"
+    ]
+   },
+   {
+    "tema": "togo - argelia",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-17T08:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -32,7 +65,7 @@
     "desde": "2026-11-17T07:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Indonesia dismisses another police general as wiretapping scandal deepens (10TV)",
+     "Indonesia dismisses another police general as wiretapping scandal deepens (The Hill)",
      "Indonesian police say they have enough evidence to pursue treason charges in Prabowo wiretapping case (Reuters)"
     ]
    },
@@ -43,8 +76,8 @@
     "desde": "2026-11-17T06:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Paraguay tiene equipo confirmado para su último baile del año (VS Sports)",
-     "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\" (Olé)"
+     "‘Harakiri’ a balón parado (Diario AS)",
+     "Juan José Cáceres, ¡qué jugador! (VS Sports)"
     ]
    },
    {
@@ -55,7 +88,7 @@
     "deporte_probable": true,
     "titulares": [
      "EN VIVO: Malaui vs Egipto | Eliminatorias AFCON 2027 (beIN SPORTS)",
-     "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Goal.com)"
+     "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios (Yahoo)"
     ]
    },
    {
@@ -65,8 +98,8 @@
     "desde": "2026-11-17T04:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Vinícius Júnior explica protestos: «Estava combinado que jogaria mais 15 minutos» (SAPO)",
-     "Imprensa espanhola exalta Vini Jr. após hat-trick do Brasil (A Crítica de Campo Grande)"
+     "Singapura 0 x 7 Brasil | Amistosos da Seleção Brasileira: melhores momentos (ge)",
+     "Vinícius Júnior explica protestos: «Estava combinado que jogaria mais 15 minutos» (SAPO)"
     ]
    },
    {
@@ -77,48 +110,48 @@
     "deporte_probable": true,
     "titulares": [
      "Florian Wirtz scores 2 stunning goals – Jurgen Klopp: ‘We have found his best position’ (This Is Anfield)",
-     "Havertz and Timber reach Nations League quarter-finals (Arsenal.com)"
-    ]
-   },
-   {
-    "tema": "prisión",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Condenado el aficionado que profirió insultos racistas a Mbappé en Oviedo de 2025 (EL PAÍS)",
-     "LALIGA logra su duodécima sentencia por racismo tras la condena por las actitudes racistas contra Mbappé en Oviedo (El Confidencial)"
-    ]
-   },
-   {
-    "tema": "brasil",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El Niño está associado a mais de 42 mil mortes de idosos no Brasil (Instituto Humanitas Unisinos - IHU)",
-     "Existe uma estação dos tornados no Brasil? (Gazeta do Povo)"
-    ]
-   },
-   {
-    "tema": "clima guayaquil",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T03:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Pronóstico del clima en Guayaquil hoy, 17 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
-     "El Inamhi prevé índices muy altos de radiación UV para este jueves (El Comercio)"
+     "Germany thrash Netherlands to book Nations League quarterfinal spot (Al Jazeera)"
     ]
    }
   ],
   "US": [
    {
+    "tema": "gpt 6.2",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "OpenAI Unveils New Astra AI Model After Scrapping Prior Release (Bloomberg.com)",
+     "OpenAI releases its updated GPT-6.2 Astra model. (The Verge)"
+    ]
+   },
+   {
+    "tema": "playstation plus games",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "PlayStation Plus issues December free game update, last chance to play 100-hour RPG (GAMINGbible)",
+     "Games Leaving PlayStation Plus in December 2026 Confirmed (PlayStation LifeStyle)"
+    ]
+   },
+   {
+    "tema": "flight 5342",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Watch live: Duffy gives remarks amid scrutiny over FAA shortfalls (The Hill)",
+     "DC midair crash families urge Congress to pass aviation safety legislation (KOMO)"
+    ]
+   },
+   {
     "tema": "yemen",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -150,13 +183,13 @@
    },
    {
     "tema": "apple outage",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "20000+",
+    "volumen_min": 20000,
     "desde": "2026-11-17T09:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "iCloud, App Store, and other Apple services hit by ongoing outage (9to5Mac)",
-     "Apple users report App Store disruptions (Latest news from Azerbaijan)"
+     "Is Apple down? Thousands report problems accessing services (USA Today)",
+     "iCloud, App Store, and other Apple services hit by ongoing outage (9to5Mac)"
     ]
    },
    {
@@ -167,7 +200,7 @@
     "deporte_probable": false,
     "titulares": [
      "Exclusive | General Motors Seeks Outside CEO Contenders to Succeed Mary Barra (WSJ)",
-     "GM taps executive search firm to find possible successor to CEO Mary Barra, WSJ reports (www.marketscreener.com)"
+     "GM reportedly searches for potential successor to CEO Mary Barra (Detroit Free Press)"
     ]
    },
    {
@@ -177,53 +210,89 @@
     "desde": "2026-11-17T09:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Elks top Alouettes to capture 113th Grey Cup (CFL)",
+     "Edmonton Elks win the Grey Cup, defeat Montreal Alouettes by 37-30 (Global News)",
      "Defying critics yet again, Cody Fajardo wins third Grey Cup title, earning second MVP (Nevada Sports Net)"
     ]
    },
    {
     "tema": "manni l perez",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "5000+",
+    "volumen_min": 5000,
     "desde": "2026-11-17T09:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way (The Conversation)",
      "GTA VI’s voice actor for Lucia was revealed by… The Game Awards. (The Verge)"
     ]
-   },
-   {
-    "tema": "tropical storm nolo",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T09:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "murray state basketball",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Murray State vs Hofstra Prediction, Picks & Odds | 17 Nov 2026 (Sportsgambler)",
-     "College Basketball Predictions Today: 5 Best Picks for Nov. 17 (Action Network)"
-    ]
-   },
-   {
-    "tema": "game awards",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-17T08:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "The Game Awards 2026 Nominees Reveal: Here's How to Watch (Polygon.com)",
-     "Disney+ to Stream The Game Awards 2026 Live on December 10 (Disney+ Press Center)"
-    ]
    }
   ],
   "ES": [
+   {
+    "tema": "antonio tejado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alba Muñoz, exmujer de Antonio Tejado, estalla tras la pelea con su familia: \"Me niego a que se mienta con lo que viví\" (Antena 3)",
+     "Gritos, insultos y una denuncia en la Guardia Civil: la bronca de la familia de Antonio Tejado en plena calle (Libertad Digital)"
+    ]
+   },
+   {
+    "tema": "subida salario mínimo interprofesional",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno elimina las retenciones del IRPF al salario mínimo para que la subida llegue íntegra desde enero (EL PAÍS)",
+     "La subida del SMI beneficiará a 20.000 trabajadores de servicios sociales en Aragón (RTVE.es)"
+    ]
+   },
+   {
+    "tema": "corte suprema",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Corte Suprema rechaza la apelación de Custodia Bank sobre la cuenta maestra de la Fed (CoinMarketCap)",
+     "Tribunal Supremo de Estados Unidos cierra la cuenta maestra de Custodia Bank (Observatorio Blockchain)"
+    ]
+   },
+   {
+    "tema": "icloud",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is Apple down? Thousands report problems accessing services (USA Today)",
+     "iCloud, App Store, and other Apple services hit by ongoing outage (9to5Mac)"
+    ]
+   },
+   {
+    "tema": "alcalde de vigo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El patrimonio de Abel Caballero, alcalde de Vigo, en cifras: una vivienda en Galicia, cinco cuentas corrientes y tres fondos de inversión (Semana)",
+     "Zona Franca de Vigo busca romper el techo de cristal y elevar a más mujeres a puestos de responsabilidad empresarial (Faro de Vigo)"
+    ]
+   },
+   {
+    "tema": "circuito de madring",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El circuito de Madring cambiará en 2027 \"para aquellos que se quejan de que no hay adelantamientos\" (MARCA)",
+     "Madring tendrá una chicane y una nueva curva emblemática en 2027 para favorecer los adelantamientos (Telemadrid)"
+    ]
+   },
    {
     "tema": "podemos",
     "volumen": "200+",
@@ -233,17 +302,6 @@
     "titulares": [
      "Podemos propone sanciones penales para los empresarios que no compensen las horas extra (EL PAÍS)",
      "Penar con cárcel las horas extra sin compensar y otras medidas del programa de Podemos (La Vanguardia)"
-    ]
-   },
-   {
-    "tema": "thegameawards",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Todos los nominados a The Game Awards 2026: categorías y candidatos a GOTY (Eurogamer.es)",
-     "Comienza la carrera por el GOTY: estos son todos los nominados en The Game Awards 2026 (HardZone)"
     ]
    },
    {
@@ -259,13 +317,13 @@
    },
    {
     "tema": "lecturas",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T09:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pedro Sánchez, en exclusiva para la revista Lecturas: “No imagino mi vida sin Begoña” (Lecturas)",
-     "Pedro Sánchez concede su primera entrevista a una revista del corazón: “No imagino mi vida sin Begoña” (EL PAÍS)"
+     "Pedro Sánchez sigue con su campaña en clave rosa dando una entrevista a Lecturas: \"No imagino mi vida sin Begoña\" (El Mundo)",
+     "Pedro Sánchez, en exclusiva para la revista Lecturas: “No imagino mi vida sin Begoña” (Lecturas)"
     ]
    },
    {
@@ -278,64 +336,42 @@
      "Exclusive: Highly classified US national security communications network goes down, sources say (CNN)",
      "News Outlets Seize On Back-To-Back Cyber Chaos (Deadline)"
     ]
-   },
-   {
-    "tema": "game awards",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T09:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "The Game Awards to Reveal 2026 Nominees Next Week Ahead of ‘GTA 6’ Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE) (Variety)",
-     "The 2026 GOTY Race Could Be a Disaster for Indie Games (Polygon.com)"
-    ]
-   },
-   {
-    "tema": "croacia - españa",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T08:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Croacia - España, en directo: clasificación del EuroBasket 2027, hoy en vivo (Diario AS)",
-     "Croacia-España, objetivo 3-0 (18:00, Teledeporte (Federación Española de Baloncesto)"
-    ]
-   },
-   {
-    "tema": "beatriz biedma",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T08:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Pedraz frustra el intento de impedir que declare la testigo clave de la supuesta trama para «eliminar» a la jueza Biedma (La Voz de Galicia)",
-     "Pedraz mantiene la declaración de Cintia Rocho porque podría tener «conocimiento» sobre el acoso a la jueza Biedma (ABC)"
-    ]
-   },
-   {
-    "tema": "liverpool football club",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T08:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "LFC kickstarts fan giveback with Christmas shopping savings for supporters (Liverpool FC)",
-     "Liverpool FC takes ‘Nice One’ Christmas campaign to New York with artwork featuring Anfield grass (Explore Liverpool)"
-    ]
-   },
-   {
-    "tema": "arthur dias",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T08:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "El Liverpool amenaza con arrebatarle un fichaje al Barça (SPORT)",
-     "«Tiene el perfil ideal»: el Liverpool da un paso concreto y enciende la pugna con el Barcelona por un talento especial (Goal.com)"
-    ]
    }
   ],
   "AR": [
+   {
+    "tema": "icloud",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is Apple down? Thousands report problems accessing services (USA Today)",
+     "Apple services down, as Apple Pay, App Store and Apple Support experience outages (New York Post)"
+    ]
+   },
+   {
+    "tema": "lee reeves",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Conmoción por la muerte de un boxeador de 31 años que sufrió un brutal nocaut y permaneció más de tres meses en coma (Infobae)",
+     "Conmoción en el boxeo: murió Lee Reeves a los 31 años tras pasar más de tres meses en coma por un brutal nocaut (Ambito)"
+    ]
+   },
+   {
+    "tema": "documento nacional de identidad",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Subte gratis con el DNI: los requisitos del nuevo beneficio y cómo activarlo, paso a paso (Clarin.com)",
+     "Subte gratis con DNI para jubilados: quiénes pueden acceder y cómo hacer el trámite (Infobae)"
+    ]
+   },
    {
     "tema": "jordania - australia",
     "volumen": "200+",
@@ -343,6 +379,7 @@
     "desde": "2026-11-17T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
+     "Jordania venció 2-0 a Australia, en un amistoso internacional (La Nación)",
      "Jordania vs. Australia por el amistoso internacional 2026: día, hora y cómo seguir online (La Nación)"
     ]
    },
@@ -354,11 +391,11 @@
     "deporte_probable": false,
     "titulares": [
      "Exclusive: Highly classified US national security communications network goes down, sources say (CNN)",
-     "News Outlets Seize On Back-To-Back Cyber Chaos (Deadline)"
+     "Is NSA down? What we know about the Nov 17 classified communications outage (Clarin.com)"
     ]
    },
    {
-    "tema": "the game awards",
+    "tema": "game awards",
     "volumen": "500+",
     "volumen_min": 500,
     "desde": "2026-11-17T09:20:00-08:00",
@@ -376,7 +413,7 @@
     "deporte_probable": false,
     "titulares": [
      "Lourdes Fernández declaró como testigo en el juicio contra su exnovio: “Estoy muy triste” (Página|12)",
-     "Lourdes de Bandana declaró en el juicio por violencia de género a su exnovio: “Es una pesadilla” (TN)"
+     "Lowrdez declaró en el juicio contra Leandro García Gómez por violencia de género (Filo News)"
     ]
    },
    {
@@ -386,19 +423,8 @@
     "desde": "2026-11-17T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¡Atentos pinchas! A las 14 habilitan la venta de más plateas para la final: hay un requisito (Diario El Día de La Plata)",
+     "¡Atentos Pinchas! Ya se venden más plateas para la final: hay un requisito (Diario El Día de La Plata)",
      "Conmebol sorprende con una nueva venta de plateas para la final de Estudiantes y Palmeiras: ¿cómo comprarlas? (0221)"
-    ]
-   },
-   {
-    "tema": "conmebol",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T08:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alerta en Boca: Milton Delgado se realizó estudios y preocupa de cara a la final de la Sudamericana (ESPN Argentina)",
-     "Alarma en Boca Juniors por la posible lesión de un futbolista clave de cara a la final de Copa Sudamericana (Infobae)"
     ]
    },
    {
@@ -408,8 +434,8 @@
     "desde": "2026-11-17T08:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "CONMEBOL habilitará un nuevo lote limitado de entradas para la Final de la Sudamericana 2026 (gol.conmebol.com)",
-     "Así está la batalla entre Boca y Atlético Mineiro por las entradas para la final de la Copa Sudamericana (TyC Sports)"
+     "Así está la batalla entre Boca y Atlético Mineiro por las entradas para la final de la Copa Sudamericana (TyC Sports)",
+     "CONMEBOL habilitará un nuevo lote limitado de entradas para la Final de la Sudamericana 2026 (gol.conmebol.com)"
     ]
    },
    {
@@ -422,139 +448,117 @@
      "Miranda de la Serna contó cómo atravesó su mamá, Erica Rivas, su salida de Casados con hijos: “La sigo viendo sufrir” (La Nación)",
      "La dolorosa confesión de Miranda de la Serna sobre su mamá, Erica Rivas, y su salida de Casados con hijos (A24.com)"
     ]
-   },
-   {
-    "tema": "ulises bueno te quedaste sola",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T08:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Ulises Bueno la rompió con el estreno de un inédito (eldoce)",
-     "Ulises Bueno presentó “Te quedaste sola”, su nuevo tema inédito (La Popu)"
-    ]
-   },
-   {
-    "tema": "red link",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T08:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Banco Rioja advirtió sobre demoras en sus canales digitales (Medios Provincia)",
-     "Una falla de la red Link afecta al home banking bancario (La Arena)"
-    ]
    }
   ],
   "MX": [
    {
-    "tema": "nsa",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T09:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Exclusive: Highly classified US national security communications network goes down, sources say (CNN)",
-     "News Outlets Seize On Back-To-Back Cyber Chaos (Deadline)"
-    ]
-   },
-   {
-    "tema": "game awards 2026",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "The Game Awards to Reveal 2026 Nominees Next Week Ahead of ‘GTA 6’ Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE) (Variety)",
-     "The 2026 GOTY Race Could Be a Disaster for Indie Games (Polygon.com)"
-    ]
-   },
-   {
-    "tema": "embassy",
+    "tema": "posiciones de selección de fútbol de kenia contra selección de fútbol de sudáfrica",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T08:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Security Alert: U.S. Embassy in Bulgaria, November 16, 2026 (U.S. Embassy in Bulgaria (.gov))",
-     "Europe Terror Alert: Americans Urged to Stay Vigilant in Broad Warning (Newsweek)"
-    ]
-   },
-   {
-    "tema": "ucrania vs georgia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T08:50:00-08:00",
+    "desde": "2026-11-17T10:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Ucrania vs. Georgia en directo hoy: ¿quién retransmite el partido por televisión y en streaming? (Goal.com)",
-     "Ucrania vs Georgia EN VIVO, resultado, goles y minuto a minuto en la UEFA Nations League (VAVEL.com)"
+     "Kenya vs. South Africa - AFCON qualifier LIVE updates, as it happens (ESPN)",
+     "Kenya vs South Africa Afcon clash live on NTV (Daily Nation)"
     ]
    },
    {
-    "tema": "ticketmaster",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T08:40:00-08:00",
+    "tema": "martimiércoles de chedraui",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Corona Capital dejará derrama de 758 millones de pesos en la CDMX: Canaco (Yahoo)",
-     "Boletos Corona Capital 2026: Disponibilidad, precios por días y abono de tres jornadas en Ticketmaster (MARCA)"
+     "Martimiércoles de Chedraui: Promociones y ofertas del 17 y 18 de noviembre de 2026 (MARCA)",
+     "Martimiércoles Chedraui 17 y 18 de noviembre 2026: Lista completa de descuentos en carnes, frutas y verduras (InformaBTL)"
     ]
    },
    {
-    "tema": "fema",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T08:30:00-08:00",
+    "tema": "andré jardine",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Cómo le va al ex DT del América, André Jardine, en el futbol árabe? (ESPN México)",
+     "André Jardine vs. Guillermo Almada: quién tuvo mejores resultados en su primer torneo con Club América (TV Azteca)"
+    ]
+   },
+   {
+    "tema": "bosnia vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver hoy en directo el Bosnia y Herzegovina-Rumanía: ¿quién retransmite el partido por televisión y en streaming? (Goal.com)",
+     "Bosnia Herzegovina vs Rumania EN VIVO, resultado, goles y minuto a minuto en UEFA Nations League (VAVEL.com)"
+    ]
+   },
+   {
+    "tema": "inundaciones en coatzacoalcos",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T10:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US (CNN)",
-     "FEMA will test its Emergency Alert System tomorrow. Here’s what to expect. (Yahoo)"
+     "Frente Frío 6 deja fuertes inundaciones en Veracruz (Yahoo)",
+     "Inundaciones en Coatzacoalcos afectan a 11 municipios de Veracruz (Milenio)"
     ]
    },
    {
-    "tema": "jordania vs australia",
+    "tema": "manni l perez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way (The Conversation)",
+     "GTA VI’s voice actor for Lucia was revealed by… The Game Awards. (The Verge)"
+    ]
+   },
+   {
+    "tema": "gambia vs costa de marfil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LIVE: Gambia vs Ivory Coast | 2027 AFCON Qualifiers (beIN SPORTS)",
+     "Niger vs Morocco: First Half Total (Coinbase)"
+    ]
+   },
+   {
+    "tema": "gta vi metacritic",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Metacritic Review Score Bar For ‘GTA 6’ Is Historically High (Forbes)",
+     "PlayStation, Xbox, Rockstar Outage Nov. 19 Odds - You Can Bet on it With Grand Theft Auto 6 Release (Gambling911)"
+    ]
+   },
+   {
+    "tema": "palacio de los deportes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tame Impala en México 2027: precios confirmados y venta de boletos para el \"Deadbeat World Tour\" (Ambito)",
+     "Zupralterno (Periódico Síntesis)"
+    ]
+   },
+   {
+    "tema": "jordania - australia",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T08:30:00-08:00",
+    "desde": "2026-11-17T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Pide Australia cambio de sede para amistoso ante Jordania (Reforma)",
      "Jordania vs Australia EN VIVO, resultado y minuto a minuto en Fecha FIFA (1-0) (VAVEL.com)"
-    ]
-   },
-   {
-    "tema": "shenzhen",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T08:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit (The Guardian)",
-     "Horns and drones banned as Shenzhen hushes for Trump and APEC (Reuters)"
-    ]
-   },
-   {
-    "tema": "ups",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T08:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport (ABC News - Breaking News, Latest News and Videos)",
-     "Planes collide at Miami runway crossing a day after national grounding (CNN)"
-    ]
-   },
-   {
-    "tema": "venezuela",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T08:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Venezuela, desafíos de reconstrucción tras Maduro y daños del terremoto (Vatican News)",
-     "Un 64 % de comercios ya opera en el estado más devastado por los terremotos en Venezuela (Yahoo)"
     ]
    }
   ]
