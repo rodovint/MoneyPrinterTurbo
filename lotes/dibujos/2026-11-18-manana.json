@@ -1,0 +1,10 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "mexico-jamaica", "seed": 181, "referencias": [0], "prompt": "Vertical illustration, dynamic action: a football player in a plain dark green shirt and white shorts seen from behind, mid-celebration running toward packed stands with arms wide open after scoring, a round black-and-white soccer ball in the goal net behind him, huge modern stadium at night with mountains silhouetted beyond the roof, fans in green waving, floodlights, no faces visible."},
+    {"id": "hincapie-arsenal", "seed": 182, "referencias": [0], "prompt": "Vertical illustration, dynamic action: a central defender in a plain red shirt with white sleeves seen from behind, sliding in to win a round black-and-white soccer ball on a wet night pitch, spray of water, a modern English stadium with packed red stands, floodlights, no faces visible."}
+  ]
+}
