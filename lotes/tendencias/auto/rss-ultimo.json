@@ -1,8 +1,30 @@
 {
- "fecha": "2026-11-18T13:28-05:00",
+ "fecha": "2026-11-18T13:50-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
+   {
+    "tema": "gta6",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "IShowSpeed Will Be Live-Playing 'GTA VI' Before Its U.S. Release (Complex)",
+     "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI (blog.youtube)"
+    ]
+   },
+   {
+    "tema": "importación",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precios de las importaciones EEUU suben más de lo previsto en octubre (Yahoo)",
+     "Estados Unidos: los precios de importación superan las previsiones (MarketScreener España)"
+    ]
+   },
    {
     "tema": "alerta roja",
     "volumen": "200+",
@@ -16,13 +38,13 @@
    },
    {
     "tema": "real madrid - inter de milán",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-18T09:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Ivana: “Me hace mucha ilusión, tengo al Madrid en el corazoncito” (Diario AS)",
-     "Champions Femenina: Partidos a seguir de la Jornada 5 (ESPN Ecuador)"
+     "Previa de la jornada 5 de la Women's Champions League: Barcelona - Servette, Arsenal - OL Lyonnes, Benfica - Roma (UEFA.com)"
     ]
    },
    {
@@ -44,7 +66,7 @@
     "deporte_probable": false,
     "titulares": [
      "PlayStation Issues GTA 6 Software Warning Before Launch (Newsweek)",
-     "Sony issues message to PS5 players ahead of highly anticipated GTA 6 launch (NBC 5 Chicago)"
+     "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released (Polygon.com)"
     ]
    },
    {
@@ -52,10 +74,10 @@
     "volumen": "100+",
     "volumen_min": 100,
     "desde": "2026-11-18T08:00:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)",
-     "Lucia Caminos in Grand Theft Auto VI at 4K with DLSS 5 and MFG 6X at 280 FPS on an RTX 5090 (GameGPU)"
+     "Every Game Leaving Xbox Game Pass on November 30 (VICE)",
+     "Something Weird Is Going On With GoldenEye 007 And Xbox Game Pass (Pure Xbox)"
     ]
    },
    {
@@ -90,40 +112,29 @@
      "Dalia Bucaram deslumbra en la pasarela de Miss Universo 2026 con un romántico diseño de David Antonio (Ecuavisa)",
      "Monic Pérez será la animadora del desfile de moda “Runway to the Universe” (Primera Hora)"
     ]
-   },
-   {
-    "tema": "pensión",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T02:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "IESS adelanta las pensiones de noviembre a los jubilados, pero no puede anticipar el bono navideño, conozca por qué (Primicias)",
-     "IESS: por qué no se puede pagar el décimo tercer sueldo a los jubilados antes de diciembre (Diario La Hora)"
-    ]
-   },
-   {
-    "tema": "franco posse",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T02:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La dupla que ilusiona a Macará: las cifras goleadoras de Posse y Campana antes de la Copa Libertadores (El Diario Ecuador)",
-     "El grande de la LigaPro que preguntó por el fichaje de Franco Posse para 2027 (Bolavip)"
-    ]
    }
   ],
   "US": [
    {
-    "tema": "ak dear",
+    "tema": "ginny and georgia season 4 release date",
     "volumen": "500+",
     "volumen_min": 500,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Ginny & Georgia’ Season 4 First Look: The Past Is Never Far Behind (Exclusive) (Teen Vogue)",
+     "‘Ginny & Georgia’ Season 4 Premiere Date Set By Netflix With First-Look Photos (Deadline)"
+    ]
+   },
+   {
+    "tema": "ak dear",
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-18T10:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Sophomore running back AK Dear no longer with Alabama football program, Kalen DeBoer says (247Sports)",
-     "AK Dear No Longer on Alabama Roster - College Football News | Fantasy CFB (RotoBaller)"
+     "Alabama running back no longer with program, DeBoer says (AL.com)",
+     "Sophomore running back AK Dear no longer with Alabama football program, Kalen DeBoer says (247Sports)"
     ]
    },
    {
@@ -178,18 +189,7 @@
     "deporte_probable": false,
     "titulares": [
      "Crews investigating explosion at Youngstown Propane (WFMJ)",
-     "Firefighters are on scene of reported explosion in Austintown (FOX 8 News)"
-    ]
-   },
-   {
-    "tema": "real madrid vs inter",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-18T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alaina Dadzie with the and-1 bucket (ESPN)",
-     "Real Madrid vs. Inter Milan (Nov 18, 2026) Team Stats (ESPN)"
+     "Firefighters are on scene of reported explosion in Austintown (Yahoo)"
     ]
    },
    {
@@ -204,6 +204,17 @@
     ]
    },
    {
+    "tema": "real madrid vs inter",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T09:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Women's Champions League Matchday 5 preview: Chelsea vs Paris SG, Real Madrid vs Inter, Arsenal vs OL Lyonnes, Benfica vs Roma (UEFA.com)",
+     "Licensable picture: UEFA Women's Champions League - Real Madrid v Inter Milan (Reuters Connect)"
+    ]
+   },
+   {
     "tema": "baylor basketball",
     "volumen": "1000+",
     "volumen_min": 1000,
@@ -213,20 +224,64 @@
      "Baylor vs. Jackson State prediction, odds: College basketball picks for Wednesday, Nov. 18 by proven model (CBS Sports)",
      "Baylor hosts Jackson State following Mingo's 23-point game (Yahoo Sports)"
     ]
-   },
-   {
-    "tema": "trump putin xi jinping",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-18T09:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "I watched Trump, Xi and Putin gather in China. Here are my top takeaways (CNBC)",
-     "Trump to meet Putin in China amid renewed push to end Ukraine war (Axios)"
-    ]
    }
   ],
   "ES": [
+   {
+    "tema": "sueños de libertad",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Avance del próximo capítulo de Sueños de libertad: Begoña, desesperada al descubrir que Gabriel se ha llevado a sus hijos (Antena 3)",
+     "Avance: Begoña se romperá al ver a Valentina vestida de blanco (atresplayer)"
+    ]
+   },
+   {
+    "tema": "isabel preysler",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Isabel Preysler y Tamara Falcó reaparecen juntas con chaquetas a juego en el homenaje a Julio Iglesias (ELLE)",
+     "Julio Iglesias Jr, su apasionado beso con su mayor fan, Ariadna Romero, tras su apoteósico show (Canarias7)"
+    ]
+   },
+   {
+    "tema": "aragon play",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Haritz Albisua: \"Todavía estamos en noviembre, estamos a tiempo de todo\" (Aragón Play)",
+     "Crítica de ‘GTA VI’: Bienvenidos al mayor parque de atracciones digital jamás creado (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "mando ps5 gta 6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Black Friday de PlayStation desploma el precio de casi todos sus DualSense: hay disponibles hasta ediciones limitadas con descuento (Xataka)",
+     "Las mejores ofertas de PS4 y PS5 en la PS Store de esta semana (18/11/2026) (Vandal)"
+    ]
+   },
+   {
+    "tema": "soria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Galería | Mañueco pide al PP de Soria llenar las urnas de votos para Feijóo (SoriaNoticias)",
+     "Mañueco pide en Ponferrada el voto para Feijóo \"para devolver la seguridad a España\" (Cadena SER)"
+    ]
+   },
    {
     "tema": "cd lugo",
     "volumen": "200+",
@@ -246,7 +301,7 @@
     "deporte_probable": false,
     "titulares": [
      "El Ibex mantiene sus dudas tras Nvidia (Expansión)",
-     "La Bolsa baja el 1,28 % por Wall Street y pese a los buenos resultados de Nvidia (ABC)"
+     "Bolsa e Ibex 35 hoy, en directo | El Ibex se deja un 1,28% y Nvidia no convence con sus primeras cuentas tras el escándalo de su CEO (El Confidencial)"
     ]
    },
    {
@@ -278,67 +333,34 @@
     "desde": "2026-11-18T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ (The Guardian)",
-     "Putin attacks Western action as Trump lands in China (RTE.ie)"
-    ]
-   },
-   {
-    "tema": "empresario",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T09:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Fallece Tito Barbosa, el empresario ourensano que convirtió su marca de cepillos en un referente nacional (La Voz de Galicia)",
-     "Fallece Justino ‘Tito’ Barbosa, uno de los referentes del sector (CdeComunicacion.es)"
-    ]
-   },
-   {
-    "tema": "gran hermano vip",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T09:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Qué puede ofrecer de nuevo GH VIP cuando parece que ya lo hemos visto todo? (El Mundo)",
-     "GH VIP 9, gala estreno: concursantes y última hora del reality de Telecinco, hoy en directo (El Confidencial)"
-    ]
-   },
-   {
-    "tema": "sony",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T09:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "PlayStation Issues GTA 6 Software Warning Before Launch (Newsweek)",
-     "Sony issues message to PS5 players ahead of highly anticipated GTA 6 launch (NBC 5 Chicago)"
-    ]
-   },
-   {
-    "tema": "real madrid - inter de milán",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-18T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Real Madrid-Inter: a sumar el segundo triunfo seguido en la Women's Champions League (Real Madrid CF | Web Oficial)",
-     "R. Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)"
-    ]
-   },
-   {
-    "tema": "pareja de hecho",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T09:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Cambios en los requisitos de la pensión de viudedad: así queda tras la convalidación del decreto (ABC)",
-     "La 'baja por menopausia' aprueba su examen en el Congreso: \"Beneficia a millones de trabajadoras\" (Redacción Médica)"
+     "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ (The Guardian)",
+     "APEC summit latest: Trump receives warm reception from Xi and Putin in China ahead of high-stakes trilateral talks (CNN)"
     ]
    }
   ],
   "AR": [
+   {
+    "tema": "fenómeno",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Súper Niño: un especialista en emergencias explicó cómo se prepara la Argentina para el pico del fenómeno y cuáles son las zonas más críticas (La Nación)",
+     "El Niño 2026–27 amenaza con lluvias extremas en Argentina: las zonas más expuestas y cómo prepararse (Meteored Argentina)"
+    ]
+   },
+   {
+    "tema": "ludovica squirru",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ludovica Squirru, en exclusiva con La Voz: qué le espera a cada signo en el año de la Cabra de Fuego (La Voz del Interior)",
+     "Cuándo es el Año Nuevo Chino 2027: el animal y su significado (La Nación)"
+    ]
+   },
    {
     "tema": "martín llaryora",
     "volumen": "100+",
@@ -368,8 +390,8 @@
     "desde": "2026-11-18T10:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Argentina en el Mundial Sub 17: calendario de partidos y resultados (TyC Sports)",
-     "Los seis pibes de la Selección Sub 17 que jugarán el Mundial y ya debutaron en Primera (Olé)"
+     "Los seis pibes de la Selección Sub 17 que jugarán el Mundial y ya debutaron en Primera (Olé)",
+     "Argentina en el Mundial Sub 17: calendario de partidos y resultados (TyC Sports)"
     ]
    },
    {
@@ -406,17 +428,6 @@
     ]
    },
    {
-    "tema": "depósito a plazo fijo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T08:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Plazo fijo: cuánto pagan los bancos por depósitos de $1 millón a 30 días (Infobae)",
-     "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 18 de noviembre (La Nación)"
-    ]
-   },
-   {
     "tema": "turf",
     "volumen": "200+",
     "volumen_min": 200,
@@ -428,33 +439,44 @@
     ]
    },
    {
-    "tema": "smn",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "tema": "depósito a plazo fijo",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T08:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El Litoral, otra vez bajo presión: alertas naranjas por tormentas severas en cinco provincias (La Nación)",
-     "Alerta meteorológica por tormentas fuertes (La Arena)"
-    ]
-   },
-   {
-    "tema": "clima quilmes",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T08:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026 (La Nación)",
-     "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026 (La Nación)"
+     "Plazo fijo: cuánto pagan los bancos por depósitos de $1 millón a 30 días (Infobae)",
+     "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 18 de noviembre (La Nación)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "manchester city femenino",
+    "tema": "kelly preston",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "EXCLUSIVE: John Travolta Reveals If He’s Open to Dating 6 Years After Death of Wife Kelly Preston (TODAY.com)",
+     "John Travolta open to finding love again six years after wife’s death: ‘Love is everything’ (Nine.com.au)"
+    ]
+   },
+   {
+    "tema": "gta 5",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘GTA VI’ publisher Take-Two jumps as gamers relish blockbuster release (CNBC)",
+     "Prediction: Take-Two Interactive Stock Will Make You a Lot Richer by 2030 (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "manchester city femenino",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -470,18 +492,18 @@
     "deporte_probable": true,
     "titulares": [
      "¿Cómo quedó el Final Four de Concacaf? (ESPN México)",
-     "Confirmados los enfrentamientos de semifinales y el calendario de las Finales de la Liga de Naciones Concacaf 2027 (Concacaf | Official Website)"
+     "¡Habrá clásico! Así se jugarán las Semifinales de la Nations League Concacaf; fechas y cruces confirmados (Mediotiempo)"
     ]
    },
    {
     "tema": "bk häcken - man city",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-18T09:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Alaina Dadzie with the and-1 bucket (ESPN)",
-     "Real Madrid vs. Inter Milan (Nov 18, 2026) Team Stats (ESPN)"
+     "BK Häcken vs. Man City (Nov 18, 2026) Team Stats (ESPN)"
     ]
    },
    {
@@ -525,7 +547,7 @@
     "deporte_probable": true,
     "titulares": [
      "Cuándo juegan Real Madrid vs Inter de Milán por fecha 5 de fase liga de Women's Champions League: equipo, fecha, hora y TV en vivo (ESPN México)",
-     "R. Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)"
+     "El Real Madrid, a olvidarse de la Liga en la ‘Champions’ (88.9 Noticias | Noticias en Vivo | Información Que Sirve)"
     ]
    },
    {
@@ -537,28 +559,6 @@
     "titulares": [
      "Salario mínimo subiría a 10,700 pesos al mes en 2027: IMCP (El Economista)",
      "Alza a mínimos de al menos 10% el próximo año, prevé la Conasami (La Jornada)"
-    ]
-   },
-   {
-    "tema": "sarampion",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T08:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La OPS insta a los países a intensificar los esfuerzos para detener los brotes de sarampión y avanzar hacia su eliminación en las Américas (Pan American Health Organization (PAHO))",
-     "Pierden México, EUA y Bolivia certificación como países libres de sarampión (El Comentario)"
-    ]
-   },
-   {
-    "tema": "anne hathaway",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T08:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Anne Hathaway Welcomes New Baby, Spotted With Newborn in NYC (TMZ)",
-     "Anne Hathaway Welcomes Baby No. 3 with Husband Adam Shulman (People.com)"
     ]
    }
   ]
