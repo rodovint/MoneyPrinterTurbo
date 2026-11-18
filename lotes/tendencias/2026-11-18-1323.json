@@ -1,0 +1,6 @@
+{"fecha": "2026-11-18T13:23-05:00", "nota": "rss-ultimo 12:52 vs rss 10:55. explore-ultimo sigue en 07:04 (no llegó el de 12:45).", "temas": [
+ {"tema": "Real Madrid vs. Inter de Milán (Champions femenina, hoy en el Alfredo Di Stéfano)", "señales": ["nuevo EC 500+", "ES 5000+", "US 2000+", "MX 2000+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Carlos Alcaraz (ATP Finals)", "señales": ["EC 500+ igual que 10:55"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Franco Posse (Macará)", "señales": ["EC 100+ igual"], "volumen_EC": "100+", "volumen_anterior": "100+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Lakers - Hornets", "señales": ["fuera del top EC"], "volumen_EC": null, "volumen_anterior": "500+", "estado": "EN DECLIVE", "brecha": "LOCAL", "avisado": false}
+]}
