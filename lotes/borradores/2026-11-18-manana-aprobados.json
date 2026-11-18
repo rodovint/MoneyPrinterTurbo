@@ -1,0 +1,155 @@
+[
+ {
+  "titulo": "México vs. Jamaica: Rafa Márquez gana por fin y avanza",
+  "etiqueta": "CONCACAF",
+  "color": "#006847",
+  "audio": "audio/13",
+  "franja": [
+   "MÉXICO 1-0 JAMAICA · GLOBAL 3-3",
+   "GOL DE TECATITO CORONA 35'",
+   "AVANZA POR GOL DE VISITANTE",
+   "1ER TRIUNFO DE RAFA MÁRQUEZ"
+  ],
+  "escenas": [
+   {
+    "texto": "Rafa Márquez por fin ganó con México, y lo metió en semifinales.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡POR FIN GANÓ!",
+     "sobre": "RAFA MÁRQUEZ"
+    },
+    "foto": "img/mexico-jamaica.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "México le ganó uno a cero a Jamaica en Monterrey, con gol de Tecatito Corona al minuto treinta y cinco.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MÉXICO 1-0 JAMAICA",
+     "sobre": "TECATITO CORONA 35'"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "El global quedó tres a tres, y México avanzó por los goles de visitante.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "3-3",
+     "texto": "GLOBAL · PASA MÉXICO POR GOL DE VISITANTE"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Antes, Márquez sumaba cinco partidos sin ganar: dos empates y tres derrotas.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "5",
+     "texto": "PARTIDOS SIN GANAR ANTES DE ANOCHE"
+    },
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Las semifinales de la Nations League se juegan en marzo de dos mil veintisiete.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SEMIFINAL EN MARZO",
+     "sobre": "NATIONS LEAGUE 2027"
+    }
+   },
+   {
+    "texto": "¿Rafa Márquez debe seguir en el Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE QUEDA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/mexico-jamaica.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Piero Hincapié, acuerdo con Arsenal hasta 2032",
+  "etiqueta": "ECUATORIANOS",
+  "color": "#EF0107",
+  "audio": "audio/14",
+  "franja": [
+   "HINCAPIÉ: ACUERDO HASTA JUNIO 2032",
+   "CONTRATO MEJORADO",
+   "FALTA EL ANUNCIO OFICIAL",
+   "24 AÑOS · DEFENSA DE LA TRI"
+  ],
+  "escenas": [
+   {
+    "texto": "Arsenal ya acordó con Piero Hincapié: contrato hasta el dos mil treinta y dos.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡HASTA 2032!",
+     "sobre": "PIERO HINCAPIÉ"
+    },
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "El defensa ecuatoriano, de veinticuatro años, firmará un contrato mejorado.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CONTRATO MEJORADO",
+     "sobre": "24 AÑOS"
+    }
+   },
+   {
+    "texto": "Lo informaron David Ornstein y Fabrizio Romano, y solo falta el anuncio oficial.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ACUERDO CERRADO",
+     "sobre": "FALTA LA FIRMA OFICIAL"
+    }
+   },
+   {
+    "texto": "Hincapié llegó cedido desde el Bayer Leverkusen, y en junio Arsenal lo compró en definitiva.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE CEDIDO A FIJO",
+     "sobre": "JUNIO 2026"
+    },
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Su contrato iba hasta dos mil treinta y uno: ahora suma un año más.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2032",
+     "texto": "NUEVO CONTRATO HASTA JUNIO"
+    },
+    "animar": false
+   },
+   {
+    "texto": "¿Hincapié o Pacho: quién es el mejor central de la Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿HINCAPIÉ O PACHO?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ }
+]

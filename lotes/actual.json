@@ -1,100 +1,70 @@
 [
  {
-  "titulo": "Ecuador vs. Bolivia sin Plata ni Castillo (HOY 18:30)",
-  "etiqueta": "LA TRI",
-  "color": "#FFD100",
+  "titulo": "México vs. Jamaica: Rafa Márquez gana por fin y avanza",
+  "etiqueta": "CONCACAF",
+  "color": "#006847",
+  "audio": "audio/13",
   "franja": [
-   "HOY 18:30 · ESTADIO MONUMENTAL, GUAYAQUIL",
-   "BAJAS: GONZALO PLATA Y DENIL CASTILLO",
-   "10 PARTIDOS SIN PERDER ANTE BOLIVIA",
-   "ÚLTIMO PARTIDO DE LA TRI EN 2026"
+   "MÉXICO 1-0 JAMAICA · GLOBAL 3-3",
+   "GOL DE TECATITO CORONA 35'",
+   "AVANZA POR GOL DE VISITANTE",
+   "1ER TRIUNFO DE RAFA MÁRQUEZ"
   ],
   "escenas": [
    {
-    "texto": "¡La Tri pierde a Gonzalo Plata y a Denil Castillo horas antes de jugar con Bolivia!",
+    "texto": "Rafa Márquez por fin ganó con México, y lo metió en semifinales.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡DOS BAJAS!",
-     "sobre": "PLATA Y CASTILLO, FUERA"
+     "texto": "¡POR FIN GANÓ!",
+     "sobre": "RAFA MÁRQUEZ"
     },
-    "voz": "mui",
-    "foto": "img/tri-camerino.png",
+    "foto": "img/mexico-jamaica.png",
     "movimiento": "zoom_in",
     "destello": true
    },
    {
-    "texto": "Plata dejó la concentración por motivos personales y Castillo, por una lesión en el tobillo.",
+    "texto": "México le ganó uno a cero a Jamaica en Monterrey, con gol de Tecatito Corona al minuto treinta y cinco.",
     "grafico": {
      "tipo": "titular",
-     "texto": "PERSONALES Y TOBILLO",
-     "sobre": "PLATA Y CASTILLO: LOS MOTIVOS"
+     "texto": "MÉXICO 1-0 JAMAICA",
+     "sobre": "TECATITO CORONA 35'"
     },
-    "voz": "andrea"
-   },
-   {
-    "texto": "El partido es hoy a las seis y media de la tarde, en el Estadio Monumental de Guayaquil.",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "ECUADOR",
-       "color": "#FFD100",
-       "escudo": "img/escudos/fef.png"
-      },
-      {
-       "nombre": "BOLIVIA",
-       "color": "#007A3D",
-       "escudo": "img/escudos/bolivia.png"
-      }
-     ],
-     "hora": "HOY 18:30",
-     "pie": "ESTADIO MONUMENTAL · GUAYAQUIL"
-    },
-    "voz": "andrea",
-    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg"
-   },
-   {
-    "texto": "Y hay racha: Ecuador suma diez partidos seguidos sin perder ante Bolivia.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "10",
-     "texto": "PARTIDOS SIN PERDER ANTE BOLIVIA"
-    },
-    "voz": "andrea",
     "hinchada": true
    },
    {
-    "texto": "La última derrota fue en la Copa América de 2015: tres a dos.",
+    "texto": "El global quedó tres a tres, y México avanzó por los goles de visitante.",
     "grafico": {
-     "tipo": "marcador",
-     "equipos": [
-      {
-       "nombre": "ECUADOR",
-       "goles": 2,
-       "color": "#FFD100",
-       "escudo": "img/escudos/fef.png"
-      },
-      {
-       "nombre": "BOLIVIA",
-       "goles": 3,
-       "color": "#007A3D",
-       "escudo": "img/escudos/bolivia.png"
-      }
-     ],
-     "pie": "COPA AMÉRICA 2015 · ÚLTIMA DERROTA"
+     "tipo": "cifra",
+     "valor": "3-3",
+     "texto": "GLOBAL · PASA MÉXICO POR GOL DE VISITANTE"
     },
-    "voz": "andrea",
+    "suspenso": true
+   },
+   {
+    "texto": "Antes, Márquez sumaba cinco partidos sin ganar: dos empates y tres derrotas.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "5",
+     "texto": "PARTIDOS SIN GANAR ANTES DE ANOCHE"
+    },
     "tono": "recuerdo"
    },
    {
-    "texto": "Hincha de la Tri, ¿quién reemplaza a Plata esta noche?",
+    "texto": "Las semifinales de la Nations League se juegan en marzo de dos mil veintisiete.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿QUIÉN ENTRA?",
-     "sobre": "TU ONCE PARA HOY"
+     "texto": "SEMIFINAL EN MARZO",
+     "sobre": "NATIONS LEAGUE 2027"
+    }
+   },
+   {
+    "texto": "¿Rafa Márquez debe seguir en el Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE QUEDA?",
+     "sobre": "TU OPINIÓN"
     },
-    "voz": "mui",
-    "foto": "img/tri-camerino.png",
+    "foto": "img/mexico-jamaica.png",
     "movimiento": "zoom_out"
    },
    {
@@ -102,8 +72,83 @@
     "grafico": {
      "tipo": "cierre",
      "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Piero Hincapié, acuerdo con Arsenal hasta 2032",
+  "etiqueta": "ECUATORIANOS",
+  "color": "#EF0107",
+  "audio": "audio/14",
+  "franja": [
+   "HINCAPIÉ: ACUERDO HASTA JUNIO 2032",
+   "CONTRATO MEJORADO",
+   "FALTA EL ANUNCIO OFICIAL",
+   "24 AÑOS · DEFENSA DE LA TRI"
+  ],
+  "escenas": [
+   {
+    "texto": "Arsenal ya acordó con Piero Hincapié: contrato hasta el dos mil treinta y dos.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡HASTA 2032!",
+     "sobre": "PIERO HINCAPIÉ"
     },
-    "voz": "mui"
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "El defensa ecuatoriano, de veinticuatro años, firmará un contrato mejorado.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CONTRATO MEJORADO",
+     "sobre": "24 AÑOS"
+    }
+   },
+   {
+    "texto": "Lo informaron David Ornstein y Fabrizio Romano, y solo falta el anuncio oficial.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ACUERDO CERRADO",
+     "sobre": "FALTA LA FIRMA OFICIAL"
+    }
+   },
+   {
+    "texto": "Hincapié llegó cedido desde el Bayer Leverkusen, y en junio Arsenal lo compró en definitiva.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE CEDIDO A FIJO",
+     "sobre": "JUNIO 2026"
+    },
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Su contrato iba hasta dos mil treinta y uno: ahora suma un año más.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2032",
+     "texto": "NUEVO CONTRATO HASTA JUNIO"
+    },
+    "animar": false
+   },
+   {
+    "texto": "¿Hincapié o Pacho: quién es el mejor central de la Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿HINCAPIÉ O PACHO?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
    }
   ]
  }
