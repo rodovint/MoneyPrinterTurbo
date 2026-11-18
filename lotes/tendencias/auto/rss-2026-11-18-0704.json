@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-18T07:04-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "franco posse",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Agente de Franco Posse confirma que es muy dificil que siga en Macaraa pese al carino que le tiene al club (futbolecuador.com)",
+     "La dupla que ilusiona a Macará: las cifras goleadoras de Posse y Campana antes de la Copa Libertadores (El Diario Ecuador)"
+    ]
+   },
+   {
+    "tema": "pensión",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "IESS adelanta las pensiones de noviembre a los jubilados, pero no puede anticipar el bono navideño, conozca por qué (Primicias)",
+     "IESS adelanta el pago de noviembre a más de 900.000 jubilados y pensionistas (El Universo)"
+    ]
+   },
+   {
+    "tema": "espol",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T22:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Espol suspende clases hasta marzo de 2027 y estudiantes convocan a plantón en rechazo a la decisión (El Universo)",
+     "Espol difiere clases por fenómeno de El Niño hasta marzo de 2027 (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "twitch",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T21:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tarkov City Drops Campaign! (EscapeFromTarkov.com)",
+     "Escape from Tarkov Joins The GTA 6 Action With a New Campaign (Insider Gaming)"
+    ]
+   },
+   {
+    "tema": "cuando sale gta 6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T21:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Crítica de ‘GTA VI’: Bienvenidos al mayor parque de atracciones digital jamás creado (EL PAÍS)",
+     "El más esperado: ¡GTA VI va por un récord multimillonario! (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "lakers - hornets",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T20:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Player Grades: Lakers vs. Hornets (Silver Screen and Roll)",
+     "Grimes' time: Laker joins Kobe in huge NBA comeback (https://aapnews.aap.com.au/)"
+    ]
+   },
+   {
+    "tema": "gta 6",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Metacritic Review Score Bar For ‘GTA 6’ Is Historically High (Forbes)",
+     "‘Grand Theft Auto VI’ earns more than $1.5 billion before release | CNN Business (CNN)"
+    ]
+   },
+   {
+    "tema": "telemundo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Peatón gravemente herido en atropello y fuga cerca de apartamentos en Bridgewater (Telemundo Nueva Inglaterra)",
+     "Miss Universo 2026 publica el retrato oficial de Dalia Bucaram, representante de Ecuador en la edición de sus 75 años (El Universo)"
+    ]
+   },
+   {
+    "tema": "mexico vs",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Boletos para México vs. Estados Unidos: Precios y cómo comprar para la semifinal de la Concacaf Nations League (Sporting News)",
+     "¿Cómo quedó el Final Four de Concacaf? (ESPN Panamá)"
+    ]
+   },
+   {
+    "tema": "liga de naciones de la uefa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UEFA Nations League: los ocho que van por el título, los descensos y clasificados a playoffs (CNN en Español)",
+     "Cuartos de final de la Nations League: selecciones confirmadas (UEFA.com)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "tgt stock",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Target posts best sales growth in five years, raises guidance (CNBC)",
+     "Target turnaround accelerates as bets on groceries and Pokémon pay off (Axios)"
+    ]
+   },
+   {
+    "tema": "exploit kit",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Popular websites compromised in bid to steal crypto, target iPhone users (Reuters)",
+     "Optimizely reports 'security incident' that involved malware in customers' digital products (ABC News - Breaking News, Latest News and Videos)"
+    ]
+   },
+   {
+    "tema": "hayley williams outbreak festival 2027",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hayley Williams-Curated Outbreak Fest Features Dinosaur Jr., Blood Orange (Pitchfork)",
+     "Outbreak Festival Announces 2027 Lineup Curated By Hayley Williams (Stereogum)"
+    ]
+   },
+   {
+    "tema": "wsvn",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Floodwaters fill parking lots, stall cars in Aventura, North Miami and NE Miami-Dade after strong storms roll through (WSVN)",
+     "Flood Watch continues as rain and wind persist on Key Biscayne (IslanderNews.com)"
+    ]
+   },
+   {
+    "tema": "cameron bancroft",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Australia sandpaper: Cameron Bancroft claims whole team knew of plot in South Africa (BBC)",
+     "'It was not just the three of us ... it was the whole team' (Cricinfo)"
+    ]
+   },
+   {
+    "tema": "météo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Météo : défilé de perturbations cette semaine (METEO France)",
+     "Pluie et inondations : le Pas-de-Calais et la Somme placés en vigilance orange (Le Monde.fr)"
+    ]
+   },
+   {
+    "tema": "atlanta braves",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "St. Louis Cardinals Jordan Walker, Alec Burleson Denied Silver Slugger Awards (Viva El Birdos)",
+     "Matt Olson wins 2026 Silver Slugger Award (Battery Power)"
+    ]
+   },
+   {
+    "tema": "irán",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Exclusiva: inteligencia de EE.UU. indica que Irán podría considerar el uso de una bomba sucia en Washington, según fuentes (CNN en Español)",
+     "Trump advierte a Irán sobre el supuesto complot contra funcionarios del Gobierno: «Nos lo tomamos muy en serio» (Fox News)"
+    ]
+   },
+   {
+    "tema": "king of the court draftkings",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "DraftKings “King of the Court” picks for $1 Million Jackpot on Tuesday, November 17 (Dimers)",
+     "NBA Prop Bet Picks: DraftKings King of the Court (11/17/26) (RotoBaller)"
+    ]
+   },
+   {
+    "tema": "gta iv",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 4 gets incredible free PC mod that makes Liberty City more alive and dangerous than ever (GAMINGbible)",
+     "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story (The Guardian)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "santiago pedraz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El PSOE vuelve a escudarse en el secreto profesional para no entregar parte de la información que reclama el juez del 'caso Cloacas' (El Mundo)",
+     "El PSOE entrega al juez que investiga sus cloacas documentación con los pagos a abogados entre 2021 y 2025 (LaSexta)"
+    ]
+   },
+   {
+    "tema": "borja iglesias",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Borja Iglesias, entre los hombres del año 2026 para «GQ» España (La Voz de Galicia)",
+     "Borja Iglesias habla de su apoyo a Jenni Hermoso en el caso Rubiales: \"Sabía que iba a tener consecuencias pero cuando pasan, te joden\" (MARCA)"
+    ]
+   },
+   {
+    "tema": "meristation",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 es un nuevo 10 de 10 en MeriStation: estas son las 52 obras maestras que recibieron la nota máxima (Diario AS)",
+     "Crítica de ‘GTA VI’: Bienvenidos al mayor parque de atracciones digital jamás creado (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "metacritic",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-18T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Crítica de ‘GTA VI’: Bienvenidos al mayor parque de atracciones digital jamás creado (EL PAÍS)",
+     "Análisis de GTA 6: Rockstar compensa 13 años de espera con un juego para la historia (Diario AS)"
+    ]
+   },
+   {
+    "tema": "xavier garcía albiol",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Albiol pide un triunfo amplio del PP que impida que Sánchez lidere la oposición y el PSOE (La Vanguardia)",
+     "Albiol pide unir el voto por el PP ante una concentración de \"extrema izquierda\" en Sánchez (Europa Press)"
+    ]
+   },
+   {
+    "tema": "tiroteo badajoz",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Asesinado un hombre en un tiroteo a plena luz del día en el centro de Badajoz (El Mundo)",
+     "Muere un hombre de 69 años tras un tiroteo en la zona centro de Badajoz (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "terremoto rumanía",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un terremoto de magnitud 5,7 sacude Rumanía y deja varios heridos y seis hospitalizados (Crónica Balear)",
+     "Terremoto hoy 18 de noviembre en Rumanía: epicentro y magnitud del sismo (Minuto60)"
+    ]
+   },
+   {
+    "tema": "voyager 1",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The odyssey of ‘Voyager 1’: A chat with the cosmos one light-day from Earth (EL PAÍS English)",
+     "Voyager 1 hits 'unbelievable' light-day milestone after 49 years (ABC News & Headlines – Australian Broadcasting Corporation)"
+    ]
+   },
+   {
+    "tema": "miguel tellado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Campaña de las elecciones 29N en directo | Sánchez, convencido de que podrá formar gobierno: \"No había visto jamás la movilización que estoy viendo en esta campaña electoral\" (LaSexta)",
+     "Tellado pide en Gijón \"rectificar el tremendo error del sanchismo\" (Radiotelevisión del Principado de Asturias)"
+    ]
+   },
+   {
+    "tema": "paga extra pensiones",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Cuándo se cobra la pensión y la paga extra de noviembre de 2026? Fechas por banco (Europa Press)",
+     "Cuándo se cobran las pensiones en noviembre de 2026: la fecha de ingreso en cada banco (elDiario.es)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "play 5",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 Update 1.002.001 Hits PS5 In Three Waves Before Launch (Forbes)",
+     "PlayStation Issues GTA 6 Software Warning Before Launch (Newsweek)"
+    ]
+   },
+   {
+    "tema": "metacritic",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Grand Theft Auto VI Is a Masterpiece (Bloomberg.com)",
+     "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story (The Guardian)"
+    ]
+   },
+   {
+    "tema": "armada argentina",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Armada Argentina adjudicó por US$ 621.000 la compra de nuevos radares de navegación para sus corbetas MEKO 140 (Zona Militar)",
+     "La Armada Argentina invierte 621.000 dólares en nuevos radares para sus corbetas (Ecos Diarios Necochea)"
+    ]
+   },
+   {
+    "tema": "clima villa maria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miércoles con 26°: mañana cubierta con lloviznas y tarde con nubes y claros (Villa María VIVO)",
+     "Martes con 27° y viento sur: sigue una alerta por tormentas hasta las 9 (Villa María VIVO)"
+    ]
+   },
+   {
+    "tema": "twitch",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T02:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Escape from Tarkov lanza una campaña de Twitch Drops con temática de GTA 6 (Ecos Diarios Necochea)",
+     "Twitch Drops de GTA 6: cómo conseguir las insignias y los códigos gratis (Cultura Geek)"
+    ]
+   },
+   {
+    "tema": "clima cordoba",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alerta amarilla. Clima en Córdoba: cómo estará el tiempo este miércoles 18 de noviembre (La Voz del Interior)",
+     "Nublado y más fresco: las zonas de Córdoba bajo alerta por tormentas este miércoles (eldoce)"
+    ]
+   },
+   {
+    "tema": "pronostico rosario",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en Rosario, Santa Fe: el pronóstico del tiempo para este miércoles 18 noviembre de 2026 (Clarin.com)",
+     "El tiempo en Rosario: miércoles caluroso, nublado y con chances de chaparrones (La Capital)"
+    ]
+   },
+   {
+    "tema": "pronostico posadas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este miércoles 18 noviembre de 2026 (Clarin.com)",
+     "Clima en Posadas hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026 (La Nación)"
+    ]
+   },
+   {
+    "tema": "cerro san bernardo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T01:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rápida intervención municipal ante un incendio en la ladera del cerro San Bernardo (Municipalidad de Salta)",
+     "Se incendió uno de los sitios más visitados de la capital de Salta: el operativo que contuvo las llamas (Infobae)"
+    ]
+   },
+   {
+    "tema": "página 12",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Osvaldo Soriano y su aventura africana en plena guerra de Malvinas (Página|12)",
+     "La caída de los sistemas expone la fragilidad tecnológica en Estados Unidos (Página|12)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "clima xalapa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tras paso del frente frío 6, así estará el clima en Xalapa este 18 de noviembre (La Silla Rota)",
+     "Prevén disminución de lluvias y ligero aumento de temperatura (Meganoticias.mx)"
+    ]
+   },
+   {
+    "tema": "club de fútbol cruz azul",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Willer Ditta renovará con Cruz Azul hasta 2029, fuentes (ESPN México)",
+     "Cruz Azul amarra a una de sus figuras para dominar la Liga MX (MARCA)"
+    ]
+   },
+   {
+    "tema": "temperatura monterrey",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Nuevo León: Temperatura mínima de 9°C para el miércoles 18 de noviembre (El Financiero)",
+     "Continuará la lluvia y el ambiente frío en Monterrey para este martes 17 de noviembre (Milenio)"
+    ]
+   },
+   {
+    "tema": "temperatura",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Frente frío trae lluvias y fuertes vientos a Baja California (Semanario ZETA)",
+     "Frentes fríos mantendrán las lluvias y el ambiente fresco este miércoles en la mayor parte del país (UnoTV)"
+    ]
+   },
+   {
+    "tema": "brian rodríguez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El regreso de Brian Rodríguez podría tardar más de lo esperado (Yahoo)",
+     "¡Problemas en América! Brian Rodríguez entrenó por separado y es duda para partido vs. Tigres (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "china",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump and Putin shake hands as Xi welcomes leaders to summit in China (BBC)",
+     "APEC summit latest: Xi breaks precedent by meeting Trump on arrival in China (CNN)"
+    ]
+   },
+   {
+    "tema": "kick",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals (About Amazon)",
+     "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices (MacRumors)"
+    ]
+   },
+   {
+    "tema": "beca",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Entregarán Tarjetas de la Beca Gertrudis Bocanegra en la UES (N+)",
+     "Entregan tarjetas de la Beca Gertrudis Bocanegra a estudiantes de la UTH (Uniradio Informa)"
+    ]
+   },
+   {
+    "tema": "huachicol",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aseguran más de 37 mil litros de huachicol frente a instalaciones de CFE en Cancún; hay un detenido (El Financiero)",
+     "FGR procesa a hombre por extracción ilegal de 37 mil litros de combustible en Cancún (DRV Noticias)"
+    ]
+   },
+   {
+    "tema": "la jornada",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Manifestantes que bloquearon Cuajimalpa por el líder criminal Lenin Canchola habrían recibido pagos (La Jornada)",
+     "Indaga SSPC denuncias por anomalías en penal de Nayarit (Reforma)"
+    ]
+   }
+  ]
+ }
+}
