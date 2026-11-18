@@ -1,23 +1,89 @@
 {
- "fecha": "2026-11-17T18:45-05:00",
+ "fecha": "2026-11-17T20:00-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
+    "tema": "argentina fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere Abel Núñez, futbolista argentino de 16 años, tras recibir un balonazo (El Telégrafo (por eliminar))",
+     "La muerte de Abel Núñez tras recibir balonazo en el rostro conmociona a Argentina (Primicias)"
+    ]
+   },
+   {
+    "tema": "estadísticas de selección de fútbol de ecuador contra selección de fútbol de bolivia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miami (OH) vs. Kent State (Nov 17, 2026) Box Score (ESPN)",
+     "Kansas State 86-45 Montana (Nov 16, 2026) Game Recap (ESPN)"
+    ]
+   },
+   {
+    "tema": "colombia vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Video | Luis Suárez botó penalti en el Colombis vs. Chile amistoso FIFA (Minuto60)",
+     "Lawrence Vigouroux salvó a La Roja con una atajada magistral (ESPN Chile)"
+    ]
+   },
+   {
+    "tema": "uruguay vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Precaución con Valverde en Uruguay (MARCA)",
+     "Publicación instagram 18170194861490829 de 2026-11-14 12:49:21 (Montevideo Portal)"
+    ]
+   },
+   {
+    "tema": "amistosos internacionales",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Selecciones Conmebol: los últimos 8 amistosos del año y el único que no juega :: Olé - ole.com.ar (Olé)",
+     "Ecuador y Sudamérica cierran la fecha FIFA con siete partidos este martes. (Machala Móvil)"
+    ]
+   },
+   {
+    "tema": "canada vs guatemala",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Dónde ver Canadá vs Guatemala hoy EN VIVO por la Nations League? (365Scores)",
+     "Canadá avanza a las Finales de la Liga de Naciones y clasifica a la Copa Oro (Concacaf | Official Website)"
+    ]
+   },
+   {
     "tema": "ecuador vs",
-    "volumen": "20000+",
-    "volumen_min": 20000,
+    "volumen": "50000+",
+    "volumen_min": 50000,
     "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Dónde juegan Ecuador y Bolivia su partido amistoso por la fecha FIFA: todo lo que debe saber del partido (El Universo)",
-     "Todo listo en los exteriores del estadio Monumental previo al amistoso entre Ecuador y Bolivia (Teleamazonas)"
+     "EN VIVO | Ecuador finaliza el primer tiempo con dos goles a su favor (Teleamazonas)",
+     "(En vivo) La Selección de Ecuador vs. Bolivia en Guayaquil (El Comercio)"
     ]
    },
    {
     "tema": "estados unidos - haití",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -26,20 +92,9 @@
     ]
    },
    {
-    "tema": "teleamazonas en vivo",
+    "tema": "uruguay - república dominicana",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Portada de The Economist 2027 anticipa un año marcado por transiciones políticas y avances en IA (Teleamazonas)",
-     "De viajes al espacio a Ozempic: las predicciones en la portada de The Economist sobre lo que viene en 2027 (Expansión)"
-    ]
-   },
-   {
-    "tema": "uruguay - república dominicana",
-    "volumen": "1000+",
-    "volumen_min": 1000,
     "desde": "2026-11-17T15:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -49,513 +104,458 @@
    },
    {
     "tema": "ecuador versus bolivia",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T15:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Ecuador vs. Bolivia Lineups, Live Streaming, How & Where to Watch on TV (Athlon Sports)",
+     "Ecuador vs Bolivia: Friendlies stats & head-to-head (BBC)",
      "Ecuador v Bolivia Prediction: 4/5 hosts to blank Bolivia in Guayaquil (news.bet365.com)"
     ]
-   },
-   {
-    "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Liberia vs Cape Verde: Africa Cup of Nations Qualification stats & head-to-head (BBC)",
-     "Liberia vs. Cape Verde Lineups, How & Where to Watch AFCON Qualifiers (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "john reimberg",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T14:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Reimberg afirma que llevar a Correa ante la justicia sea hasta dicimbre como «un regalo que han pedido los ecuatorianos (La República EC)",
-     "Ministro John Reimberg sobre llevar a Rafael Correa ante la justicia: “Es solo cuestión de tiempo” (El Universo)"
-    ]
-   },
-   {
-    "tema": "chile - colombia",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T14:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Chile definió a sus titulares para enfrentar a Colombia en el Estadio Monumental (DSports)",
-     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Deportes)"
-    ]
-   },
-   {
-    "tema": "argentina - costa rica",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T14:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La formación de la Selección Argentina vs. Costa Rica (TyC Sports)",
-     "Argentina - Costa Rica, en directo: amistosos internacionales, hoy en vivo (Diario AS)"
-    ]
-   },
-   {
-    "tema": "agencia de seguridad nacional",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
    }
   ],
   "US": [
    {
-    "tema": "iu basketball",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "tema": "cfp rankings today",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Who's on College Football Playoff bubble ahead of committee's third ranking? (ESPN)",
+     "College Football Playoff rankings predictions: Who will rise, fall and enter new Top 25? (The New York Times)"
+    ]
+   },
+   {
+    "tema": "kennesaw st vs alabama",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Texts from Kansas Game Day (247Sports)",
+     "USELESS BREAKDOWN: Texas A&M at Oklahoma graphical football preview (Good Bull Hunting)"
+    ]
+   },
+   {
+    "tema": "tennessee vs belmont",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lady Vols to face another in-state foe in Belmont (247Sports)",
+     "Live Updates: Lady Vols Basketball at Belmont (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "target black friday 2026",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Target Reveals Its Black Friday Sale Ad for 2026 and a Free Gift Card Promotion for Shopping in Stores (IGN)",
+     "Target's First-Ever Black Friday Food & Beverage Drops Signal a New Retail Playbook (Food & Beverage Magazine)"
+    ]
+   },
+   {
+    "tema": "dakota fanning",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elle Fanning on working with her sister, Dakota Fanning (AP News)",
+     "Elle and Dakota Fanning to share the big screen for the first time in movie adaptation of hit book (EVOKE)"
+    ]
+   },
+   {
+    "tema": "indiana vs arkansas",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "MBB Preview: Arkansas vs Indiana @ Bad Boy Mower Series – New York (Arkansas Razorbacks)",
-     "Game 5: IU basketball vs. Arkansas preview (Inside the Hall)"
+     "Scouting report & preview: Indiana basketball vs. No. 20 Arkansas (247Sports)"
     ]
    },
    {
-    "tema": "seleccion mexicana",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "tema": "mexico vs",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Selección Mexicana: No eres tú, Rafa... es Mikel, los dueños, el sistema (ESPN Deportes)",
-     "¿Cuándo juegan México vs Jamaica? Entérate hora y dónde ver (The Arizona Republic)"
+     "México vs. Jamaica hoy: ¿A qué hora y dónde ver en vivo la vuelta de los cuartos de final de Concacaf Nations League 2026? (Univision)"
     ]
    },
    {
-    "tema": "tennessee basketball",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "HOOPS CENTRAL: #14/14 Tennessee vs. #2/3 Michigan State (University of Tennessee Athletics)",
-     "Michigan State basketball at Tennessee Tipoff: Matchup analysis and a prediction (Lansing State Journal)"
-    ]
-   },
-   {
-    "tema": "lipscomb vs purdue",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Boilermakers Aim For 3rd Straight Win Tuesday vs. Lipscomb (Purdue Boilermakers)",
-     "Purdue sharpshooter available, starting lineup change for game vs Lipscomb (IndyStar)"
-    ]
-   },
-   {
-    "tema": "charlotte flair",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "tema": "christian pulisic",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "WWE's Charlotte Flair reassures fans about her father Ric Flair's heath after recent scares (Fox News)",
-     "WWE's Charlotte Flair reassures fans about Ric Flair's health (Fox News)"
+     "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs (ESPN)",
+     "Andres Cantor says Mauricio Pochettino leaves USMNT 'in a good place' as the U.S. 'has an edge' over CONCACAF rivals (Yahoo Sports)"
     ]
    },
    {
-    "tema": "pluribus",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "tema": "ncaa basketball rankings",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "'Pluribus' Season 2 Cast News Teases New Plot Details (Gizmodo)",
-     "Apple TV’s Best Sci-Fi Series Officially Confirms Major Season 2 Change (Collider)"
+     "Breaking down the 2026-27 AP Top 25 men's basketball poll for Week 2 (ESPN)",
+     "Florida reclaims top spot in Andy Katz's men's basketball Power 44 rankings after Week 2 (NCAA.com)"
     ]
    },
    {
-    "tema": "senators vs jets",
+    "tema": "morgan freeman",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "GAMEDAY: Senators at Jets (NHL.com)",
-     "Ottawa Senators vs Winnipeg Jets Prediction, Picks & Odds | 17 Nov 2026 (Sportsgambler)"
-    ]
-   },
-   {
-    "tema": "cia",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Judicial Watch: CIA Refuses to Confirm or Deny Existence of January 6 Records (Judicial Watch)",
-     "Court Orders CIA to Produce Jan 6 Records! (Judicial Watch)"
-    ]
-   },
-   {
-    "tema": "états-unis – haïti",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Avant de rejoindre Manchester United, Mauricio Pochettino se dit « concentré » pour un dernier match « très émouvant » avec les États-Unis (L'Équipe)",
-     "Battue par les USA 6-0, Haïti condamnée à l’exploit ce mardi à l’Ohio (Le Nouvelliste)"
-    ]
-   },
-   {
-    "tema": "the circle hulu",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Meet the Cast of Hulu’s ‘The Circle’ Revival (People.com)",
-     "‘The Circle’ season 8 premiere: How to watch episode 1 free on Hulu (Cleveland.com)"
+     "Morgan Freeman blues project with deep Memphis roots earns Grammy nomination (WREG.com)",
+     "2027 Blues Grammy nominations announced (Blues Rock Review)"
     ]
    }
   ],
   "ES": [
    {
+    "tema": "liga de naciones de la uefa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así quedan los cuartos de la Nations League: selecciones clasificadas, posibles rivales de España y cuándo se (Diario AS)",
+     "España conoce a sus rivales para la Nations y Alonso volverá a correr el Dakar (Cadena SER)"
+    ]
+   },
+   {
+    "tema": "cristina cifuentes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cristina Cifuentes: \"Mi marido y yo hemos tenido muchos problemas económicos por sus deudas\" (Vanitatis)",
+     "Cristina Cifuentes: “Mi padre era general de artillería. Somos ocho hermanos y yo fui la pequeña durante mucho tiempo. Me llevo 12 años con el pequeño\" (Lecturas)"
+    ]
+   },
+   {
+    "tema": "juventud",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La soledad no deseada, un problema que se recrudece entre la juventud (El Correo)",
+     "\"La soledad no deseada hace a la persona sentir invisible\" (La Opinión de Zamora)"
+    ]
+   },
+   {
+    "tema": "bertín osborne",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bertín Osborne se rompe ante Fabiola Martínez y le sorprende con una declaración por un motivo muy especial: \"Me emociona muchísimo, gordita\" (HOLA)",
+     "Fabiola, sobre el encuentro de sus hijos con el bebé de Gabriela Guillén: \"Lo decidirán ellos\" (Diez Minutos ES)"
+    ]
+   },
+   {
+    "tema": "estados unidos - haití",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pochettino: “El fútbol es el segundo deporte en Estados Unidos” (Diario AS)",
+     "Dónde ver Estados Unidos vs Haití: Hora y canal TV para la vuelta de 4tos de Final de Concacaf Nations League (MARCA)"
+    ]
+   },
+   {
+    "tema": "colombia vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Video | Luis Suárez botó penalti en el Colombis vs. Chile amistoso FIFA (Minuto60)",
+     "“Es como Bravo”: Arturo Vidal elogió a Lawrence Vigouroux y lo confirma como arquero titular en la Roja (RedGol)"
+    ]
+   },
+   {
+    "tema": "pensiones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gamarra asegura que el PP va a mantener el sistema de pensiones y revalorizarlas cada año con IPC (La Rioja)",
+     "Gamarra promete revalorizar las pensiones con el IPC y pide reactivar el Pacto de Toledo (elDiario.es)"
+    ]
+   },
+   {
+    "tema": "abel nuñez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Argentine youth footballer Abel Núñez dies after ball strike (Kursiv Media Узбекистан)",
+     "Tragedy rocks Argentine football: player dies after heading the ball clear (Goal.com)"
+    ]
+   },
+   {
+    "tema": "gonzalo miró y eugenia martínez de irujo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
     "tema": "argentina fc",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-17T15:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "Tragedia en el fútbol argentino: muere un jugador de 16 años tras recibir un fuerte balonazo en la cabeza (El Mundo)",
      "Muere Abel Núñez, futbolista juvenil del FC Ezeiza, tras recibir un pelotazo en la cabeza (Antena 3 Noticias)"
     ]
-   },
-   {
-    "tema": "albania españa sub 21",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Albania Sub 21 0 - España Sub 21 0: resumen, goles y resultado (Diario AS)",
-     "0-0: Carlos Espí y Thiago jugaron en el amistoso frente a Albania (Real Madrid CF | Web Oficial)"
-    ]
-   },
-   {
-    "tema": "nvda",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
-     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
-    ]
-   },
-   {
-    "tema": "jennifer lawrence",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era (The Guardian)",
-     "Jennifer Lawrence and Josh Hutcherson Reunite at the Hunger Games: Sunrise on the Reaping Premiere 14 Years After Their Franchise Debut (People.com)"
-    ]
-   },
-   {
-    "tema": "uruguay - república dominicana",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Selección: el once que perfila Forlán para recibir a República Dominicana este martes (Montevideo Portal)",
-     "Uruguay - República Dominicana: alineaciones, estadísticas, horario y dónde ver (bet365 - Apuestas deportivas en la red)"
-    ]
-   },
-   {
-    "tema": "ascensor",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El deterioro del ascensor de la calle Gisbert de Cartagena requerirá más reparaciones (La Verdad)",
-     "Ya ha entrado en vigor: el Gobierno cambia las normas de los ascensores y obliga a pagar hasta 40.000 euros por comunidad de vecinos para adaptarlos a la nueva normativa (Mundo Deportivo)"
-    ]
-   },
-   {
-    "tema": "heidi gardner",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'SNL' Alum Heidi Gardner's Boyfriend Dead at 43 (TMZ)",
-     "Filmmaker Ray Tintori, Boyfriend of SNL Alum Heidi Gardner, Dead at 43 (People.com)"
-    ]
-   },
-   {
-    "tema": "yan diomande",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Gambia 2 - Costa de Marfil 2: resumen, resultado y goles del partido (Diario AS)",
-     "2-2: Yan Diomande participa en el empate de Costa de Marfil en Gambia (Real Madrid CF | Web Oficial)"
-    ]
-   },
-   {
-    "tema": "san silvestre salamanca 2026",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Giro de 180 grados de la San Silvestre Salmantina 2026: cambio de recorrido y horario, con aumento de inscripciones (Salamancahoy)",
-     "La San Silvestre Salmantina dará la vuelta a su recorrido y se meterá en plena Plaza Mayor (Tribuna de Salamanca.)"
-    ]
-   },
-   {
-    "tema": "ecuador vs bolivia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T15:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Uruguay vs Rep. Dominicana de S60-SELECCIONES NACIONALES ABSOLUTAS (Futbolme)",
-     "Jornada - CAMPEONATO EUROPEO SUB-19 DE LA UEFA - Edición 2025-26 - Nombre fase 225 (Futbolme)"
-    ]
    }
   ],
   "AR": [
    {
-    "tema": "ecuador vs",
+    "tema": "spurs - pistons",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "desde": "2026-11-17T16:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Hernán Galíndez, previo al duelo vs. Bolivia: \"El otro día se vieron cosas muy buenas\" (ESPN Argentina)",
-     "Gallardo y un nuevo amistoso con Ecuador: la joyita que la rompió en una práctica, los elogios de un histórico arquero de la LigaPro y el posible 11 (Olé)"
+     "Game Preview: San Antonio Spurs vs Detroit Pistons (Pounding The Rock)",
+     "Cade Cunningham might be forced to challenge his own record against the Spurs (PistonPowered)"
     ]
    },
    {
-    "tema": "condena",
+    "tema": "troglio",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-17T15:30:00-08:00",
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Troglio a Olé: \"Boca jugó mucho mejor\" (Olé)",
+     "La autocrítica del entrenador de Banfield luego de la eliminación en la Copa Argentina: \"Boca jugó mucho mejor\" (TN)"
+    ]
+   },
+   {
+    "tema": "raptors - knicks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[Live/fREE]* Knicks v Raptors 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ (Comité Asesor de Vacunas de la AEP)",
+     "NBA Admits Multiple Officiating Mistakes in Knicks’ Overtime Win vs Raptors (Yahoo)"
+    ]
+   },
+   {
+    "tema": "clima quilmes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Caso Agostina Páez: la Justicia de Brasil rechazó un acuerdo para evitar una condena (Página|12)",
-     "Revés para Agostina Páez a la espera de la sentencia: la fiscalía de Río rechaza un acuerdo para evitar una condena (La Nación)"
+     "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026 (La Nación)",
+     "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026 (La Nación)"
     ]
    },
    {
-    "tema": "amistosos internacionales",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "EN VIVO: Brasil busca recuperarse ante Singapur tras la derrota frente a Japón (ESPN Argentina)",
-     "No hay nadie como Vini (Diario AS)"
-    ]
-   },
-   {
-    "tema": "prestianni",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El ranking de promesas Sub 21 que tiene a Prestianni y a Mastantuono por encima de Lamine Yamal (Olé)",
-     "El ranking de promesas Sub 21 que tiene a Prestianni y a Mastantuono por encima de Lamine Yamal (La Señal FM - 97.7)"
-    ]
-   },
-   {
-    "tema": "estados unidos - haití",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "El último partido de Mauricio Pochettino en Estados Unidos: sin títulos, se va a Inglaterra con un reconocimiento general (La Nación)",
-     "Estados Unidos vs. Haití, EN VIVO: dónde ver por TV y ONLINE (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "nvda",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
-     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
-    ]
-   },
-   {
-    "tema": "agustín giay",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Agustín Giay, cada vez más importante en Palmeiras: renovación hasta 2031 :: Olé - ole.com.ar (Olé)",
-     "El jugador de la selección argentina que renovó con su club hasta 2031 y está en la mira de tres clubes europeos (Infobae)"
-    ]
-   },
-   {
-    "tema": "mariano troilo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La emoción de la familia Troilo por la presencia de Mariano con la selección en Córdoba: \"Un orgullo\" (La Voz del Interior)",
-     "Argentina vs. Costa Rica hoy en vivo por un amistoso: el partido, minuto a minuto (Página|12)"
-    ]
-   },
-   {
-    "tema": "walter samuel",
+    "tema": "ranking fifa",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-17T15:10:00-08:00",
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Otro adiós en la Selección Argentina en el amistoso ante Costa Rica (TyC Sports)",
-     "Walter Samuel y el adiós de una pieza clave para Scaloni y la Selección Argentina (ESPN Argentina)"
+     "Canada men's soccer team reaches record FIFA ranking of No. 25 (Sportsnet.ca)",
+     "Canada reaches new all-time high in FIFA men’s world ranking (Daily Hive)"
     ]
    },
    {
-    "tema": "afa",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-17T15:10:00-08:00",
+    "tema": "hacker",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Octavos de final del Torneo Clausura 2026: días y horarios confirmados (Página|12)",
-     "Se confirmaron los árbitros de los octavos de final del Torneo Clausura (Bolavip Argentina)"
+     "GTA 6 hacker pleads guilty after release from secure hospital (BBC)",
+     "Original GTA 6 Hacker Pleads Guilty to 2022 Breach (Insider Gaming)"
+    ]
+   },
+   {
+    "tema": "josé manuel lópez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Palmeiras pone el avión: la movida para tener al Flaco López y Giay contra Cruzeiro :: Olé - ole.com.ar (Olé)",
+     "La movida de Palmeiras para que Giay y el Flaco López vuelvan urgente tras el partido de Argentina (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "thiago almada",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Scaloni habló sobre el presente de Almada en River (Olé)",
+     "¿Qué dijo Lionel Scaloni sobre el presente de Thiago Almada en River? (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "cuti romero",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A casi un mes de su lesión, se retrasa el regreso de Cuti Romero en Atlético Madrid (TyC Sports)",
+     "La sorpresiva decisión del Cuti Romero previo al Argentina-Costa Rica (Vía País)"
+    ]
+   },
+   {
+    "tema": "flaco lopez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Video: salió a la luz un inédito registro del Flaco López en San Lorenzo de Villa Castells (0221)",
+     "Palmeiras pone el avión: la movida para tener al Flaco López y Giay contra Cruzeiro :: Olé - ole.com.ar (Olé)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "usa vs haiti",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
+    "tema": "julian hall",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "USA vs. Haiti, Mexico vs. Jamaica close out Nations League Quarterfinals (Concacaf | Official Website)",
-     "Cavan Sullivan's moment? Folarin Balogun or Julian Hall? How the USMNT should line up for Mauricio Pochettino's farewell vs. Haiti (Goal.com)"
+     "Julian Hall's Rise Puts New York Red Bulls on Alert as European Clubs Circle (Pasión Fútbol)",
+     "Every Dual National Now Cap-Tied to the USMNT Following Concacaf Nations League (LiveScore)"
     ]
    },
    {
-    "tema": "argentina fc",
+    "tema": "timberwolves - trail blazers",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Otra muerte por impacto en el futbol conmociona a toda Argentina (TUDN)",
-     "¡Terrible! Muere futbolista tras recibir PELOTAZO en la cabeza en pleno partido (Mediotiempo)"
-    ]
-   },
-   {
-    "tema": "nvda",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-17T15:20:00-08:00",
+    "desde": "2026-11-17T16:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates (CNBC)",
-     "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO (Yahoo Finance)"
+     "Terrence Shannon Jr. adds more good news for Timberwolves amid Anthony Edwards' absence (DAZN)",
+     "Tiny Nick's Gambling Picks 11/17 (Zone Coverage)"
     ]
    },
    {
-    "tema": "estados unidos - haití",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-17T15:10:00-08:00",
+    "tema": "knicks vs raptors",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Estados Unidos vs. Haití y México vs. Jamaica cierran los Cuartos de Final de la Liga de Naciones (Concacaf | Official Website)",
-     "Pochettino sobre su legado en Estados Unidos: “Dejamos la base; la tierra fértil para dar frutos” (Telemundo)"
+     "Polymarket Invite Code TIMES | $25 Bonus for NFL, college football, crypto, more (El Paso Times)",
+     "Polymarket Promo Code WTOP: Get $10 Deposit for NBA, NHL Trades (Nov. 17) – WTOP News (WTOP News)"
     ]
    },
    {
-    "tema": "colombia vs",
+    "tema": "partidos de hoy",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T15:00:00-08:00",
+    "desde": "2026-11-17T16:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Chile anuncia sorpresivo cambio de estadio ante Colombia: ¿Qué pasó? (ESPN México)",
-     "Apuntan a BTS por deterioro del césped en el Estadio Nacional (ESPN Deportes)"
+     "Partidos hoy martes 17 de noviembre: continúa la UEFA y Concacaf Nations League (TUDN)",
+     "La agenda de la TV del martes: Argentina frente a Costa Rica, la UEFA Nations League y el ATP Finals (Yahoo)"
     ]
    },
    {
-    "tema": "uruguay - república dominicana",
+    "tema": "adamuz",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro (EL PAÍS)",
+     "Un ex empleado de una cantera denuncia a la juez que Adif usó material defectuoso en las obras previas al choque de trenes de Adamuz (El Mundo)"
+    ]
+   },
+   {
+    "tema": "rodrigo íñigo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿En la mira de la FMF? El ex América que ya es entrenador certificado por la UEFA (MARCA)",
+     "Rodrigo Íñigo, exjugador del América, alcanza la élite de los entrenadores con la licencia UEFA Pro (Récord)"
+    ]
+   },
+   {
+    "tema": "seleccion mexicana",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-17T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "México vs Jamaica: ¿cuánto paga la eliminación del Tri? (ESPN México)",
+     "México vs. Jamaica: ¿Dónde ver el partido de vuelta de la Nations League 2026? | Canal 5 Home | Canal5 (Televisa)"
+    ]
+   },
+   {
+    "tema": "jubilación",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-17T14:50:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-17T16:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN México)",
-     "Selección Uruguaya (previa): dos ómnibus escoltados rumbo al CAMPUS llamaron la atención de vecinos. (Cadena del Mar)"
+     "IMSS elimina para siempre pensiones de vejez de miles de mexicanos con el aval de la Suprema Corte (Ambito)",
+     "Suprema Corte frena doble pago del IMSS a jubilados: ¿qué pensiones son incompatibles? (UnoTV)"
     ]
    },
    {
-    "tema": "maría estela ríos gonzález",
+    "tema": "spurs - pistons",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-17T14:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Pide Ministra respeto a proyecto: 'No me pueden obligar' (Reforma)",
-     "María Estela Ríos confronta a ministros de la Corte tras rechazar su proyecto: ‘Respeten mi decisión’ (El Financiero)"
-    ]
-   },
-   {
-    "tema": "costa rica vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T14:40:00-08:00",
+    "desde": "2026-11-17T16:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "[ＳＴＲＥＡＭ]Argentina vs Costa Rica Live Broadcast (Comité Asesor de Vacunas de la AEP)",
-     "Blacktie Sports - Free 𝚁eddit Argentina vs Costa Rica BuffStreams International Friendlyl StreamS (Comité Asesor de Vacunas de la AEP)"
+     "Detroit Pistons vs. San Antonio Spurs Live NBA Updates, Scores and Highlights (Bleacher Report)",
+     "Cade Cunningham might be forced to challenge his own record against the Spurs (PistonPowered)"
     ]
    },
    {
-    "tema": "markwayne mullin",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-17T14:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage (New York Post)",
-     "Mullin Flew to Football Game While Flights Were Grounded (The New Republic)"
-    ]
-   },
-   {
-    "tema": "chile - colombia",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-17T14:20:00-08:00",
+    "tema": "inundaciones en veracruz",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-17T16:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¡Atención, chilenos! La probable formación para enfrentar a Colombia (ESPN México)",
-     "Amistoso fecha FIFA: Colombia vuelve a Chile con un invicto que ya cumple 18 años (ESPN Deportes)"
+     "AUTORIDADES ESTATALES Y MUNICIPALES MANTIENEN ATENCIÓN PERMANENTE TRAS LLUVIAS EXTRAORDINARIAS EN VERACRUZ (Gob MX)",
+     "Frente Frío 6 deja fuertes inundaciones en Veracruz (Yahoo)"
     ]
    }
   ]
