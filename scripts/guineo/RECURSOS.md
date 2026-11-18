@@ -116,4 +116,5 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 - Para usarlos: copiar los PNG a `lotes/img/` y ponerlos como `"foto"` con un `"movimiento"`.
 
 ## Pendiente / ideas
+- **Escena animada corta (idea de Mui, 18/11; se prueba el sábado 21 con el Súper Resumen, NO usar antes):** recurso extra para los reels de Guineo basado en la habilidad claude-animated-shorts (github.com/mromidev/claude-animated-shorts, MIT; three.js + Remotion, personajes 2D en mundo 3D). Regla: **máximo 5 s por reel**, recreando el momento que se está contando, combinada con los recursos de siempre (gráficos, escudos, dibujos, pizarra). Solo 1 por reel y solo en los reels 🔥 más importantes, para no gastar uso. Reutilizar escenarios y personajes genéricos ya hechos (estadio, hinchas, arquero, delantero) en vez de crear todo de cero. Sin caras realistas de jugadores reales ni escudos dentro de la animación.
 - Recreación 3D de jugadas con la animación de El Profe (otro repo): aún no conectada.
