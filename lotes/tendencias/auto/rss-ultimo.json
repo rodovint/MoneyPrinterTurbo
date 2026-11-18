@@ -1,17 +1,17 @@
 {
- "fecha": "2026-11-18T09:14-05:00",
+ "fecha": "2026-11-18T10:55-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
     "tema": "carlos alcaraz",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-18T05:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Medvedev palpitó su enfrentamiento contra Alcaraz en las ATP Finals 2026: \"Es la mejor oportunidad para vencerlo\" (ESPN Deportes)",
-     "Carlos Alcaraz-Medvedev, en las Finales ATP: cuándo se juega, a qué hora y dónde verlo (La Opinión de Murcia)"
+     "Carlos Alcaraz, en alerta en las ATP Finals 2026: \"No quería forzar mi cuerpo\" (ESPN Deportes)",
+     "Alcaraz - Medvedev: resumen, resultado y estadísticas de las ATP Finals (MARCA)"
     ]
    },
    {
@@ -27,8 +27,8 @@
    },
    {
     "tema": "dalia bucaram",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "100+",
+    "volumen_min": 100,
     "desde": "2026-11-18T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -43,8 +43,8 @@
     "desde": "2026-11-18T02:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "IESS adelanta las pensiones de noviembre a los jubilados, pero no puede anticipar el bono navideño, conozca por qué (Primicias)",
-     "IESS adelantó cuatro días el pago de pensiones de noviembre para 90 mil jubilados y pensionistas (Teleamazonas)"
+     "IESS: por qué no se puede pagar el décimo tercer sueldo a los jubilados antes de diciembre (Diario La Hora)",
+     "IESS adelanta las pensiones de noviembre a los jubilados, pero no puede anticipar el bono navideño, conozca por qué (Primicias)"
     ]
    },
    {
@@ -60,24 +60,24 @@
    },
    {
     "tema": "espol",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-17T22:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
      "Espol suspende clases hasta marzo de 2027 y estudiantes convocan a plantón en rechazo a la decisión (El Universo)",
-     "Espol difiere clases por fenómeno de El Niño hasta marzo de 2027 (Diario Extra)"
+     "Estudiantes de la Espol rechazan diferimiento de clases hasta marzo de 2027 y convocan a huelga (Diario Extra)"
     ]
    },
    {
     "tema": "twitch",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "5000+",
+    "volumen_min": 5000,
     "desde": "2026-11-17T21:20:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "‘Grand Theft Auto VI’ is an astonishing American epic (The Washington Post)",
-     "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations (Channel 3000)"
+     "Grand Theft Auto VI Review: It Will Steal Your Heart (The New York Times)",
+     "‘Grand Theft Auto 6’ Reviews: Critics Hail “The Most Impressive Video Game Ever” (The Hollywood Reporter)"
     ]
    },
    {
@@ -98,256 +98,333 @@
     "desde": "2026-11-17T20:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Quentin Grimes matches Kobe Bryant's Lakers mark in overtime win (Mezha.net)",
-     "“It’s an honor to wear this jersey and be mentioned … (Yahoo Sports)"
+     "Luka Doncic News: Drops 37 points in OT win (RotoWire)",
+     "“It’s an honor to wear this jersey and be mentioned … (HoopsHype)"
     ]
    },
    {
     "tema": "telemundo",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-17T18:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sin Senos Sí Hay Paraíso 4 regresa con nuevos peligros y grandes regresos (Telemundo)",
-     "Reacciones al estreno de la nueva temporada de ‘Sin senos sí hay paraíso’: lo que gustó y lo que no (People en Español)"
+     "Peatón gravemente herido en atropello y fuga cerca de apartamentos en Bridgewater (Telemundo Nueva Inglaterra)",
+     "Miss Universo 2026 publica el retrato oficial de Dalia Bucaram, representante de Ecuador en la edición de sus 75 años (El Universo)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "brett cooper",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T06:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Analysis | Trump was once celebrated by people distancing themselves from his politics (The Washington Post)",
-     "‘There was a lot of gaslighting’: why America’s podcast stars ditched Donald Trump (Financial Times)"
-    ]
-   },
-   {
-    "tema": "northern lights forecast",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Northern Lights Forecast: 12 States May See Aurora This Tuesday Night (Forbes)",
-     "G1 geomagnetic storm watch remains in effect as NOAA forecasts Kp 4.67 late on November 17 and early on November 18 (The Watchers - Watching the world evolve and transform)"
-    ]
-   },
-   {
-    "tema": "daniil medvedev",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Medvedev on his pivotal 2019 streak: When ‘super steady’ became super speed! (ATP Tour)",
-     "Alcaraz & Medvedev chase SF qualification in Turin; Cobolli faces Tiafoe (ATP Tour)"
-    ]
-   },
-   {
-    "tema": "carlos alcaraz",
+    "tema": "new jason movie",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-18T05:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sergio Ramos y Carlos Alcaraz entran en el Guinness de los Récords con dos marcas para la historia (Diario AS)",
-     "Alcaraz pule a la próxima gran promesa del tenis mundial: ¿Quién es Guto Miguel? (Eurosport)"
-    ]
-   },
-   {
-    "tema": "emma grede",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T05:30:00-08:00",
+    "desde": "2026-11-18T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Careers in luxury and the art of building a brand (Jesus College, Cambridge)",
-     "Amina Muaddi Talks to Emma Grede About Her Label, Being Her Own Boss (WWD)"
+     "New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date (Deadline)",
+     "‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse (Bloody Disgusting)"
     ]
    },
    {
-    "tema": "glenn close",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T05:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Glenn Close Recalls Growing Up In A ‘Restrictive Cult’ During Emotional Honorary Oscar Speech (HuffPost)",
-     "Legendary Actress Shares Dark Secrets of ‘Restrictive Cult’ (The Daily Beast)"
-    ]
-   },
-   {
-    "tema": "anthropic ipo",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-18T05:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Opinion | The Anthropic I.P.O. Will Change the Future of A.I. (The New York Times)",
-     "Anthropic's $1.4 trillion IPO has retail investors divided over whether to buy or wait (CNBC)"
-    ]
-   },
-   {
-    "tema": "toxic hall of shame",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T04:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "‘Hall of Shame’ singles out major retailers before Black Friday (CNN)",
-     "New report finds nearly half of major retailers evaluated are backsliding on efforts to protect health from toxic chemicals and plastics (Toxic-Free Future)"
-    ]
-   },
-   {
-    "tema": "gta 6 radio stations",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T04:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tuning In to Leonida: Every Radio Station in GTA VI (GTA 6) (CULTR)",
-     "How To Listen To Music And Podcasts On Your Phone In GTA 6 (GameSpot)"
-    ]
-   },
-   {
-    "tema": "florida flooding",
+    "tema": "florida weather flooding",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-18T04:30:00-08:00",
+    "desde": "2026-11-18T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Why parts of Florida are flooding during the dry season (The Weather Channel)",
-     "County-by-county look at what to expect as Central Florida braces for more flooding (WESH)"
+     "Flood threat grows across Central Florida as additional inches of rain move in (WESH)",
+     "Severe flooding hits parts of coastal Florida from over a foot of rain … and a lot more is incoming (CNN)"
+    ]
+   },
+   {
+    "tema": "spartanburg water",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Spartanburg Water issues systemwide boil water advisory (FOX Carolina News)",
+     "Spartanburg Water issues systemwide boil water advisory (WYFF)"
+    ]
+   },
+   {
+    "tema": "seatgeek",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Morgan Wallen (Nissan Stadium)",
+     "Morgan Wallen’s Last Time I Checked Tour is coming to Buffalo on July 23 and 24, 2027 (Buffalo Bills)"
+    ]
+   },
+   {
+    "tema": "cameron mathison",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘General Hospital’ star reflects cancer diagnosis: ‘I was doing these extreme things’ (AL.com)",
+     "'General Hospital' star Cameron Mathison says ‘red flags’ drove him to demand answers before cancer diagnosis (Fox News)"
+    ]
+   },
+   {
+    "tema": "urban meyer",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "InsideMDSports Exclusive: Urban Meyer emerging in Maryland's football coaching search (247Sports)",
+     "Urban Meyer ‘seriously considering’ Maryland head coaching job, per report (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "unh stock",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Why Is UnitedHealth Stock Falling? (Trefis)",
+     "Your “Safe” Health Care ETF Just Got Hit by UnitedHealth Again (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "ticket master",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Stevie Wonder's two sold-out Fox Theatre concerts in Detroit canceled, Ticketmaster says (CBS News)",
+     "Stevie Wonder’s ‘Songs in the Key of Life’ 50th anniversary performances at Fox Theatre canceled (ClickOnDetroit | WDIV Local 4)"
+    ]
+   },
+   {
+    "tema": "greg brockman",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "To Strengthen OpenAI, Brockman Goes ‘Full Management Mode’ (The Information)",
+     "OpenAI Partners With NATO On Cyber Defenses (WSJ)"
+    ]
+   },
+   {
+    "tema": "nitto atp finals",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T07:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alcaraz eases past Medvedev, moves to brink of Turin SFs (ATP Tour)",
+     "Carlos Alcaraz beats Daniil Medvedev in ATP Finals tennis group stage – as it happened (The Guardian)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "kuwait",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T06:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait (WSJ)",
-     "Iran widens Gulf attacks after US strikes missile launch site (CNN)"
-    ]
-   },
-   {
-    "tema": "emilio del barrio",
+    "tema": "jugador",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T05:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Fallece Emilio del Barrio, uno de los socios del grupo Forty (Alicante Plaza)",
-     "Conmoción por la muerte del empresario alicantino Emilio Del Barrio, socio y presidente del Grupo Forty (todoalicante.es)"
-    ]
-   },
-   {
-    "tema": "carlos alcaraz",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-18T05:40:00-08:00",
+    "desde": "2026-11-18T07:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Carlos Alcaraz - Daniil Medvedev, en directo, el partido de las ATP Finals en vivo (EL PAÍS)",
-     "Alcaraz y Medvedev se juegan una plaza en SF; Cobolli se cita con Tiafoe (ATP Tour)"
+     "Siete jugadores del Unicaja con España sub 15 y sub 16 (Málaga Hoy)",
+     "Los Angeles Lakers vs Charlotte Hornets: Puntos, rebotes y asistencias por jugador | NBA 2026/2027 (Diario AS)"
     ]
    },
    {
-    "tema": "julio iglesias",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra libertad sexual y cita a las querellantes en febrero (El Mundo)",
-     "La Audiencia Nacional abre una investigación sobre Julio Iglesias por los abusos denunciados por sus exempleadas (El Confidencial)"
-    ]
-   },
-   {
-    "tema": "campanillas",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Un trabajador queda suspendido a al menos 15 metros de altura tras volcar una grúa en Campanillas (Diario Sur)",
-     "Informativo Málaga 13:50H 18/11/26 (RTVE.es)"
-    ]
-   },
-   {
-    "tema": "virus modificado genéticamente",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T05:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Una investigación liderada por el Hospital público 12 de Octubre demuestra que un virus modificado genéticamente combinado con quimioterapia mejora la supervivencia en cáncer de páncreas metastásico (Comunidad de Madrid |)",
-     "El 12 de Octubre lidera un ensayo internacional que logra aumentar la supervivencia en el cáncer de páncreas metastásico (Cadena SER)"
-    ]
-   },
-   {
-    "tema": "amenaza de bomba hoy",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T05:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Susto en varios colegios de A Coruña por avisos de bomba que resultaron ser falsas alarmas (La Voz de Galicia)",
-     "La Policía Nacional desaloja al menos 16 colegios en A Coruña dentro de una campaña de amenazas de bomba que afecta a toda Galicia: 'Todo apunta a que es falso' (La Opinión A Coruña)"
-    ]
-   },
-   {
-    "tema": "cara a cara sanchez feijoo",
+    "tema": "amenaza bomba",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-18T05:20:00-08:00",
+    "desde": "2026-11-18T07:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Elecciones generales 29N, última hora en directo: campaña, debate Sánchez-Feijóo, encuestas y tracking diario (Diario AS)",
-     "Destacados de programación del jueves, 19 de noviembre (Atresmedia)"
+     "Susto en al menos una treintena de colegios de A Coruña por avisos de bomba que resultaron ser falsas alarmas (La Voz de Galicia)",
+     "Desalojados varios colegios de Galicia por falsos avisos de bomba enviados por mail (El Confidencial)"
     ]
    },
    {
-    "tema": "anne hathaway",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T05:20:00-08:00",
+    "tema": "tamara gorro",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Anne Hathaway, madre por tercera vez a los 43 años (El Mundo)",
-     "Anne Hathaway se convierte en madre por tercera vez junto a Adam Shulman (La Vanguardia)"
+     "¿Cómo vive Cayetano Rivera los primeros días tras la ruptura con Tamara Gorro?: (atresplayer)",
+     "Comunicado de Cayetano Rivera tras su ruptura con Tamara Gorro: \"Lo que tenga que ser, lo decidiremos nosotros\" (HOLA)"
     ]
    },
    {
-    "tema": "sala divas",
+    "tema": "bandera",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T05:10:00-08:00",
+    "desde": "2026-11-18T07:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El origen del tiroteo a las puertas de un club de alterne de Málaga: los sospechosos querían introducir gas de la risa (Diario Sur)",
-     "Informativo Málaga 8:45h 16/11/2026 (RTVE.es)"
+     "Pedro Sánchez se aferra de nuevo a la bandera: “Estamos muy orgullosos de España” (EL PAÍS)",
+     "Sánchez vuelve a ondear la bandera de España en un mitin del PSOE: \"Hay algunos a los que les molesta\" (El Mundo)"
+    ]
+   },
+   {
+    "tema": "ingreso",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno concede 171 euros de Ingreso Mínimo Vital por cada miembro de la unidad de convivencia, aunque pagará complementos a las familias con menores de edad (El Economista)",
+     "El IMV se desborda en España y su factura alcanza los 23.472 millones (Libertad Digital)"
+    ]
+   },
+   {
+    "tema": "kelly preston",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "EXCLUSIVE: John Travolta Reveals If He’s Open to Dating 6 Years After Death of Wife Kelly Preston (TODAY.com)",
+     "John Travolta is open to finding love again six years after Kelly Preston's death (HOLA)"
+    ]
+   },
+   {
+    "tema": "amaia montero",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Amaia Montero, tras las críticas a La Oreja de Van Gogh: \"Estoy sufriendo mucho porque lo que hay dentro no tiene nada que ver con lo que se dice fuera\" (El Mundo)",
+     "Amaia Montero, cantante: “Están diciendo muchas tonterías. Son errores que se cometen en un escenario” (Diario AS)"
+    ]
+   },
+   {
+    "tema": "festival",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El talento joven se abre paso en el Festival de Música Española de Cádiz (La Voz Digital)",
+     "O Sister! despega desde Cádiz hacia otra galaxia musical con su particular universo de swing (Andalucía Información)"
+    ]
+   },
+   {
+    "tema": "nómina",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T06:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hacienda obliga a los empleadores a recalcular las nóminas para dejar sin retención de IRPF al salario mínimo (EL PAÍS)",
+     "La subida salarial de los funcionarios en el 2027 costará 4.965 millones de euros (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "fiscal general",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T06:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El ex fiscal general del Estado y la Fiscalía se oponen de nuevo a las costas fijadas por el Supremo (El Confidencial)",
+     "El ex fiscal general impugna el pago de 39.000 euros en costas a González Amador por una acusación “sobredimensionada” (elDiario.es)"
     ]
    }
   ],
   "AR": [
    {
+    "tema": "clima moreno",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T07:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Morón hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026 (La Nación)",
+     "Clima en Moreno hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026 (La Nación)"
+    ]
+   },
+   {
+    "tema": "playstation store",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T07:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing (The Game Business)",
+     "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through (Push Square)"
+    ]
+   },
+   {
+    "tema": "selección de fútbol sub-17 de argentina",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T07:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Selección Argentina vs. Australia, por el Mundial Sub 17: día, hora, cómo ver por TV y convocados (Olé)",
+     "Mundial Sub 17: Argentina definió su lista para la cita en Qatar (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "autopsia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T07:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las fotos de la autopsia y la celda de Jeffrey Epstein que dividen a los forenses: para unos fue suicidio; para otros, asesinato (Infobae)",
+     "Un experto forense asegura que su análisis de las fotos de la autopsia de Epstein sugiere que el financiero fue asesinado en prisión (BBC)"
+    ]
+   },
+   {
+    "tema": "pensión no contributiva",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T06:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Por la Ley 27.793, suspenderán la Pensión No Contributiva por Discapacidad a las personas que superen este límite de ingreso en noviembre (El Cronista)",
+     "Pensión por discapacidad de Anses: cuáles son los topes de ingresos para mantener el beneficio (La Capital)"
+    ]
+   },
+   {
+    "tema": "patrick vieira",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T06:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "WATCH: Senegal players strange reaction after meeting new boss Patrick Vieira (Pulse Nigeria)",
+     "Their faces fell! You’ll be very surprised when you find out who the man they greeted is. (Haberler.com)"
+    ]
+   },
+   {
+    "tema": "línea sarmiento",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T06:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El servicio del tren Sarmiento estará limitado durante el fin de semana largo: qué estaciones afecta (La Nación)",
+     "Otro fin de semana largo con servicio limitado en la Línea Sarmiento (Diario Popular)"
+    ]
+   },
+   {
     "tema": "carlos alcaraz",
     "volumen": "1000+",
     "volumen_min": 1000,
     "desde": "2026-11-18T05:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Medvedev palpitó su enfrentamiento contra Alcaraz en las ATP Finals 2026: \"Es la mejor oportunidad para vencerlo\" (ESPN Argentina)",
-     "Alcaraz y Medvedev se juegan una plaza en SF; Cobolli se cita con Tiafoe (ATP Tour)"
+     "ATP Finals 2026: Carlos Alcaraz borró de la cancha a Daniil Medvedev y está prácticamente clasificado a semifinales (ESPN Argentina)",
+     "Carlos Alcaraz derrotó a Medvedev y acaricia las semifinales en el ATP Finals 2026 (La Nación)"
     ]
    },
    {
@@ -357,205 +434,131 @@
     "desde": "2026-11-18T05:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Java4Shell RCE: Affected Versions & Fix (CVE-2026-114938) (Aikido Security)",
-     "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet (The New York Times)"
-    ]
-   },
-   {
-    "tema": "shakira mebarak",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T04:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Shakira y Milan se robaron todas las miradas en Miami en partido de la NBA (Infobae)",
-     "Shakira va al partido del Miami Heat con su hijo Milan y todos comentan lo mismo (El Nuevo Herald)"
+     "Critical flaw found in vital internet language Java through AI (BBC)",
+     "Java4Shell RCE: Affected Versions & Fix (CVE-2026-114938) (Aikido Security)"
     ]
    },
    {
     "tema": "facundo conte",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T04:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "El retiro espiritual junto a una tribu amazónica de una estrella del deporte argentino: “No tengan miedo a explorarse” (Infobae)",
-     "De medalla olímpica a retiro espiritual: el cambio de vida del exjugador de vóley Facundo Conte (La Capital)"
-    ]
-   },
-   {
-    "tema": "copa intercontinental",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T04:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": []
-   },
-   {
-    "tema": "deutsche bank",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T04:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Una filtración reveló operaciones sospechosas del Deutsche Bank con Epstein y Trump (Página|12)",
-     "Documentos filtrados revelan que Deutsche Bank protegió las ganancias rusas a pesar de las advertencias (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "antonela roccuzzo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T04:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La impactante rutina en el gimnasio de Antonela Roccuzzo mientras Messi se pone a punto para jugar con el Inter Miami (Infobae)",
-     "Antonela Roccuzzo mostró su exigente rutina de entrenamiento para la parte superior del cuerpo (La Nación)"
-    ]
-   },
-   {
-    "tema": "18 de noviembre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T04:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Dólar blue, dólar hoy: a cuánto cotizan el miércoles 18 de noviembre de 2026 (Página|12)",
-     "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 18 de noviembre (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "clima parana",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T03:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Clima hoy en Paraná, Entre Ríos: el pronóstico del tiempo para este miércoles 18 noviembre de 2026 (Clarin.com)",
-     "Clima en Entre Ríos hoy miércoles 18 de noviembre: muy nuboso y cálido (TN)"
-    ]
-   },
-   {
-    "tema": "play 5",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T03:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO. (Mashable)",
-     "Here's Where to Get a Sony PlayStation 5 Pro Online, Ahead of the 'Grand Theft Auto VI' Release (Variety)"
+     "Facundo Conte, exjugador de la selección de vóley, sorprendió al mostrar la experiencia espiritual que vivió (La Nación)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "carlos alcaraz",
+    "tema": "clima guadalajara",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T07:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Guadalajara hoy: pronóstico del tiempo para este miércoles 18 de noviembre (Milenio)",
+     "Jalisco prevé temperaturas mínimas frescas: Así estará el clima este miércoles 18 de noviembre (El Financiero)"
+    ]
+   },
+   {
+    "tema": "jaime barrera",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T07:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Detienen a 'El Topo' en Jalisco tras enfrentamiento (Reforma)",
+     "Disparos se reanudan en Zapopan durante operativo de la marina (Milenio)"
+    ]
+   },
+   {
+    "tema": "sedán",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T07:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Autos sedán Kia, Mazda, Chevrolet y MG que cuestan menos que un Nissan Versa 2026 (InformaBTL)",
+     "Nissan Sentra 2026 vs. Toyota Corolla 2026: diferencias de precios, versiones y equipo en México (De Cero a 100)"
+    ]
+   },
+   {
+    "tema": "glastonbury",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T07:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Glastonbury 2027 line-up: Harry Styles, Cher, Sam Fender and Billie Eilish to headline (BBC)",
+     "Glastonbury 2027 line-up so far (Glastonbury Festivals)"
+    ]
+   },
+   {
+    "tema": "paulina rubio",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-18T07:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Todas las Karol G triunfan en México (EL PAÍS)",
+     "Belinda en el concierto de Karol: Llevó los jeans con brillos que son tendencia en otoño 2026 y zapatos de plataforma (Vogue México)"
+    ]
+   },
+   {
+    "tema": "el informador",
     "volumen": "1000+",
     "volumen_min": 1000,
+    "desde": "2026-11-18T07:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mejores salarios y programas sociales reducen la pobreza en 15.3 puntos porcentuales (Gobierno del Estado de Michoacán)",
+     "El Banco Mundial aprueba a la 4T (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "nitto atp finals",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T06:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Zverev shuts down Shelton to seal Nitto ATP Finals SF berth (ATP Tour)",
+     "ATP Finals: Alexander Zverev beats Ben Shelton to reach semi-finals (BBC)"
+    ]
+   },
+   {
+    "tema": "deportación",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T06:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda (BBC)",
+     "Europa no es esto (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "tina simmons",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T06:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere Tina Simmons, actriz de 'Star Wars' y 'James Bond'; esto sabemos (Milenio)",
+     "Muere actriz de Star Wars, James Bond y Batman: esto sabemos sobre su fallecimiento (LOS40 México)"
+    ]
+   },
+   {
+    "tema": "carlos alcaraz",
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-18T05:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¡EN VIVO! Carlos Alcaraz vs. Daniil Medvedev, por la segunda fecha de las ATP Finals 2026 (ESPN México)",
-     "Carlos Alcaraz - Daniil Medvedev, en directo, el partido de las ATP Finals en vivo (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "jorge campos",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-18T05:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡Este cameo no lo tiene Marvel! Jorge Campos aparece con Faitelson y Vaca (TUDN)",
-     "¡De sorpresa! Jorge Campos irrumpe en la transmisión de TUDN previo al México vs. Jamaica | VIDEO (Mediotiempo)"
-    ]
-   },
-   {
-    "tema": "18 de noviembre",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T05:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Palabras de la Secretaria de Gobernación, Rosa Icela Rodríguez, durante la conferencia del pueblo (La Jornada)",
-     "'La Mañanera del Pueblo', miércoles 18 de noviembre de 2026 (Milenio)"
-    ]
-   },
-   {
-    "tema": "abelardo de la espriella",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T05:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "“D.I.O.S.”: Abelardo presenta su plan para el Sena (La Silla Vacía)",
-     "El Magdalena consolida agenda bilateral con el Gobierno Nacional para fortalecer la formación y el emprendimiento juvenil (Gobernación del Magdalena)"
-    ]
-   },
-   {
-    "tema": "fobaproa",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T05:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Morena ya logró su “fobaproa” (Yahoo)",
-     "Lilly Téllez propone auditar y transparentar todo el Fobaproa (Aristegui Noticias)"
-    ]
-   },
-   {
-    "tema": "voyager 1",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T04:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Voyager 1, the farthest human-made object, is now one light-day from Earth (CNN)",
-     "Humans Have Crossed a New Threshold in Space (The Atlantic)"
-    ]
-   },
-   {
-    "tema": "samuel orlando garcía mascorro",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T04:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Halla ASE más desvíos al despacho de Samuel (El Norte)",
-     "ASE reporta observaciones por 61 mil mdp en cuenta pública del 2025 de Nuevo León (Milenio)"
-    ]
-   },
-   {
-    "tema": "pronostico",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T04:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Pronóstico del clima en Tepic hoy 18 de noviembre de 2026 (Debate)",
-     "Llovizna y nubosidad dominan este miércoles en Nayarit (NNC.MX)"
-    ]
-   },
-   {
-    "tema": "autopista",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T04:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Waymo suspende los viajes de sus vehículos autónomos por autopistas tras la prohibición de California (CNN en Español)",
-     "California veta los autos sin conductores de Waymo en autopistas (Telemundo)"
-    ]
-   },
-   {
-    "tema": "tiempo de hoy",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T04:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Frente frío 7 traerá lluvias, fuertes vientos y oleaje elevado a Baja California este martes (Yahoo)",
-     "¿Otro frente frío para Tamaulipas? El nuevo sistema número 7 ya avanza por México (Milenio)"
+     "Carlos Alcaraz, en alerta en las ATP Finals 2026: \"No quería forzar mi cuerpo\" (ESPN México)",
+     "Carlos Alcaraz - Daniil Medvedev, en directo | el español se impone en dos sets (6-2 y 6-4) con un vendaje en el muslo izquierdo (EL PAÍS)"
     ]
    }
   ]
