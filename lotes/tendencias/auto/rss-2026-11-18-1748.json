@@ -1,0 +1,565 @@
+{
+ "fecha": "2026-11-18T17:48-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "coritiba - santos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "⤮!+@⤮[[HOJE>>>]] Coritiba x Santos ao vivo grátis 18 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)",
+     "Neymar causa euforia em hotel antes de jogo contra o Coritiba (Bem Paraná)"
+    ]
+   },
+   {
+    "tema": "chelsea - paris saint-germain football club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ligue des champions: Chelsea-PSG en direct (Sports.fr)",
+     "Chelsea (F) 1-0 Paris-SG (F), Ligue des champions (F) : Chelsea prend la tête du classement (L'Équipe)"
+    ]
+   },
+   {
+    "tema": "gobierno",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Se gastaban decenas de millones para atacar al Gobierno”: Daniel Noboa cuestiona contratos de publicidad del Municipio de Guayaquil y la Prefectura de Pichincha (El Universo)",
+     "Daniel Noboa acusa al Municipio de Guayaquil y a la Prefectura de Pichincha de financiar ataques al Gobierno (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "xiaomi 18 pro max",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Xiaomi 18 purportedly leaks in live image - GSMArena.com news (GSMArena.com)",
+     "I Didn’t Expect to Like Xiaomi’s Bizarre Dual-Screen Phone So Much (CNET)"
+    ]
+   },
+   {
+    "tema": "gta6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ (Kotaku)",
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)"
+    ]
+   },
+   {
+    "tema": "importación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precios de las importaciones EEUU suben más de lo previsto en octubre (Yahoo)",
+     "Estados Unidos: los precios de importación superan las previsiones (MarketScreener España)"
+    ]
+   },
+   {
+    "tema": "alerta roja",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lluvia provoca anegaciones y congestión vehicular en sectores de Guayaquil y Samborondón (El Universo)",
+     "Torrenciales lluvias golpean varios sectores de Quito la tarde de este martes 17 de noviembre (Primicias)"
+    ]
+   },
+   {
+    "tema": "real madrid - inter de milán",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Real Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)",
+     "Quesada: “No he visto ansiedad; sí a un equipo estable y maduro” (Diario AS)"
+    ]
+   },
+   {
+    "tema": "playstation store",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T08:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sony defeats £2 billion UK claim over PlayStation Store pricing (Reuters)",
+     "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing (The Game Business)"
+    ]
+   },
+   {
+    "tema": "playstation",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "PlayStation suffers widespread network problems hours before release of GTA VI (The Guardian)",
+     "PlayStation suffers outage as Vance holds talks on tech failures (The Times)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "chendall weaver",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Houston Guard Chendall Weaver Could Play an Important Role in Las Vegas (Yahoo Sports)",
+     "UH guard Chendall Weaver has hearing to see if he can keep playing for Cougars (Houston Chronicle)"
+    ]
+   },
+   {
+    "tema": "dow jones industrial average",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off: Live updates (CNBC)",
+     "Trading Day: Markets mixed in a Nvidia, Anthropic, minutes swirl (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "heshimu evans",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Former Kentucky Wildcat Basketball star arrested for Assault (WKYT)",
+     "Former Kentucky Wildcats basketball player charged with domestic violence (Lexington Herald Leader)"
+    ]
+   },
+   {
+    "tema": "dadeschools",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Live updates: Broward and Miami-Dade public schools to remain closed Thursday due to flooding (NBC 6 South Florida)",
+     "Miami-Dade public schools to close Thursday: ‘Taking this on a day-by-day basis’ (WPLG Local 10)"
+    ]
+   },
+   {
+    "tema": "coritiba vs santos",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Coritiba x Santos: onde assistir ao vivo, horário e escalações (ge)",
+     "Neymar causa euforia em hotel antes de jogo contra o Coritiba (Bem Paraná)"
+    ]
+   },
+   {
+    "tema": "anheuser-busch",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "AB InBev pours $1.5m into Cutwater production (The Spirits Business)",
+     "Anheuser-Busch invests $1.5m in Cutwater’s San Diego production facility (Food and Drink International)"
+    ]
+   },
+   {
+    "tema": "jason michael",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jason Michael hired as NC State offensive coordinator under Philip Rivers (247Sports)",
+     "Philip Rivers tabs longtime NFL assistant Jason Michael as NC State offensive coordinator (WRAL)"
+    ]
+   },
+   {
+    "tema": "pokebeach",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gold & Silver TCG Products to Release Alongside Pokemon ex★ Series! (PokeBeach)",
+     "Pokémon Brings Back Entei, Raikou & Suicune With 3 New Releases in 2027 (Comic Book Resources)"
+    ]
+   },
+   {
+    "tema": "mike wise",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Longtime ESPN personality, author, sports reporter dies suddenly at 62 (Yahoo Sports)",
+     "Longtime Washington Post Sportswriter Mike Wise Dies at 62 (The MoCo Show -)"
+    ]
+   },
+   {
+    "tema": "nz vs ind",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test (Cricinfo)",
+     "Bumrah is back: India wins the toss and bowls in the 1st test against New Zealand (Yahoo Sports)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "pipi estrada",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pipi Estrada lanza un mensaje a Belén Esteban antes de entrar en 'GH VIP 9' (El Correo)",
+     "Pipi Estrada se despide de 'El Chiringuito' y lanza un mensaje a Belén Esteban antes de entrar en 'GH VIP 9': 'Pesada' (El Periódico)"
+    ]
+   },
+   {
+    "tema": "coritiba - santos",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Coritiba x Santos: onde assistir ao vivo, horário e escalações (ge)",
+     "Neymar causa euforia em hotel antes de jogo contra o Coritiba (Bem Paraná)"
+    ]
+   },
+   {
+    "tema": "el sentido de la birra",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Feijóo repite visita a un pódcast con una entrevista a El sentido de la birra (La Vanguardia)",
+     "Alberto Núñez Feijóo: \"No me creo que Sánchez no sepa nada de Ábalos, de Leire, de las cloacas o de Santos Cerdán\" (Antena 3 Noticias)"
+    ]
+   },
+   {
+    "tema": "belén esteban",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Belén Esteban regresa a la casa de 'Gran Hermano VIP' en el intento de Telecinco de recuperar su reality estrella (El Correo)",
+     "Leticia Martín Enjuto, psicóloga: \"El mayor reto de Belén Esteban en 'GH VIP 9' será lograr que sus diferencias con el presentador y otros concursantes no condicionen su experiencia\" (Lecturas)"
+    ]
+   },
+   {
+    "tema": "juan antonio bayona",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El día que Bayona fue a casa de Brad Pitt: \"Me encontré a Angelina Jolie cortando la hierba del jardín\" (LaSexta)"
+    ]
+   },
+   {
+    "tema": "puigdemont",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\" (El Mundo)",
+     "Los planes de Puigdemont y Nogueras (Diari ARA)"
+    ]
+   },
+   {
+    "tema": "la gaceta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los gestores (LA GACETA)",
+     "Intercambian por error a dos pacientes en Salamanca y no se descubre hasta horas después del fallecimiento de uno de ellos (El Mundo)"
+    ]
+   },
+   {
+    "tema": "david verdaguer",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'El director', la película (incómoda) que cuenta la otra cara del periodismo (La Vanguardia)",
+     "\"Brillante\": La película española que se estrena en plena campaña electoral y que convierte las redacciones en un campo de batalla político (Fotogramas ES)"
+    ]
+   },
+   {
+    "tema": "new zealand national cricket team vs india national cricket team match scorecard",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test (Cricinfo)",
+     "Bumrah is back: India wins the toss and bowls in the 1st test against New Zealand (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "abel nuñez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "'It Was Like a KO': What Happened to Abel Nunez? Eyewitness Recalls Argentine Soccer Player’s Death (Yahoo Sports)",
+     "Teen footballer dies after being hit in the head by ball during match (Daily Star)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "juicio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Juicio por Loan: echaron de la sala al ex abogado de Laudelina Peña y hubo un tenso careo entre una de las imputadas y un policía (Infobae)",
+     "Juicio por Loan: en un careo, una de las acusadas intentó que un policía la reconociera como informante (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "santos vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Coritiba vs. Santos por el Brasileirao Serie A 2026: día, hora y cómo seguir online (La Nación)",
+     "Watch Coritiba vs Santos FC live today: Who is broadcasting the match on TV and via live stream? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "promedio industrial dow jones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Noticias de Mercado 18-11-2026: Canje de Finanzas, Nvidia y Oro bajo USD 3.800 (invertironline)",
+     "Wall Street cierra dispar antes del debut de Anthropic (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "coritiba - santos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "⤮!+@⤮[[HOJE>>>]] Coritiba x Santos ao vivo grátis 18 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)",
+     "Neymar causa euforia em hotel antes de jogo contra o Coritiba (Bem Paraná)"
+    ]
+   },
+   {
+    "tema": "policía",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Abatieron a Mayonesa, el lugarteniente del Gordo Tilín, y encontraron una fábrica de armas “tumberas” (La Nación)",
+     "Megaoperativo en Fuerte Apache: la Policía mató a \"Mayonesa\", buscado por homicidio y mano derecha del narco \"Gordo Tilín\" (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "escritor",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sergio Ramírez se convirtió en el tercer autor latinoamericano en ingresar a la Real Academia Española (Clarin.com)",
+     "Sergio Ramírez ingresó en la RAE con un discurso en honor a Vargas Llosa (La Nación)"
+    ]
+   },
+   {
+    "tema": "escuela",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un impactante temporal destruyó una escuela agraria en una localidad bonaerense y más de 100 alumnos fueron evacuados (Infobae)",
+     "“Se les caía el techo en la cabeza”: una violenta tormenta sorprendió a 110 alumnos en plena clase en una escuela rural (La Nación)"
+    ]
+   },
+   {
+    "tema": "soberanía",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Por qué es feriado el lunes 23 de noviembre en Argentina y qué pasa con el viernes 20 (Clarin.com)",
+     "Feriados 2026: cuántos quedan en el año y qué días caen Navidad y Año Nuevo (El Cronista)"
+    ]
+   },
+   {
+    "tema": "megaproyecto",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Argentina LNG: cómo será la megaplanta que acondicionará y separará el gas en las costas de Río Negro (econojournal.com.ar)",
+     "Confini: “Río Negro será una provincia totalmente distinta, llena de desafíos y oportunidades” (Gobierno de Río Negro)"
+    ]
+   },
+   {
+    "tema": "kevin castaño",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (Olé)",
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (FM Del Sol Pehuajo)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "s&p 500",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off: Live updates (CNBC)",
+     "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves (WSJ)"
+    ]
+   },
+   {
+    "tema": "promedio industrial dow jones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nvidia impulsa a las tecnológicas tras mejorar sus perspectivas de crecimiento (Yahoo Finanzas)",
+     "Wall Street cierra en rojo tras fallas tecnológicas y a la espera de resultados de Nvidia (El Comentario)"
+    ]
+   },
+   {
+    "tema": "eurocopa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así quedan los bombos para el sorteo de la Eurocopa 2028 (MARCA)",
+     "Ranking de favoritos para la Eurocopa 2028: Inglaterra da un golpe de autoridad ante España y la Alemania de Jurgen Klopp impresiona, pero Portugal sufre sin Cristiano Ronaldo (Goal.com)"
+    ]
+   },
+   {
+    "tema": "cruzeiro vs palmeiras",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pedra no sapato de Abel, Artur Jorge, do Cruzeiro, pode dificultar corrida do Palmeiras pelo título (Jornal Opinião)",
+     "Escalação do Cruzeiro: Artur define substitutos de Jonathan e Arroyo contra o Palmeiras (Rádio Itatiaia)"
+    ]
+   },
+   {
+    "tema": "rosa icela rodríguez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Impulsan cumbre sobre migración (Reforma)",
+     "Plantean México y EUA cumbre regional para atender flujo de migrantes de Centroamérica (El Comentario)"
+    ]
+   },
+   {
+    "tema": "coritiba - santos",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "⤮!+@⤮[[HOJE>>>]] Coritiba x Santos ao vivo grátis 18 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)",
+     "Neymar causa euforia em hotel antes de jogo contra o Coritiba (Bem Paraná)"
+    ]
+   },
+   {
+    "tema": "telescopio espacial james webb",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El James Webb apunta al espacio profundo y descubre un misterioso \"hielo sucio\" anterior al nacimiento de su estrella (National Geographic España)",
+     "Webb detecta hielo primordial en Beta Pictoris, una estrella de 20 millones de años (DiarioBitcoin)"
+    ]
+   },
+   {
+    "tema": "chelsea femenino",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver Chelsea vs. PSG Femenil: Horario y canal EN VIVO Jornada 5 Women's Champions League 2026 (Mediotiempo)",
+     "¿Dónde y a qué hora ver EN VIVO el duelo de la UEFA Women's Champions League entre Chelsea y PSG? (Debate)"
+    ]
+   },
+   {
+    "tema": "inbursa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Banco Inbursa de Carlos Slim Helú se une al IMSS y le deposita $650,000 a miles de pensionados de Ley 73: requisitos y cómo pedir el dinero en noviembre 2026 (Ambito)",
+     "Pemex reduce su deuda a su nivel más bajo desde 2014 (López-Dóriga Digital)"
+    ]
+   },
+   {
+    "tema": "deutsche bank",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los pagos a la industria del sexo virtual en Colombia que el Deutsche Bank no vigiló (El Universal)",
+     "Filtraciones de Deutsche Bank revelan 582 mdd en operaciones sospechosas de Jeffrey Epstein (La Jornada)"
+    ]
+   }
+  ]
+ }
+}
