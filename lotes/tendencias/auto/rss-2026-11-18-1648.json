@@ -1,0 +1,560 @@
+{
+ "fecha": "2026-11-18T16:48-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "chelsea - paris saint-germain football club",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ligue des championnes : Le programme de la 5e journée (Footeuses)",
+     "Sandy Baltimore (Chelsea) : \"Lors du tirage au sort, j'espérais tomber sur le PSG !\" (Flashscore.fr)"
+    ]
+   },
+   {
+    "tema": "gobierno",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Se gastaban decenas de millones para atacar al Gobierno”: Daniel Noboa cuestiona contratos de publicidad del Municipio de Guayaquil y la Prefectura de Pichincha (El Universo)",
+     "Daniel Noboa acusa al Municipio de Guayaquil y a la Prefectura de Pichincha de financiar ataques al Gobierno (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "xiaomi 18 pro max",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Xiaomi 18 purportedly leaks in live image - GSMArena.com news (GSMArena.com)",
+     "I Didn’t Expect to Like Xiaomi’s Bizarre Dual-Screen Phone So Much (CNET)"
+    ]
+   },
+   {
+    "tema": "gta6",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes (Insider Gaming)",
+     "Grand Theft Auto 6 Cheats explained: Are cheats in GTA 6? (Video Games Chronicle)"
+    ]
+   },
+   {
+    "tema": "importación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precios de las importaciones EEUU suben más de lo previsto en octubre (Yahoo)",
+     "Datos de los precios de importación y exportación de Estados Unidos en octubre (MarketScreener España)"
+    ]
+   },
+   {
+    "tema": "alerta roja",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lluvias fuertes en cantones de la Costa y la Sierra para este miércoles, 18 de noviembre, según el Inamhi (El Universo)",
+     "El Niño | Alerta roja por fuertes lluvias y tormentas en la Costa, parte de la Sierra y Galápagos hasta el 21 de noviembre en Ecuador (Primicias)"
+    ]
+   },
+   {
+    "tema": "real madrid - inter de milán",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Real Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)",
+     "Quesada: “No he visto ansiedad; sí a un equipo estable y maduro” (Diario AS)"
+    ]
+   },
+   {
+    "tema": "playstation store",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T08:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sony defeats £2 billion UK claim over PlayStation Store pricing (Reuters)",
+     "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing (The Game Business)"
+    ]
+   },
+   {
+    "tema": "playstation",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "PlayStation suffers major outage hours before \"GTA VI\" launch (Axios)",
+     "PlayStation suffers widespread network problems hours before release of GTA VI (The Guardian)"
+    ]
+   },
+   {
+    "tema": "xbox",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ (Kotaku)",
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "south florida floods",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas (WESH)",
+     "Watch: Widespread flooding in South Florida after heavy rainfall (BBC)"
+    ]
+   },
+   {
+    "tema": "inundaciones en el sur de florida",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Minuto a minuto: Cierre de escuelas por inundaciones severas en Broward (Telemundo Miami)",
+     "Residentes de complejo de casas móviles en Davie sufren inundaciones severas (Univision)"
+    ]
+   },
+   {
+    "tema": "boogie fland",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gators' Boogie Fland aggravates shoulder injury, status vs. Houston in question (ESPN)",
+     "Irish Give No. 1 Florida A Battle, But Fall 86-78 (Notre Dame Fighting Irish)"
+    ]
+   },
+   {
+    "tema": "crwd stock",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "CrowdStrike Holdings Jumps 5.9% Amid Sector-Wide Rally (AlphaStreet)",
+     "Investors Heavily Search Toll Brothers Inc. (TOL): Here is What You Need to Know (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "applied compute",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion (WSJ)",
+     "Palo Alto Networks to Buy Applied Compute in $4.5 Billion Deal (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "marlon humphrey",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ravens’ Marlon Humphrey says Baltimore is ‘best at making criminals’ (The Baltimore Banner)",
+     "Baltimore Ravens' Marlon Humphrey under fire for podcast comments (WBAL-TV)"
+    ]
+   },
+   {
+    "tema": "panw stock",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wave of tech outages sets stage for Palo Alto Networks earnings (CNBC)",
+     "AI Risks Lift Cyber Stocks as Software Looks to Shrug Off Slump (Barron's)"
+    ]
+   },
+   {
+    "tema": "gemini neon",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Introducing Gemini 4 Hydrogen for Agentic Workflows (blog.google)",
+     "Gemini 4 Hydrogen: a faster model for general purpose robotics (Google for Developers Blog)"
+    ]
+   },
+   {
+    "tema": "florida vs houston prediction",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Houston vs. Florida odds: Proven model reveals 2026 Players Era 8 college basketball tournament semifinal picks (SportsLine)",
+     "How to watch Florida basketball vs Houston | TV channel, streaming (Gainesville Sun)"
+    ]
+   },
+   {
+    "tema": "milo ventimiglia",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "How Jared Padalecki really felt about Milo Ventimiglia’s ‘Gilmore Girls’ debut: ‘Guy replacing me’ (Decider)",
+     "‘Gilmore Girls’ Star Jared Padalecki Breaks Down as He Reveals How Onscreen Rival Milo Ventimiglia Supported Him 25 Years Ago (Parade Magazine)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "el director pelicula",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'El director', la película (incómoda) que cuenta la otra cara del periodismo (La Vanguardia)",
+     "\"Brillante\": La película española que se estrena en plena campaña electoral y que convierte las redacciones en un campo de batalla político (Fotogramas ES)"
+    ]
+   },
+   {
+    "tema": "mazon",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Feijóo defiende la situación política de Mazón y critica que se equipare la gestión de la dana con el accidente de Urda (elDiario.es)",
+     "PSPV y Compromís cargan contra Feijóo por no concretar el futuro de Mazón: \"Tienen pánico a que deje de estar aforado\" (Europa Press)"
+    ]
+   },
+   {
+    "tema": "carlos corbacho quien es",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Quién es Carlos Corbacho, concursante de 'GH VIP 9' en Telecinco? (El Confidencial)",
+     "Carlos Corbacho, concursante de 'Gran Hermano VIP 9' y gran crítico de Isabel Pantoja (Las Provincias)"
+    ]
+   },
+   {
+    "tema": "david jimenez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Está en duda la continuidad del técnico Ezequiel Medrán?: esto dice José David Jiménez, presidente de Emelec (El Universo)",
+     "“Sabía que me metía a un pito caliente”: Escalada hizo su balance del año de Emelec (Studiofutbol)"
+    ]
+   },
+   {
+    "tema": "raquel bollo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jorge Javier Vázquez y Belén Esteban, a horas de escenificar su esperadísimo reencuentro en 'Gran Hermano VIP' tras 3 años sin verse: todas las claves (HOLA)",
+     "Primera polémica con 'GH VIP' antes del estreno en Telecinco con el regreso de Belén Esteban: \"Es mejor venderlo como concursante oficial que reconocer que entra en calidad de visitante. Durante un mes y después, para casa\" (El Periódico)"
+    ]
+   },
+   {
+    "tema": "guillermo fesser",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las tardes de RNE. Fesser y un libro que se hace necesario (RTVE.es)",
+     "“EE.UU. existe gracias a España y el hispano allí debería estar orgulloso” (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "bonoloto 18 noviembre 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comprobar Bonoloto de hoy miércoles 18 de noviembre de 2026 (La Vanguardia)",
+     "Bonoloto: comprobar sorteo del miércoles 18 de noviembre (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "marruecos",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Níger 0 - Marruecos 1: resumen, goles y resultado | Fase de clasificación de la Copa Africana de Naciones hoy, (Diario AS)",
+     "Brahim brilla en el triunfo de Marruecos con una bonita asistencia (MARCA)"
+    ]
+   },
+   {
+    "tema": "eurocopa 2028",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así quedan los bombos para el sorteo de la Eurocopa 2028 (MARCA)",
+     "Ranking de favoritos a la Eurocopa 2028: Inglaterra da un golpe sobre la mesa ante España y la Alemania de Jurgen Klopp impresiona, pero Portugal sufre sin Cristiano Ronaldo (Goal.com)"
+    ]
+   },
+   {
+    "tema": "debate isla de las tentaciones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las tres bombas del debate final de 'La isla de las tentaciones 11': los mensajes de Andrea, la confesión de Fran y una infidelidad de Juanpi (El Confidencial)",
+     "Unos mensajes cuestionan la fidelidad de Andrea y Náyades le defiende: las imágenes (Telecinco)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "megaproyecto",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Argentina LNG: cómo será la megaplanta que acondicionará y separará el gas en las costas de Río Negro (econojournal.com.ar)",
+     "Confini: “Río Negro será una provincia totalmente distinta, llena de desafíos y oportunidades” (Gobierno de Río Negro)"
+    ]
+   },
+   {
+    "tema": "kevin castaño",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (Olé)",
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (FM Del Sol Pehuajo)"
+    ]
+   },
+   {
+    "tema": "tiafoe",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Flavio Cobolli vs. Frances Tiafoe: a qué hora juegan y dónde ver en vivo las ATP Finals 2026 (ESPN Argentina)",
+     "Pronósticos Cobolli vs. Tiafoe: el estadounidense busca imponer su dominio en las ATP Finals 2026 (Gainblers)"
+    ]
+   },
+   {
+    "tema": "veredicto",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lesbicidio de Barracas: condenaron a prisión perpetua al único acusado por el triple crimen (Página|12)",
+     "Triple lesbicidio en Barracas: condenaron a prisión perpetua a Justo Barrientos, el único acusado (Infobae)"
+    ]
+   },
+   {
+    "tema": "contrabando",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Estados Unidos sancionó a una entidad libanesa y a una red de contrabando de oro vinculadas con Hezbollah (Infobae)",
+     "EE. UU. seguirá actuando contra las redes financieras de Hezbolá en el Líbano (سانا)"
+    ]
+   },
+   {
+    "tema": "mallorca fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "alianza atlético - melgar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Por qué es importante el resultado del Melgar vs Alianza Atlético? (Infobae)",
+     "Tabla de posiciones del Torneo Clausura y Acumulado 2026 mientras se juega Alianza Atlético vs. FBC Melgar (Bolavip Perú)"
+    ]
+   },
+   {
+    "tema": "fuerte apache",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Megaoperativo en Fuerte Apache: la Policía mató a \"Mayonesa\", buscado por homicidio y mano derecha del narco \"Gordo Tilín\" (Clarin.com)",
+     "Cayó abatido “Mayonesa”, el adolescente buscado por matar a un policía en Fuerte Apache: se enfrentó a los tiros con la Policía (Infobae)"
+    ]
+   },
+   {
+    "tema": "toyota corolla deck",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Toyota presentó la pickup del Corolla Cross: cómo es y cuándo podría llegar a la Argentina (Clarin.com)",
+     "Toyota confirma su anti Toro hecha en Brasil (Autocosmos)"
+    ]
+   },
+   {
+    "tema": "flavio cobolli",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
+     "Bayern Munich News: The aftermath of Germany’s 5-0 win vs. the Dutch (Bavarian Football Works)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "inbursa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Banco Inbursa de Carlos Slim Helú se une al IMSS y le deposita $650,000 a miles de pensionados de Ley 73: requisitos y cómo pedir el dinero en noviembre 2026 (Ambito)",
+     "Debe Pemex 388 mmdp a la banca (El Norte)"
+    ]
+   },
+   {
+    "tema": "deutsche bank",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los pagos a la industria del sexo virtual en Colombia que el Deutsche Bank no vigiló (El Universal)",
+     "Filtraciones de Deutsche Bank revelan 582 mdd en operaciones sospechosas de Jeffrey Epstein (La Jornada)"
+    ]
+   },
+   {
+    "tema": "juventus femenino",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Juventus - Oud-Heverlee Leuven Mä | Pronóstico y cuotas 18.11.2026 (Diario AS)",
+     "Ver Juventus vs. Oud-Heverlee Leuven en directo hoy: ¿quién transmite el partido por TV y en streaming? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "gta san andreas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wow, GTA 6 Has Some Incredible Animations (Kotaku)",
+     "Turns out, Rockstar teased GTA 6 back in 2021 with GTA San Andreas re-release (Notebookcheck)"
+    ]
+   },
+   {
+    "tema": "florence pugh",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Florence Pugh Fires Back at Critics Who Said She Looked Unrecognizable During Sunday's Appearance (Yahoo)",
+     "Florence Pugh Wants a Word With ‘Evie’ Magazine (The Cut)"
+    ]
+   },
+   {
+    "tema": "dólar estadounidense",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Al peso le da la ‘chiripiorca’ por minutas de la Fed: ¿Cuánto pierde ante el dólar? (El Financiero)",
+     "Precio del dólar HOY miércoles 18 de noviembre de 2026: Peso mexicano retrocede por cautela ante la Fed (Milenio)"
+    ]
+   },
+   {
+    "tema": "alcoyano vs mallorca",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": []
+   },
+   {
+    "tema": "mallorca",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wartungspause beim \"Roten Blitz\" auf Mallorca: Was Reisende wissen müssen (mallorca-services.es)",
+     "Tom Gaebel geht 2027 auf VASCO DA GAMA von Mallorca nach Lissabon (Schiffe und Kreuzfahrten)"
+    ]
+   },
+   {
+    "tema": "crecimiento económico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comparece SEDECOP (Al Calor Político)",
+     "Comparece ante el Congreso el Secretario de Desarrollo Económico (Quadratín Veracruz)"
+    ]
+   },
+   {
+    "tema": "pablo lemus navarro",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Autoridades mexicanas detienen a El Topo por el secuestro del periodista Jaime Barrera (Yahoo)",
+     "Cae “El Topo” presunto implicado en el secuestro del periodista Jaime Barrera; operativo deja tres muertos en Zapopan (UDG TV)"
+    ]
+   }
+  ]
+ }
+}

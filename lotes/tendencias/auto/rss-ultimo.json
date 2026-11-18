@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-18T15:50-05:00",
+ "fecha": "2026-11-18T16:48-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
@@ -16,8 +16,8 @@
    },
    {
     "tema": "gobierno",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T12:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -76,8 +76,8 @@
     "desde": "2026-11-18T09:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "\"Casi no conozco a ninguna jugadora del Real Madrid\" (Mundo Deportivo)",
-     "Previa de la jornada 5 de la Women's Champions League: Barcelona - Servette, Arsenal - OL Lyonnes, Benfica - Roma (UEFA.com)"
+     "Real Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)",
+     "Quesada: “No he visto ansiedad; sí a un equipo estable y maduro” (Diario AS)"
     ]
    },
    {
@@ -98,8 +98,8 @@
     "desde": "2026-11-18T08:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "PlayStation Network presenta fallas antes del lanzamiento de GTA VI: ¿qué está pasando? (Metro Ecuador)",
-     "GTA VI: la diferencia de gráficos entre PlayStation y Xbox (Metro Ecuador)"
+     "PlayStation suffers major outage hours before \"GTA VI\" launch (Axios)",
+     "PlayStation suffers widespread network problems hours before release of GTA VI (The Guardian)"
     ]
    },
    {
@@ -109,328 +109,274 @@
     "desde": "2026-11-18T08:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX (XBOX Wire)",
-     "Xbox wants you to know there’s a really big gaming event tomorrow. It just won’t say what. (Business Insider)"
+     "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ (Kotaku)",
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "sonny gray",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T12:30:00-08:00",
+    "tema": "south florida floods",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-18T13:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sonny Gray Could Return to Red Sox, but NL Contender Viewed as Favorites (NESN)",
-     "Red Sox Can't Let Sonny Gray Get Away After New Contract Report (Sports Illustrated)"
+     "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas (WESH)",
+     "Watch: Widespread flooding in South Florida after heavy rainfall (BBC)"
     ]
    },
    {
-    "tema": "albemarle county public schools",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T12:20:00-08:00",
+    "tema": "inundaciones en el sur de florida",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T13:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "ACPS closes schools through Thanksgiving break (Cville Right Now)",
-     "ACPS announcing early holiday closure due to ‘compliance issues’ (cbs19news.com)"
+     "Minuto a minuto: Cierre de escuelas por inundaciones severas en Broward (Telemundo Miami)",
+     "Residentes de complejo de casas móviles en Davie sufren inundaciones severas (Univision)"
     ]
    },
    {
-    "tema": "anheuser busch",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Anheuser-Busch closure marks end to 'beer capital of the world' (USA Today)",
-     "AB InBev pours $1.5m into Cutwater production (The Spirits Business)"
-    ]
-   },
-   {
-    "tema": "star wars",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Meet the Anzellans: Inside Imagineering R&D’s Newest Robotic Characters (Disney Experiences)",
-     "Disney’s new Star Wars animatronics interact with guests using AI (The Verge)"
-    ]
-   },
-   {
-    "tema": "chicago cubs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:10:00-08:00",
+    "tema": "boogie fland",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-18T13:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "MLB qualifying offer deadline LIVE: Morejon and Lowe decline $23 million, others must decide (Yahoo Sports)",
-     "3 Free Agents Rejected Qualifying Offer Today That Blue Jays Should Pursue (Sports Illustrated)"
+     "Gators' Boogie Fland aggravates shoulder injury, status vs. Houston in question (ESPN)",
+     "Irish Give No. 1 Florida A Battle, But Fall 86-78 (Notre Dame Fighting Irish)"
     ]
    },
    {
-    "tema": "baaja",
+    "tema": "crwd stock",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-18T12:00:00-08:00",
+    "desde": "2026-11-18T13:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "21 Dem Senators Join GOP to Move Forward Bill to Speed Up Data Center Permits (Truthout)",
-     "Senate further advances bipartisan permitting reform bill (The Hill)"
+     "CrowdStrike Holdings Jumps 5.9% Amid Sector-Wide Rally (AlphaStreet)",
+     "Investors Heavily Search Toll Brothers Inc. (TOL): Here is What You Need to Know (Yahoo Finance)"
     ]
    },
    {
-    "tema": "frances tiafoe",
+    "tema": "applied compute",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion (WSJ)",
+     "Palo Alto Networks to Buy Applied Compute in $4.5 Billion Deal (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "marlon humphrey",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ravens’ Marlon Humphrey says Baltimore is ‘best at making criminals’ (The Baltimore Banner)",
+     "Baltimore Ravens' Marlon Humphrey under fire for podcast comments (WBAL-TV)"
+    ]
+   },
+   {
+    "tema": "panw stock",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wave of tech outages sets stage for Palo Alto Networks earnings (CNBC)",
+     "AI Risks Lift Cyber Stocks as Software Looks to Shrug Off Slump (Barron's)"
+    ]
+   },
+   {
+    "tema": "gemini neon",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-18T11:50:00-08:00",
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Introducing Gemini 4 Hydrogen for Agentic Workflows (blog.google)",
+     "Gemini 4 Hydrogen: a faster model for general purpose robotics (Google for Developers Blog)"
+    ]
+   },
+   {
+    "tema": "florida vs houston prediction",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T12:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Carlos Alcaraz dominates Frances Tiafoe in ATP Finals opener (ESPN)",
-     "Alcaraz dispatches Tiafoe for opening win in Turin (ATP Tour)"
+     "Houston vs. Florida odds: Proven model reveals 2026 Players Era 8 college basketball tournament semifinal picks (SportsLine)",
+     "How to watch Florida basketball vs Houston | TV channel, streaming (Gainesville Sun)"
     ]
    },
    {
-    "tema": "tiafoe",
+    "tema": "milo ventimiglia",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-18T11:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "ATP Finals 2026 live updates: Tiafoe faces Cobolli on day four after Alcaraz beat Medvedev in straight sets (The New York Times)",
-     "Atp Finals, Fognini also at Cobolli's training: \"Need a sparring partner? I'll give you a 6-2 6-2\" (jiji press)"
-    ]
-   },
-   {
-    "tema": "sarah paulson",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T11:50:00-08:00",
+    "desde": "2026-11-18T12:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sarah Paulson Explains Why She and Holland Taylor Have Never Married: ‘It Gives Me the Heebie-Jeebies’ (People.com)",
-     "Sarah Paulson Reveals Why She Will Never Marry Holland Taylor (E! News)"
-    ]
-   },
-   {
-    "tema": "ngc 1433 supernova",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026 (Space)",
-     "Gemini and DECam showcase a young Type Ia supernova (Phys.org)"
+     "How Jared Padalecki really felt about Milo Ventimiglia’s ‘Gilmore Girls’ debut: ‘Guy replacing me’ (Decider)",
+     "‘Gilmore Girls’ Star Jared Padalecki Breaks Down as He Reveals How Onscreen Rival Milo Ventimiglia Supported Him 25 Years Ago (Parade Magazine)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "elena anaya",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:40:00-08:00",
+    "tema": "el director pelicula",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Elena Anaya: \"Habría que prohibir las redes a menores de 16 años porque un móvil puede destruir tu vida, la de tu familia y la de tus amigos\" (Heraldo de Aragón)",
-     "Elena Anaya pide prohibir las redes sociales a menores de 16 años: \"Un móvil puede destruir tu vida y la de tu familia\" (Europa Press)"
+     "'El director', la película (incómoda) que cuenta la otra cara del periodismo (La Vanguardia)",
+     "\"Brillante\": La película española que se estrena en plena campaña electoral y que convierte las redacciones en un campo de batalla político (Fotogramas ES)"
     ]
    },
    {
-    "tema": "emma suarez",
+    "tema": "mazon",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T12:40:00-08:00",
+    "desde": "2026-11-18T13:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "De Badajoz a la gran pantalla nacional: el pacense Marc Romero dirige a Emma Suárez, Macarena Gómez y Roberto Álamo en 'Hora y Veinte' (Hoy)",
-     "‘Hora y veinte’, con Macarena Gómez, Emma Suárez y Roberto Álamo y… Álex Ubago (Moviementarios)"
+     "Feijóo defiende la situación política de Mazón y critica que se equipare la gestión de la dana con el accidente de Urda (elDiario.es)",
+     "PSPV y Compromís cargan contra Feijóo por no concretar el futuro de Mazón: \"Tienen pánico a que deje de estar aforado\" (Europa Press)"
     ]
    },
    {
-    "tema": "gh vip",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T12:30:00-08:00",
+    "tema": "carlos corbacho quien es",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "GH VIP 9, gala estreno: concursantes y última hora del reality de Telecinco, hoy en directo (El Confidencial)",
-     "Así es la nueva casa de 'Gran Hermano VIP': un jacuzzi, cámaras ocultas y un perro robot que todo lo graba (ABC)"
+     "¿Quién es Carlos Corbacho, concursante de 'GH VIP 9' en Telecinco? (El Confidencial)",
+     "Carlos Corbacho, concursante de 'Gran Hermano VIP 9' y gran crítico de Isabel Pantoja (Las Provincias)"
     ]
    },
    {
-    "tema": "mallorca fc",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:30:00-08:00",
+    "tema": "david jimenez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Primera ronda de Copa del Rey, en directo: partidos del miércoles 18, hoy en vivo (Diario AS)",
-     "Primera eliminatoria de la Copa del Rey en directo | Mallorca, Sabadell y Tenerife en liza (MARCA)"
+     "¿Está en duda la continuidad del técnico Ezequiel Medrán?: esto dice José David Jiménez, presidente de Emelec (El Universo)",
+     "“Sabía que me metía a un pito caliente”: Escalada hizo su balance del año de Emelec (Studiofutbol)"
     ]
    },
    {
-    "tema": "tiafoe",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Medvedev silences Turin with a clinic against Cobolli (Punto de Break)",
-     "Licensable picture: Tennis 2026: Nitto ATP Finals: ARRIBAGE OLIVETTI TRAINING (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "jeffrey epstein",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
+    "tema": "raquel bollo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Discharge petition on 2nd Epstein files bill secures 218 signatures, teeing up floor action (ABC News - Breaking News, Latest News and Videos)",
-     "‘Trump and Melania must testify’: Ro Khanna’s pushes for release of millions of Epstein files (The American Bazaar)"
+     "Jorge Javier Vázquez y Belén Esteban, a horas de escenificar su esperadísimo reencuentro en 'Gran Hermano VIP' tras 3 años sin verse: todas las claves (HOLA)",
+     "Primera polémica con 'GH VIP' antes del estreno en Telecinco con el regreso de Belén Esteban: \"Es mejor venderlo como concursante oficial que reconocer que entra en calidad de visitante. Durante un mes y después, para casa\" (El Periódico)"
     ]
    },
    {
-    "tema": "nicolas cage",
+    "tema": "guillermo fesser",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "'Madden' Review: Nicolas Cage in an Eccentric Stunt of a Sports Biopic (Variety)",
-     "'Madden' Review: Nicolas Cage and Christian Bale in Football Biopic (The Hollywood Reporter)"
-    ]
-   },
-   {
-    "tema": "alianza atlético - melgar",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alianza Atlético - FBC Melgar | Pronóstico y cuotas 18.11.2026 (Diario AS)",
-     "Alineaciones de Alianza Atletico y Melgar por la Liga 1: formaciones probables (Bolavip Perú)"
-    ]
-   },
-   {
-    "tema": "chelsea - paris saint-germain football club",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Ver en directo Chelsea FC Women vs. Paris Saint Germain: ¿Quién retransmite el partido por televisión y en streaming? (Goal.com)",
-     "Pronóstico Chelsea F - PSG F - Champions League Femenina (SportyTrader)"
-    ]
-   },
-   {
-    "tema": "esport3",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:10:00-08:00",
+    "desde": "2026-11-18T13:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Ascens al primer equip, titular i renovació fins al 2030: els tres mesos més sorprenents d’un protegit de Flick (Culemania)"
+     "Las tardes de RNE. Fesser y un libro que se hace necesario (RTVE.es)",
+     "“EE.UU. existe gracias a España y el hispano allí debería estar orgulloso” (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "bonoloto 18 noviembre 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comprobar Bonoloto de hoy miércoles 18 de noviembre de 2026 (La Vanguardia)",
+     "Bonoloto: comprobar sorteo del miércoles 18 de noviembre (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "marruecos",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Níger 0 - Marruecos 1: resumen, goles y resultado | Fase de clasificación de la Copa Africana de Naciones hoy, (Diario AS)",
+     "Brahim brilla en el triunfo de Marruecos con una bonita asistencia (MARCA)"
+    ]
+   },
+   {
+    "tema": "eurocopa 2028",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así quedan los bombos para el sorteo de la Eurocopa 2028 (MARCA)",
+     "Ranking de favoritos a la Eurocopa 2028: Inglaterra da un golpe sobre la mesa ante España y la Alemania de Jurgen Klopp impresiona, pero Portugal sufre sin Cristiano Ronaldo (Goal.com)"
+    ]
+   },
+   {
+    "tema": "debate isla de las tentaciones",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las tres bombas del debate final de 'La isla de las tentaciones 11': los mensajes de Andrea, la confesión de Fran y una infidelidad de Juanpi (El Confidencial)",
+     "Unos mensajes cuestionan la fidelidad de Andrea y Náyades le defiende: las imágenes (Telecinco)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "frances tiafoe",
+    "tema": "megaproyecto",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Ben Shelton’s ATP Finals and the marginal gains of turning an entertainer into a player - The Athletic (The New York Times)",
-     "November 17, 2026: Carlos Alcaraz vs Flavio Cobolli Group Stage match Tennis Prediction Market (Robinhood)"
-    ]
-   },
-   {
-    "tema": "mercado de divisas",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:10:00-08:00",
+    "desde": "2026-11-18T13:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Dólar Sube ya que un restrictivo Waller respalda una acción agresiva de la Fed (TradingView)",
-     "Los responsables de la política monetaria de la Fed se centraron en los riesgos de inflación en octubre, y algunos consideraron necesario un aumento mayor de las tasas de interés (TradingView)"
+     "Argentina LNG: cómo será la megaplanta que acondicionará y separará el gas en las costas de Río Negro (econojournal.com.ar)",
+     "Confini: “Río Negro será una provincia totalmente distinta, llena de desafíos y oportunidades” (Gobierno de Río Negro)"
     ]
    },
    {
-    "tema": "flavio cobolli",
+    "tema": "kevin castaño",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (Olé)",
+     "El jugador que pasó de borrado en River a pieza clave de Mineiro y finalista contra Boca: \"Lo destruyeron\" (FM Del Sol Pehuajo)"
+    ]
+   },
+   {
+    "tema": "tiafoe",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T12:10:00-08:00",
+    "desde": "2026-11-18T13:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
-     "Bayern Munich News: The aftermath of Germany’s 5-0 win vs. the Dutch (Bavarian Football Works)"
+     "Flavio Cobolli vs. Frances Tiafoe: a qué hora juegan y dónde ver en vivo las ATP Finals 2026 (ESPN Argentina)",
+     "Pronósticos Cobolli vs. Tiafoe: el estadounidense busca imponer su dominio en las ATP Finals 2026 (Gainblers)"
     ]
    },
    {
-    "tema": "rubén darío insúa",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Qué pasa en San Lorenzo con las deudas al plantel y por qué hay bronca en los jugadores (Olé)",
-     "La fuerte decisión que tomó Insúa en San Lorenzo por la deuda salarial con los jugadores (El Destape)"
-    ]
-   },
-   {
-    "tema": "dolar blue hoy",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Dólar blue, dólar hoy: a cuánto cotizan el miércoles 18 de noviembre de 2026 (Página|12)",
-     "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizó el oficial y cuál fue el precio del paralelo, minuto a minuto, este 18 de noviembre (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "ambulancia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Una ambulancia del PAMI le devolvió a su marido muerto y lo dejó sentado cuatro horas en un sillón (Clarin.com)",
-     "Investigan la muerte de un hombre de 66 años tras una fallida endoscopía (La Nueva Provincia)"
-    ]
-   },
-   {
-    "tema": "rodrigo villagra",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jugó en River y está a 235 minutos de activar una insólita cláusula millonaria (TyC Sports)",
-     "El buen presente de Rodrigo Villagra en el Brasileirao noviembre 2026 (Canal Showsport)"
-    ]
-   },
-   {
-    "tema": "pedro troglio",
+    "tema": "veredicto",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-18T11:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Pedro Troglio dejaría Banfield y está a un paso de otro club argentino (TyC Sports)",
-     "\"Es oficialmente libre\": confirmado, bomba en Atlético Tucumán (el tucumano)"
-    ]
-   },
-   {
-    "tema": "lesbicidio",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T11:00:00-08:00",
+    "desde": "2026-11-18T13:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
      "Lesbicidio de Barracas: condenaron a prisión perpetua al único acusado por el triple crimen (Página|12)",
@@ -438,126 +384,175 @@
     ]
    },
    {
-    "tema": "pago",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T10:50:00-08:00",
+    "tema": "contrabando",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Comienza el pago de los Planes de Emergencia junto con la segunda cuota del bono provincial (El Liberal)",
-     "Planes de Emergencia en Santiago del Estero: este jueves comienza el pago junto con la segunda cuota del bono (www.385.com.ar)"
+     "Estados Unidos sancionó a una entidad libanesa y a una red de contrabando de oro vinculadas con Hezbollah (Infobae)",
+     "EE. UU. seguirá actuando contra las redes financieras de Hezbolá en el Líbano (سانا)"
+    ]
+   },
+   {
+    "tema": "mallorca fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "alianza atlético - melgar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Por qué es importante el resultado del Melgar vs Alianza Atlético? (Infobae)",
+     "Tabla de posiciones del Torneo Clausura y Acumulado 2026 mientras se juega Alianza Atlético vs. FBC Melgar (Bolavip Perú)"
+    ]
+   },
+   {
+    "tema": "fuerte apache",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Megaoperativo en Fuerte Apache: la Policía mató a \"Mayonesa\", buscado por homicidio y mano derecha del narco \"Gordo Tilín\" (Clarin.com)",
+     "Cayó abatido “Mayonesa”, el adolescente buscado por matar a un policía en Fuerte Apache: se enfrentó a los tiros con la Policía (Infobae)"
+    ]
+   },
+   {
+    "tema": "toyota corolla deck",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Toyota presentó la pickup del Corolla Cross: cómo es y cuándo podría llegar a la Argentina (Clarin.com)",
+     "Toyota confirma su anti Toro hecha en Brasil (Autocosmos)"
+    ]
+   },
+   {
+    "tema": "flavio cobolli",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
+     "Bayern Munich News: The aftermath of Germany’s 5-0 win vs. the Dutch (Bavarian Football Works)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "chelsea vs psg",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:30:00-08:00",
-    "deporte_probable": true,
+    "tema": "inbursa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Chelsea v Paris Saint-Germain: Women’s Champions League – live (The Guardian)",
-     "Bompastor updates on Buchanan, Dragoni, Malard and Matsukubo ahead of PSG | News | Official Site (Chelsea Football Club)"
+     "Banco Inbursa de Carlos Slim Helú se une al IMSS y le deposita $650,000 a miles de pensionados de Ley 73: requisitos y cómo pedir el dinero en noviembre 2026 (Ambito)",
+     "Debe Pemex 388 mmdp a la banca (El Norte)"
     ]
    },
    {
-    "tema": "protesta",
+    "tema": "deutsche bank",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los pagos a la industria del sexo virtual en Colombia que el Deutsche Bank no vigiló (El Universal)",
+     "Filtraciones de Deutsche Bank revelan 582 mdd en operaciones sospechosas de Jeffrey Epstein (La Jornada)"
+    ]
+   },
+   {
+    "tema": "juventus femenino",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Juventus - Oud-Heverlee Leuven Mä | Pronóstico y cuotas 18.11.2026 (Diario AS)",
+     "Ver Juventus vs. Oud-Heverlee Leuven en directo hoy: ¿quién transmite el partido por TV y en streaming? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "gta san andreas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wow, GTA 6 Has Some Incredible Animations (Kotaku)",
+     "Turns out, Rockstar teased GTA 6 back in 2021 with GTA San Andreas re-release (Notebookcheck)"
+    ]
+   },
+   {
+    "tema": "florence pugh",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Florence Pugh Fires Back at Critics Who Said She Looked Unrecognizable During Sunday's Appearance (Yahoo)",
+     "Florence Pugh Wants a Word With ‘Evie’ Magazine (The Cut)"
+    ]
+   },
+   {
+    "tema": "dólar estadounidense",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Al peso le da la ‘chiripiorca’ por minutas de la Fed: ¿Cuánto pierde ante el dólar? (El Financiero)",
+     "Precio del dólar HOY miércoles 18 de noviembre de 2026: Peso mexicano retrocede por cautela ante la Fed (Milenio)"
+    ]
+   },
+   {
+    "tema": "alcoyano vs mallorca",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": []
+   },
+   {
+    "tema": "mallorca",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wartungspause beim \"Roten Blitz\" auf Mallorca: Was Reisende wissen müssen (mallorca-services.es)",
+     "Tom Gaebel geht 2027 auf VASCO DA GAMA von Mallorca nach Lissabon (Schiffe und Kreuzfahrten)"
+    ]
+   },
+   {
+    "tema": "crecimiento económico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comparece SEDECOP (Al Calor Político)",
+     "Comparece ante el Congreso el Secretario de Desarrollo Económico (Quadratín Veracruz)"
+    ]
+   },
+   {
+    "tema": "pablo lemus navarro",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-18T12:30:00-08:00",
+    "desde": "2026-11-18T12:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pagaron criminales a manifestantes de Santa Fe.- Segob (Reforma)",
-     "Nuevo colapso vial en CDMX; en Cuajimalpa, encapuchados bloquearon accesos a Santa Fe (La Jornada)"
-    ]
-   },
-   {
-    "tema": "juventus de turín - oud-heverlee leuven",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Juventus vs OH Leuven: UEFA Women's Champions League stats & head-to-head (BBC)",
-     "Watch Juventus vs Oud-Heverlee Leuven live today: who is showing the match on TV and via live stream? (Goal.com)"
-    ]
-   },
-   {
-    "tema": "frances tiafoe",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "ATP Finals 2026: Carlos Alcaraz borró de la cancha a Daniil Medvedev y está prácticamente clasificado a semifinales (ESPN México)",
-     "Carlos Alcaraz acaricia las semifinales del Masters ATP, pese a problemas físicos (La Jornada)"
-    ]
-   },
-   {
-    "tema": "tamara gorro",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tamara Gorro rompe su silencio tras el comunicado de Cayetano Rivera: \"Es un gesto de un gran caballero\" (HOLA)",
-     "Salen a la luz nuevos detalles de la ruptura de Tamara Gorro y Cayetano Rivera (Diario AS)"
-    ]
-   },
-   {
-    "tema": "vica andrade",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "\"Ya no quiero vivir más\": Vica Andrade, viuda de Memo del Bosque, rompe en llanto al revelar las dolorosas enf (Milenio)",
-     "\"Ya no quiero vivir más\": la actriz Vica Andrade expone el calvario de salud que ha vivido por años (Debate)"
-    ]
-   },
-   {
-    "tema": "rotonda de las personas ilustres",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Avanzan los trabajos para trasladar restos de Cuauhtémoc Cárdenas a la Rotonda de las Personas Ilustres (La Jornada)",
-     "Reportan avances para incluir a Cuauhtémoc Cárdenas en Rotonda de Personas Ilustres (El Universal)"
-    ]
-   },
-   {
-    "tema": "christian nodal",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Nodal nuevamente contra su padre?: estaría buscando frenar que se registre otra marca con su nombre (Univision)",
-     "Christian Nodal enfrenta legalmente a su padre; busca frenar otra marca con su nombre (El Universal)"
-    ]
-   },
-   {
-    "tema": "flavio cobolli",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League (BBC)",
-     "Licensable picture: Dänemark vs Norwegen, Nations League, 6. Spieltag, Saison 2026 2027 (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "gta 6 ps5",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T12:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "PlayStation suffers major outage hours before \"GTA VI\" launch (Axios)",
-     "Users are массово reporting PSN and Xbox Network outages amid the release of GTA VI (Українські Національні Новини (УНН))"
+     "Autoridades mexicanas detienen a El Topo por el secuestro del periodista Jaime Barrera (Yahoo)",
+     "Cae “El Topo” presunto implicado en el secuestro del periodista Jaime Barrera; operativo deja tres muertos en Zapopan (UDG TV)"
     ]
    }
   ]
