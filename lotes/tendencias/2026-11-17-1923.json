@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-11-17T19:23-05:00",
+  "nota": "Señal por partidos en vivo de la fecha FIFA. Ecuador-Bolivia (18:30, Guayaquil) ya tenía previa en el lote de la mañana; resultado aún sin confirmar en la búsqueda: reel de resultado se evalúa en la ronda siguiente. Sin alerta urgente.",
+  "temas": [
+    {"tema": "Ecuador vs. Bolivia (amistoso)", "señales": ["'ecuador vs' nuevo EC 20000+", "teleamazonas en vivo 2000+", "AR 200+"], "volumen_EC": "20000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+    {"tema": "Argentina vs. Costa Rica", "señales": ["nuevo EC 10000+", "ES 'argentina fc' 2000+", "MX 500+"], "volumen_EC": "10000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "Chile vs. Colombia", "señales": ["nuevo EC 5000+", "MX 10000+"], "volumen_EC": "5000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "Uruguay vs. República Dominicana", "señales": ["nuevo EC 1000+", "ES 1000+", "MX 2000+"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "Estados Unidos vs. Haití", "señales": ["EC 200+", "MX 5000+", "AR 500+", "US 500+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "TEMPRANA", "avisado": true},
+    {"tema": "Gales vs. Portugal", "señales": ["fuera del top EC"], "volumen_EC": null, "volumen_anterior": "1000+", "estado": "EN DECLIVE", "brecha": null, "avisado": false}
+  ]
+}
