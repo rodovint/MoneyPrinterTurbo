@@ -1,0 +1,327 @@
+[
+ {
+  "titulo": "Pochettino se despide de Estados Unidos y llega al Manchester United",
+  "etiqueta": "MUNDO",
+  "color": "#DA291C",
+  "audio": "audio/12",
+  "franja": [
+   "EE. UU. 2-0 HAITÍ · GLOBAL 8-0",
+   "CHILENA DE PULISIC",
+   "POCHETTINO: 21 TRIUNFOS EN 35",
+   "HOY ASUME EL MANCHESTER UNITED"
+  ],
+  "escenas": [
+   {
+    "texto": "Pochettino se despidió de Estados Unidos ganando, y hoy asume el Manchester United.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡ADIÓS Y A OLD TRAFFORD!",
+     "sobre": "POCHETTINO"
+    },
+    "foto": "img/pochettino-united.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "En Cincinnati, Christian Pulisic marcó de chilena y Julian Hall cerró el dos a cero ante Haití.",
+    "dicho": "En Cincinnati, Christian Púlisic marcó de chilena y Yúlian Jol cerró el dos a cero ante Haití.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "EE. UU. 2-0 HAITÍ",
+     "sobre": "CHILENA DE PULISIC"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "Estados Unidos pasó a semifinales de la Nations League con un global de ocho a cero.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "8-0",
+     "texto": "GLOBAL ANTE HAITÍ"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Pochettino deja treinta y cinco partidos, veintiún triunfos y unos octavos de final del Mundial.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "21",
+     "texto": "TRIUNFOS EN 35 PARTIDOS CON EE. UU."
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Ahora le toca un United en zona de descenso, con un solo triunfo en diez fechas.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "1 TRIUNFO EN 10",
+     "sobre": "UNITED, EN DESCENSO"
+    },
+    "voz": "andrea",
+    "suspenso": true
+   },
+   {
+    "texto": "¿Pochettino salva al Manchester United?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LO SALVA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/pochettino-united.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "México vs. Jamaica: Rafa Márquez gana por fin y avanza",
+  "etiqueta": "CONCACAF",
+  "color": "#006847",
+  "audio": "audio/13",
+  "franja": [
+   "MÉXICO 1-0 JAMAICA · GLOBAL 3-3",
+   "GOL DE TECATITO CORONA 35'",
+   "AVANZA POR GOL DE VISITANTE",
+   "1ER TRIUNFO DE RAFA MÁRQUEZ"
+  ],
+  "escenas": [
+   {
+    "texto": "Rafa Márquez por fin ganó con México, y lo metió en semifinales.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡POR FIN GANÓ!",
+     "sobre": "RAFA MÁRQUEZ"
+    },
+    "foto": "img/mexico-jamaica.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "México le ganó uno a cero a Jamaica en Monterrey, con gol de Tecatito Corona al minuto treinta y cinco.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MÉXICO 1-0 JAMAICA",
+     "sobre": "TECATITO CORONA 35'"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "El global quedó tres a tres, y México avanzó por los goles de visitante.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "3-3",
+     "texto": "GLOBAL · PASA MÉXICO POR GOL DE VISITANTE"
+    },
+    "voz": "andrea",
+    "suspenso": true
+   },
+   {
+    "texto": "Antes, Márquez sumaba cinco partidos sin ganar: dos empates y tres derrotas.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "5",
+     "texto": "PARTIDOS SIN GANAR ANTES DE ANOCHE"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Las semifinales de la Nations League se juegan en marzo de dos mil veintisiete.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SEMIFINAL EN MARZO",
+     "sobre": "NATIONS LEAGUE 2027"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "¿Rafa Márquez debe seguir en el Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE QUEDA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/mexico-jamaica.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Piero Hincapié, acuerdo con Arsenal hasta 2032",
+  "etiqueta": "ECUATORIANOS",
+  "color": "#EF0107",
+  "audio": "audio/14",
+  "franja": [
+   "HINCAPIÉ: ACUERDO HASTA JUNIO 2032",
+   "CONTRATO MEJORADO",
+   "FALTA EL ANUNCIO OFICIAL",
+   "24 AÑOS · DEFENSA DE LA TRI"
+  ],
+  "escenas": [
+   {
+    "texto": "Arsenal ya acordó con Piero Hincapié: contrato hasta el dos mil treinta y dos.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡HASTA 2032!",
+     "sobre": "PIERO HINCAPIÉ"
+    },
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "El defensa ecuatoriano, de veinticuatro años, firmará un contrato mejorado.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CONTRATO MEJORADO",
+     "sobre": "24 AÑOS"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Lo informaron David Ornstein y Fabrizio Romano, y solo falta el anuncio oficial.",
+    "dicho": "Lo informaron David Órnstin y Fabricio Romano, y solo falta el anuncio oficial.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ACUERDO CERRADO",
+     "sobre": "FALTA LA FIRMA OFICIAL"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Hincapié llegó cedido desde el Bayer Leverkusen, y en junio Arsenal lo compró en definitiva.",
+    "dicho": "Hincapié llegó cedido desde el Bayer Léverkusen, y en junio Arsenal lo compró en definitiva.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE CEDIDO A FIJO",
+     "sobre": "JUNIO 2026"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "Su contrato iba hasta dos mil treinta y uno: ahora suma un año más.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2032",
+     "texto": "NUEVO CONTRATO HASTA JUNIO"
+    },
+    "voz": "andrea",
+    "animar": false
+   },
+   {
+    "texto": "¿Hincapié o Pacho: quién es el mejor central de la Tri?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿HINCAPIÉ O PACHO?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/hincapie-arsenal.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Uruguay vs. República Dominicana: la goleada de Forlán",
+  "etiqueta": "MUNDO",
+  "color": "#5CBFEB",
+  "audio": "audio/15",
+  "franja": [
+   "URUGUAY 5-0 REP. DOMINICANA",
+   "MALDONADO · AMISTOSO",
+   "GOLES: AGUIRRE, DE LA CRUZ, VALVERDE, DAMIANI",
+   "FORLÁN, DT INTERINO DESDE AGOSTO"
+  ],
+  "escenas": [
+   {
+    "texto": "La Uruguay de Diego Forlán le metió cinco a República Dominicana.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡MANITA DE FORLÁN!",
+     "sobre": "URUGUAY 5-0"
+    },
+    "foto": "img/uruguay-forlan.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "Fue cinco a cero en Maldonado, en el primer partido de Uruguay como local en más de un año.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "URUGUAY 5-0 REP. DOMINICANA",
+     "sobre": "MALDONADO"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "Rodrigo Aguirre abrió el marcador al minuto cuarenta y uno.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "AGUIRRE 41'",
+     "sobre": "EL 1-0"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Después llegaron un autogol, un penal de Nicolás de la Cruz, y goles de Federico Valverde y Bruno Damiani.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE LA CRUZ, VALVERDE Y DAMIANI",
+     "sobre": "DEL 1-0 AL 5-0"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "Forlán es técnico interino desde agosto, tras la eliminación de Uruguay en el Mundial.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "INTERINO DESDE AGOSTO",
+     "sobre": "DIEGO FORLÁN"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "¿Forlán debe quedarse como técnico de Uruguay?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE QUEDA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/uruguay-forlan.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ }
+]
