@@ -1,0 +1,59 @@
+[
+  {
+    "titulo": "Jordy Caicedo, gol de caño: Ecuador 2-0 Bolivia",
+    "etiqueta": "LA TRI",
+    "color": "#FFD100",
+    "audio": "audio/11",
+    "franja": ["ECUADOR 2-0 BOLIVIA", "MERCADO 20'", "JORDY CAICEDO 45+3'", "2DO TRIUNFO DE GALLARDO"],
+    "escenas": [
+      {
+        "texto": "Jordy Caicedo le hizo un caño al arquero y Ecuador le ganó dos a cero a Bolivia.",
+        "grafico": {"tipo": "marcador", "equipos": [
+          {"nombre": "ECUADOR", "color": "#FFD100", "goles": 2, "escudo": "img/escudos/fef.png"},
+          {"nombre": "BOLIVIA", "color": "#007934", "goles": 0, "escudo": "img/escudos/bolivia.png"}], "pie": "MONUMENTAL DE GUAYAQUIL"},
+        "hinchada": true
+      },
+      {
+        "texto": "Al minuto veinte, Jhon Mercado la empalmó de volea tras un córner mal despejado.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "VOLEA DE MERCADO", "sobre": "MINUTO 20"}
+      },
+      {
+        "texto": "Y en el descuento del primer tiempo, Mercado asistió y Jordy Caicedo la pasó entre las piernas de Carlos Lampe.",
+        "voz": "andrea",
+        "destello": true,
+        "grafico": {
+          "tipo": "tv", "titulo": "ASÍ FUE EL 2-0",
+          "local": {"nombre": "ECUADOR", "color": "#FFD100", "color2": "#0033A0"},
+          "rival": {"nombre": "BOLIVIA", "color": "#007934"},
+          "jugadores": [
+            {"id": "M", "equipo": "local", "x": 35, "y": 40, "nombre": "MERCADO"},
+            {"id": "9", "equipo": "local", "x": 55, "y": 25, "nombre": "J. CAICEDO", "destacado": true},
+            {"id": "D1", "equipo": "rival", "x": 48, "y": 22},
+            {"id": "1", "equipo": "rival", "x": 50, "y": 4, "arquero": true}
+          ],
+          "balon": "M",
+          "pasos": [
+            {"balon": [55, 12], "mover": {"9": [55, 12]}, "flecha": "pase", "texto": "PASE DE MERCADO"},
+            {"balon": [50, -2], "flecha": "tiro", "gol": true, "texto": "CAÑO A LAMPE"}
+          ],
+          "marcador": {"local": "ECU", "rival": "BOL", "antes": [1, 0], "despues": [2, 0], "minuto": "45+3'"}
+        }
+      },
+      {
+        "texto": "Es el segundo triunfo seguido de Marcelo Gallardo, y Bolivia suma siete derrotas al hilo.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "2 DE 2 PARA GALLARDO", "sobre": "BOLIVIA: 7 DERROTAS SEGUIDAS"}
+      },
+      {
+        "texto": "¿Jordy Caicedo se ganó el puesto de nueve en la Tri?",
+        "grafico": {"tipo": "titular", "texto": "¿EL 9 DE LA TRI?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]

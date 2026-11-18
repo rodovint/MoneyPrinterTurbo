@@ -1,0 +1,12 @@
+{
+  "fecha": "2026-11-17T21:24-05:00",
+  "nota": "Ecuador 2-0 Bolivia confirmado (Infobae/EFE). Alerta de reel: lotes/borradores/2026-11-17-alerta-2124.",
+  "temas": [
+    {"tema": "Ecuador vs. Bolivia (2-0)", "señales": ["'ecuador vs' EC 100000+ (antes 20000+)"], "volumen_EC": "100000+", "volumen_anterior": "20000+", "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+    {"tema": "Estados Unidos vs. Haití (vuelta Nations League)", "señales": ["EC 2000+ (antes 200+)", "ES 500+"], "volumen_EC": "2000+", "volumen_anterior": "200+", "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "Uruguay vs. República Dominicana", "señales": ["EC 5000+ (antes 1000+)", "'uruguay vs' EC 1000+"], "volumen_EC": "5000+", "volumen_anterior": "1000+", "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+    {"tema": "México vs. Jamaica (vuelta Nations League)", "señales": ["nuevo EC 500+", "MX 100000+", "AR 500+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+    {"tema": "Argentina vs. Costa Rica", "señales": ["fuera del top EC"], "volumen_EC": null, "volumen_anterior": "10000+", "estado": "EN DECLIVE", "brecha": null, "avisado": false},
+    {"tema": "Chile vs. Colombia", "señales": ["fuera del top EC"], "volumen_EC": null, "volumen_anterior": "5000+", "estado": "EN DECLIVE", "brecha": null, "avisado": false}
+  ]
+}
