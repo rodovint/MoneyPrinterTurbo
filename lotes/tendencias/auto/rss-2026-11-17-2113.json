@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-17T21:13-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "mexico vs jamaica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rafael Márquez promete un Tri más agresivo para remontar a Jamaica (https://opinionciudadana.com.mx/)",
+     "Armando León ni a la banca de nuevo con Selección (AS México)"
+    ]
+   },
+   {
+    "tema": "raptors - knicks",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Raptors suffer frustrating overtime loss to Knicks in Barnes’ return (Sportsnet.ca)",
+     "NBA Odds Tuesday: 4 Data-Driven Picks for Knicks vs Raptors and Hornets vs Lakers (Action Network)"
+    ]
+   },
+   {
+    "tema": "evacuación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Río Turbio: realizaron un simulacro de evacuación y respuesta ante incendios en un comercio (patagonianexo)",
+     "El Niño: baja el número de evacuados en las provincias del Litoral (Perfil)"
+    ]
+   },
+   {
+    "tema": "deportes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Patrioterismo, virus que contamina al deporte y al periodismo deportivo de Ecuador (El Universo)",
+     "Dos entrenadores y 13 partidos: así fue el 2026 de la Tri (El Mercurio)"
+    ]
+   },
+   {
+    "tema": "argentina fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere Abel Núñez, futbolista argentino de 16 años, tras recibir un balonazo (El Telégrafo (por eliminar))",
+     "La muerte de Abel Núñez tras recibir balonazo en el rostro conmociona a Argentina (Primicias)"
+    ]
+   },
+   {
+    "tema": "uruguay vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Valverde cambia a Uruguay (Diario AS)",
+     "Valverde redondea con un buen tanto la 'Manita' de la Uruguay de Forlán (MARCA)"
+    ]
+   },
+   {
+    "tema": "canada vs guatemala",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Dónde ver Canadá vs Guatemala hoy EN VIVO por la Nations League? (365Scores)",
+     "Canadá avanza a las Finales de la Liga de Naciones y clasifica a la Copa Oro (Concacaf | Official Website)"
+    ]
+   },
+   {
+    "tema": "ecuador vs",
+    "volumen": "100000+",
+    "volumen_min": 100000,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "EN VIVO | Ecuador finaliza el primer tiempo con dos goles a su favor (Teleamazonas)",
+     "Un efectivo Ecuador dio cuenta de Bolivia en amistoso por fecha FIFA (El Universo)"
+    ]
+   },
+   {
+    "tema": "estados unidos - haití",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mauricio Pochettino dice adiós a Estados Unidos con goleada global y pase al Final Four (Claro Sports)",
+     "¿A qué hora es el Estados Unidos vs Haití y cómo verlo por TV y streaming online? (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "uruguay - república dominicana",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-17T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El probable equipo titular de la selección uruguaya para enfrentar a República Dominicana: Diego Forlán hará cambios en todas las líneas (El Observador)",
+     "Dominicana enfrenta a Uruguay con los ojos puestos en la Copa Oro (ESPN Ecuador)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "portillos",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Portillo's has closed these three locations in the Houston area (KHOU)",
+     "Portillo's is closing locations in North Texas (WFAA)"
+    ]
+   },
+   {
+    "tema": "cbb",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Novig Promo Code ALCOM: Get a $50 bonus for MACtion football, CBB and NBA games (Nov. 17) (AL.com)",
+     "Novig Promo Code RAD50: Deposit $10, Get $50 Bonus for NBA, NHL, NCAAB Trades (Nov. 17) (Saturday Down South)"
+    ]
+   },
+   {
+    "tema": "stars vs golden knights",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Singapore vs Paraguay: Friendlies stats & head-to-head (BBC)",
+     "Singapore vs. Paraguay Lineups, Live Streaming, How & Where to Watch on TV (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "ja'kobe walter",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Immanuel Quickley from deep! (NBA.com)",
+     "Immanuel Quickley and Ja’Kobe Walter must deliver as the Raptors chase Knicks payback (Raptors Rapture)"
+    ]
+   },
+   {
+    "tema": "ayo dosunmu",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Timberwolves Back on Track Despite Anthony Edwards’ Absence (SLAM Online)",
+     "Ayo Dosunmu is helping keep the Timberwolves on track while Anthony Edwards recovers (NBA.com)"
+    ]
+   },
+   {
+    "tema": "tatyana ali dancing with the stars",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'The Young and the Restless': Tatyana Ali Reacts to Tetona Jackson Taking Over as Roxie (Exclusive) (TV Insider)",
+     "Tatyana Ali Reacts to ‘Young and the Restless’ Recasting Her Role (IMDb)"
+    ]
+   },
+   {
+    "tema": "tobias harris",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Return Date, Expectations Laid Out for Spurs' Tobias Harris (Yahoo Sports)",
+     "Pistons’ Tobias Harris silver lining comes from his injury (PistonPowered)"
+    ]
+   },
+   {
+    "tema": "rj barrett",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Has The RJ Barrett Experience Run Its Course in Toronto? (Sports Illustrated)",
+     "RJ Barrett News: Limited to 14 points Sunday (RotoWire)"
+    ]
+   },
+   {
+    "tema": "nicolás maduro",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Not-So-Crazy Legal Strategy to Free Nicolás Maduro (Politico)",
+     "Venezuela’s Collaborator-in-Chief (The New Yorker)"
+    ]
+   },
+   {
+    "tema": "david mirkovic",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Illinois HC Brad Underwood Sets Benchmark for David Mirkovic Return (Yahoo Sports)",
+     "Brad Underwood’s update on David Mirkovic injury shows he is inching closer to an Illinois basketball return (Writing Illini)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "atlético nacional - once caldas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nacional - Once Caldas en vivo online: Semifinal Copa BetPlay, en directo (AS Colombia)",
+     "Copa BetPlay: Nacional tomó una decisión clave para la segunda semifinal con Once Caldas (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "spurs - pistons",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "‍‍‍~*!(~NBA-LIVE)Pistons vs Spurs Live Online (Comité Asesor de Vacunas de la AEP)",
+     "Cade Cunningham might be forced to challenge his own record against the Spurs (PistonPowered)"
+    ]
+   },
+   {
+    "tema": "américa de cali",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "América de Cali vs. Internacional de Bogotá en directo hoy: ¿dónde ver el partido por televisión y streaming? (Goal.com)",
+     "América vs. Inter Bogotá, en vivo online: Semifinal Copa BetPlay, en directo (AS Colombia)"
+    ]
+   },
+   {
+    "tema": "raptors - knicks",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Raptors suffer frustrating overtime loss to Knicks in Barnes’ return (Sportsnet.ca)",
+     "NBA Odds Tuesday: 4 Data-Driven Picks for Knicks vs Raptors and Hornets vs Lakers (Action Network)"
+    ]
+   },
+   {
+    "tema": "liga de naciones de la uefa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuartos de final de la Nations League: selecciones confirmadas (UEFA.com)",
+     "Cuartos durísimos: Francia, Holanda o Alemania, y Portugal… (Diario AS)"
+    ]
+   },
+   {
+    "tema": "uruguay vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Uruguay vs República Dominicana en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos (DAZN)",
+     "Uruguay - República Dominicana: alineaciones, estadísticas, horario y dónde ver (bet365 - Apuestas deportivas en la red)"
+    ]
+   },
+   {
+    "tema": "juventud",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sira Rego visitará Logroño este miércoles para hablar de derechos humanos y juventud (NueveCuatroUno)",
+     "Juventud reivindica su papel en la defensa de los derechos humanos en un encuentro que une cultura, pensamiento y música (Europa Press)"
+    ]
+   },
+   {
+    "tema": "cristina cifuentes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cristina Cifuentes: \"Mi marido y yo hemos tenido muchos problemas económicos por sus deudas\" (Vanitatis)",
+     "Cristina Cifuentes: “Mi padre era general de artillería. Somos ocho hermanos y yo fui la pequeña durante mucho tiempo. Me llevo 12 años con el pequeño\" (Lecturas)"
+    ]
+   },
+   {
+    "tema": "bertín osborne",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T16:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Fabiola, sobre el encuentro de sus hijos con el bebé de Gabriela Guillén: \"Lo decidirán ellos\" (Diez Minutos ES)",
+     "Bertín Osborne se rompe ante Fabiola Martínez y le sorprende con una declaración por un motivo muy especial: \"Me emociona muchísimo, gordita\" (HOLA)"
+    ]
+   },
+   {
+    "tema": "estados unidos - haití",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pochettino: “El fútbol es el segundo deporte en Estados Unidos” (Diario AS)",
+     "Dónde ver Estados Unidos vs Haití: Hora y canal TV para la vuelta de 4tos de Final de Concacaf Nations League (MARCA)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "atlético nacional - once caldas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "James marcó su primer gol en el Atanasio y Nacional toma ventaja ante Once Caldas (ESPN Argentina)",
+     "Once Caldas dio la sorpresa y eliminó a Atlético Nacional de la Copa Colombia: venció en penales y es finalista (Infobae)"
+    ]
+   },
+   {
+    "tema": "german martitegui",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llanto, ayuda de Damián Betular y una gran sorpresa: la sufrida noche de Marta Fort en MasterChef Celebrity (Canal 9 Televida)",
+     "Marta Fort se quebró en llanto en MasterChef Celebrity y Germán Martitegui la contuvo (HolaSalta Noticias)"
+    ]
+   },
+   {
+    "tema": "mariano chihade",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El comunicado sobre la salud de Mariano Chihade: “Clínicamente estable” (Infobae)",
+     "Internaron de urgencia a Mariano Chihade: qué se sabe sobre su delicado estado de salud (Pronto)"
+    ]
+   },
+   {
+    "tema": "méxico - jamaica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Selección Mexicana: No eres tú, Rafa... es Mikel, los dueños, el sistema (ESPN Argentina)",
+     "¿Cómo vuelve la Selección a México tras el Mundial 2026? (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "clima neuquen",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en Neuquén: el pronóstico del tiempo para este martes 17 noviembre de 2026 (Clarin.com)",
+     "Hay alerta amarilla por lluvias para este martes 17 de noviembre en Río Negro: las zonas afectadas (TN)"
+    ]
+   },
+   {
+    "tema": "somos asi",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nicolás Occhiato: del desafío de actuar con Oscar Martínez y la nueva alianza de Luzu a las comparaciones con Tinelli y Suar (La Nación)",
+     "Entrevista. Somos así: Flor Jazmín Peña y Momi Giardina hablaron de la serie de Nadie dice nada (La Voz del Interior)"
+    ]
+   },
+   {
+    "tema": "mexico vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-17T17:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Selección Mexicana: No eres tú, Rafa... es Mikel, los dueños, el sistema (ESPN Argentina)",
+     "México vs Jamaica EN VIVO Concacaf Nations League: Rafa Márquez confirma su once inicial (Infobae)"
+    ]
+   },
+   {
+    "tema": "20 de noviembre",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Se trabaja el viernes 20 de noviembre en Argentina? Quiénes tienen feriado y quiénes descansan el lunes 23 (Clarin.com)",
+     "Feriados 2026: cuántos quedan en el año y qué días caen Navidad y Año Nuevo (El Cronista)"
+    ]
+   },
+   {
+    "tema": "timberwolves - trail blazers",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[[ＬＩＶＥ＠ＳＴＲＥＡＭｓ]ＦＲＥＥ＝] Trail Blazers vs Timberwolves LIVE Streams ON Tv Channel (Comité Asesor de Vacunas de la AEP)",
+     "Tiny Nick's Gambling Picks 11/17 (Zone Coverage)"
+    ]
+   },
+   {
+    "tema": "cambio climático",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   }
+  ],
+  "MX": [
+   {
+    "tema": "atlético nacional - once caldas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "James marcó su primer gol en el Atanasio y Nacional toma ventaja ante Once Caldas (ESPN México)",
+     "¿James estará en la vuelta? Los 20 convocados de Nacional vs. Once Caldas por Copa BetPlay (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "antônio carlos santos",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Antonio Carlos Santos reclama cientos de millones de pesos a Pemex; otra empresa cobra 161 mmdp (AS México)",
+     "Empresa cobra miles de millones de pesos a Pemex mientras Antonio Carlos Santos denuncia impago (AS México)"
+    ]
+   },
+   {
+    "tema": "méxico vs. chile",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El guiño de Luis Díaz a la Selección que encendió la guerra del rating televisivo (MARCA)",
+     "Lucho Díaz se reportó como espectador del Colombia vs Chile y dejó clara su preferencia entre Gol Caracol y RCN (Publimetro Colombia)"
+    ]
+   },
+   {
+    "tema": "periodista",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años (BBC)",
+     "Matan en Costa Rica a periodista que denunciaba casos de narcotráfico (DW.com)"
+    ]
+   },
+   {
+    "tema": "raptors vs. knicks",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-17T17:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Scottie Barnes Injury Update: Is the Toronto Raptors Star Playing Against the New York Knicks? (NDTV Sports)",
+     "Deni Avdija (foot) downgraded to out Tuesday (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "méxico - jamaica",
+    "volumen": "100000+",
+    "volumen_min": 100000,
+    "desde": "2026-11-17T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Cómo vuelve la Selección a México tras el Mundial 2026? (ESPN México)",
+     "México vs Jamaica EN VIVO: partido de vuelta Cuartos de Final de la Nations League (Sin Embargo)"
+    ]
+   },
+   {
+    "tema": "ciberataque",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-17T17:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo (DW.com)",
+     "Hackean 178 sitios web importantes para robar criptomonedas (Reforma)"
+    ]
+   },
+   {
+    "tema": "rockstar games gta vi",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6 (BBC)",
+     "Logitech Announces That It Will Give Employees Time Off for Video Game Releases Ahead of GTA 6 Launch (IGN)"
+    ]
+   },
+   {
+    "tema": "cuándo juega méxico",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-17T17:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Kenti Robles: Ya hicimos los deberes, solo falta el examen (ESPN México)",
+     "ALEXANDRA GODÍNEZ Y ALICE SOTO, A LA SELECCIÓN MEXICANA (Rayados)"
+    ]
+   },
+   {
+    "tema": "mexico",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-17T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sheinbaum en la APEC: captar inversión china y calmar a Trump (DW.com)",
+     "La presidenta Claudia Sheinbaum Pardo llega a Shenzhen, CHINA, para la cumbre APEC 2026 (Gob MX)"
+    ]
+   }
+  ]
+ }
+}
