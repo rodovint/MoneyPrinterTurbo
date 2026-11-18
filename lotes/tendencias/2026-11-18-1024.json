@@ -1,0 +1,6 @@
+{"fecha": "2026-11-18T10:24-05:00", "nota": "rss-ultimo 09:14 (no hubo 10:05). Comparado con rss 07:04.", "temas": [
+ {"tema": "Carlos Alcaraz vs. Daniil Medvedev (ATP Finals, se juegan semis)", "señales": ["nuevo EC 200+", "ES 20000+", "US 2000+", "AR 1000+", "MX 1000+"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "TEMPRANA", "avisado": true},
+ {"tema": "Jorge Campos (cameo en TUDN)", "señales": ["MX 20000+", "ausente EC"], "volumen_EC": null, "volumen_anterior": null, "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Franco Posse (Macará, futuro 2027)", "señales": ["EC 100+ igual que 07:04"], "volumen_EC": "100+", "volumen_anterior": "100+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Lakers - Hornets / México vs / Liga de Naciones UEFA", "señales": ["fuera del top EC"], "volumen_EC": null, "volumen_anterior": "500+/2000+/200+", "estado": "EN DECLIVE", "brecha": "LOCAL", "avisado": false}
+]}
