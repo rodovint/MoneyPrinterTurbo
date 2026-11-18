@@ -1,0 +1,565 @@
+{
+ "fecha": "2026-11-18T14:54-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "importación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precios de las importaciones EEUU suben más de lo previsto en octubre (Yahoo)",
+     "Estados Unidos: los precios de importación superan las previsiones (MarketScreener España)"
+    ]
+   },
+   {
+    "tema": "alerta roja",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Más de 33.000 damnificados se registran en el país a causa de las lluvias asociadas al fenómeno de El Niño (El Universo)",
+     "A quién le toca explicar la alerta sobre las lluvias para protegerse de las inundaciones por El Niño (El Comercio)"
+    ]
+   },
+   {
+    "tema": "real madrid - inter de milán",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ivana: “Me hace mucha ilusión, tengo al Madrid en el corazoncito” (Diario AS)",
+     "Champions Femenina: Partidos a seguir de la Jornada 5 (ESPN Ecuador)"
+    ]
+   },
+   {
+    "tema": "playstation store",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T08:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sony defeats £2 billion UK claim over PlayStation Store pricing (Reuters)",
+     "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing (The Game Business)"
+    ]
+   },
+   {
+    "tema": "playstation",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA VI: la diferencia de gráficos entre PlayStation y Xbox (Metro Ecuador)"
+    ]
+   },
+   {
+    "tema": "xbox",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T08:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Every Game Leaving Xbox Game Pass on November 30 (VICE)",
+     "Something Weird Is Going On With GoldenEye 007 And Xbox Game Pass (Pure Xbox)"
+    ]
+   },
+   {
+    "tema": "carlos alcaraz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T05:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Tienes que jugar un partido perfecto\": la desazón de Medvedev tras su dura derrota ante Alcaraz en las ATP Finals 2026 (ESPN Deportes)",
+     "Liquidación total con alerta médica de Alcaraz en las ATP Finals de Turín (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "maría josé pinto",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Presidenta encargada María José Pinto viajará a República Dominicana este viernes, en pleno feriado decretado por Noboa (La República EC)",
+     "María José Pinto viajará a República Dominicana a cumbre de gobiernos (El Comercio)"
+    ]
+   },
+   {
+    "tema": "dalia bucaram",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dalia Bucaram deslumbra en la pasarela de Miss Universo 2026 con un romántico diseño de David Antonio (Ecuavisa)",
+     "Monic Pérez será la animadora del desfile de moda “Runway to the Universe” (Primera Hora)"
+    ]
+   },
+   {
+    "tema": "pensión",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "IESS adelanta las pensiones de noviembre a los jubilados, pero no puede anticipar el bono navideño, conozca por qué (Primicias)",
+     "IESS: por qué no se puede pagar el décimo tercer sueldo a los jubilados antes de diciembre (Diario La Hora)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "ngc 1433 supernova",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026 (Space)",
+     "Gemini and DECam showcase a young Type Ia supernova (Phys.org)"
+    ]
+   },
+   {
+    "tema": "kash patel",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GOP chair blasts Patel for skipping worldwide threats hearing (The Hill)",
+     "Outages, cyber attacks live updates: NY Republican warns Trump admin to heed lesson from 9/11 after outages (New York Post)"
+    ]
+   },
+   {
+    "tema": "florence pugh governors awards",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "2026 Governors Awards: Zendaya, Florence Pugh, more (Page Six)",
+     "2026 Governors Awards Red Carpet: Zendaya, Inde Navarrette and More (IMDb)"
+    ]
+   },
+   {
+    "tema": "golf",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kessler weighs in on growing the LPGA fanbase (Golf Channel)",
+     "LPGA Working With PGA Tour, Networks for Better TV Windows (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "jace jung",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tigers add fast-rising prospect Graham to 40-man roster, DFA Vierling (MLB.com)",
+     "Tigers cut Matt Vierling, two former first-round picks from 40-man roster (WOODTV.com)"
+    ]
+   },
+   {
+    "tema": "nick fortes",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Report: Rays working on Nick Fortes trade (NBC Sports)",
+     "Cubs could pivot to imminent Rays target as Carson Kelly's price climbs (Cubbies Crib)"
+    ]
+   },
+   {
+    "tema": "senate majority leader",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "These are the Senate Democrats backing Schumer and Van Hollen for majority leader (The Washington Post)",
+     "Bernie Sanders won't support Schumer for Senate Democratic leader, saying it's time for change (AP News)"
+    ]
+   },
+   {
+    "tema": "start 'em, sit 'em",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Fantasy football rankings for Week 11: Wide receiver (ESPN)",
+     "Fantasy Football Week 11 Guide: Starters, Streamers & Free Agents (Seattle Seahawks)"
+    ]
+   },
+   {
+    "tema": "chelsea vs psg",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Women's Champions League LIVE! BK Hacken vs Man City, Chelsea vs PSG score updates, news, prediction and line-ups (Sky Sports)",
+     "Women's Champions League: Shaw on bench for Man City at Hacken (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "playstation network",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Can You Game Share GTA 6 on PS5? PlayStation Has an Answer (VICE)",
+     "This simple trick lets you share GTA 6 with a friend on Xbox or PS5 (The Independent)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "agrupación de tráfico",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Informe Grupo de Trabajo de Tráfico Productividad ATGC (JUCIL)",
+     "La asociación de guardias civiles de Tráfico denuncia que les han propuesto un bonus más por poner multas que por hacer controles (Motorpasión Moto)"
+    ]
+   },
+   {
+    "tema": "alcoyano mallorca",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver gratis en televisión y online el Alcoyano - Mallorca y a qué hora es el partido de Copa del Rey hoy (ABC)",
+     "El Mallorca busca doblegar al Alcoyano en la Copa (Diario de Mallorca)"
+    ]
+   },
+   {
+    "tema": "besiktas real madrid",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "DaQuan Jeffries Çok Büyük Oynadı; Beşiktaş Fuzul, Evinde Real Madrid'e Karşı Zafere Ulaştı (Eurohoops)",
+     "Beşiktaş 83-79 Real Madrid! EuroLeague'de siyah-beyazlılardan dev zafer (Haber Kenti)"
+    ]
+   },
+   {
+    "tema": "elia galera",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Quiénes son los invitados de \"Pasapalabra\" hoy: así son Elia Galera, Javier de Miguel, Natalia Sánchez y Xavier Deltell (EuropaFM)",
+     "Quiénes son los invitados de 'Pasapalabra' en el programa de hoy (MARCA)"
+    ]
+   },
+   {
+    "tema": "yelmo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El antiguo Sexta Avenida resucita: cines premium, restaurantes de moda y tardeo navideño (El Mundo)",
+     "Cine Yelmo abrirá un nuevo complejo Luxury en Lesìx y alcanzará los 11 cines en la Comunidad de Madrid (Rubik Audiovisual)"
+    ]
+   },
+   {
+    "tema": "xavier deltell",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Quién es Xavier Deltell, invitado hoy en 'Pasapalabra' que saltó a la fama en un mítico programa de nuestra televisión (MARCA)",
+     "Quiénes son los invitados de \"Pasapalabra\" hoy: así son Elia Galera, Javier de Miguel, Natalia Sánchez y Xavier Deltell (EuropaFM)"
+    ]
+   },
+   {
+    "tema": "fomo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Fomo pays creators $30 million, sharing 'lion’s share' of revenue, Se Yong Park says (The Block)",
+     "Fomo pays creators $30 million, sharing 'lion’s share' of revenue, Se Yong Park says (Cryptonews.net)"
+    ]
+   },
+   {
+    "tema": "ib3",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Desestimada una denuncia de Ara Més-Front Ampli contra IB3 por entrevistar a Cañadas (Vox) (Ultima Hora)",
+     "MÉS reclama que el director de IB3 Ràdio dé explicaciones por el supuesto trato de favor a PP y Vox en un programa (Demócrata)"
+    ]
+   },
+   {
+    "tema": "tv canaria",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "CD Badajoz - CD Tenerife: alineaciones, horario, dónde ver, pronósticos y estadísticas (Betfair)",
+     "Televisión Canaria emite en directo el encuentro de la Copa del Rey entre el CD Badajoz y el CD Tenerife (Radio Televisión Canaria)"
+    ]
+   },
+   {
+    "tema": "sueños de libertad",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Avance del próximo capítulo de Sueños de libertad: Begoña, desesperada al descubrir que Gabriel se ha llevado a sus hijos (Antena 3)",
+     "Avance: Begoña se romperá al ver a Valentina vestida de blanco (atresplayer)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "abstención",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-18T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Argentina se negó a condenar la violencia contra mujeres y niñas en la ONU (Página|12)",
+     "Polémica por la abstención del Gobierno en una votación masiva de la ONU contra la violencia sobre mujeres y niñas (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "rodrigo villagra",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jugó en River y está a 235 minutos de activar una insólita cláusula millonaria (TyC Sports)",
+     "El buen presente de Rodrigo Villagra en el Brasileirao noviembre 2026 (Canal Showsport)"
+    ]
+   },
+   {
+    "tema": "pedro troglio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pedro Troglio dejaría Banfield y está a un paso de otro club argentino (TyC Sports)",
+     "\"Es oficialmente libre\": confirmado, bomba en Atlético Tucumán (el tucumano)"
+    ]
+   },
+   {
+    "tema": "dolar",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dólar blue, dólar hoy: a cuánto cotizan el miércoles 18 de noviembre de 2026 (Página|12)",
+     "El dólar sube hasta los $1580 y alcanza un nuevo máximo (La Nación)"
+    ]
+   },
+   {
+    "tema": "lesbicidio",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T11:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lesbicidio de Barracas: condenaron a prisión perpetua al único acusado por el triple crimen (Página|12)",
+     "Triple lesbicidio en Barracas: condenaron a prisión perpetua a Justo Barrientos, el único acusado (Infobae)"
+    ]
+   },
+   {
+    "tema": "pago",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El IPS paga haberes de noviembre (IPS)",
+     "Calendario de pago del IPS: cuándo cobro la jubilación del Instituto de Previsión Social en noviembre 2026 (La Nación)"
+    ]
+   },
+   {
+    "tema": "corolla deck",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Toyota confirma su anti Toro hecha en Brasil (Autocosmos)",
+     "Oficial: así es la Toyota Corolla Deck, la nueva pick-up compacta que llegará a la Argentina (Parabrisas / Perfil)"
+    ]
+   },
+   {
+    "tema": "fenómeno",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Súper Niño en Argentina: el fenómeno se intensifica y rigen alertas meteorológicas en varias provincias (La Nación)",
+     "El Niño 2026–27 amenaza con lluvias extremas en Argentina: las zonas más expuestas y cómo prepararse (Meteored Argentina)"
+    ]
+   },
+   {
+    "tema": "ludovica squirru",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ludovica Squirru, en exclusiva con La Voz: qué le espera a cada signo en el año de la Cabra de Fuego (La Voz del Interior)",
+     "Cuándo es el Año Nuevo Chino 2027: el animal y su significado (La Nación)"
+    ]
+   },
+   {
+    "tema": "martín llaryora",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diputados: Llaryora y Pullaro dejaron al Gobierno sin quorum en medio de la disputa por el Consejo de la Magistratura (La Nación)",
+     "Se cayó la sesión especial en Diputados: ¿cuándo podrían tratarse los proyectos? (Página|12)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "chelsea - paris saint-germain football club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ligue des championnes : Le programme de la 5e journée (Footeuses)",
+     "Sandy Baltimore (Chelsea) : \"Lors du tirage au sort, j'espérais tomber sur le PSG !\" (Flashscore.fr)"
+    ]
+   },
+   {
+    "tema": "play 5",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T11:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)",
+     "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ (Kotaku)"
+    ]
+   },
+   {
+    "tema": "venezuela",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El secretario de Guerra de Estados Unidos anuncia un acuerdo de defensa con Venezuela contra amenazas de “actores extranjeros” (EL PAÍS)",
+     "Dice Hegseth que Venezuela pasó de ser “la amenaza regional más agresiva” a colaborador (El Comentario)"
+    ]
+   },
+   {
+    "tema": "kelly preston",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "EXCLUSIVE: John Travolta Reveals If He’s Open to Dating 6 Years After Death of Wife Kelly Preston (TODAY.com)",
+     "John Travolta open to finding love again six years after wife’s death: ‘Love is everything’ (Nine.com.au)"
+    ]
+   },
+   {
+    "tema": "champions femenina",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dónde ver Chelsea vs. PSG Femenil: Horario y canal EN VIVO Jornada 5 Women's Champions League 2026 (Mediotiempo)",
+     "¿Dónde y a qué hora ver EN VIVO el duelo de la UEFA Women's Champions League entre Chelsea y PSG? (Debate)"
+    ]
+   },
+   {
+    "tema": "manchester city femenino",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "BK Häcken (F) - Manchester City WFC (F) | Pronóstico y cuotas 18.11.2026 (Diario AS)",
+     "BK Häcken FF contra Manchester City femenino: canal de TV, streaming y hora de inicio | Goal.com Argentina (Goal.com)"
+    ]
+   },
+   {
+    "tema": "bk häcken - man city",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rutgers vs. Notre Dame (Nov 18, 2026) Live Score (ESPN)",
+     "Real Madrid vs. Inter Milan (Nov 18, 2026) Team Stats (ESPN)"
+    ]
+   },
+   {
+    "tema": "juegos del hambre 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los Juegos del Hambre: Amanecer en la cosecha llega a cines en Colombia (Yahoo)",
+     "Más allá del Capitolio; 7 datos clave que debes conocer sobre el estreno de Amanecer en la cosecha (El Universal)"
+    ]
+   },
+   {
+    "tema": "morena",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Abre Morena registro a coordinaciones de los 16 distritos locales de Colima rumbo a 2027 (El Comentario)",
+     "Morena emite convocatoria para coordinadores distritales rumbo a elección de 2027 (La Jornada)"
+    ]
+   },
+   {
+    "tema": "real madrid - inter de milán",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-18T09:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Real Madrid vs Inter de Milán por fecha 5 de fase liga de Women's Champions League: equipo, fecha, hora y TV en vivo (ESPN México)",
+     "Real Madrid - Inter en directo | Última hora de Champions League Femenina en vivo hoy (MARCA)"
+    ]
+   }
+  ]
+ }
+}
