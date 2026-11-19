@@ -18,8 +18,6 @@
      "texto": "¡[TRIUNFO / GOLEADA] DE LA MINI-TRI!",
      "sobre": "SUB-17"
     },
-    "foto": "img/ecuador-sub17.png",
-    "movimiento": "zoom_in",
     "destello": true
    },
    {
@@ -66,9 +64,7 @@
      "tipo": "titular",
      "texto": "¿QUIÉN ES LA FIGURA?",
      "sobre": "TU OPINIÓN"
-    },
-    "foto": "img/ecuador-sub17.png",
-    "movimiento": "zoom_out"
+    }
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -98,8 +94,6 @@
      "texto": "¡VUELVE LA LIGAPRO!",
      "sobre": "VIERNES 20 DE NOVIEMBRE"
     },
-    "foto": "img/ligapro-regreso.png",
-    "movimiento": "zoom_in",
     "destello": true
    },
    {
@@ -145,9 +139,7 @@
      "tipo": "titular",
      "texto": "¿QUIÉN SERÁ CAMPEÓN?",
      "sobre": "TU OPINIÓN"
-    },
-    "foto": "img/ligapro-regreso.png",
-    "movimiento": "zoom_out"
+    }
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -177,8 +169,6 @@
      "texto": "[TITULAR CORTO]",
      "sobre": "[PROTAGONISTA]"
     },
-    "foto": "img/noticia-tres.png",
-    "movimiento": "zoom_in",
     "destello": true
    },
    {
@@ -224,9 +214,7 @@
      "tipo": "titular",
      "texto": "[PREGUNTA CORTA]?",
      "sobre": "TU OPINIÓN"
-    },
-    "foto": "img/noticia-tres.png",
-    "movimiento": "zoom_out"
+    }
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -256,8 +244,6 @@
      "texto": "[TITULAR CORTO]",
      "sobre": "[PROTAGONISTA]"
     },
-    "foto": "img/noticia-cuatro.png",
-    "movimiento": "zoom_in",
     "destello": true
    },
    {
@@ -304,9 +290,7 @@
      "tipo": "titular",
      "texto": "[PREGUNTA CORTA]?",
      "sobre": "TU OPINIÓN"
-    },
-    "foto": "img/noticia-cuatro.png",
-    "movimiento": "zoom_out"
+    }
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
