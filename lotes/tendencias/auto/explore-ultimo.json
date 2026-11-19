@@ -1,108 +1,39 @@
 {
- "fecha": "2026-11-18T13:28-05:00",
+ "fecha": "2026-11-19T07:03-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "real madrid - inter de milán",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
+   "tema": "lakers - jazz",
+   "impulso_24h_pct": 2808,
+   "estado": "explosiva",
    "impulso_3h_pct": null,
    "estado_3h": "nueva",
    "pico": {
-    "date": "2026-11-18T18:00:00+00:00",
+    "date": "2026-11-19T04:00:00+00:00",
     "value": 100,
-    "is_partial": true
+    "is_partial": false
    },
-   "ultimo_valor": 100,
+   "ultimo_valor": 0,
    "provincias_top": [
-    "Los Ríos 100",
-    "Guayas 62",
-    "Pichincha 61",
-    "Azuay 59",
-    "Manabí 42"
+    "El Oro 100",
+    "Los Ríos 72",
+    "Tungurahua 71",
+    "Manabí 53",
+    "Pichincha 52",
+    "Azuay 44",
+    "Guayas 30"
    ],
-   "el_oro": null,
+   "el_oro": 100,
    "busquedas_en_alza": [
-    "real madrid vs. paris football club femenino (Breakout)",
-    "liga de campeones femenina de la uefa (Breakout)",
-    "inter de milán vs. juventus de turín (Breakout)",
-    "chelsea vs. man city (Breakout)",
-    "real madrid vs. levante badalona (Breakout)"
+    "lakers hornets (Breakout)",
+    "raptors knicks (Breakout)",
+    "kings suns (Breakout)",
+    "lakers vs. jazz (Breakout)",
+    "magic 76ers (Breakout)",
+    "thunder hawks (Breakout)"
    ],
    "serie": [
-    [
-     "11-16T19",
-     0
-    ],
-    [
-     "11-16T20",
-     0
-    ],
-    [
-     "11-16T21",
-     0
-    ],
-    [
-     "11-16T22",
-     0
-    ],
-    [
-     "11-16T23",
-     0
-    ],
-    [
-     "11-17T00",
-     0
-    ],
-    [
-     "11-17T01",
-     0
-    ],
-    [
-     "11-17T02",
-     0
-    ],
-    [
-     "11-17T03",
-     0
-    ],
-    [
-     "11-17T04",
-     0
-    ],
-    [
-     "11-17T05",
-     0
-    ],
-    [
-     "11-17T06",
-     0
-    ],
-    [
-     "11-17T07",
-     0
-    ],
-    [
-     "11-17T08",
-     0
-    ],
-    [
-     "11-17T09",
-     0
-    ],
-    [
-     "11-17T10",
-     0
-    ],
-    [
-     "11-17T11",
-     0
-    ],
-    [
-     "11-17T12",
-     0
-    ],
     [
      "11-17T13",
      0
@@ -161,677 +92,11 @@
     ],
     [
      "11-18T03",
-     0
-    ],
-    [
-     "11-18T04",
-     0
-    ],
-    [
-     "11-18T05",
-     0
-    ],
-    [
-     "11-18T06",
-     0
-    ],
-    [
-     "11-18T07",
-     0
-    ],
-    [
-     "11-18T08",
-     0
-    ],
-    [
-     "11-18T09",
-     0
-    ],
-    [
-     "11-18T10",
-     0
-    ],
-    [
-     "11-18T11",
-     0
-    ],
-    [
-     "11-18T12",
-     0
-    ],
-    [
-     "11-18T13",
-     0
-    ],
-    [
-     "11-18T14",
-     0
-    ],
-    [
-     "11-18T15",
-     0
-    ],
-    [
-     "11-18T16",
-     17
-    ],
-    [
-     "11-18T17",
-     98
-    ],
-    [
-     "11-18T18",
-     100
-    ]
-   ]
-  },
-  {
-   "tema": "carlos alcaraz",
-   "impulso_24h_pct": 567,
-   "estado": "explosiva",
-   "impulso_3h_pct": -81,
-   "estado_3h": "en declive",
-   "pico": {
-    "date": "2026-11-16T13:00:00+00:00",
-    "value": 100,
-    "is_partial": false
-   },
-   "ultimo_valor": 0,
-   "provincias_top": [
-    "Pichincha 100",
-    "Manabí 96",
-    "Guayas 89",
-    "Morona-Santiago 87",
-    "Santa Elena 83",
-    "Imbabura 68",
-    "Esmeraldas 67",
-    "Azuay 67"
-   ],
-   "el_oro": 59,
-   "busquedas_en_alza": [
-    "flavio cobolli (Breakout)",
-    "carlos alcaraz cuando juega (Breakout)",
-    "aryna sabalenka (Breakout)",
-    "mirra andréyeva (Breakout)",
-    "frances tiafoe (+350%)",
-    "elina svitólina (+300%)",
-    "daniil medvédev (+170%)",
-    "zverev (+150%)"
-   ],
-   "serie": [
-    [
-     "11-16T19",
-     10
-    ],
-    [
-     "11-16T20",
-     0
-    ],
-    [
-     "11-16T21",
-     0
-    ],
-    [
-     "11-16T22",
-     11
-    ],
-    [
-     "11-16T23",
-     0
-    ],
-    [
-     "11-17T00",
-     0
-    ],
-    [
-     "11-17T01",
-     0
-    ],
-    [
-     "11-17T02",
-     16
-    ],
-    [
-     "11-17T03",
-     0
-    ],
-    [
-     "11-17T04",
-     0
-    ],
-    [
-     "11-17T05",
-     0
-    ],
-    [
-     "11-17T06",
-     0
-    ],
-    [
-     "11-17T07",
-     0
-    ],
-    [
-     "11-17T08",
-     0
-    ],
-    [
-     "11-17T09",
-     0
-    ],
-    [
-     "11-17T10",
-     0
-    ],
-    [
-     "11-17T11",
-     0
-    ],
-    [
-     "11-17T12",
-     0
-    ],
-    [
-     "11-17T13",
-     0
-    ],
-    [
-     "11-17T14",
-     0
-    ],
-    [
-     "11-17T15",
-     0
-    ],
-    [
-     "11-17T16",
-     0
-    ],
-    [
-     "11-17T17",
-     0
-    ],
-    [
-     "11-17T18",
-     12
-    ],
-    [
-     "11-17T19",
-     0
-    ],
-    [
-     "11-17T20",
-     0
-    ],
-    [
-     "11-17T21",
-     0
-    ],
-    [
-     "11-17T22",
-     11
-    ],
-    [
-     "11-17T23",
-     14
-    ],
-    [
-     "11-18T00",
-     8
-    ],
-    [
-     "11-18T01",
-     7
-    ],
-    [
-     "11-18T02",
-     0
-    ],
-    [
-     "11-18T03",
-     0
-    ],
-    [
-     "11-18T04",
-     0
-    ],
-    [
-     "11-18T05",
-     0
-    ],
-    [
-     "11-18T06",
-     0
-    ],
-    [
-     "11-18T07",
-     0
-    ],
-    [
-     "11-18T08",
-     0
-    ],
-    [
-     "11-18T09",
-     0
-    ],
-    [
-     "11-18T10",
-     0
-    ],
-    [
-     "11-18T11",
-     0
-    ],
-    [
-     "11-18T12",
-     0
-    ],
-    [
-     "11-18T13",
-     100
-    ],
-    [
-     "11-18T14",
-     73
-    ],
-    [
-     "11-18T15",
-     69
-    ],
-    [
-     "11-18T16",
-     28
-    ],
-    [
-     "11-18T17",
-     17
-    ],
-    [
-     "11-18T18",
-     0
-    ]
-   ]
-  },
-  {
-   "tema": "playstation store",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 354,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-18T17:00:00+00:00",
-    "value": 100,
-    "is_partial": false
-   },
-   "ultimo_valor": 0,
-   "provincias_top": [
-    "Pichincha 100",
-    "Guayas 92",
-    "Manabí 92",
-    "El Oro 71",
-    "Azuay 29"
-   ],
-   "el_oro": 71,
-   "busquedas_en_alza": [
-    "twitch (+350%)",
-    "playstation store canjear codigo (+40%)"
-   ],
-   "serie": [
-    [
-     "11-16T19",
-     0
-    ],
-    [
-     "11-16T20",
-     0
-    ],
-    [
-     "11-16T21",
-     0
-    ],
-    [
-     "11-16T22",
-     0
-    ],
-    [
-     "11-16T23",
-     0
-    ],
-    [
-     "11-17T00",
-     0
-    ],
-    [
-     "11-17T01",
-     0
-    ],
-    [
-     "11-17T02",
-     0
-    ],
-    [
-     "11-17T03",
-     0
-    ],
-    [
-     "11-17T04",
-     0
-    ],
-    [
-     "11-17T05",
-     0
-    ],
-    [
-     "11-17T06",
-     0
-    ],
-    [
-     "11-17T07",
-     0
-    ],
-    [
-     "11-17T08",
-     0
-    ],
-    [
-     "11-17T09",
-     0
-    ],
-    [
-     "11-17T10",
-     0
-    ],
-    [
-     "11-17T11",
-     0
-    ],
-    [
-     "11-17T12",
-     0
-    ],
-    [
-     "11-17T13",
-     0
-    ],
-    [
-     "11-17T14",
-     0
-    ],
-    [
-     "11-17T15",
-     0
-    ],
-    [
-     "11-17T16",
-     0
-    ],
-    [
-     "11-17T17",
-     0
-    ],
-    [
-     "11-17T18",
-     0
-    ],
-    [
-     "11-17T19",
-     0
-    ],
-    [
-     "11-17T20",
-     0
-    ],
-    [
-     "11-17T21",
-     0
-    ],
-    [
-     "11-17T22",
-     0
-    ],
-    [
-     "11-17T23",
-     0
-    ],
-    [
-     "11-18T00",
-     0
-    ],
-    [
-     "11-18T01",
-     0
-    ],
-    [
-     "11-18T02",
-     0
-    ],
-    [
-     "11-18T03",
-     0
-    ],
-    [
-     "11-18T04",
-     0
-    ],
-    [
-     "11-18T05",
-     0
-    ],
-    [
-     "11-18T06",
-     0
-    ],
-    [
-     "11-18T07",
-     0
-    ],
-    [
-     "11-18T08",
-     0
-    ],
-    [
-     "11-18T09",
-     0
-    ],
-    [
-     "11-18T10",
-     0
-    ],
-    [
-     "11-18T11",
-     0
-    ],
-    [
-     "11-18T12",
-     0
-    ],
-    [
-     "11-18T13",
-     0
-    ],
-    [
-     "11-18T14",
-     0
-    ],
-    [
-     "11-18T15",
-     41
-    ],
-    [
-     "11-18T16",
-     86
-    ],
-    [
-     "11-18T17",
-     100
-    ],
-    [
-     "11-18T18",
-     0
-    ]
-   ]
-  },
-  {
-   "tema": "franco posse",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": -100,
-   "estado_3h": "en declive",
-   "pico": {
-    "date": "2026-11-15T10:00:00+00:00",
-    "value": 100,
-    "is_partial": false
-   },
-   "ultimo_valor": 0,
-   "provincias_top": [
-    "Tungurahua 100",
-    "Pichincha 86",
-    "Guayas 64",
-    "Cotopaxi 58",
-    "El Oro 53",
-    "Chimborazo 48",
-    "Azuay 40",
-    "Manabí 36"
-   ],
-   "el_oro": 53,
-   "busquedas_en_alza": [],
-   "serie": [
-    [
-     "11-16T19",
-     0
-    ],
-    [
-     "11-16T20",
-     0
-    ],
-    [
-     "11-16T21",
-     0
-    ],
-    [
-     "11-16T22",
-     0
-    ],
-    [
-     "11-16T23",
-     0
-    ],
-    [
-     "11-17T00",
-     0
-    ],
-    [
-     "11-17T01",
-     0
-    ],
-    [
-     "11-17T02",
-     0
-    ],
-    [
-     "11-17T03",
-     0
-    ],
-    [
-     "11-17T04",
-     0
-    ],
-    [
-     "11-17T05",
-     0
-    ],
-    [
-     "11-17T06",
-     0
-    ],
-    [
-     "11-17T07",
-     0
-    ],
-    [
-     "11-17T08",
-     0
-    ],
-    [
-     "11-17T09",
-     0
-    ],
-    [
-     "11-17T10",
-     0
-    ],
-    [
-     "11-17T11",
-     0
-    ],
-    [
-     "11-17T12",
-     0
-    ],
-    [
-     "11-17T13",
-     0
-    ],
-    [
-     "11-17T14",
-     0
-    ],
-    [
-     "11-17T15",
-     0
-    ],
-    [
-     "11-17T16",
-     0
-    ],
-    [
-     "11-17T17",
-     0
-    ],
-    [
-     "11-17T18",
-     0
-    ],
-    [
-     "11-17T19",
-     0
-    ],
-    [
-     "11-17T20",
-     0
-    ],
-    [
-     "11-17T21",
-     0
-    ],
-    [
-     "11-17T22",
-     0
-    ],
-    [
-     "11-17T23",
-     0
-    ],
-    [
-     "11-18T00",
-     0
-    ],
-    [
-     "11-18T01",
-     0
-    ],
-    [
-     "11-18T02",
      13
     ],
     [
-     "11-18T03",
-     10
-    ],
-    [
      "11-18T04",
-     16
+     0
     ],
     [
      "11-18T05",
@@ -855,15 +120,15 @@
     ],
     [
      "11-18T10",
-     86
+     0
     ],
     [
      "11-18T11",
-     35
+     0
     ],
     [
      "11-18T12",
-     17
+     0
     ],
     [
      "11-18T13",
@@ -875,7 +140,7 @@
     ],
     [
      "11-18T15",
-     9
+     0
     ],
     [
      "11-18T16",
@@ -887,6 +152,306 @@
     ],
     [
      "11-18T18",
+     0
+    ],
+    [
+     "11-18T19",
+     0
+    ],
+    [
+     "11-18T20",
+     0
+    ],
+    [
+     "11-18T21",
+     0
+    ],
+    [
+     "11-18T22",
+     0
+    ],
+    [
+     "11-18T23",
+     0
+    ],
+    [
+     "11-19T00",
+     0
+    ],
+    [
+     "11-19T01",
+     0
+    ],
+    [
+     "11-19T02",
+     30
+    ],
+    [
+     "11-19T03",
+     88
+    ],
+    [
+     "11-19T04",
+     100
+    ],
+    [
+     "11-19T05",
+     86
+    ],
+    [
+     "11-19T06",
+     45
+    ],
+    [
+     "11-19T07",
+     0
+    ],
+    [
+     "11-19T08",
+     0
+    ],
+    [
+     "11-19T09",
+     0
+    ],
+    [
+     "11-19T10",
+     0
+    ],
+    [
+     "11-19T11",
+     29
+    ],
+    [
+     "11-19T12",
+     0
+    ]
+   ]
+  },
+  {
+   "tema": "fútbol",
+   "impulso_24h_pct": -64,
+   "estado": "en declive",
+   "impulso_3h_pct": -19,
+   "estado_3h": "estable",
+   "pico": {
+    "date": "2026-11-15T22:00:00+00:00",
+    "value": 100,
+    "is_partial": false
+   },
+   "ultimo_valor": 0,
+   "provincias_top": [
+    "Esmeraldas 100",
+    "Zamora-Chinchipe 96",
+    "Los Ríos 90",
+    "Sucumbíos 88",
+    "Santo Domingo de los Tsáchilas 86",
+    "Santa Elena 86",
+    "Orellana 85",
+    "Morona-Santiago 84"
+   ],
+   "el_oro": 77,
+   "busquedas_en_alza": [
+    "posiciones de selección de fútbol de italia contra selección de fútbol de francia (Breakout)",
+    "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca (Breakout)",
+    "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia (Breakout)",
+    "posiciones de selección de fútbol de la república checa contra selección de fútbol de españa (Breakout)",
+    "posiciones de selección de fútbol de dinamarca contra selección de fútbol de noruega (Breakout)",
+    "posiciones de selección de fútbol de alemania contra selección de fútbol de los países bajos (Breakout)",
+    "posiciones de selección de fútbol de francia contra selección de fútbol de turquía (Breakout)",
+    "posiciones de selección de fútbol de marruecos contra selección de fútbol de níger (Breakout)"
+   ],
+   "serie": [
+    [
+     "11-17T13",
+     6
+    ],
+    [
+     "11-17T14",
+     5
+    ],
+    [
+     "11-17T15",
+     7
+    ],
+    [
+     "11-17T16",
+     6
+    ],
+    [
+     "11-17T17",
+     7
+    ],
+    [
+     "11-17T18",
+     16
+    ],
+    [
+     "11-17T19",
+     11
+    ],
+    [
+     "11-17T20",
+     11
+    ],
+    [
+     "11-17T21",
+     25
+    ],
+    [
+     "11-17T22",
+     69
+    ],
+    [
+     "11-17T23",
+     48
+    ],
+    [
+     "11-18T00",
+     48
+    ],
+    [
+     "11-18T01",
+     30
+    ],
+    [
+     "11-18T02",
+     15
+    ],
+    [
+     "11-18T03",
+     9
+    ],
+    [
+     "11-18T04",
+     10
+    ],
+    [
+     "11-18T05",
+     9
+    ],
+    [
+     "11-18T06",
+     7
+    ],
+    [
+     "11-18T07",
+     9
+    ],
+    [
+     "11-18T08",
+     22
+    ],
+    [
+     "11-18T09",
+     13
+    ],
+    [
+     "11-18T10",
+     15
+    ],
+    [
+     "11-18T11",
+     13
+    ],
+    [
+     "11-18T12",
+     8
+    ],
+    [
+     "11-18T13",
+     6
+    ],
+    [
+     "11-18T14",
+     4
+    ],
+    [
+     "11-18T15",
+     4
+    ],
+    [
+     "11-18T16",
+     4
+    ],
+    [
+     "11-18T17",
+     5
+    ],
+    [
+     "11-18T18",
+     6
+    ],
+    [
+     "11-18T19",
+     7
+    ],
+    [
+     "11-18T20",
+     6
+    ],
+    [
+     "11-18T21",
+     6
+    ],
+    [
+     "11-18T22",
+     7
+    ],
+    [
+     "11-18T23",
+     7
+    ],
+    [
+     "11-19T00",
+     8
+    ],
+    [
+     "11-19T01",
+     6
+    ],
+    [
+     "11-19T02",
+     6
+    ],
+    [
+     "11-19T03",
+     5
+    ],
+    [
+     "11-19T04",
+     4
+    ],
+    [
+     "11-19T05",
+     4
+    ],
+    [
+     "11-19T06",
+     5
+    ],
+    [
+     "11-19T07",
+     5
+    ],
+    [
+     "11-19T08",
+     11
+    ],
+    [
+     "11-19T09",
+     11
+    ],
+    [
+     "11-19T10",
+     12
+    ],
+    [
+     "11-19T11",
+     10
+    ],
+    [
+     "11-19T12",
      0
     ]
    ]

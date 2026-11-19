@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-19T06:54-05:00",
+ "fecha": "2026-11-19T07:02-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
@@ -21,8 +21,8 @@
     "desde": "2026-11-19T01:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Brilló en la última Libertadores que ganó Boca, gritó campeón del mundo con la Selección y anunció su retiro en un torneo amateur (El Gráfico)",
-     "Un exmundialista y campeón olímpico con la Selección Argentina anunció su retiro: \"Ya está decidido\" (DSports)"
+     "\"Nuestro compromiso es que el fútbol femenino esté presente siempre, no sólo cuando se gana\" (MARCA)",
+     "La RFEF celebra la segunda edición de ELEVA para impulsar el crecimiento del fútbol femenino (IUSPORT)"
     ]
    },
    {
@@ -142,7 +142,7 @@
     "deporte_probable": false,
     "titulares": [
      "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ (The New York Times)",
-     "Musk regrets nearly $500 million midterm elections spending, says he’s not MAGA (ABC News - Breaking News, Latest News and Videos)"
+     "Elon Musk says record $446m spending on US midterms was 'pretty foolish' (BBC)"
     ]
    },
    {
@@ -175,7 +175,7 @@
     "deporte_probable": false,
     "titulares": [
      "What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons (Yahoo Finance)",
-     "OKX blames Binance for the latest crypto collapses and for misleading investors (Observatorio Blockchain)"
+     "Bitcoin’s slide reopens an old feud between crypto’s most powerful founders (CoinDesk)"
     ]
    },
    {
@@ -225,6 +225,28 @@
   ],
   "ES": [
    {
+    "tema": "nintendo switch 2 black friday",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles (Xataka)",
+     "Llegan las ofertas del Black Friday de Nintendo: rebajas en packs de consolas, juegos y accesorios (Diario AS)"
+    ]
+   },
+   {
+    "tema": "david sims",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La élite de la moda arropa a Marta Ortega en A Coruña en la apertura de la exposición sobre David Sims (La Voz de Galicia)",
+     "Marta Ortega, radiante con un vestido de cuero rosa de su última colección con John Galliano en Coruña junto a la élite de la moda (HOLA)"
+    ]
+   },
+   {
     "tema": "jorge lorenzo",
     "volumen": "500+",
     "volumen_min": 500,
@@ -233,17 +255,6 @@
     "titulares": [
      "Lorenzo: \"Marc Márquez es el mejor piloto de todos los tiempos\" (www.motogp.com)",
      "Jorge Lorenzo responde a Valentino Rossi: \"Entiendo que no es fácil superarlo, pero debe aceptar que Marc Márquez le supere y pasar página\" (Motorpasión Moto)"
-    ]
-   },
-   {
-    "tema": "switch 2 black friday",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles (Xataka)",
-     "Llegan las ofertas del Black Friday de Nintendo: rebajas en packs de consolas, juegos y accesorios (Diario AS)"
     ]
    },
    {
@@ -270,8 +281,8 @@
    },
    {
     "tema": "mercado de invierno",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-19T02:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -321,17 +332,6 @@
     "titulares": [
      "Maluma regresa al Movistar Arena de Madrid con Loco x Volver World Tour 2027 (Movistar Arena Madrid)",
      "Maluma vuelve a Madrid con su Loco X Volver World Tour: fecha, entradas, dónde y cuándo comprarlas (LOS40)"
-    ]
-   },
-   {
-    "tema": "pensión de viudedad",
-    "volumen": "100000+",
-    "volumen_min": 100000,
-    "desde": "2026-11-19T02:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La pensión de viudedad llega a más beneficiarios: estos son los nuevos requisitos (La Vanguardia)",
-     "La 'baja por menopausia' aprueba su examen en el Congreso: \"Beneficia a millones de trabajadoras\" (Redacción Médica)"
     ]
    }
   ],
@@ -420,7 +420,7 @@
     "desde": "2026-11-19T02:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Las condiciones meteorológicas para este miércoles serán templadas pero inestables (Agencia de Noticias San Luis)",
+     "La de este jueves será otra jornada inestable con descenso de la temperatura (Agencia de Noticias San Luis)",
      "Clima hoy en San Luis: el pronóstico del tiempo para este jueves 19 noviembre de 2026 (Clarin.com)"
     ]
    },
@@ -442,16 +442,38 @@
     "desde": "2026-11-19T01:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Nubes y casi media provincia bajo alerta por tormentas: cómo seguirá el tiempo en Córdoba (eldoce)",
+     "Alerta amarilla por tormentas fuertes para Córdoba en 11 departamentos este jueves: a cuáles abarca (La Voz del Interior)",
      "Pronostican tormentas fuertes, lluvias intensas y posible caída de granizo para jueves y viernes (puntal.com.ar)"
     ]
    }
   ],
   "MX": [
    {
+    "tema": "aguinaldo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aguinaldo 2026: qué trabajadores pueden recibirlo sin pagar ISR, según el SAT (UnoTV)",
+     "¿Cuánto dinero te deben pagar en Navidad 2026? Estos son los pagos obligatorios según la LFT (Récord)"
+    ]
+   },
+   {
+    "tema": "temperatura monterrey",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T03:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Se esperan lluvias en Monterrey? Conoce el pronóstico del clima para este miércoles (Milenio)",
+     "Clima en Nuevo León: Cielo medio nublado y hasta 24°C para el jueves 19 de noviembre (El Financiero)"
+    ]
+   },
+   {
     "tema": "precio del dolar",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-19T03:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -471,20 +493,9 @@
     ]
    },
    {
-    "tema": "clima en monterrey",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Se esperan lluvias en Monterrey? Conoce el pronóstico del clima para este miércoles (Milenio)",
-     "Clima en Nuevo León: Cielo medio nublado y hasta 24°C para el jueves 19 de noviembre (El Financiero)"
-    ]
-   },
-   {
     "tema": "temperatura",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-19T03:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -511,7 +522,7 @@
     "deporte_probable": false,
     "titulares": [
      "Grand Theft Auto VI draws rave reviews as gamers enter Vice City (Reuters)",
-     "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch? (IGN)"
+     "PS5 Pro is in stock at Walmart, but Black Friday is when you’re likely going to be able to buy it (The Shortcut | Matt Swider)"
     ]
    },
    {
@@ -532,8 +543,8 @@
     "desde": "2026-11-18T21:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "“Es mi amigo”: Trump elogia a Putin al inicio de su reunión (CNN en Español)",
-     "Trump y Xi están interesados en asegurar paso de petróleo en estrecho de Ormuz y alcanzar paz en Ucrania (La Jornada)"
+     "Trump y Xi están interesados en asegurar paso de petróleo en estrecho de Ormuz y alcanzar paz en Ucrania (La Jornada)",
+     "“Es mi amigo”: Trump elogia a Putin al inicio de su reunión (CNN en Español)"
     ]
    },
    {
@@ -545,17 +556,6 @@
     "titulares": [
      "Sismo de magnitud 5.7 sacude la prefectura japonesa de Kumamoto (El Comentario)",
      "Sacudió sismo de 5.7 el suroeste de Japón 🎦 (Tiempo La Noticia Digital)"
-    ]
-   },
-   {
-    "tema": "haymitch",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T21:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Hunger Games: Sunrise on the Reaping First Reviews: A Familiar but Thrilling Return to Form (Rotten Tomatoes)",
-     "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era (The Guardian)"
     ]
    }
   ]
