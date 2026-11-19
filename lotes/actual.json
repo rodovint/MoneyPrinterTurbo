@@ -252,3 +252,69 @@
    {
     "texto": "[Gancho inicial corto y directo de Mui].",
     "grafico": {
+     "tipo": "titular",
+     "texto": "[TITULAR CORTO]",
+     "sobre": "[PROTAGONISTA]"
+    },
+    "foto": "img/noticia-cuatro.png",
+    "movimiento": "zoom_in",
+    "destello": true
+   },
+   {
+    "texto": "[Desarrollo 1 con números escritos en letras para Andrea].",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[DATO PRINCIPAL]",
+     "sobre": "[CONTEXTO]"
+    },
+    "voz": "andrea",
+    "hinchada": true
+   },
+   {
+    "texto": "[Desarrollo 2 con cifra destacada].",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "[NÚMERO]",
+     "texto": "[DESCRIPCIÓN DE LA CIFRA]"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "[Antecedente o contexto histórico breve].",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[ANTECEDENTE]",
+     "sobre": "[AÑO O TORNEO]"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo"
+   },
+   {
+    "texto": "[Lo que viene a continuación].",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[PRÓXIMO PASO]",
+     "sobre": "[FECHA]"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "[Pregunta directa para generar comentarios]?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[PREGUNTA CORTA]?",
+     "sobre": "TU OPINIÓN"
+    },
+    "foto": "img/noticia-cuatro.png",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ }
+]
