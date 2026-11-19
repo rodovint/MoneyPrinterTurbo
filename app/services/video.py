@@ -24,6 +24,7 @@ from moviepy import (
     CompositeVideoClip,
     ImageClip,
     TextClip,
+    VideoClip,
     VideoFileClip,
     afx,
 )
@@ -652,6 +653,9 @@ def concat_video_clips_with_ffmpeg(
     def build_command(codec: str) -> list[str]:
         command = [
             utils.get_ffmpeg_binary(),
+            # Otherwise FFmpeg reads keys from the console it inherits: "q"
+            # ends the video early and "c" waits for Enter.
+            "-nostdin",
             "-y",
             "-f",
             "concat",
@@ -965,8 +969,12 @@ def _fit_clip_to_canvas(
     resized_clip = clip.resized(
         new_size=(resized_width, resized_height)
     ).with_position("center")
+    # bg_color keeps the composite opaque, so MoviePy does not build and encode
+    # a full-frame transparency mask for every frame.
     return CompositeVideoClip(
-        [background, resized_clip], size=(target_width, target_height)
+        [background, resized_clip],
+        size=(target_width, target_height),
+        bg_color=(0, 0, 0),
     ).with_duration(clip.duration)
 
 
@@ -1025,6 +1033,10 @@ def combine_videos(
 
     processed_clips = []
     subclipped_items = []
+    # Sequential mode plays the first slice of every source before the others.
+    # The other slices wait here and fill only the time that the first slices
+    # leave, so footage repeats only after every slice has played.
+    later_items: dict[str, list[SubClippedVideoClip]] = {}
     video_duration = 0
     for video_path in video_paths:
         clip = None
@@ -1050,6 +1062,7 @@ def combine_videos(
             close_clip(clip)
         
         start_time = 0
+        segments = []
 
         while start_time < clip_duration:
             end_time = min(start_time + source_clip_duration, clip_duration)
@@ -1058,7 +1071,7 @@ def combine_videos(
             # 这样既不会丢掉“整段视频本身就短于 max_clip_duration”的素材，
             # 也不会吞掉长视频最后剩下的一小段尾部内容。
             if end_time > start_time:
-                subclipped_items.append(
+                segments.append(
                     SubClippedVideoClip(
                         file_path=video_path,
                         start_time=start_time,
@@ -1070,8 +1083,12 @@ def combine_videos(
                 )
 
             start_time = end_time
-            if video_concat_mode.value == VideoConcatMode.sequential.value:
-                break
+
+        if video_concat_mode.value == VideoConcatMode.sequential.value:
+            subclipped_items.append(segments[0])
+            later_items[video_path] = segments[1:]
+        else:
+            subclipped_items.extend(segments)
 
     subclipped_items = _prioritize_unique_source_clips(
         subclipped_items=subclipped_items,
@@ -1079,6 +1096,14 @@ def combine_videos(
         **({"source_usage": source_usage, "source_groups": source_groups}
            if source_usage is not None else {}),
     )
+    # Sequential mode appends its later slices after this index. They only fill
+    # narration that the first slices leave uncovered.
+    first_item_count = len(subclipped_items)
+    if later_items:
+        # One more slice of each source per round, in the order the first slices play.
+        sources = dict.fromkeys(item.source_file_path for item in subclipped_items)
+        rounds = itertools.zip_longest(*(later_items[source] for source in sources))
+        subclipped_items += [item for row in rounds for item in row if item is not None]
         
     logger.debug(f"total subclipped items: {len(subclipped_items)}")
     
@@ -1213,6 +1238,14 @@ def combine_videos(
             batch_duration = 0.0
             candidate_index = next_candidate_index
             while candidate_index < len(subclipped_items) and batch_duration < remaining_duration:
+                if (
+                    candidate_index >= first_item_count
+                    and video_duration + batch_duration >= audio_duration
+                ):
+                    # The narration is covered, so this slice would start where the
+                    # final max_duration cut ends the video. As on main, the loop below
+                    # fills the safety margin with a clip that is already encoded.
+                    break
                 subclipped_item = subclipped_items[candidate_index]
                 source_duration = subclipped_item.end_time - subclipped_item.start_time
                 output_duration = min(
@@ -1897,7 +1930,14 @@ def generate_video(
             for item in sub.subtitles:
                 clip = create_text_clip(subtitle_item=item)
                 text_clips.append(clip)
-            video_clip = CompositeVideoClip([video_clip, *text_clips])
+            # bg_color makes the composite opaque. Without it MoviePy starts every
+            # frame from a transparent canvas and also builds a full-size mask
+            # composite, which the writer pipes to FFmpeg as an alpha channel
+            # that H.264 drops. The video covers the whole canvas, so the
+            # rendered frames are the same.
+            video_clip = CompositeVideoClip(
+                [video_clip, *text_clips], bg_color=(0, 0, 0)
+            )
             clip_stack.callback(video_clip.close)
 
         bgm_enabled = bgm_service.should_use_bgm(
@@ -1968,6 +2008,58 @@ def generate_video(
         return bgm_mix_succeeded
 
 
+# 放大模式的渲染方式已改为亚像素插值，输出像素与旧版本不同。文件名带上这个
+# 标记，避免复用旧版本按整数尺寸缩放、带抖动的缓存片段。
+_ZOOM_CACHE_TAG = "-smooth"
+
+
+def _smooth_zoom_clip(clip, zoom_amount: float):
+    """
+    以亚像素精度生成缓慢放大的片段，画布尺寸保持不变。
+
+    旧实现 `clip.resized(lambda t: ...)` 每帧把图片缩放到整数尺寸，再按整数
+    偏移居中裁切。放大速度很慢时（每秒约 3%），相邻帧的尺寸要么不变、要么
+    跳 1px，中心偏移也随取整来回摆动，成片里表现为画面抖动/顿挫，放大到
+    1080x1920 后更明显。
+
+    这里固定输出尺寸，每帧以图片中心为原点做仿射变换（BICUBIC 插值），
+    缩放比例随时间连续变化。构图与旧实现一致：从原图开始，以中心为基准
+    放大并裁掉超出画布的部分。带透明通道的图片同样处理遮罩。
+    """
+    base = Image.fromarray(np.asarray(clip.get_frame(0)).astype("uint8"))
+    width, height = base.size
+    center_x, center_y = width / 2.0, height / 2.0
+    duration = clip.duration or 1.0
+    mask_base = None
+    if clip.mask is not None:
+        mask_frame = np.asarray(clip.mask.get_frame(0)) * 255
+        mask_base = Image.fromarray(mask_frame.clip(0, 255).astype("uint8"))
+
+    def warp(image, t, resample):
+        progress = min(max(t, 0.0), duration) / duration
+        scale = 1.0 + zoom_amount * progress
+        # 输出像素 (x, y) 取自原图 (cx + (x - cx) / s, cy + (y - cy) / s)。
+        coefficients = (
+            1 / scale, 0, center_x - center_x / scale,
+            0, 1 / scale, center_y - center_y / scale,
+        )
+        return image.transform(
+            (width, height), Image.AFFINE, coefficients, resample=resample
+        )
+
+    zoomed = VideoClip(
+        lambda t: np.asarray(warp(base, t, Image.BICUBIC)), duration=clip.duration
+    )
+    if mask_base is not None:
+        mask = VideoClip(
+            lambda t: np.asarray(warp(mask_base, t, Image.BILINEAR)) / 255.0,
+            is_mask=True,
+            duration=clip.duration,
+        )
+        zoomed = zoomed.with_mask(mask)
+    return zoomed.with_position("center")
+
+
 def render_image_zoom_video(
     image_path: str, clip_duration: int = 5, image_motion: ImageMotion = ImageMotion.zoom
 ) -> str:
@@ -1983,9 +2075,9 @@ def render_image_zoom_video(
     clip = clip.with_duration(clip_duration).with_position("center")
     temp_path = ""
     try:
-        # 只有放大模式改变画面尺寸，静止模式保留原始构图及透明背景处理。
+        # 放大模式以亚像素精度逐帧放大，静止模式保留原始构图及透明背景处理。
         image_clip = (
-            clip.resized(lambda t: 1 + (clip_duration * 0.03) * (t / clip.duration))
+            _smooth_zoom_clip(clip, clip_duration * 0.03)
             if motion == ImageMotion.zoom
             else clip
         )
@@ -2005,9 +2097,10 @@ def render_image_zoom_video(
                 source_digest.update(clip.mask.get_frame(0).tobytes())
             source_identity = source_digest.hexdigest()
             duration_identity = hashlib.sha256(str(clip_duration).encode()).hexdigest()[:16]
+            motion_tag = _ZOOM_CACHE_TAG if motion == ImageMotion.zoom else ""
             video_file = os.path.join(
                 os.path.dirname(image_path),
-                f"{source_identity}.{motion.value}-{duration_identity}.mp4",
+                f"{source_identity}.{motion.value}{motion_tag}-{duration_identity}.mp4",
             )
             descriptor, temp_path = tempfile.mkstemp(
                 prefix=".image-zoom-",

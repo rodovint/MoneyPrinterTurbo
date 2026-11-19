@@ -8,7 +8,7 @@ import subprocess
 import tempfile
 import unicodedata
 from time import perf_counter
-from typing import List
+from typing import List, Literal
 
 from loguru import logger
 from openai import AzureOpenAI, OpenAI
@@ -774,6 +774,22 @@ def _generate_response(
             **_sdk_transport_options(request_timeout, max_retries),
         )
 
+        if adapter == "openai_responses":
+            # APIXO 的 GPT 模型仅支持 Responses；未完成的响应可能带有部分
+            # 正文，必须先确认完成状态，避免把截断文案交给配音和素材生成。
+            response = trace_sdk_call(
+                llm_provider, base_url, client.responses.create,
+                model=model_name, input=prompt,
+            )
+            if getattr(response, "status", None) != "completed":
+                raise ValueError(
+                    f"[{llm_provider}] response did not complete "
+                    f"(status={getattr(response, 'status', None)})"
+                )
+            return _normalize_text_response(
+                getattr(response, "output_text", None), llm_provider
+            )
+
         response = trace_sdk_call(
             llm_provider, base_url, client.chat.completions.create,
             model=model_name, messages=[{"role": "user", "content": prompt}]
@@ -983,7 +999,7 @@ def generate_script(
                 # that text through would make the task treat it as narration.
                 raise ValueError(response)
             if response:
-                candidate = format_response(response).strip()
+                candidate = format_response(_strip_code_fence(response)).strip()
             else:
                 logging.error("gpt returned an empty response")
                 candidate = ""
@@ -1043,6 +1059,8 @@ def generate_terms(
     amount: int = 5,
     match_script_order: bool = False,
     app_config=None,
+    *,
+    keyword_language: Literal["en", "zh"] = "en",
 ) -> List[str]:
     video_script = utils.remove_pause_tags(video_script or "").strip()
     if match_script_order:
@@ -1073,6 +1091,37 @@ def generate_terms(
             '"search term 4", "search term 5"]'
         )
 
+    term_rule = (
+        "each search term should consist of 1-3 words, "
+        "always add the main subject of the video."
+    )
+    language_rule = "reply with english search terms only."
+    language_reminder = (
+        "Please note that you must use English for generating video search terms; "
+        "Chinese is not accepted."
+    )
+    if keyword_language == "zh":
+        term_rule = (
+            "每个关键词用简短的中文短语描述一个素材库里可检索的画面，"
+            "提取人物、物体、动作或场景。避开抽象概念和重复画面，"
+            "在数量限制内覆盖文案开头、中段和结尾的代表场景。"
+        )
+        language_rule = "每个关键词都必须包含简体中文，可保留 AI 等常用缩写。"
+        language_reminder = ""
+        output_example = json.dumps(
+            [
+                "海边日出",
+                "渔船出港",
+                "渔船撒网",
+                "渔网收鱼",
+                "海鲜市场",
+                "厨师切鱼",
+                "烤鱼特写",
+                "港口夜景",
+            ][:amount],
+            ensure_ascii=False,
+        )
+
     prompt = f"""
 # Role: Video Search Terms Generator
 
@@ -1081,10 +1130,10 @@ def generate_terms(
 
 ## Constrains:
 1. the search terms are to be returned as a json-array of strings.
-2. each search term should consist of 1-3 words, always add the main subject of the video.
+2. {term_rule}
 3. you must only return the json-array of strings. you must not return anything else. you must not return the script.
 4. the search terms must be related to the subject of the video.
-5. reply with english search terms only.
+5. {language_rule}
 {ordering_rule}
 
 ## Output Example:
@@ -1097,7 +1146,7 @@ def generate_terms(
 ### Video Script
 {video_script}
 
-Please note that you must use English for generating video search terms; Chinese is not accepted.
+{language_reminder}
 """.strip()
 
     logger.info(f"subject: {video_subject}, match_script_order: {match_script_order}")
@@ -1138,7 +1187,16 @@ Please note that you must use English for generating video search terms; Chinese
         # The model may ignore the requested count or return blank strings.
         # Enforce the prompt contract before material providers are contacted;
         # repeated topics remain meaningful in chronological mode.
-        search_terms = [term.strip() for term in search_terms if term.strip()][:amount]
+        if keyword_language == "zh":
+            # 和任务实际发送的搜索词使用相同分隔规则，再限制条数并校验语言。
+            search_terms = utils.split_comma_separated_terms(
+                ", ".join(search_terms)
+            )[:amount]
+            if not all(map(utils.contains_han, search_terms)):
+                logger.warning("some video search terms did not contain Chinese characters")
+                search_terms = []
+        else:
+            search_terms = [term.strip() for term in search_terms if term.strip()][:amount]
         if search_terms:
             break
         if i < _max_retries - 1:
@@ -1356,6 +1414,41 @@ def _parse_social_metadata(response: str, platform: str) -> dict:
     return {"title": title, "caption": caption, "hashtags": hashtags}
 
 
+# A period with a following space is not the end of the first sentence when
+# it marks a numbered tip at the start of a line ("1. Save weekly."), closes a
+# dotted abbreviation ("U.S. policy", "10:30 a.m."), or follows a short title
+# ("No. 1", "Mr. Smith", "Fig. 3"). "My score is 42." and "option A." still end
+# the sentence. "2.0" has no space after the dot and never reaches this check.
+_SOCIAL_TITLE_ABBREVIATIONS = frozenset(
+    {"no", "fig", "vol", "mr", "mrs", "ms", "dr", "st", "prof", "jr", "sr"}
+)
+_SOCIAL_TITLE_BREAK = re.compile(r"(?<=[.!?])\s+|(?<=[。！？])\s*")
+_SOCIAL_TITLE_TOKEN = re.compile(r"[A-Za-z]+$|[0-9]+$")
+
+
+def _first_social_title_sentence(script: str) -> str:
+    """Return the first sentence of a fallback title."""
+    for match in _SOCIAL_TITLE_BREAK.finditer(script):
+        punctuation = script[match.start() - 1]
+        if punctuation != ".":
+            return script[: match.start()]
+        head = script[: match.start() - 1]
+        token = _SOCIAL_TITLE_TOKEN.search(head)
+        if token is None:
+            return script[: match.start()]
+        word = token.group()
+        before = head[: token.start()].rstrip(" \t")
+        if word.isdigit():
+            is_marker = not before or before.endswith("\n")
+        elif len(word) == 1:
+            is_marker = before.endswith(".")
+        else:
+            is_marker = word.lower() in _SOCIAL_TITLE_ABBREVIATIONS
+        if not is_marker:
+            return script[: match.start()]
+    return script
+
+
 def _fallback_social_metadata(
     video_subject: str, video_script: str, platform: str
 ) -> dict:
@@ -1366,7 +1459,7 @@ def _fallback_social_metadata(
     title = subject
     if not title and script:
         # 中日文句末通常没有空格；英文仍要求空白，避免拆开 2.0 等数字。
-        title = re.split(r"(?<=[.!?])\s+|(?<=[。！？])\s*", script, maxsplit=1)[0]
+        title = _first_social_title_sentence(script)
 
     return {
         "title": _clamp_text(title, spec["title_max"]),

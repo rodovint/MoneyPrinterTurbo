@@ -1199,7 +1199,7 @@ class TestVoiceService(unittest.TestCase):
         拆成两条字幕。
         """
         text = (
-            "The ocean isn't just sitting stil, it moves around the world like a massive "
+            "The ocean isn't just sitting still, it moves around the world like a massive "
             "amusement park ride! Cold water at the North and South Poles sinks to the "
             "bottom because it is heavy and salty. At the same time, warm water from the "
             "sunny equator flows along the top to take its place. This creates a giant "
@@ -1829,6 +1829,19 @@ class TestVoiceService(unittest.TestCase):
         self.assertEqual(vs.convert_rate_to_percent(float("nan")), "+0%")
         self.assertEqual(vs.convert_rate_to_percent(float("inf")), "+0%")
 
+    def test_edge_voices_with_a_script_subtag_pass_edge_tts_validation(self):
+        # edge-tts only expands short names like en-US-AriaNeural; the listed
+        # Inuktitut voices carry a script subtag (iu-Cans-CA, iu-Latn-CA).
+        prefix = "Microsoft Server Speech Text to Speech Voice"
+        for short_name, full_name in (
+            ("iu-Cans-CA-SiqiniqNeural", f"{prefix} (iu-Cans-CA, SiqiniqNeural)"),
+            ("iu-Latn-CA-TaqqiqNeural", f"{prefix} (iu-Latn-CA, TaqqiqNeural)"),
+            ("zh-CN-liaoning-XiaobeiNeural", f"{prefix} (zh-CN-liaoning, XiaobeiNeural)"),
+        ):
+            with self.subTest(short_name=short_name):
+                communicate = vs.create_edge_tts_communicate("word", short_name, "+0%")
+                self.assertEqual(communicate.tts_config.voice, full_name)
+
 
 def _write_test_wav(filepath: str, duration_seconds: float = 1.0, sample_rate: int = 24000) -> str:
     import wave
@@ -2314,6 +2327,23 @@ class TestElevenLabsVoice(unittest.TestCase):
 
         # 关键词后紧跟字母的普通文字仍不是停顿标签。
         for text in ("[paused]", "(pauses)", "[暂停一下]"):
+            self.assertFalse(utils.has_pause_tags(text), text)
+
+    def test_pause_tags_accept_fullwidth_brackets(self):
+        """中文输入法打出的全角括号也必须是停顿，不能把标签原文读出来。"""
+        samples = (
+            ("（停顿：2秒）你好", [("pause", 2.0), ("speech", "你好")]),
+            ("（pause: 2s）Hi", [("pause", 2.0), ("speech", "Hi")]),
+            ("［pause: 1s］Hi", [("pause", 1.0), ("speech", "Hi")]),
+            ("【pause: 1.5s】Hi", [("pause", 1.5), ("speech", "Hi")]),
+        )
+        for script, expected in samples:
+            with self.subTest(script=script):
+                self.assertEqual(utils.parse_script_with_pauses(script), expected)
+                cleaned = utils.remove_pause_tags(script)
+                self.assertNotIn("停顿", cleaned)
+                self.assertNotIn("pause", cleaned.lower())
+        for text in ("（暂停一下）", "【paused】", "［pauses］"):
             self.assertFalse(utils.has_pause_tags(text), text)
 
     def test_concat_audio_files_reads_pcm_in_bounded_chunks(self):
