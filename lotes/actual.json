@@ -1,75 +1,73 @@
 [
  {
-  "titulo": "Pochettino se despide de Estados Unidos y llega al Manchester United",
-  "etiqueta": "MUNDO",
-  "color": "#DA291C",
-  "audio": "audio/12",
+  "titulo": "Ecuador Sub-17 vs. Nueva Caledonia: [GANÓ / GOLEÓ / EMPATÓ] la Mini-Tri",
+  "etiqueta": "LA TRI",
+  "color": "#FFD100",
+  "audio": "audio/16",
   "franja": [
-   "EE. UU. 2-0 HAITÍ · GLOBAL 8-0",
-   "CHILENA DE PULISIC",
-   "POCHETTINO: 21 TRIUNFOS EN 35",
-   "HOY ASUME EL MANCHESTER UNITED"
+   "ECUADOR [X-X] NUEVA CALEDONIA · SUB-17",
+   "GOLES: [GOLEADOR 1], [GOLEADOR 2]",
+   "[X] PUNTOS EN EL GRUPO",
+   "PRÓXIMO RIVAL: [RIVAL]"
   ],
   "escenas": [
    {
-    "texto": "Pochettino se despidió de Estados Unidos ganando, y hoy asume el Manchester United.",
+    "texto": "Ecuador Sub-diecisiete [ganó / goleó] ante Nueva Caledonia y sigue firme.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡ADIÓS Y A OLD TRAFFORD!",
-     "sobre": "POCHETTINO"
+     "texto": "¡[TRIUNFO / GOLEADA] DE LA MINI-TRI!",
+     "sobre": "SUB-17"
     },
-    "foto": "img/pochettino-united.png",
+    "foto": "img/ecuador-sub17.png",
     "movimiento": "zoom_in",
     "destello": true
    },
    {
-    "texto": "En Cincinnati, Christian Pulisic marcó de chilena y Julian Hall cerró el dos a cero ante Haití.",
-    "dicho": "En Cincinnati, Christian Púlisic marcó de chilena y Yúlian Jol cerró el dos a cero ante Haití.",
+    "texto": "La Mini-Tri se impuso [marcador en letras] en un partido donde dominó desde el inicio.",
     "grafico": {
      "tipo": "titular",
-     "texto": "EE. UU. 2-0 HAITÍ",
-     "sobre": "CHILENA DE PULISIC"
+     "texto": "ECUADOR [X-X] N. CALEDONIA",
+     "sobre": "[TORNEO / SEDE]"
     },
     "voz": "andrea",
     "hinchada": true
    },
    {
-    "texto": "Estados Unidos pasó a semifinales de la Nations League con un global de ocho a cero.",
+    "texto": "Los goles ecuatorianos llegaron por intermedio de [Nombre Apellido] al minuto [minuto en letras] y [Nombre Apellido].",
+    "dicho": "Los goles ecuatorianos llegaron por intermedio de [Pronunciación fonética si aplica] al minuto [minuto en letras] y [Nombre Apellido].",
     "grafico": {
-     "tipo": "cifra",
-     "valor": "8-0",
-     "texto": "GLOBAL ANTE HAITÍ"
+     "tipo": "titular",
+     "texto": "[APELLIDO 1] [MIN]' Y [APELLIDO 2] [MIN]'",
+     "sobre": "LOS GOLES"
     },
     "voz": "andrea"
    },
    {
-    "texto": "Pochettino deja treinta y cinco partidos, veintiún triunfos y unos octavos de final del Mundial.",
+    "texto": "Con este resultado, la selección suma [puntos en letras] puntos en su grupo.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "21",
-     "texto": "TRIUNFOS EN 35 PARTIDOS CON EE. UU."
+     "valor": "[X]",
+     "texto": "PUNTOS EN LA TABLA"
     },
-    "voz": "andrea",
-    "tono": "recuerdo"
+    "voz": "andrea"
    },
    {
-    "texto": "Ahora le toca un United en zona de descenso, con un solo triunfo en diez fechas.",
+    "texto": "El próximo partido de Ecuador será ante [Próximo Rival] el [día en letras] de noviembre.",
     "grafico": {
      "tipo": "titular",
-     "texto": "1 TRIUNFO EN 10",
-     "sobre": "UNITED, EN DESCENSO"
+     "texto": "VS. [PRÓXIMO RIVAL]",
+     "sobre": "[DÍA] DE NOVIEMBRE"
     },
-    "voz": "andrea",
-    "suspenso": true
+    "voz": "andrea"
    },
    {
-    "texto": "¿Pochettino salva al Manchester United?",
+    "texto": "¿A quién ves como la gran figura de esta Sub-diecisiete?",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿LO SALVA?",
+     "texto": "¿QUIÉN ES LA FIGURA?",
      "sobre": "TU OPINIÓN"
     },
-    "foto": "img/pochettino-united.png",
+    "foto": "img/ecuador-sub17.png",
     "movimiento": "zoom_out"
    },
    {
@@ -82,75 +80,73 @@
   ]
  },
  {
-  "titulo": "México vs. Jamaica: Rafa Márquez gana por fin y avanza",
-  "etiqueta": "CONCACAF",
-  "color": "#006847",
-  "audio": "audio/13",
+  "titulo": "Vuelve la LigaPro tras la fecha FIFA: así se juega la fecha",
+  "etiqueta": "LIGAPRO",
+  "color": "#0033A0",
+  "audio": "audio/17",
   "franja": [
-   "MÉXICO 1-0 JAMAICA · GLOBAL 3-3",
-   "GOL DE TECATITO CORONA 35'",
-   "AVANZA POR GOL DE VISITANTE",
-   "1ER TRIUNFO DE RAFA MÁRQUEZ"
+   "MAÑANA VIERNES 20 VUELVE LA LIGAPRO",
+   "ARRANCA CON [LOCAL] VS. [VISITANTE]",
+   "[LÍDER] PUNTERO CON [X] PUNTOS",
+   "FECHA [NÚMERO] DEL TORNEO"
   ],
   "escenas": [
    {
-    "texto": "Rafa Márquez por fin ganó con México, y lo metió en semifinales.",
+    "texto": "Se acabó la fecha FIFA y mañana vuelve la LigaPro con partidazos.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡POR FIN GANÓ!",
-     "sobre": "RAFA MÁRQUEZ"
+     "texto": "¡VUELVE LA LIGAPRO!",
+     "sobre": "VIERNES 20 DE NOVIEMBRE"
     },
-    "foto": "img/mexico-jamaica.png",
+    "foto": "img/ligapro-regreso.png",
     "movimiento": "zoom_in",
     "destello": true
    },
    {
-    "texto": "México le ganó uno a cero a Jamaica en Monterrey, con gol de Tecatito Corona al minuto treinta y cinco.",
+    "texto": "La jornada arranca este viernes veinte de noviembre con el duelo entre [Equipo Local] y [Equipo Visitante].",
     "grafico": {
      "tipo": "titular",
-     "texto": "MÉXICO 1-0 JAMAICA",
-     "sobre": "TECATITO CORONA 35'"
+     "texto": "[LOCAL] VS. [VISITANTE]",
+     "sobre": "VIERNES · [HORA]"
     },
-    "voz": "andrea",
-    "hinchada": true
+    "voz": "andrea"
    },
    {
-    "texto": "El global quedó tres a tres, y México avanzó por los goles de visitante.",
+    "texto": "En la parte alta de la tabla, [Equipo Líder] manda con [puntos en letras] puntos.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "3-3",
-     "texto": "GLOBAL · PASA MÉXICO POR GOL DE VISITANTE"
+     "valor": "[XX]",
+     "texto": "PUNTOS DEL LÍDER [EQUIPO]"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "El plato fuerte del fin de semana será el choque entre [Equipo A] y [Equipo B].",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[EQUIPO A] VS. [EQUIPO B]",
+     "sobre": "EL PARTIDAZO DE LA FECHA"
     },
     "voz": "andrea",
     "suspenso": true
    },
    {
-    "texto": "Antes, Márquez sumaba cinco partidos sin ganar: dos empates y tres derrotas.",
+    "texto": "Quedan solo [número en letras] fechas para definir al campeón y los cupos internacionales.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "5",
-     "texto": "PARTIDOS SIN GANAR ANTES DE ANOCHE"
-    },
-    "voz": "andrea",
-    "tono": "recuerdo"
-   },
-   {
-    "texto": "Las semifinales de la Nations League se juegan en marzo de dos mil veintisiete.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "SEMIFINAL EN MARZO",
-     "sobre": "NATIONS LEAGUE 2027"
+     "valor": "[X]",
+     "texto": "FECHAS PARA EL FINAL"
     },
     "voz": "andrea"
    },
    {
-    "texto": "¿Rafa Márquez debe seguir en el Tri?",
+    "texto": "¿Quién se lleva el título de la LigaPro este año?",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿SE QUEDA?",
+     "texto": "¿QUIÉN SERÁ CAMPEÓN?",
      "sobre": "TU OPINIÓN"
     },
-    "foto": "img/mexico-jamaica.png",
+    "foto": "img/ligapro-regreso.png",
     "movimiento": "zoom_out"
    },
    {
@@ -163,76 +159,73 @@
   ]
  },
  {
-  "titulo": "Piero Hincapié, acuerdo con Arsenal hasta 2032",
+  "titulo": "[Titular Noticia 3 · Ej: Ecuatoriano en el exterior / Champions]",
   "etiqueta": "ECUATORIANOS",
-  "color": "#EF0107",
-  "audio": "audio/14",
+  "color": "#E30613",
+  "audio": "audio/18",
   "franja": [
-   "HINCAPIÉ: ACUERDO HASTA JUNIO 2032",
-   "CONTRATO MEJORADO",
-   "FALTA EL ANUNCIO OFICIAL",
-   "24 AÑOS · DEFENSA DE LA TRI"
+   "[DATO CLAVE 1 EN MAYÚSCULAS]",
+   "[DATO CLAVE 2 EN MAYÚSCULAS]",
+   "[DATO CLAVE 3 EN MAYÚSCULAS]",
+   "[DATO CLAVE 4 EN MAYÚSCULAS]"
   ],
   "escenas": [
    {
-    "texto": "Arsenal ya acordó con Piero Hincapié: contrato hasta el dos mil treinta y dos.",
+    "texto": "[Gancho inicial corto y directo de Mui].",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡HASTA 2032!",
-     "sobre": "PIERO HINCAPIÉ"
+     "texto": "[TITULAR CORTO]",
+     "sobre": "[PROTAGONISTA]"
     },
-    "foto": "img/hincapie-arsenal.png",
+    "foto": "img/noticia-tres.png",
     "movimiento": "zoom_in",
     "destello": true
    },
    {
-    "texto": "El defensa ecuatoriano, de veinticuatro años, firmará un contrato mejorado.",
+    "texto": "[Desarrollo 1 con números escritos en letras para Andrea].",
     "grafico": {
      "tipo": "titular",
-     "texto": "CONTRATO MEJORADO",
-     "sobre": "24 AÑOS"
+     "texto": "[DATO PRINCIPAL]",
+     "sobre": "[CONTEXTO]"
     },
     "voz": "andrea"
    },
    {
-    "texto": "Lo informaron David Ornstein y Fabrizio Romano, y solo falta el anuncio oficial.",
-    "dicho": "Lo informaron David Órnstin y Fabricio Romano, y solo falta el anuncio oficial.",
+    "texto": "[Desarrollo 2 con cifra destacada].",
     "grafico": {
-     "tipo": "titular",
-     "texto": "ACUERDO CERRADO",
-     "sobre": "FALTA LA FIRMA OFICIAL"
+     "tipo": "cifra",
+     "valor": "[NÚMERO]",
+     "texto": "[DESCRIPCIÓN DE LA CIFRA]"
     },
     "voz": "andrea"
    },
    {
-    "texto": "Hincapié llegó cedido desde el Bayer Leverkusen, y en junio Arsenal lo compró en definitiva.",
-    "dicho": "Hincapié llegó cedido desde el Bayer Léverkusen, y en junio Arsenal lo compró en definitiva.",
+    "texto": "[Antecedente o contexto histórico breve].",
     "grafico": {
      "tipo": "titular",
-     "texto": "DE CEDIDO A FIJO",
-     "sobre": "JUNIO 2026"
+     "texto": "[ANTECEDENTE]",
+     "sobre": "[AÑO O TORNEO]"
     },
     "voz": "andrea",
     "tono": "recuerdo"
    },
    {
-    "texto": "Su contrato iba hasta dos mil treinta y uno: ahora suma un año más.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "2032",
-     "texto": "NUEVO CONTRATO HASTA JUNIO"
-    },
-    "voz": "andrea",
-    "animar": false
-   },
-   {
-    "texto": "¿Hincapié o Pacho: quién es el mejor central de la Tri?",
+    "texto": "[Lo que viene a continuación].",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿HINCAPIÉ O PACHO?",
+     "texto": "[PRÓXIMO PASO]",
+     "sobre": "[FECHA]"
+    },
+    "voz": "andrea"
+   },
+   {
+    "texto": "[Pregunta directa para generar comentarios]?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "[PREGUNTA CORTA]?",
      "sobre": "TU OPINIÓN"
     },
-    "foto": "img/hincapie-arsenal.png",
+    "foto": "img/noticia-tres.png",
     "movimiento": "zoom_out"
    },
    {
@@ -245,83 +238,17 @@
   ]
  },
  {
-  "titulo": "Uruguay vs. República Dominicana: la goleada de Forlán",
+  "titulo": "[Titular Noticia 4 · Ej: Tendencia fútbol internacional]",
   "etiqueta": "MUNDO",
-  "color": "#5CBFEB",
-  "audio": "audio/15",
+  "color": "#111111",
+  "audio": "audio/19",
   "franja": [
-   "URUGUAY 5-0 REP. DOMINICANA",
-   "MALDONADO · AMISTOSO",
-   "GOLES: AGUIRRE, DE LA CRUZ, VALVERDE, DAMIANI",
-   "FORLÁN, DT INTERINO DESDE AGOSTO"
+   "[DATO CLAVE 1 EN MAYÚSCULAS]",
+   "[DATO CLAVE 2 EN MAYÚSCULAS]",
+   "[DATO CLAVE 3 EN MAYÚSCULAS]",
+   "[DATO CLAVE 4 EN MAYÚSCULAS]"
   ],
   "escenas": [
    {
-    "texto": "La Uruguay de Diego Forlán le metió cinco a República Dominicana.",
+    "texto": "[Gancho inicial corto y directo de Mui].",
     "grafico": {
-     "tipo": "titular",
-     "texto": "¡MANITA DE FORLÁN!",
-     "sobre": "URUGUAY 5-0"
-    },
-    "foto": "img/uruguay-forlan.png",
-    "movimiento": "zoom_in",
-    "destello": true
-   },
-   {
-    "texto": "Fue cinco a cero en Maldonado, en el primer partido de Uruguay como local en más de un año.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "URUGUAY 5-0 REP. DOMINICANA",
-     "sobre": "MALDONADO"
-    },
-    "voz": "andrea",
-    "hinchada": true
-   },
-   {
-    "texto": "Rodrigo Aguirre abrió el marcador al minuto cuarenta y uno.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "AGUIRRE 41'",
-     "sobre": "EL 1-0"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Después llegaron un autogol, un penal de Nicolás de la Cruz, y goles de Federico Valverde y Bruno Damiani.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "DE LA CRUZ, VALVERDE Y DAMIANI",
-     "sobre": "DEL 1-0 AL 5-0"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Forlán es técnico interino desde agosto, tras la eliminación de Uruguay en el Mundial.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "INTERINO DESDE AGOSTO",
-     "sobre": "DIEGO FORLÁN"
-    },
-    "voz": "andrea",
-    "tono": "recuerdo"
-   },
-   {
-    "texto": "¿Forlán debe quedarse como técnico de Uruguay?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿SE QUEDA?",
-     "sobre": "TU OPINIÓN"
-    },
-    "foto": "img/uruguay-forlan.png",
-    "movimiento": "zoom_out"
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    }
-   }
-  ]
- }
-]
