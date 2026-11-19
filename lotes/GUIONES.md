@@ -1,21 +1,33 @@
-# Guineo Comunicaciones · grabación de Mui (18/11, mañana)
+Guineo Comunicaciones · borrador del 19 de noviembre de 2026
+Voces: [Mui] = la graba Mui · [Andrea] = es-EC-AndreaNeural (números en letras).Imágenes: 1 dibujo de Cloudflare por reel (se pide tras la aprobación); el resto, gráficos (marcadores como titulares: no hay escudos de estos equipos en el repo).
 
-Mui graba el reel COMPLETO: un audio por reel, las 7 frases en orden, con 1 segundo de pausa entre frase y frase (sin pausas largas dentro de una frase). Las frases que cierran terminan con el tono hacia abajo (solo las preguntas suben) y la última palabra se dice entera.
+01 · Ecuador Sub-17 vs. Nueva Caledonia → audio/16
+Por qué: 🇪🇨 Selección nacional en torneo juvenil; alta retención en Ecuador.
+Tendencia: 📈 Búsquedas en vivo en Ecuador por el partido de la Mini-Tri.
 
-## México vs. Jamaica: Rafa Márquez gana por fin → `audio/13`
-1. Rafa Márquez por fin ganó con México, y lo metió en semifinales.
-2. México le ganó uno a cero a Jamaica en Monterrey, con gol de Tecatito Corona al minuto treinta y cinco.
-3. El global quedó tres a tres, y México avanzó por los goles de visitante.
-4. Antes, Márquez sumaba cinco partidos sin ganar: dos empates y tres derrotas.
-5. Las semifinales de la Nations League se juegan en marzo de dos mil veintisiete.
-6. ¿Rafa Márquez debe seguir en el Tri?
-7. Comenta y síguenos en Guineo Comunicaciones.
+[Mui] Ecuador Sub-diecisiete [ganó / goleó / empató] ante Nueva Caledonia en [nombre del torneo o sede].
 
-## Piero Hincapié, acuerdo con Arsenal hasta 2032 → `audio/14`
-1. Arsenal ya acordó con Piero Hincapié: contrato hasta el dos mil treinta y dos.
-2. El defensa ecuatoriano, de veinticuatro años, firmará un contrato mejorado.
-3. Lo informaron David Ornstein y Fabrizio Romano, y solo falta el anuncio oficial.
-4. Hincapié llegó cedido desde el Bayer Leverkusen, y en junio Arsenal lo compró en definitiva.
-5. Su contrato iba hasta dos mil treinta y uno: ahora suma un año más.
-6. ¿Hincapié o Pacho: quién es el mejor central de la Tri?
-7. Comenta y síguenos en Guineo Comunicaciones.
+[Andrea] La Mini-Tri se impuso [marcador en letras, ej: tres a cero] en un partido donde dominó desde el primer tiempo.
+
+[Andrea] Los goles ecuatorianos llegaron por intermedio de [nombre del goleador uno] al minuto [minuto en letras] y [nombre del goleador dos].
+
+[Andrea] Con este resultado, la selección suma [puntos en letras] puntos y [se acerca a la clasificación / asegura su pase a la siguiente ronda].
+
+[Andrea] El próximo reto de Ecuador será ante [próximo rival] el [día en letras] de noviembre.
+
+[Mui] ¿A quién ves como la gran figura de esta Sub-diecisiete?
+
+[Mui] Comenta y síguenos en Guineo Comunicaciones.
+
+Fuentes: [Pegar enlace de FEF / FIFA / El Universo / Primicias]
+
+💡 Ideas para completar los otros 3 reels de hoy (19/11)
+Como hoy es jueves y mañana viernes 20 vuelve la LigaPro (tras la fecha FIFA), el ángulo más fuerte para Ecuador hoy es la previa del campeonato nacional y el regreso de los seleccionados:
+
+02 · Previa de la vuelta de la LigaPro (viernes 20/11): Enfocarse en el partido que abre la jornada mañana, la tabla de posiciones (Fase 2 / Hexagonal según formato vigente) y cómo llegan los clubes tras el parón.
+
+03 · Post-Fecha FIFA / Selección Mayor: El regreso de los convocados (Piero Hincapié, Moisés Caicedo, Willian Pacho, Jordy Caicedo) a sus clubes en Europa y el exterior tras la victoria ante Bolivia.
+
+04 · Tendencia internacional / Mercado o Champions: Alguna noticia viral de última hora en el fútbol europeo o sudamericano que esté liderando las búsquedas en Ecuador hoy.
+
+Si quieres, pásame el marcador final y los goleadores del partido de la Sub-17 (y los enlaces o titulares de las otras noticias que quieras incluir hoy) y te devuelvo el borrador completo listo para mandar a audio.
