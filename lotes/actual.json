@@ -13,9 +13,8 @@
    {
     "texto": "Ecuador Sub-diecisiete derrotó uno a cero a Nueva Caledonia y arrancó ganando.",
     "grafico": {
-     "tipo": "marcador",
-     "local": { "nombre": "ECUADOR", "goles": 1 },
-     "rival": { "nombre": "NUEVA CALEDONIA", "goles": 0 },
+     "tipo": "titular",
+     "texto": "ECUADOR 1-0 N. CALEDONIA",
      "sobre": "DEBUT SUB-17"
     },
     "voz": "mui",
@@ -35,9 +34,8 @@
    {
     "texto": "El próximo partido de Ecuador será este domingo veintidós de noviembre frente a Uganda.",
     "grafico": {
-     "tipo": "partido",
-     "local": { "nombre": "ECUADOR" },
-     "rival": { "nombre": "UGANDA" },
+     "tipo": "titular",
+     "texto": "ECUADOR VS. UGANDA",
      "sobre": "DOMINGO 22 DE NOVIEMBRE"
     },
     "voz": "andrea"
@@ -45,9 +43,8 @@
    {
     "texto": "Luego cerrará esta fase el miércoles veinticinco de noviembre ante Corea del Sur.",
     "grafico": {
-     "tipo": "partido",
-     "local": { "nombre": "ECUADOR" },
-     "rival": { "nombre": "COREA DEL SUR" },
+     "tipo": "titular",
+     "texto": "ECUADOR VS. COREA DEL SUR",
      "sobre": "MIÉRCOLES 25 DE NOVIEMBRE"
     },
     "voz": "andrea",
