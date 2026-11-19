@@ -1,12 +1,56 @@
 {
- "fecha": "2026-11-18T21:10-05:00",
+ "fecha": "2026-11-18T22:53-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "gremio vs",
+    "tema": "lakers - jazz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Preview: Jazz look to build momentum against LA Lakers (SLC Dunk)",
+     "TST Best Bets: November 18, 2026 (The Sporting Tribune)"
+    ]
+   },
+   {
+    "tema": "feriado nacional ecuador",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-18T19:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Feriados de noviembre: Tres provincias de Ecuador tendrán un puente de cuatro días (Primicias)",
+     "Feriado de noviembre de 2026: Carchi tendrá un día extra de descanso (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "publicidad",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Castilla-La Mancha, el gran potencial de la publicidad exterior para las marcas (El Digital de Albacete)",
+     "La IA no vuelve genéricas a las marcas - Think with Google (Google Business Profile)"
+    ]
+   },
+   {
+    "tema": "árbitro",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "La FEF suspende por ocho años a Jhon Michel Perlaza tras la agresión con una piedra a un árbitro en la Segunda Categoría (Primicias)",
+     "Segunda Categoría: Comisión Disciplinaria de la FEF sanciona con 8 años a jugador del Club Yantzaza que agredió con una piedra a juez de línea (El Universo)"
+    ]
+   },
+   {
+    "tema": "gremio vs",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T17:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -16,24 +60,24 @@
    },
    {
     "tema": "mavericks - warriors",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-18T17:20:00-08:00",
-    "deporte_probable": true,
+    "deporte_probable": false,
     "titulares": [
-     "++[ＷＡＴＣＨ ＯＮＬＩＮＥ] Mavericks vs. Warriors ＬＩＶＥ Ｔｖ 18 November 2026 (Comité Asesor de Vacunas de la AEP)",
-     "MMBets Game of the Week: The Dallas Mavericks look to course-correct against the reeling Golden State Warriors (Mavs Moneyball)"
+     "Mavericks Face Warriors as Flagg and Lendeborg Lead New Generation (cwibc.co.id)",
+     "Cooper Flagg with a monster 33/5/9/3 in win (NBC Sports)"
     ]
    },
    {
     "tema": "proyecto hidroeléctrico",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-18T16:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
      "Tras ocho años de paralización, Celec reactiva la construcción de la central hidroeléctrica San Antonio en Cañar (El Universo)",
-     "CELEC EP reactiva una obra hidroeléctrica que permanecía detenida desde 2018 (El Telégrafo (por eliminar))"
+     "Celec reactiva la construcción de hidroeléctrica San Antonio, en Cañar, con un presupuesto de USD 19 millones (Primicias)"
     ]
    },
    {
@@ -41,10 +85,10 @@
     "volumen": "500+",
     "volumen_min": 500,
     "desde": "2026-11-18T16:40:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Grêmio x Bahia: onde assistir ao vivo e escalações do jogo do Brasileirão (ESPN Brasil)",
-     "Renato escala Dodi no lugar de Villasanti e Marlon começa contra o Bahia (Correio do Povo)"
+     "Ronaldo decide, Bahia empata com Grêmio e sobe à 6ª colocação (TV Sim Brasil)",
+     "\"Temos que lutar até o fim\", diz Krovinovic após empate do Grêmio (Terra)"
     ]
    },
    {
@@ -60,193 +104,193 @@
    },
    {
     "tema": "corinthians - botafogo",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-18T16:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Corinthians x Botafogo: Veja onde assistir ao Brasileirão (InfoMoney)",
-     "Seedorf e Tite reencontram ex-clubes em jogo tenso para o Corinthians (ge)"
-    ]
-   },
-   {
-    "tema": "eurocopa",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Así quedan los bombos para el sorteo de la Eurocopa 2028 (MARCA)",
-     "Sorteo de la clasificación para la UEFA EURO 2028 (UEFA.com)"
-    ]
-   },
-   {
-    "tema": "flamengo vs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T15:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Houston 86-76 Florida (Nov 18, 2026) Final Score (ESPN)",
-     "Kansas vs. West Virginia (Nov 18, 2026) Live Score (ESPN)"
-    ]
-   },
-   {
-    "tema": "remo - chapecoense",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T15:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "[[ASSISTIR-TV]] Remo x Chapecoense ao vivo em 18 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)",
-     "Aos 19 min do 1º tempo - gol de pênalti de Patrick do Remo contra a Chapecoense (ge)"
-    ]
-   },
-   {
-    "tema": "notificación roja",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T15:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Fiscalía solicita activar notificación roja de Interpol contra Navila Dieb por el caso La Reina (El Universo)",
-     "911Society: la empresa que conecta el presunto lavado de Aquiles Alvarez con la familia Dieb y Luisa González (Primicias)"
+     "Corinthians 4 x 0 Botafogo | Campeonato Brasileiro: melhores momentos (ge)",
+     "Corinthians vê chance de rebaixamento cair pela metade com goleada sobre o Botafogo (tmc.com.br)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "ryan conwell",
+    "tema": "josh green",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-18T17:50:00-08:00",
+    "desde": "2026-11-18T19:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Heat’s Adam Simon may have done it again with recent draft choice (Hot Hot Hoops)",
-     "ASK IRA: Could Ryan Conwell leave Miami Heat with a sense of closure? (Sun Sentinel)"
+     "Jazz's Josh Green: Efficient shooting in limited minutes (CBS Sports)",
+     "Josh Green trade might be a bigger win for the Jazz than expected (The J-Notes)"
     ]
    },
    {
-    "tema": "uconn vs arizona",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "No. 12 Wildcats Welcome No. 3 UConn on Wednesday (University of Arizona Athletics)",
-     "Arizona men’s basketball vs. UConn: Game time, TV schedule, odds, streaming and more (Arizona Desert Swarm)"
-    ]
-   },
-   {
-    "tema": "awa tribe",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Brazil: Uncontacted Awá Indigenous people make contact as loggers enter their territory (Survival International)",
-     "Isolated Amazon Indigenous group makes rare contact (The Seattle Times)"
-    ]
-   },
-   {
-    "tema": "stephen wilson jr songs",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Stephen Wilson Jr. Announces Double Album and Unveils Stunning 'I'm a Song' With Chris Stapleton (Rolling Stone)",
-     "Stephen Wilson Jr. Announces Double Album, Earns Frank Black His First Grammy Nomination, Covers Oasis At Rock Hall (Stereogum)"
-    ]
-   },
-   {
-    "tema": "kimberly williams-paisley",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Kimberly Williams-Paisley Remembers Her Mom 10 Years After Her Death (People.com)",
-     "Kimberly Williams-Paisley Honors Mom 10 Years After Her Death (DRGNews)"
-    ]
-   },
-   {
-    "tema": "nebraska basketball",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How to watch Nebraska vs. South Dakota: Time, TV and streaming info (Omaha World-Herald)",
-     "Nebraska MBB: South Dakota Preview and Live Discussion (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "rj godfrey",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "NCAA declines to certify RJ Godfrey’s eligibility despite court order (Arizona Desert Swarm)",
-     "Judge rules in favor of Arizona hoop star RJ Godfrey in 5th-year eligibility case (ESPN)"
-    ]
-   },
-   {
-    "tema": "cma best new artist",
+    "tema": "xavier restrepo",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T17:40:00-08:00",
+    "desde": "2026-11-18T19:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Emily Ann Had No Idea She Would Receive Her First CMA Nomination (COWGIRL Magazine)",
-     "Emily Ann Roberts Says ‘True Friend’ Ella Langley Celebrated Her CMA Nods in a Sweet Way [Exclusive] (Taste of Country)"
+     "Titans WR Wan'Dale Robinson out for season with ankle injury (ESPN)",
+     "WR Xavier Restrepo Ready for Whatever the Titans Ask Him to Do (Tennessee Titans)"
     ]
    },
    {
-    "tema": "don nelson",
+    "tema": "larry poindexter",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-18T19:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Mavericks plan touching tribute to late coach Don Nelson for game vs. Warriors (NBC Sports Bay Area & California)",
-     "Don Nelson gets his flowers tonight at the AAC. (D Magazine)"
+     "Larry Poindexter Dies: ‘S.W.A.T.’, ‘JAG’ & ‘Days Of Our Lives’ Actor Was 66 (Deadline)",
+     "Larry Poindexter, ‘Station 19’ and Soap Star, Dead at 66 (Parade Magazine)"
     ]
    },
    {
-    "tema": "celtics vs nuggets",
+    "tema": "unlv basketball",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-18T17:30:00-08:00",
+    "desde": "2026-11-18T19:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Celtics at Nuggets preview: Boston kicks off four-game road trip (The Boston Globe)",
-     "Boston Celtics (11-3) at Denver Nuggets (7-5) Game #15 11/18/26 (Yahoo Sports)"
+     "Auburn battles UNLV in Player's Era 8: Live updates, score, highlights (Yahoo Sports)",
+     "Auburn vs UNLV Prediction, Pick, College Basketball Odds for Wednesday, Nov. 18 (Action Network)"
+    ]
+   },
+   {
+    "tema": "hawaii vs wa state",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Men's Basketball Heads To Pacific Northwest For First Road Trip (Hawaii athletics)",
+     "This week in WSU hoops: The mightiest of the mighty await Cougar men in the desert (247Sports)"
+    ]
+   },
+   {
+    "tema": "christian braun",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Christian Braun Props Today: Pts, Rebs, Asts, 3PT (sports.betmgm.com)",
+     "Christian Braun quiet in loss Monday (FantasyPros)"
+    ]
+   },
+   {
+    "tema": "braylon mullins",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "UCLA Men's Basketball: Trent Perry, Nikola Kusturica Named to Wooden Award Watch List (247Sports)",
+     "Braden Huff Listed on Wooden Award Watchlist (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "isaiah joe",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pistons' Duncan Robinson out with left quadriceps strain (NBA.com)",
+     "Pistons' Duncan Robinson (quad), Ron Holland II (knee) out vs. Spurs (ESPN)"
+    ]
+   },
+   {
+    "tema": "sdsu basketball",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Men’s Hoops Ink Two for the 2027-28 Season (San Diego State Aztecs)",
+     "San Diego State lands 6-foot-11 big man to complete 2027 recruiting class (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "alex caruso",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alex Caruso Injury: Won't return Wednesday (RotoWire)",
+     "What happened to Alex Caruso? Live injury updates for Hawks vs. Thunder on Wednesday 11/18/26 (DraftKings Network)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "mavericks - warriors",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:20:00-08:00",
-    "deporte_probable": true,
+    "tema": "lakers - jazz",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T19:30:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "++[ＷＡＴＣＨ ＯＮＬＩＮＥ] Mavericks vs. Warriors ＬＩＶＥ Ｔｖ 18 November 2026 (Comité Asesor de Vacunas de la AEP)",
-     "MMBets Game of the Week: The Dallas Mavericks look to course-correct against the reeling Golden State Warriors (Mavs Moneyball)"
+     "Preview: Jazz look to build momentum against LA Lakers (SLC Dunk)",
+     "TST Best Bets: November 18, 2026 (The Sporting Tribune)"
     ]
    },
    {
-    "tema": "luis tosar",
+    "tema": "thunder - hawks",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-18T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lu Dort knows his first return to Oklahoma City will be emotional and 'surreal' (NBA.com)",
+     "‍⚽~!LIVESTREAMs!)* Thunder vs Hawks Live free tv 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 November 2026 (Comité Asesor de Vacunas de la AEP)"
+    ]
+   },
+   {
+    "tema": "desalojo",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-18T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Amenazas de bomba en 80 colegios gallegos: «Había gente asustada y llorando» (La Voz de Galicia)",
+     "Desalojos y revisiones en al menos 45 colegios de Galicia por falsos avisos de bomba (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "corinthians",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Corinthians 4 x 0 Botafogo | Campeonato Brasileiro: melhores momentos (ge)",
+     "Juca Kfouri: Mais uma angustiante noite para a Fiel (UOL)"
+    ]
+   },
+   {
+    "tema": "emilio aragón",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Emilio Aragón dirige a la OEx en el estreno absoluto de 'Luz, Cámara… ¡Orquesta!' (Hoy)",
+     "Emilio Aragón vuelve a dirigir a la Orquesta de Extremadura con un nuevo espectáculo dedicado a su música para el cine (Onda Cero)"
+    ]
+   },
+   {
+    "tema": "mavericks - warriors",
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-18T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Luis Tosar, sobre el ejército español: \"Sinceramente, era el único sitio que me ofrecía lo que buscaba cuando era adolescente\" (Fotogramas ES)",
-     "Luis Tosar, actor, 54 años: “Me produce mucha tristeza que ahora haya niños por ahí hablando de Franco, reivindicando su figura” (Genbeta)"
+     "Mavericks Face Warriors as Flagg and Lendeborg Lead New Generation (cwibc.co.id)",
+     "Cooper Flagg with a monster 33/5/9/3 in win (NBC Sports)"
     ]
    },
    {
@@ -261,14 +305,25 @@
     ]
    },
    {
-    "tema": "heat - bucks",
+    "tema": "luis tosar",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T17:10:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-18T17:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "The Bounce: Giannis, Heat host the Bucks for first time. Is it a big deal? (The New York Times)",
-     "Tyler Herro's revenge game looms as Bucks limp into Miami on a 10-game losing streak with something to prove (Fox News)"
+     "Luis Tosar, sobre el ejército español: \"Sinceramente, era el único sitio que me ofrecía lo que buscaba cuando era adolescente\" (Fotogramas ES)",
+     "Luis Tosar, actor, 54 años: “Me produce mucha tristeza que ahora haya niños por ahí hablando de Franco, reivindicando su figura” (Genbeta)"
+    ]
+   },
+   {
+    "tema": "heat - bucks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Giannis Antetokounmpo beats Bucks in first meeting since trade as Heat win sixth straight (HoopsHype)",
+     "The Giannis Package Returns for Vice City Night in Miami (Yahoo Sports)"
     ]
    },
    {
@@ -279,280 +334,232 @@
     "deporte_probable": false,
     "titulares": [
      "El Ayuntamiento de València instala un nuevo radar pedagógico en la calle Clariano de Algirós (Hortanoticias.com)",
-     "Valencia instala un nuevo radar: ¿Dónde se encuentra y de cuánto es la multa? (7TeleValencia)"
-    ]
-   },
-   {
-    "tema": "magic - 76ers",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T16:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sixers head to Orlando for showdown with Franz Wagner and the Magic (Liberty Ballers)",
-     "NBA: Philadelphia 76ers at Orlando Magic (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "katrin ortega",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Katrin Ortega, nueva concursante de 'GH VIP': así es la alcaldesa amante del 'CrossFit' que ha dicho adiós al PSOE (HOLA)",
-     "Así es la alcaldesa malagueña en activo que ha dado el salto a 'GH VIP 9' (Diario de Sevilla)"
-    ]
-   },
-   {
-    "tema": "narcolepsia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Trey Bonham, la figura del Pardubice que pelea contra la narcolepsia (Málaga Hoy)",
-     "Convivir con la narcolepsia: “La gente no entendía que no pudiera aguantar el sueño ni evitar caerme cuando me reía” (Hospital Clínic Barcelona)"
-    ]
-   },
-   {
-    "tema": "flamengo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Aos 10 min do 1º tempo - gol de fora da área de Kerwin Vargas do Athletico-PR contra o Flamengo (ge)",
-     "!$+[Ａｓｓｉｓｔｉｒ] Athletico PR x Flamengo Em Directo Online 19 de novembro de 2026 (Comité Asesor de Vacunas de la AEP)"
-    ]
-   },
-   {
-    "tema": "quien es lia romero",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Quién es Lía Romero, concursante de 'GH VIP 9' en Telecinco? (El Confidencial)",
-     "De Can Misses a GH VIP 9: Lía Romero, la enfermera y modelo trans de Ibiza que ya convive con famosos (La Voz de Ibiza)"
+     "Valencia instala un radar que educa en lugar de multar junto al colegio Federico García Lorca del barrio de Algirós (València Extra)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "miami heat",
+    "tema": "thunder - hawks",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T17:50:00-08:00",
+    "desde": "2026-11-18T19:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration (La Nación)",
-     "inside GTA VI’s vice city, from florida field trips to the design of its streets (Designboom)"
+     "Lu Dort knows his first return to Oklahoma City will be emotional and 'surreal' (NBA.com)",
+     "‍⚽~!LIVESTREAMs!)* Thunder vs Hawks Live free tv 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 November 2026 (Comité Asesor de Vacunas de la AEP)"
+    ]
+   },
+   {
+    "tema": "gta san andreas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wow, GTA 6 Has Some Incredible Animations (Kotaku)",
+     "Five-Year-Old GTA 6 Theory Has Been Officially Confirmed, With a Hilarious Twist (IGN)"
+    ]
+   },
+   {
+    "tema": "lakers - jazz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Best prediction market combos at Kalshi, Polymarket: Predictions for Heat, Cavaliers, Kansas, Florida, NBA (CBS Sports)",
+     "Tonight's Best Sportsbook Promos: Get $2,450 in Bonuses for Betting on Celtics vs. Nuggets (Covers.com)"
+    ]
+   },
+   {
+    "tema": "cavaliers - grizzlies",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How to Watch Grizzlies vs. Cavs for Free: TV Channels, Live Stream Options (Yahoo Sports)",
+     "Memphis Grizzlies at Cleveland Cavaliers - NBA Game Summary - Nov 18, 2026 (USA Today)"
+    ]
+   },
+   {
+    "tema": "nuggets - celtics",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA Best Bets for Nuggets vs Celtics, Kings vs Suns on Wednesday, Nov. 18 (Action Network)",
+     "Dean Wade (hamstring) out Wednesday vs. Magic (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "brian fernández",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brian Fernández vuelve a jugar: está a un paso de un club del Federal A (TyC Sports)",
+     "De la Copa Potrero al Federal A: Brian Fernández tiene nuevo club y vuelve al fútbol profesional (Olé)"
+    ]
+   },
+   {
+    "tema": "congreso",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Paris Hilton reclamó en Washington la aprobación de una ley contra los deepfakes sexuales (El Litoral)",
+     "Paris Hilton impulsa una ley bipartidista en EE.UU. contra los ‘deepfakes’: es por las imágenes sexuales falsas creadas con IA (Clarin.com)"
     ]
    },
    {
     "tema": "gremio vs",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-18T17:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
+     "Grêmio empató 0-0 con Bahia, por el Brasileirao Serie A 2026 (La Nación)",
      "Grêmio vs. Bahia por el Brasileirao Serie A, 2026: día, hora y cómo seguir online (La Nación)"
     ]
    },
    {
+    "tema": "impuesto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-18T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sacar un crédito personal en la Argentina es más caro que en otros 29 países (Clarin.com)",
+     "Los préstamos personales en la Argentina tienen la carga impositiva más alta del mundo (La Nación)"
+    ]
+   },
+   {
     "tema": "los juegos del hambre",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-18T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
      "The Hunger Games: Sunrise on the Reaping First Reviews: A Familiar but Thrilling Return to Form (Rotten Tomatoes)",
-     "The Hunger Games: Sunrise on the Reaping (Plugged In)"
-    ]
-   },
-   {
-    "tema": "provincia de buenos aires",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T17:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El gobierno de Axel Kicillof ajustará los impuestos en 2027, pero da la sorpresa con uno (La Nación)",
-     "El director de ARBA defendió la ley impositiva en la Legislatura y alertó sobre la recaudación (Página|12)"
-    ]
-   },
-   {
-    "tema": "facundo herrera",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Facundo Herrera renegó del apodo \"Jagger\": \"Me gustaría que me conozcan por mi nombre\" (TyC Sports)",
-     "La respuesta de Jagger Herrera por sus tuits virales: \"Me c... de risa\" (Planeta Boca Juniors)"
-    ]
-   },
-   {
-    "tema": "los juegos del hambre amanecer en la cosecha",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "norte",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T17:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El Ejército israelí abatió a dos comandantes de Hamas en ataques en el norte y el sur de Gaza (Infobae)",
-     "Ejército y Shin Bet informan del desmantelamiento de un taller de armas de Hamás (Aurora Israel)"
-    ]
-   },
-   {
-    "tema": "nets - bulls",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T17:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Nets vs. Bulls Preview: Nic Claxton Returns to Brooklyn (NetsDaily)",
-     "‍‍‍~!(Basketball-Live!) Bucks vs Heat NBA Game Live (Comité Asesor de Vacunas de la AEP)"
-    ]
-   },
-   {
-    "tema": "resultados quiniela",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Quiniela turista: conocé los números ganadores de hoy miércoles 18 de noviembre. (Cadena 3 Argentina)",
-     "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, martes 17 de noviembre (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "neymar",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T16:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Coritiba vs Santos (18/11/2026) (Flashscore.com.ar)",
-     "Neymar apunta alto (Diario AS)"
+     "‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meandering Prequel (Variety)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "los juegos del hambre amanecer en la cosecha",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-18T18:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los Juegos del Hambre: Amanecer en la cosecha llega a cines en Colombia (Yahoo)",
-     "Más allá del Capitolio; 7 datos clave que debes conocer sobre el estreno de Amanecer en la cosecha (El Universal)"
-    ]
-   },
-   {
-    "tema": "grêmio vs. bahía",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T18:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis (ESPN)",
-     "Wirtz scores twice as Germany thrash Dutch 5-0 to win Nations League group (Reuters)"
-    ]
-   },
-   {
-    "tema": "cade cunningham",
+    "tema": "ziaire williams",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T18:00:00-08:00",
+    "desde": "2026-11-18T19:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "The Trait That Cade Cunningham Was Once Criticized for Is Now Fueling the Pistons (Sports Illustrated)",
-     "\"We had beef in high school\" - Isaiah Stewart recalls his unlikely friendship with Cade Cunningham (Yahoo Sports)"
+     "Lakers' Ziaire Williams: Starting Wednesday (CBS Sports)",
+     "Ziaire Williams returns to starting lineup Monday (NBC Sports)"
     ]
    },
    {
-    "tema": "nuggets - celtics",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "++[ＷＡＴＣＨ ＯＮＬＩＮＥ] Nuggets vs. Celtics ＬＩＶＥ Ｔｖ 18 November 2026 (Comité Asesor de Vacunas de la AEP)",
-     "Celtics defense gets major test in Nikola Jokic and Jamal Murray (Hardwood Houdini)"
-    ]
-   },
-   {
-    "tema": "mandy gta 6",
+    "tema": "josh green",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T17:50:00-08:00",
+    "desde": "2026-11-18T19:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy (Polygon.com)",
-     "Can You Romance Mandy In GTA 6? (GameSpot)"
+     "Jazz's Josh Green: Efficient shooting in limited minutes (CBS Sports)",
+     "Josh Green trade might be a bigger win for the Jazz than expected (The J-Notes)"
     ]
    },
    {
-    "tema": "iker fimbres",
+    "tema": "vice city",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-18T17:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cruz Azul y Monterrey cocinan posible intercambio: Iker Fimbres por Chiquete Orozco (Mediotiempo)",
-     "El jugador de Rayados que interesa en Cruz Azul (TUDN)"
-    ]
-   },
-   {
-    "tema": "octavio romero oropeza",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-18T17:30:00-08:00",
+    "desde": "2026-11-18T19:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Navarro y el Infonavit suben a 10 mil la meta de vivienda (NNC.MX)",
-     "Miguel Ángel Navarro acuerda con Infonavit ampliar las oportunidades de vivienda para las familias nayaritas (Noticias de la Bahía)"
+     "The world is about to play Florida in ‘GTA 6.’ Tampa Bay gamers are ready (Tampa Bay Times)",
+     "Miami Heat fans celebrate GTA pre-release party with exclusive jerseys (Axios)"
     ]
    },
    {
-    "tema": "tyrese maxey",
+    "tema": "pablo lyle",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T17:30:00-08:00",
+    "desde": "2026-11-18T19:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic (ESPN)",
-     "Bam Adebayo (hip) available Wednesday vs. Bucks (NBC Sports)"
+     "Pablo Lyle “espiritualmente está enorme”: revelan cómo está a 2 meses de que podría salir de prisión (Univision)",
+     "Andrea Legarreta revela importante noticia sobre Pablo Lyle en vivo: le manda mensaje al actor en Hoy (Las Estrellas)"
     ]
    },
    {
-    "tema": "pelicans - pistons",
+    "tema": "lakers vs jazz",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T17:20:00-08:00",
+    "desde": "2026-11-18T19:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "++[ＷＡＴＣＨ ＯＮＬＩＮＥ] Pelicans vs. Pistons ＬＩＶＥ Ｔｖ 18 November 2026 (Comité Asesor de Vacunas de la AEP)",
-     "Cade Cunningham (knee) ruled out Wednesday (FantasyPros)"
+     "Jazz Head Coach Discusses The ‘Psychological Battle’ Of Stopping Luka Doncic And Facing Walker Kessler (Yahoo Sports)",
+     "Utah Jazz coach has savage response when asked how they will stop Luka Doncic (BasketNews.com)"
     ]
    },
    {
-    "tema": "flamengo vs",
+    "tema": "kings - suns",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T17:20:00-08:00",
+    "desde": "2026-11-18T19:20:00-08:00",
     "deporte_probable": true,
-    "titulares": []
+    "titulares": [
+     "Cavs vs. Grizzlies game thread (Fear The Sword)",
+     "Kansas vs West Virginia Prediction for Nov. 18, 2026 (ATS.io)"
+    ]
+   },
+   {
+    "tema": "ley de bienestar animal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diputados aprueban Ley General de Protección Animal; prohíbe su sacrificio en espectáculos (La Jornada)",
+     "Paso histórico, la aprobación de la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales: Profepa (Gob MX)"
+    ]
+   },
+   {
+    "tema": "concanaco",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jornada laboral de 40 horas: Concanaco pide a Sheinbaum reducir IVA e ISR a 50% para contratar más personas (El Financiero)",
+     "Concanaco presenta propuesta para reducir Impuesto Sobre Nóminas e impulsar la formalidad; envía carta a la presidenta Sheinbaum (El Universal)"
+    ]
+   },
+   {
+    "tema": "mercado cambiario",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-18T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Vuelve la brecha cambiaria? La diferencia entre el dólar oficial y el financiero está en su máximo en un año (Clarin.com)",
+     "Suben los dólares financieros y se amplía la brecha, mientras un indicador global enciende las alarmas en el mercado (Infobae)"
+    ]
+   },
+   {
+    "tema": "alperen şengün",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-18T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rockets center Alperen Şengün leaves game vs. Pacers with eye injury (Houston Chronicle)",
+     "Alperen Şengün won’t return due to eye injury (NBC Sports)"
+    ]
    }
   ]
  }
