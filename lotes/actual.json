@@ -1,303 +1,74 @@
 [
  {
-  "titulo": "Ecuador Sub-17 vs. Nueva Caledonia: [GANÓ / GOLEÓ / EMPATÓ] la Mini-Tri",
+  "titulo": "Ecuador vs Nueva Caledonia Sub-17: triunfo 1-0 de la Mini-Tri",
   "etiqueta": "LA TRI",
   "color": "#FFD100",
-  "audio": "audio/16",
   "franja": [
-   "ECUADOR [X-X] NUEVA CALEDONIA · SUB-17",
-   "GOLES: [GOLEADOR 1], [GOLEADOR 2]",
-   "[X] PUNTOS EN EL GRUPO",
-   "PRÓXIMO RIVAL: [RIVAL]"
+   "ECUADOR 1-0 NUEVA CALEDONIA · SUB-17",
+   "DEBUT CON VICTORIA DE LA MINI-TRI",
+   "DOMINGO 22 VS. UGANDA",
+   "MIÉRCOLES 25 VS. COREA DEL SUR"
   ],
   "escenas": [
    {
-    "texto": "Ecuador Sub-diecisiete [ganó / goleó] ante Nueva Caledonia y sigue firme.",
+    "texto": "Ecuador Sub-diecisiete derrotó uno a cero a Nueva Caledonia y arrancó ganando.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "¡[TRIUNFO / GOLEADA] DE LA MINI-TRI!",
-     "sobre": "SUB-17"
+     "tipo": "marcador",
+     "local": { "nombre": "ECUADOR", "goles": 1 },
+     "rival": { "nombre": "NUEVA CALEDONIA", "goles": 0 },
+     "sobre": "DEBUT SUB-17"
     },
-    "destello": true
-   },
-   {
-    "texto": "La Mini-Tri se impuso [marcador en letras] en un partido donde dominó desde el inicio.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "ECUADOR [X-X] N. CALEDONIA",
-     "sobre": "[TORNEO / SEDE]"
-    },
-    "voz": "andrea",
+    "voz": "mui",
+    "destello": true,
     "hinchada": true
    },
    {
-    "texto": "Los goles ecuatorianos llegaron por intermedio de [Nombre Apellido] al minuto [minuto en letras] y [Nombre Apellido].",
-    "dicho": "Los goles ecuatorianos llegaron por intermedio de [Pronunciación fonética si aplica] al minuto [minuto en letras] y [Nombre Apellido].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[APELLIDO 1] [MIN]' Y [APELLIDO 2] [MIN]'",
-     "sobre": "LOS GOLES"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Con este resultado, la selección suma [puntos en letras] puntos en su grupo.",
+    "texto": "La Mini-Tri sumó sus primeros tres puntos en el torneo con un triunfo trabajado por la mínima.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "[X]",
-     "texto": "PUNTOS EN LA TABLA"
+     "valor": "3",
+     "texto": "PUNTOS EN EL DEBUT"
+    },
+    "voz": "andrea",
+    "tono": "celebracion"
+   },
+   {
+    "texto": "El próximo partido de Ecuador será este domingo veintidós de noviembre frente a Uganda.",
+    "grafico": {
+     "tipo": "partido",
+     "local": { "nombre": "ECUADOR" },
+     "rival": { "nombre": "UGANDA" },
+     "sobre": "DOMINGO 22 DE NOVIEMBRE"
     },
     "voz": "andrea"
    },
    {
-    "texto": "El próximo partido de Ecuador será ante [Próximo Rival] el [día en letras] de noviembre.",
+    "texto": "Luego cerrará esta fase el miércoles veinticinco de noviembre ante Corea del Sur.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "VS. [PRÓXIMO RIVAL]",
-     "sobre": "[DÍA] DE NOVIEMBRE"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "¿A quién ves como la gran figura de esta Sub-diecisiete?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿QUIÉN ES LA FIGURA?",
-     "sobre": "TU OPINIÓN"
-    }
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    }
-   }
-  ]
- },
- {
-  "titulo": "Vuelve la LigaPro tras la fecha FIFA: así se juega la fecha",
-  "etiqueta": "LIGAPRO",
-  "color": "#0033A0",
-  "audio": "audio/17",
-  "franja": [
-   "MAÑANA VIERNES 20 VUELVE LA LIGAPRO",
-   "ARRANCA CON [LOCAL] VS. [VISITANTE]",
-   "[LÍDER] PUNTERO CON [X] PUNTOS",
-   "FECHA [NÚMERO] DEL TORNEO"
-  ],
-  "escenas": [
-   {
-    "texto": "Se acabó la fecha FIFA y mañana vuelve la LigaPro con partidazos.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¡VUELVE LA LIGAPRO!",
-     "sobre": "VIERNES 20 DE NOVIEMBRE"
-    },
-    "destello": true
-   },
-   {
-    "texto": "La jornada arranca este viernes veinte de noviembre con el duelo entre [Equipo Local] y [Equipo Visitante].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[LOCAL] VS. [VISITANTE]",
-     "sobre": "VIERNES · [HORA]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "En la parte alta de la tabla, [Equipo Líder] manda con [puntos en letras] puntos.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "[XX]",
-     "texto": "PUNTOS DEL LÍDER [EQUIPO]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "El plato fuerte del fin de semana será el choque entre [Equipo A] y [Equipo B].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[EQUIPO A] VS. [EQUIPO B]",
-     "sobre": "EL PARTIDAZO DE LA FECHA"
+     "tipo": "partido",
+     "local": { "nombre": "ECUADOR" },
+     "rival": { "nombre": "COREA DEL SUR" },
+     "sobre": "MIÉRCOLES 25 DE NOVIEMBRE"
     },
     "voz": "andrea",
     "suspenso": true
    },
    {
-    "texto": "Quedan solo [número en letras] fechas para definir al campeón y los cupos internacionales.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "[X]",
-     "texto": "FECHAS PARA EL FINAL"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "¿Quién se lleva el título de la LigaPro este año?",
+    "texto": "¿Ecuador clasifica primero de su grupo en este Mundial Sub-diecisiete?",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿QUIÉN SERÁ CAMPEÓN?",
+     "texto": "¿CLASIFICA PRIMERO?",
      "sobre": "TU OPINIÓN"
-    }
+    },
+    "voz": "mui"
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
     "grafico": {
      "tipo": "cierre",
      "texto": "COMENTA Y SÍGUENOS"
-    }
-   }
-  ]
- },
- {
-  "titulo": "[Titular Noticia 3 · Ej: Ecuatoriano en el exterior / Champions]",
-  "etiqueta": "ECUATORIANOS",
-  "color": "#E30613",
-  "audio": "audio/18",
-  "franja": [
-   "[DATO CLAVE 1 EN MAYÚSCULAS]",
-   "[DATO CLAVE 2 EN MAYÚSCULAS]",
-   "[DATO CLAVE 3 EN MAYÚSCULAS]",
-   "[DATO CLAVE 4 EN MAYÚSCULAS]"
-  ],
-  "escenas": [
-   {
-    "texto": "[Gancho inicial corto y directo de Mui].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[TITULAR CORTO]",
-     "sobre": "[PROTAGONISTA]"
     },
-    "destello": true
-   },
-   {
-    "texto": "[Desarrollo 1 con números escritos en letras para Andrea].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[DATO PRINCIPAL]",
-     "sobre": "[CONTEXTO]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "[Desarrollo 2 con cifra destacada].",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "[NÚMERO]",
-     "texto": "[DESCRIPCIÓN DE LA CIFRA]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "[Antecedente o contexto histórico breve].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[ANTECEDENTE]",
-     "sobre": "[AÑO O TORNEO]"
-    },
-    "voz": "andrea",
-    "tono": "recuerdo"
-   },
-   {
-    "texto": "[Lo que viene a continuación].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[PRÓXIMO PASO]",
-     "sobre": "[FECHA]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "[Pregunta directa para generar comentarios]?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[PREGUNTA CORTA]?",
-     "sobre": "TU OPINIÓN"
-    }
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    }
-   }
-  ]
- },
- {
-  "titulo": "[Titular Noticia 4 · Ej: Tendencia fútbol internacional]",
-  "etiqueta": "MUNDO",
-  "color": "#111111",
-  "audio": "audio/19",
-  "franja": [
-   "[DATO CLAVE 1 EN MAYÚSCULAS]",
-   "[DATO CLAVE 2 EN MAYÚSCULAS]",
-   "[DATO CLAVE 3 EN MAYÚSCULAS]",
-   "[DATO CLAVE 4 EN MAYÚSCULAS]"
-  ],
-  "escenas": [
-   {
-    "texto": "[Gancho inicial corto y directo de Mui].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[TITULAR CORTO]",
-     "sobre": "[PROTAGONISTA]"
-    },
-    "destello": true
-   },
-   {
-    "texto": "[Desarrollo 1 con números escritos en letras para Andrea].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[DATO PRINCIPAL]",
-     "sobre": "[CONTEXTO]"
-    },
-    "voz": "andrea",
-    "hinchada": true
-   },
-   {
-    "texto": "[Desarrollo 2 con cifra destacada].",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "[NÚMERO]",
-     "texto": "[DESCRIPCIÓN DE LA CIFRA]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "[Antecedente o contexto histórico breve].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[ANTECEDENTE]",
-     "sobre": "[AÑO O TORNEO]"
-    },
-    "voz": "andrea",
-    "tono": "recuerdo"
-   },
-   {
-    "texto": "[Lo que viene a continuación].",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[PRÓXIMO PASO]",
-     "sobre": "[FECHA]"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "[Pregunta directa para generar comentarios]?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "[PREGUNTA CORTA]?",
-     "sobre": "TU OPINIÓN"
-    }
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    }
+    "voz": "mui"
    }
   ]
  }
