@@ -1,12 +1,67 @@
 {
- "fecha": "2026-11-19T07:02-05:00",
+ "fecha": "2026-11-19T13:33-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "ana boyer preysler",
+    "tema": "don omar",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-19T04:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Don Omar en Ecuador: más de 100.000 personas en espera para comprar entradas para el espectáculo (El Telégrafo (por eliminar))",
+     "«Mi gente chapina, ya era hora»: inicia venta de boletos para show de Don Omar (Tv Azteca Guatemala)"
+    ]
+   },
+   {
+    "tema": "mundial sub 17",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-19T03:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Inoportuno gol en contra de Álvaro Güich: Australia sorprendió a Argentina en el Mundial Sub 17 (Yahoo)",
+     "Mundial Sub 17: un australiano agarró la pelota con la mano en el área y Placente pidió FVS, una alternativa al VAR (Olé)"
+    ]
+   },
+   {
+    "tema": "ecuador sub 17",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-19T03:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mundial Sub17: La Mini Tri debuta con un triunfo 1-0 ante Nueva Caledonia (Teleamazonas)",
+     "La Baby Tri se queda sin su capitan a un dia del debut en el Mundial Sub 17 de la FIFA (futbolecuador.com)"
+    ]
+   },
+   {
+    "tema": "terremoto sismo temblor hoy epicentro",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Terremoto en Japón hoy 18 de noviembre: epicentro y magnitud del fuerte temblor en el sur del país (Minuto60)",
+     "Nuevo terremoto de 5.7 sacude Kumamoto, Japón, en la madrugada (Milenio)"
+    ]
+   },
+   {
+    "tema": "darío macas",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-19T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Darío Macas, exalcalde de Machala, seguirá en prisión preventiva (Primicias)",
+     "Caso Machalazo: Darío Macas seguirá en prisión preventiva y su esposa usará grillete electrónico (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "ana boyer preysler",
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-19T01:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -16,35 +71,24 @@
    },
    {
     "tema": "fútbol",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-19T01:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "\"Nuestro compromiso es que el fútbol femenino esté presente siempre, no sólo cuando se gana\" (MARCA)",
-     "La RFEF celebra la segunda edición de ELEVA para impulsar el crecimiento del fútbol femenino (IUSPORT)"
+     "Elecciones FIFA 2027: Infantino, Diallo y Tashima buscan la presidencia (El Telégrafo (por eliminar))",
+     "La FIFA declara candidatos a su presidencia a Infantino, Diallo y Tashima (Teleamazonas)"
     ]
    },
    {
     "tema": "rusia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T00:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi (BBC)",
-     "Rusia y China no son amigos de Estados Unidos. ¿Por qué Trump cree que sí? (CNN en Español)"
-    ]
-   },
-   {
-    "tema": "donde fue el epicentro del temblor de hoy",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T22:10:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-19T00:20:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Terremoto de magnitud 6.6 sacude Indonesia y se siente en Australia (Teleamazonas)",
-     "Terremoto en Indonesia hoy, 16 de noviembre: magnitud, epicentro y profundidad del sismo de 7,1 (Minuto60)"
+     "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi (BBC)",
+     "Última hora del viaje de Trump a Asia, antes de las históricas conversaciones con Xi y Putin, en vivo (CNN en Español)"
     ]
    },
    {
@@ -62,500 +106,456 @@
     "desde": "2026-11-18T21:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sismo 5.5 cerca de Guayaquil (La República EC)",
-     "¿Dónde fue el epicentro del temblor de magnitud 5,1 que se sintió en Guayaquil y Cuenca? (Diario Extra)"
-    ]
-   },
-   {
-    "tema": "temblor hoy",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-18T21:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Terremoto en Japón hoy 18 de noviembre: epicentro y magnitud del fuerte temblor en el sur del país (Minuto60)",
-     "Un terremoto de magnitud 5,2 sacude Japón y activa las alertas sísmicas (Negocios.com)"
-    ]
-   },
-   {
-    "tema": "earthquake near me",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T21:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Strongest earthquake in years hits Romania, tremors felt in Ukraine (The Kyiv Independent)",
-     "Grave fears as huge quake rocks 17 countries (News.com.au)"
-    ]
-   },
-   {
-    "tema": "entradas don omar",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-18T21:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Conciertos de Don Omar en Ecuador: Estos son los pasos para comprar las entradas en preventa desde el 19 de noviembre (Primicias)",
-     "Después del susto, Don Omar anuncia su regreso a los escenarios. ¿Cuándo viene a Ecuador? (El Comercio)"
-    ]
-   },
-   {
-    "tema": "lakers - jazz",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T19:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Keyonte George (30), Jazz deny NBA-leading Lakers 10th straight win (KNBR)",
-     "“I asked the guys, ‘Who in here feels like they played … (Yahoo Sports)"
+     "Temblor de magnitud 5,1 cerca de Durán se sintió en varias ciudades del país este 19 de noviembre (Primicias)",
+     "Sismo 5.1 cerca de Guayaquil (La República EC)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "charlotte sweeney ice colorado ruling",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T03:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Colorado judge finds ICE in contempt for instant re-arrests borrowed from Minnesota agents (MPR News)",
-     "US judge says ICE 'made a mockery of court orders' in Colorado (Reuters)"
-    ]
-   },
-   {
-    "tema": "caleb williams hamstring recovery details",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers (ESPN)",
-     "Caleb Williams remains frustrated with four interception game (NBC Sports)"
-    ]
-   },
-   {
-    "tema": "elon musk",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "DealBook Summit: Elon Musk Paints Himself as Political Moderate, Says He Is ‘Not MAGA’ (The New York Times)",
-     "Elon Musk says record $446m spending on US midterms was 'pretty foolish' (BBC)"
-    ]
-   },
-   {
-    "tema": "scott spivey",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Boyd, Williams indicted on murder charges in Scott Spivey’s death (WMBF)",
-     "2 accused in death of Scott Spivey indicted by grand jury (WPDE)"
-    ]
-   },
-   {
-    "tema": "ncaa division i women's volleyball tournament",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Women's college volleyball Bracketology: 2026 NCAA tournament predictions (ESPN)",
-     "2026 DIII women's volleyball championship: Bracket, schedule, scores (NCAA.com)"
-    ]
-   },
-   {
-    "tema": "bitcoin price today",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "What's Behind Bitcoin's Drop? CZ Points to 6 Possible Reasons (Yahoo Finance)",
-     "Bitcoin’s slide reopens an old feud between crypto’s most powerful founders (CoinDesk)"
-    ]
-   },
-   {
-    "tema": "burt reynolds",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "In 1987, Burt Reynolds turned down one of cinema’s most iconic roles. 28 years later, he still had no idea why he did it (Far Out Magazine)",
-     "Toy Robot Video’s December Slate Includes Works From Wesley Snipes, Burt Reynolds & More (Geek Vibes Nation)"
-    ]
-   },
-   {
-    "tema": "ao3 down",
+    "tema": "conroe high school",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T03:10:00-08:00",
+    "desde": "2026-11-19T10:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves (The New York Times)",
-     "Fans cheer as popular online platform for spinoff stories nears full return after security incident (AP News)"
+     "Conroe High School placed on lockdown due to 'concerning phone call' (KHOU)",
+     "Conroe High Lockdown- CSO and CISD PD on Scene- No Injuries (Woodlands Online)"
     ]
    },
    {
-    "tema": "patrick petty",
+    "tema": "invincible season 5",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-19T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer (Variety)",
+     "Invincible mocks its worst season 4 episode in official season 5 reveal (Polygon.com)"
+    ]
+   },
+   {
+    "tema": "ashton kutcher anthropic",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T03:10:00-08:00",
+    "desde": "2026-11-19T09:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Boston fashion icon and New Kids on the Block stylist dies at 62. ‘He always showed up,’ daughter says (MassLive)",
-     "Donnie Wahlberg and wife Jenny McCarthy mourn death of New Kids on the Block stylist Patrick Petty: ‘A true friend’ (Entertainment Weekly)"
+     "Ashton Kutcher to become billionaire when Anthropic goes public (The Times)",
+     "Ashton Kutcher’s Anthropic Investment Pushes Him Toward Billionaire Status (Newsweek)"
     ]
    },
    {
-    "tema": "lego black friday",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:10:00-08:00",
+    "tema": "dwts finale songs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Early Lego Black Friday deals take up to 44% off Star Wars sets, flowers and more | CNN Underscored (CNN)",
-     "LEGO Black Friday 2026: Overview of the Promotions and Deals (StoneWars.com)"
+     "‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time (Deadline)",
+     "Top-scoring actor sent home in ‘Dancing with the Stars’ semifinals (Deseret News)"
+    ]
+   },
+   {
+    "tema": "rsm classic",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "With PGA Tour privileges on the line, this former winner had to WD from RSM Classic (Yahoo Sports)",
+     "Van Rooyen withdraws from RSM Classic, won’t earn 2027 PGA Tour conditional status (Golf Channel)"
+    ]
+   },
+   {
+    "tema": "al gore",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-19T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Congress may soon pass the biggest environmental bill in decades. Here’s why. (The Washington Post)",
+     "BAAJA: Who’s in favor and who’s opposed? (Yale Climate Connections)"
+    ]
+   },
+   {
+    "tema": "patrick sellers alabama",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "State Rep. Patrick Sellers indicted on federal wire fraud charges (WBRC 6 News)",
+     "Alabama lawmaker, pastor indicted for COVID relief fraud (AL.com)"
+    ]
+   },
+   {
+    "tema": "jazz fest 2027 lineup",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-19T09:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jazz Fest lineup released earlier than usual: Here's who's playing (WWLTV.com)",
+     "Jazz Fest announces 2027 lineup today, who may be playing? (Audacy)"
+    ]
+   },
+   {
+    "tema": "roaring kitty",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T09:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Roaring Kitty Is Back. Can He Spark Another GameStop Stock Frenzy? (Barron's)",
+     "Roaring Kitty Returns: GameStop Tops List of Stocks Primed to Pop (Benzinga)"
+    ]
+   },
+   {
+    "tema": "riley moss",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-19T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sources -- Broncos sign CB Riley Moss to four-year extension (ESPN)",
+     "Broncos agree to a 4-year, $67 million extension with cornerback Riley Moss, AP source says (Yahoo Sports)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "nintendo switch 2 black friday",
+    "tema": "reforma",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T03:50:00-08:00",
+    "desde": "2026-11-19T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles (Xataka)",
-     "Llegan las ofertas del Black Friday de Nintendo: rebajas en packs de consolas, juegos y accesorios (Diario AS)"
+     "El Almería lleva la reforma del Mediterráneo ante expertos de ocho países (La Voz de Almería)",
+     "La UD Almería expone su proyecto en el Estadios Summit 2026 (UD Almeria | Web Oficial)"
     ]
    },
    {
-    "tema": "david sims",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La élite de la moda arropa a Marta Ortega en A Coruña en la apertura de la exposición sobre David Sims (La Voz de Galicia)",
-     "Marta Ortega, radiante con un vestido de cuero rosa de su última colección con John Galliano en Coruña junto a la élite de la moda (HOLA)"
-    ]
-   },
-   {
-    "tema": "jorge lorenzo",
+    "tema": "villarejo de salvanés",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T03:40:00-08:00",
+    "desde": "2026-11-19T10:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Lorenzo: \"Marc Márquez es el mejor piloto de todos los tiempos\" (www.motogp.com)",
-     "Jorge Lorenzo responde a Valentino Rossi: \"Entiendo que no es fácil superarlo, pero debe aceptar que Marc Márquez le supere y pasar página\" (Motorpasión Moto)"
+     "Detenido un hombre tras apuñalar de gravedad a su pareja en Villarejo de Salvanés y saltar después desde un primer piso (El Mundo)",
+     "Una mujer recibe una puñalada en Madrid y su presunto agresor se tira de un primer piso (La Voz de Galicia)"
     ]
    },
    {
-    "tema": "corrado augias",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T03:00:00-08:00",
+    "tema": "žalgiris - panathinaikos",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Corrado Augias è morto: addio a un grande italiano che conosceva la musica delle cose (la Repubblica)",
-     "La riflessione sul presente di Augias e i saluti ai telespettatori nell'ultima puntata de «La torre di Babele» su La7 (Corriere della Sera)"
+     "JV ir Masiulį išskyręs Željko įspėjo PAO žvaigždyną: „Žalgiris“ – labai gera komanda“ (15min.lt)",
+     "Šiltus jausmus pagarsinęs Francisco įvertino šių metų „Žalgirį“ (BasketNews.lt)"
     ]
    },
    {
-    "tema": "skyshowtime",
+    "tema": "huelga estudiantil",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-19T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Huelga de estudiantes este 20 de noviembre: horario y lugar de la movilización en Madrid (El Confidencial)",
+     "Miles de alumnos harán huelga este viernes en Valencia y podrán faltar a clase sin permiso paterno (Las Provincias)"
+    ]
+   },
+   {
+    "tema": "pablo hernández de cos",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-19T02:40:00-08:00",
+    "desde": "2026-11-19T09:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España (EL PAÍS)",
-     "SkyShowtime desaparecerá en 2027 y dejará huérfanas series como ‘Yellowstone’ o ‘Tierra de mafiosos’ (Diario AS)"
+     "De Cos será presidente del BCE pese al retraso administrativo en el Eurogrupo (Expansión)",
+     "El Eurogrupo amplía el plazo para presentar candidatos a la dirección del BCE con Hernández de Cos como favorito a la presidencia (EL PAÍS)"
     ]
    },
    {
-    "tema": "mercado de invierno",
+    "tema": "borja mayoral",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El Espanyol se mueve por Marc Aguado y Borja Mayoral apunta a salir del Getafe (MARCA)",
+     "El Espanyol estudia un fichaje a coste 0 (Fichajes.com)"
+    ]
+   },
+   {
+    "tema": "tabarnia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Boadella, a Ayuso en los premios de Tabarnia: \"Has venido como presidenta y vas a volver como canguro de La Moreneta\" (Libertad Digital)",
+     "Díaz Ayuso participa en Barcelona en la gala de los Premios Valientes Hodios organizada por Tabarnia (Comunidad de Madrid |)"
+    ]
+   },
+   {
+    "tema": "koldo garcía izaguirre",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-19T02:40:00-08:00",
+    "desde": "2026-11-19T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sato saldrá cedido en el mercado de invierno y Dovbyk es la opción que más gusta para la delantera del Valencia (Las Provincias)",
-     "El Valencia y Sato consensuan su salida cedido en el mercado de invierno (Cadena SER)"
+     "La campaña exacerba las acusaciones de guerra sucia entre el PP y el PSOE (El Periódico)",
+     "El PSOE acusa al PP de negociar con Koldo pero cerró un pacto para pagar su defensa: decayó al ser imputado Santos Cerdán (El Español)"
     ]
    },
    {
-    "tema": "fragata",
+    "tema": "lr-113",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T02:40:00-08:00",
+    "desde": "2026-11-19T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Navantia apuesta por Chile con la fragata F-110 y transferencia tecnológica en ExpoNaval 2026 (Defensa.com)",
-     "Navantia exhibirá en Exponaval 2026 las fragatas F-110 y Alfa en el marco del plan de construcción naval de Chile (Infodefensa)"
+     "El desprendimiento de rocas en la LR-113 deja sólo un carril abierto al tráfico (NueveCuatroUno)",
+     "Paso alternativo y cortes puntuales durante este jueves y viernes en la LR-113 tras un desprendimiento de rocas en Brieva de Cameros (La Rioja)"
     ]
    },
    {
-    "tema": "muerte",
+    "tema": "angel martin",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T02:30:00-08:00",
+    "desde": "2026-11-19T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El ímpetu colonizador israelí llega a las puertas de Jericó (EL PAÍS)",
-     "Colonos, propiedad y muerte en Jericó (La Vanguardia)"
-    ]
-   },
-   {
-    "tema": "19 de noviembre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T02:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los 3 signos que pueden recibir un impulso económico este jueves 19 de noviembre (Lecturas)",
-     "Horóscopo de hoy jueves 19 de noviembre de 2026 (El Mundo)"
-    ]
-   },
-   {
-    "tema": "entradas maluma",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-19T02:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Maluma regresa al Movistar Arena de Madrid con Loco x Volver World Tour 2027 (Movistar Arena Madrid)",
-     "Maluma vuelve a Madrid con su Loco X Volver World Tour: fecha, entradas, dónde y cuándo comprarlas (LOS40)"
+     "Ángel Martín, el presentador al que un brote psicótico le cambió la vida: \"No tuve la sensación de que estuviese pasando nada raro\" (Antena 3)",
+     "Ángel Martín revela como nunca lo que sintió durante su brote psicótico: \"Abandonarse demasiado es una pista clara\" (HOLA)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "anthropic",
+    "tema": "andrea del boca",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T03:40:00-08:00",
+    "desde": "2026-11-19T10:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Anthropic raises $81bn in record-breaking stock market debut (BBC)",
-     "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday (Yahoo Finance)"
+     "Se conoció el nuevo trabajo de Andrea del Boca y un detalle llamó la atención (TN)",
+     "Adrián Vocos ya ensaya “Votemos”, con Andrea del Boca y Esteban Prol (Up San Francisco)"
     ]
    },
    {
-    "tema": "david bisbal",
+    "tema": "alperovich",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T03:20:00-08:00",
+    "desde": "2026-11-19T10:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "La angustia de David Bisbal tras la muerte de su perrita: “Ahora nuestra casa tendrá un vacío sin ella” (La Nación)",
-     "La reflexión de David Bisbal al despedir a su perrita Nala: “Ha visto crecer a mis hijos; hay seres que llegan a tu vida y se convierten en familia” (Infobae)"
+     "Qué dijo la denunciante de José Alperovich después que la Cámara de Casación le redujera la condena por abuso sexual (TN)",
+     "Redujeron la condena de José Alperovich por abuso sexual y un juez abrió la posibilidad de anular la sentencia (Infobae)"
     ]
    },
    {
-    "tema": "dia de la soberania nacional",
+    "tema": "tiziana sabatini",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T03:10:00-08:00",
+    "desde": "2026-11-19T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Por qué es feriado el lunes 23 de noviembre en Argentina y qué pasa con el viernes 20 (Clarin.com)",
-     "Atención del comercio, el próximo lunes feriado (Cámara de Comercio de San Rafael)"
+     "Así está hoy Tiziana, la hija menor de Catherine Fulop y Ova Sabatini, que eligió el bajo perfil y rompió el molde familiar (La Nación)",
+     "Tiziana Sabatini, la hija de Catherine Fulop, mostró su negocio: diseño de marcas, proyectos internacionales y la portada del libro de Oriana (Los Andes)"
     ]
    },
    {
-    "tema": "apagón eléctrico",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Desinformación sobre simulacro de FEMA pone de relieve desconfianza en comunidades hispanas de EEUU (Clarin.com)",
-     "Así fue la prueba de alerta de emergencia nacional que se emitió en canales y radios de todo EE.UU. (La Nación)"
-    ]
-   },
-   {
-    "tema": "roberto cachanosky",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Roberto Cachanosky en RDEco: “La única opción que hoy tiene el Gobierno es liberar el mercado de cambio” (Perfil)",
-     "“El promedio está rondando el 2% mensual”: la crítica de Cachanosky al análisis del IPC (Infobrisas)"
-    ]
-   },
-   {
-    "tema": "mundial sub 17",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T02:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Comienza el Mundial Sub 17: las figuras a seguir de cerca, el dueño de la N° 10 de Argentina y todo lo que hay que saber (Infobae)",
-     "Juan Policella, el “pibe de las rabonas” que rechazó Chile, hizo historia en Vélez y va por el Mundial Sub 17 (La Nación)"
-    ]
-   },
-   {
-    "tema": "19 de noviembre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T02:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los 3 signos que pueden recibir un impulso económico este jueves 19 de noviembre (Lecturas)",
-     "Horóscopo de hoy 19 de noviembre de 2026 (El Litoral)"
-    ]
-   },
-   {
-    "tema": "clima san luis",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T02:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La de este jueves será otra jornada inestable con descenso de la temperatura (Agencia de Noticias San Luis)",
-     "Clima hoy en San Luis: el pronóstico del tiempo para este jueves 19 noviembre de 2026 (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "insecto",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T01:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Un extraño insecto hallado en los glaciares de la Patagonia chilena podría ser una nueva especie (Infobae)",
-     "Hallan en la Patagonia un insecto que podría ser \"centinela del cambio climático\" (Clarin.com)"
-    ]
-   },
-   {
-    "tema": "tiempo en cordoba",
+    "tema": "congreso",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-19T01:10:00-08:00",
+    "desde": "2026-11-19T09:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Alerta amarilla por tormentas fuertes para Córdoba en 11 departamentos este jueves: a cuáles abarca (La Voz del Interior)",
-     "Pronostican tormentas fuertes, lluvias intensas y posible caída de granizo para jueves y viernes (puntal.com.ar)"
+     "El Congreso de EEUU pidió que un equipo de auditores se instale en Argentina para contrarrestar la influencia de China (Infobae)",
+     "Estados Unidos busca desplegar auditores en Argentina para limitar el avance de China (Todo Jujuy)"
+    ]
+   },
+   {
+    "tema": "20 de noviembre",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Golpe en el Paraná (Página|12)",
+     "Día de la Soberanía Nacional: por qué se celebra el 20 de noviembre y qué pasará con el feriado (Infobae)"
+    ]
+   },
+   {
+    "tema": "julio iglesias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Julio Iglesias será investigado en España por las denuncias de agresión sexual de dos exempleadas: fue citado a declarar en febrero (Clarin.com)",
+     "Julio Iglesias será investigado por delitos por violencia sexual, lesiones y trato degradante (Página|12)"
+    ]
+   },
+   {
+    "tema": "amalia granata",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Uma, la hija del Ogro Fabbiani y Amalia Granata, recordó cómo le afectó la mala relación entre sus padres y fue tajante (La Nación)",
+     "Uma Granata habló sobre las hijas de Wanda Nara y Mauro Icardi: “Van a tener traumas” (Infobae)"
+    ]
+   },
+   {
+    "tema": "tapir americano",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T08:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nació \"Yunga\" en el Ecoparque porteño, una cría clave para la conservación del tapir americano (Infobae)",
+     "Nació una cría de tapir en el Ecoparque (Página|12)"
+    ]
+   },
+   {
+    "tema": "valentina bassi",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Senado hoy, EN VIVO: debaten Discapacidad y Ley de Tierras tras la sesión fallida por la Ley Malvinas (Clarin.com)",
+     "Valentina Bassi, sobre la ley de Discapacidad: “Queremos que salga, pero no nos garantiza bienestar” (Página|12)"
+    ]
+   },
+   {
+    "tema": "depósito",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T08:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 18 de noviembre (La Nación)",
+     "Plazo fijo: cuánto pagan los bancos por depósitos de $1 millón a 30 días (Infobae)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "aguinaldo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T03:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Aguinaldo 2026: qué trabajadores pueden recibirlo sin pagar ISR, según el SAT (UnoTV)",
-     "¿Cuánto dinero te deben pagar en Navidad 2026? Estos son los pagos obligatorios según la LFT (Récord)"
-    ]
-   },
-   {
-    "tema": "temperatura monterrey",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T03:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Se esperan lluvias en Monterrey? Conoce el pronóstico del clima para este miércoles (Milenio)",
-     "Clima en Nuevo León: Cielo medio nublado y hasta 24°C para el jueves 19 de noviembre (El Financiero)"
-    ]
-   },
-   {
-    "tema": "precio del dolar",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-19T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Al peso le da la ‘chiripiorca’ por minutas de la Fed: ¿Cuánto perdió ante el dólar este miércoles? (El Financiero)",
-     "Peso mexicano pierde más de 2% ante el fortalecimiento del dólar (Yahoo)"
-    ]
-   },
-   {
-    "tema": "salario mínimo",
+    "tema": "kacey musgraves",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T03:30:00-08:00",
+    "desde": "2026-11-19T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Salario mínimo subiría a 10,700 pesos al mes en 2027: IMCP (El Economista)",
-     "Aumentar salario mínimo ya implica riesgos de cierre de negocios y desempleo... pero prevalecerá voluntad presidencial: académico IBERO (Prensa Ibero)"
+     "Why Was Miranda Lambert & Kacey Musgraves’ CMA Awards Duet Censored? (TV Insider)",
+     "Kacey Musgraves and Miranda Lambert Duet on 'Horses and Divorces' at 2026 CMA Awards (Rolling Stone)"
     ]
    },
    {
-    "tema": "temperatura",
+    "tema": "corona capital",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T03:20:00-08:00",
+    "desde": "2026-11-19T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "CNPC LLAMA A EXTREMAR PRECAUCIONES ANTE SISTEMAS FRONTALES NÚMERO 6 Y 7, LLUVIAS INTENSAS Y EVENTO DE \"NORTE\" (Gob MX)",
-     "Se avecinan lluvias fuertes a México para este jueves por efectos del frente frío número 6 (Meteored México)"
+     "Corona Capital 2026 impulsa turismo musical y Airbnb en CDMX (Time Out México)",
+     "Corona Capital 2026: horarios completos por días y escenarios (Life and Style)"
     ]
    },
    {
-    "tema": "rafael márquez",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-19T02:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "México: Lo positivo que dejan estos seis juegos de Rafa Márquez (ESPN México)",
-     "México, la revolución de Márquez alcanza para evitar el ridículo (ESPN Deportes)"
-    ]
-   },
-   {
-    "tema": "playstation 5",
+    "tema": "paris football club femenino - hb køge",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-18T22:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Grand Theft Auto VI draws rave reviews as gamers enter Vice City (Reuters)",
-     "PS5 Pro is in stock at Walmart, but Black Friday is when you’re likely going to be able to buy it (The Shortcut | Matt Swider)"
-    ]
-   },
-   {
-    "tema": "temblor hoy cdmx",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-18T22:00:00-08:00",
+    "desde": "2026-11-19T10:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Temblor HOY 18 de noviembre 2026 en México EN VIVO: resumen de sismos en el país minuto a minuto (Milenio)",
-     "Temblor hoy 18 de noviembre en México: se registró un sismo de magnitud 4.8 en Oaxaca (Infobae)"
+     "Buffalo 40-21 Central Michigan (Nov 18, 2026) Game Recap (ESPN)",
+     "Paris FC vs. HB Køge (Nov 19, 2026) Team Stats (ESPN)"
     ]
    },
    {
-    "tema": "rusia",
+    "tema": "paris fc femenino",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-18T21:50:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-19T10:00:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Trump y Xi están interesados en asegurar paso de petróleo en estrecho de Ormuz y alcanzar paz en Ucrania (La Jornada)",
-     "“Es mi amigo”: Trump elogia a Putin al inicio de su reunión (CNN en Español)"
+     "El Real Madrid golea al Paris FC en la Women’s Champions League (Real Madrid CF | Web Oficial)",
+     "El gol de Lineth Beerensteyn en la victoria del Real Madrid en la Women's Champions League contra el Paris FC (UEFA.com)"
     ]
    },
    {
-    "tema": "terremoto",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-18T21:40:00-08:00",
+    "tema": "bayern munich femenino",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Austria Wien - Bayern München (F) | Pronóstico y cuotas 19.11.2026 (Diario AS)",
+     "Austria Viena W vs. Bayern Múnich, hoy en directo: dónde ver el partido por TV y streaming (Goal.com)"
+    ]
+   },
+   {
+    "tema": "austria wien - bayern de múnich",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Austria Wien vs. Bayern Munich: Gamethread (Women’s Champions League) (Yahoo Sports)",
+     "Preview: Austria Vienna vs. FC Bayern Women, Champions League Matchday 5 (FC Bayern)"
+    ]
+   },
+   {
+    "tema": "black friday",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sismo de magnitud 5.7 sacude la prefectura japonesa de Kumamoto (El Comentario)",
-     "Sacudió sismo de 5.7 el suroeste de Japón 🎦 (Tiempo La Noticia Digital)"
+     "Black Friday Goes Out Here (Bluefield Daily Telegraph)",
+     "Black Friday Goes Out Here – Company Announcement (Financial Times)"
+    ]
+   },
+   {
+    "tema": "alexander haskin",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Netflix actor, 38, ID’d after slapping woman then drowning off Santa Monica Pier as his dad calls it ‘a big mystery’ (New York Post)",
+     "'You' Actor Alexander Haskin Slapped Woman Before Drowning Off Santa Monica Pier (TMZ)"
+    ]
+   },
+   {
+    "tema": "tame impala",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aria awards 2026 fashion: Melanie C, Baker Boy, G Flip and all the red carpet looks – in pictures (The Guardian)",
+     "Tame Impala Sweeps 2026 ARIA Awards (Billboard)"
+    ]
+   },
+   {
+    "tema": "dylan rourke",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-19T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "The ‘GTA 6’ voice actor for Lucia has finally been revealed. What to know about Manni Perez. (Yahoo)",
+     "The Game Awards Name Five Best Performance Nominees. One Is the GTA VI Lead Rockstar Never Announced (Voice Over Herald)"
     ]
    }
   ]
