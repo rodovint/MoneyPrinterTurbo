@@ -43,11 +43,12 @@
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "partido",
+     "hora": "12:00",
      "equipos": [
       { "nombre": "IDV", "color": "#0033A0", "escudo": "img/escudos/idv.png" },
       { "nombre": "MACARÁ", "color": "#00529B", "escudo": "img/escudos/macara.png" }
      ],
-     "sobre": "HOY · 12:00"
+     "sobre": "HOY · VIERNES 20"
     },
     "voz": "andrea",
     "transicion": "zoom"
