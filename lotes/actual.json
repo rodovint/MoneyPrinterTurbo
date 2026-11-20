@@ -1,87 +1,67 @@
 [
  {
-  "titulo": "Gol 986 de Cristiano Ronaldo: anotó con Al Nassr ante Al Ahli y queda a 14 de los 1.000",
-  "etiqueta": "INTERNACIONAL",
-  "color": "#38B000",
+  "titulo": "Orense se juega la permanencia ante Mushuc Runa en Machala",
+  "etiqueta": "EL ORO",
+  "color": "#1E8A4C",
+  "audio": "audio/21",
   "franja": [
-   "GOL 986 DE CRISTIANO RONALDO",
-   "ANOTÓ CON AL NASSR ANTE AL AHLI",
-   "QUEDA A 14 GOLES DE LOS 1.000 OFICIALES",
-   "VIERNES 20 DE NOVIEMBRE DE 2026"
+   "ORENSE VS. MUSHUC RUNA · DOMINGO 22",
+   "FECHA 7 DEL HEXAGONAL DEL DESCENSO",
+   "ORENSE 39 PUNTOS · DELFÍN 38",
+   "LOS 2 ÚLTIMOS BAJAN A LA SERIE B"
   ],
   "escenas": [
    {
-    "texto": "Cristiano Ronaldo anotó hoy con Al Nassr y llegó a novecientos ochenta y seis goles oficiales.",
-    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¡GOL 986 DE CRISTIANO!",
-     "sobre": "AL NASSR VS. AL AHLI"
-    },
-    "voz": "mui",
+    "texto": "Orense se juega la categoría este domingo en Machala.",
+    "grafico": {"tipo": "titular", "texto": "SE JUEGA LA CATEGORÍA", "sobre": "ORENSE SC"},
     "transicion": "flash",
     "destello": true,
-    "hinchada": true
+    "suspenso": true
    },
    {
-    "texto": "El delantero portugués marcó este viernes veinte de noviembre frente a Al Ahli en Arabia Saudita.",
-    "foto_commons": "Ivan Tony with Al-Ahli.jpg",
-    "movimiento": "paneo_der",
+    "texto": "Recibe a Mushuc Runa en la fecha siete del hexagonal del descenso.",
+    "dicho": "Recibe a Mushuk Runa en la fecha siete del hexagonal del descenso.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "MARCÓ ANTE AL AHLI",
-     "sobre": "VIERNES 20 DE NOVIEMBRE"
+     "tipo": "partido",
+     "hora": "DOM 22",
+     "pie": "FECHA 7 · ESTADIO 9 DE MAYO · MACHALA",
+     "equipos": [
+      {"nombre": "ORENSE", "color": "#1E8A4C", "escudo": "img/escudos/orense.png"},
+      {"nombre": "MUSHUC RUNA", "color": "#B71C1C", "escudo": "img/escudos/mushuc.png"}
+     ]
     },
     "voz": "andrea",
     "transicion": "barrido",
-    "tono": "celebracion"
+    "hinchada": true
    },
    {
-    "texto": "Con este nuevo tanto, Cristiano quedó a apenas catorce goles de alcanzar la histórica marca de los mil.",
-    "foto_commons": "Nassr FC Logo.svg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "986",
-     "texto": "GOLES · A 14 DE LOS 1.000"
-    },
+    "texto": "Orense tiene treinta y nueve puntos, solo uno más que Delfín, que suma treinta y ocho.",
+    "grafico": {"tipo": "cifra", "valor": "39", "texto": "PUNTOS DE ORENSE · DELFÍN TIENE 38"},
     "voz": "andrea",
     "transicion": "zoom"
    },
    {
-    "texto": "A sus cuarenta y un años sigue ampliando su récord como el máximo goleador en la historia del fútbol.",
-    "foto_commons": "Cristiano Ronaldo benched.jpg",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "A 14 DE LOS 1.000",
-     "sobre": "RÉCORD HISTÓRICO"
-    },
+    "texto": "Viene de perder dos a cero ante Cuenca, y antes empató uno a uno con Técnico Universitario.",
+    "grafico": {"tipo": "titular", "texto": "0-2 CON CUENCA", "sobre": "ANTES: 1-1 CON TÉCNICO U."},
     "voz": "andrea",
-    "transicion": "rota",
-    "suspenso": true
+    "tono": "recuerdo",
+    "transicion": "rota"
    },
    {
-    "texto": "¿Llega Cristiano Ronaldo a los mil goles oficiales antes de retirarse?",
-    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿LLEGA A LOS 1.000?",
-     "sobre": "TU OPINIÓN"
-    },
+    "texto": "Los dos últimos del hexagonal bajan a la Serie B en dos mil veintisiete.",
+    "grafico": {"tipo": "titular", "texto": "BAJAN LOS DOS ÚLTIMOS", "sobre": "SERIE B 2027"},
     "voz": "andrea",
+    "suspenso": true,
     "transicion": "glitch"
    },
    {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    },
-    "voz": "mui",
+    "texto": "¿Orense se salva este domingo?",
+    "grafico": {"tipo": "titular", "texto": "¿SE SALVA ORENSE?", "sobre": "TU OPINIÓN"},
     "transicion": "barrido"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
    }
   ]
  }
