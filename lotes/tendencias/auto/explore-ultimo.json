@@ -1,174 +1,71 @@
 {
- "fecha": "2026-11-19T13:33-05:00",
+ "fecha": "2026-11-20T14:04-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "ecuador sub 17",
-   "impulso_24h_pct": 1266,
-   "estado": "explosiva",
-   "impulso_3h_pct": -57,
-   "estado_3h": "en declive",
+   "tema": "independiente del valle - macará",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": 437,
+   "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-19T14:00:00+00:00",
+    "date": "2026-11-20T17:00:00+00:00",
     "value": 100,
     "is_partial": false
    },
-   "ultimo_valor": 33,
+   "ultimo_valor": 97,
    "provincias_top": [
-    "Esmeraldas 100",
-    "El Oro 81",
-    "Guayas 76",
-    "Carchi 74",
-    "Cañar 70",
-    "Tungurahua 65",
-    "Chimborazo 64",
-    "Pichincha 63"
+    "Tungurahua 100",
+    "Bolívar 33",
+    "Pichincha 33",
+    "Cotopaxi 31",
+    "Manabí 29",
+    "Los Ríos 29",
+    "Orellana 29",
+    "Esmeraldas 28"
    ],
-   "el_oro": 81,
+   "el_oro": 24,
    "busquedas_en_alza": [
-    "ecuador vs bolivia sub 17 (Breakout)",
-    "a qué hora juega ecuador sub 17 (Breakout)",
-    "grupo de ecuador sub 17 (Breakout)",
-    "grupo de ecuador mundial sub 17 (Breakout)",
-    "donde ver el partido de ecuador sub 17 (Breakout)"
+    "al-ahli saudi al-nassr (Breakout)",
+    "estadísticas de independiente del valle contra macará (Breakout)"
    ],
    "serie": [
     [
-     "11-17T19",
-     0
-    ],
-    [
-     "11-17T20",
-     0
-    ],
-    [
-     "11-17T21",
-     0
-    ],
-    [
-     "11-17T22",
-     0
-    ],
-    [
-     "11-17T23",
-     2
-    ],
-    [
-     "11-18T00",
-     8
-    ],
-    [
-     "11-18T01",
-     6
-    ],
-    [
-     "11-18T02",
-     0
-    ],
-    [
-     "11-18T03",
-     0
-    ],
-    [
-     "11-18T04",
-     0
-    ],
-    [
-     "11-18T05",
-     0
-    ],
-    [
-     "11-18T06",
-     0
-    ],
-    [
-     "11-18T07",
-     0
-    ],
-    [
-     "11-18T08",
-     0
-    ],
-    [
-     "11-18T09",
-     0
-    ],
-    [
-     "11-18T10",
-     0
-    ],
-    [
-     "11-18T11",
-     0
-    ],
-    [
-     "11-18T12",
-     0
-    ],
-    [
-     "11-18T13",
-     5
-    ],
-    [
-     "11-18T14",
-     4
-    ],
-    [
-     "11-18T15",
-     3
-    ],
-    [
-     "11-18T16",
-     3
-    ],
-    [
-     "11-18T17",
-     0
-    ],
-    [
-     "11-18T18",
-     4
-    ],
-    [
-     "11-18T19",
-     3
-    ],
-    [
      "11-18T20",
-     3
+     0
     ],
     [
      "11-18T21",
-     3
+     0
     ],
     [
      "11-18T22",
-     3
+     0
     ],
     [
      "11-18T23",
-     6
+     0
     ],
     [
      "11-19T00",
-     6
+     0
     ],
     [
      "11-19T01",
-     5
+     0
     ],
     [
      "11-19T02",
-     7
+     0
     ],
     [
      "11-19T03",
-     6
+     0
     ],
     [
      "11-19T04",
-     6
+     0
     ],
     [
      "11-19T05",
@@ -196,207 +93,207 @@
     ],
     [
      "11-19T11",
-     23
+     0
     ],
     [
      "11-19T12",
+     0
+    ],
+    [
+     "11-19T13",
+     0
+    ],
+    [
+     "11-19T14",
+     0
+    ],
+    [
+     "11-19T15",
+     0
+    ],
+    [
+     "11-19T16",
+     0
+    ],
+    [
+     "11-19T17",
+     0
+    ],
+    [
+     "11-19T18",
+     0
+    ],
+    [
+     "11-19T19",
+     0
+    ],
+    [
+     "11-19T20",
+     0
+    ],
+    [
+     "11-19T21",
+     0
+    ],
+    [
+     "11-19T22",
+     0
+    ],
+    [
+     "11-19T23",
+     0
+    ],
+    [
+     "11-20T00",
+     0
+    ],
+    [
+     "11-20T01",
+     0
+    ],
+    [
+     "11-20T02",
+     0
+    ],
+    [
+     "11-20T03",
+     0
+    ],
+    [
+     "11-20T04",
+     0
+    ],
+    [
+     "11-20T05",
+     0
+    ],
+    [
+     "11-20T06",
+     0
+    ],
+    [
+     "11-20T07",
+     0
+    ],
+    [
+     "11-20T08",
+     0
+    ],
+    [
+     "11-20T09",
+     0
+    ],
+    [
+     "11-20T10",
+     0
+    ],
+    [
+     "11-20T11",
+     0
+    ],
+    [
+     "11-20T12",
+     0
+    ],
+    [
+     "11-20T13",
+     0
+    ],
+    [
+     "11-20T14",
+     0
+    ],
+    [
+     "11-20T15",
+     0
+    ],
+    [
+     "11-20T16",
      52
     ],
     [
-     "11-19T13",
-     84
-    ],
-    [
-     "11-19T14",
+     "11-20T17",
      100
     ],
     [
-     "11-19T15",
-     64
+     "11-20T18",
+     82
     ],
     [
-     "11-19T16",
-     38
-    ],
-    [
-     "11-19T17",
-     36
-    ],
-    [
-     "11-19T18",
-     33
+     "11-20T19",
+     97
     ]
    ]
   },
   {
-   "tema": "mundial sub 17",
-   "impulso_24h_pct": 842,
-   "estado": "explosiva",
-   "impulso_3h_pct": -50,
-   "estado_3h": "en declive",
+   "tema": "al-ahli saudi - al-nassr",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": 4683,
+   "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-19T14:00:00+00:00",
+    "date": "2026-11-20T18:00:00+00:00",
     "value": 100,
     "is_partial": false
    },
-   "ultimo_valor": 37,
+   "ultimo_valor": 98,
    "provincias_top": [
-    "Cañar 100",
-    "Esmeraldas 97",
-    "Sucumbíos 87",
-    "Tungurahua 79",
-    "Guayas 79",
-    "Pichincha 77",
-    "Chimborazo 76",
-    "Santo Domingo de los Tsáchilas 75"
+    "Pastaza 100",
+    "Zamora-Chinchipe 77",
+    "Los Ríos 70",
+    "Loja 69",
+    "Santa Elena 69",
+    "Santo Domingo de los Tsáchilas 68",
+    "Sucumbíos 64",
+    "Bolívar 63"
    ],
-   "el_oro": 68,
+   "el_oro": 43,
    "busquedas_en_alza": [
-    "mundial sub 17 grupos (Breakout)",
-    "horario mundial sub 17 (Breakout)",
-    "donde se juega el mundial sub 17 (Breakout)",
-    "horarios mundial sub 17 (Breakout)",
-    "que canal transmite el mundial sub 17 (Breakout)",
-    "cuando empieza el mundial sub 17 (Breakout)",
-    "grupos del mundial sub 17 (Breakout)",
-    "donde ver el mundial sub 17 (+110%)"
+    "independiente del valle macará (Breakout)",
+    "al-ahli saudi vs. al-nassr (Breakout)",
+    "al-ahli saudi contra al-nassr (Breakout)",
+    "primera división de arabia saudita (Breakout)",
+    "cristiano ronaldo (Breakout)",
+    "molde fk bodø/glimt (Breakout)",
+    "bayern colonia (Breakout)",
+    "pajtakor vs. al-nassr (Breakout)"
    ],
    "serie": [
     [
-     "11-17T19",
-     0
-    ],
-    [
-     "11-17T20",
-     3
-    ],
-    [
-     "11-17T21",
-     3
-    ],
-    [
-     "11-17T22",
-     0
-    ],
-    [
-     "11-17T23",
-     0
-    ],
-    [
-     "11-18T00",
-     10
-    ],
-    [
-     "11-18T01",
-     7
-    ],
-    [
-     "11-18T02",
-     0
-    ],
-    [
-     "11-18T03",
-     0
-    ],
-    [
-     "11-18T04",
-     0
-    ],
-    [
-     "11-18T05",
-     0
-    ],
-    [
-     "11-18T06",
-     0
-    ],
-    [
-     "11-18T07",
-     0
-    ],
-    [
-     "11-18T08",
-     0
-    ],
-    [
-     "11-18T09",
-     0
-    ],
-    [
-     "11-18T10",
-     0
-    ],
-    [
-     "11-18T11",
-     0
-    ],
-    [
-     "11-18T12",
-     7
-    ],
-    [
-     "11-18T13",
-     7
-    ],
-    [
-     "11-18T14",
-     5
-    ],
-    [
-     "11-18T15",
-     4
-    ],
-    [
-     "11-18T16",
-     5
-    ],
-    [
-     "11-18T17",
-     4
-    ],
-    [
-     "11-18T18",
-     4
-    ],
-    [
-     "11-18T19",
-     4
-    ],
-    [
      "11-18T20",
-     5
+     0
     ],
     [
      "11-18T21",
-     3
+     0
     ],
     [
      "11-18T22",
-     4
+     0
     ],
     [
      "11-18T23",
-     4
+     0
     ],
     [
      "11-19T00",
-     6
+     0
     ],
     [
      "11-19T01",
-     7
+     0
     ],
     [
      "11-19T02",
-     4
+     0
     ],
     [
      "11-19T03",
-     7
+     0
     ],
     [
      "11-19T04",
-     8
+     0
     ],
     [
      "11-19T05",
@@ -404,7 +301,7 @@
     ],
     [
      "11-19T06",
-     16
+     0
     ],
     [
      "11-19T07",
@@ -420,451 +317,439 @@
     ],
     [
      "11-19T10",
-     14
+     0
     ],
     [
      "11-19T11",
-     27
+     0
     ],
     [
      "11-19T12",
-     54
+     0
     ],
     [
      "11-19T13",
-     93
+     0
     ],
     [
      "11-19T14",
+     0
+    ],
+    [
+     "11-19T15",
+     0
+    ],
+    [
+     "11-19T16",
+     0
+    ],
+    [
+     "11-19T17",
+     0
+    ],
+    [
+     "11-19T18",
+     0
+    ],
+    [
+     "11-19T19",
+     0
+    ],
+    [
+     "11-19T20",
+     0
+    ],
+    [
+     "11-19T21",
+     0
+    ],
+    [
+     "11-19T22",
+     0
+    ],
+    [
+     "11-19T23",
+     0
+    ],
+    [
+     "11-20T00",
+     0
+    ],
+    [
+     "11-20T01",
+     0
+    ],
+    [
+     "11-20T02",
+     0
+    ],
+    [
+     "11-20T03",
+     0
+    ],
+    [
+     "11-20T04",
+     0
+    ],
+    [
+     "11-20T05",
+     0
+    ],
+    [
+     "11-20T06",
+     0
+    ],
+    [
+     "11-20T07",
+     0
+    ],
+    [
+     "11-20T08",
+     0
+    ],
+    [
+     "11-20T09",
+     0
+    ],
+    [
+     "11-20T10",
+     0
+    ],
+    [
+     "11-20T11",
+     0
+    ],
+    [
+     "11-20T12",
+     0
+    ],
+    [
+     "11-20T13",
+     0
+    ],
+    [
+     "11-20T14",
+     0
+    ],
+    [
+     "11-20T15",
+     0
+    ],
+    [
+     "11-20T16",
+     6
+    ],
+    [
+     "11-20T17",
+     89
+    ],
+    [
+     "11-20T18",
      100
     ],
     [
-     "11-19T15",
-     69
-    ],
-    [
-     "11-19T16",
-     46
-    ],
-    [
-     "11-19T17",
-     48
-    ],
-    [
-     "11-19T18",
-     37
+     "11-20T19",
+     98
     ]
    ]
   },
   {
-   "tema": "fútbol",
-   "impulso_24h_pct": -41,
-   "estado": "en declive",
-   "impulso_3h_pct": -47,
-   "estado_3h": "en declive",
+   "tema": "bayern - colonia",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": null,
+   "estado_3h": "nueva",
    "pico": {
-    "date": "2026-11-15T22:00:00+00:00",
+    "date": "2026-11-20T19:00:00+00:00",
     "value": 100,
-    "is_partial": false
+    "is_partial": true
    },
-   "ultimo_valor": 9,
+   "ultimo_valor": 100,
    "provincias_top": [
-    "Esmeraldas 100",
-    "Zamora-Chinchipe 93",
-    "Sucumbíos 92",
-    "Los Ríos 87",
-    "Santo Domingo de los Tsáchilas 86",
-    "Santa Elena 85",
-    "Orellana 85",
-    "Morona-Santiago 82"
+    "Orellana 100",
+    "Morona-Santiago 81",
+    "Santa Elena 65",
+    "Loja 58",
+    "Santo Domingo de los Tsáchilas 53",
+    "Los Ríos 53",
+    "Manabí 42",
+    "Cotopaxi 40"
    ],
-   "el_oro": 77,
+   "el_oro": 28,
    "busquedas_en_alza": [
-    "posiciones de selección de fútbol de italia contra selección de fútbol de francia (Breakout)",
-    "posiciones de selección de fútbol de la república checa contra selección de fútbol de españa (Breakout)",
-    "posiciones de selección de fútbol de dinamarca contra selección de fútbol de noruega (Breakout)",
-    "posiciones de selección de fútbol de alemania contra selección de fútbol de los países bajos (Breakout)",
-    "posiciones de selección de fútbol de francia contra selección de fútbol de turquía (Breakout)",
-    "posiciones de selección de fútbol de noruega contra selección de fútbol de gales (Breakout)",
-    "posiciones de selección de fútbol de serbia contra selección de fútbol de alemania (Breakout)",
-    "alineaciones de selección de fútbol de ecuador contra selección de fútbol de costa rica (Breakout)"
+    "bayern vs. colonia (Breakout)",
+    "al-ahli saudi al-nassr (Breakout)",
+    "bayern vs colonia pronóstico (Breakout)"
    ],
    "serie": [
     [
-     "11-17T19",
-     11
-    ],
-    [
-     "11-17T20",
-     11
-    ],
-    [
-     "11-17T21",
-     24
-    ],
-    [
-     "11-17T22",
-     66
-    ],
-    [
-     "11-17T23",
-     47
-    ],
-    [
-     "11-18T00",
-     45
-    ],
-    [
-     "11-18T01",
-     29
-    ],
-    [
-     "11-18T02",
-     14
-    ],
-    [
-     "11-18T03",
-     9
-    ],
-    [
-     "11-18T04",
-     9
-    ],
-    [
-     "11-18T05",
-     7
-    ],
-    [
-     "11-18T06",
-     7
-    ],
-    [
-     "11-18T07",
-     9
-    ],
-    [
-     "11-18T08",
-     16
-    ],
-    [
-     "11-18T09",
-     11
-    ],
-    [
-     "11-18T10",
-     14
-    ],
-    [
-     "11-18T11",
-     12
-    ],
-    [
-     "11-18T12",
-     7
-    ],
-    [
-     "11-18T13",
-     5
-    ],
-    [
-     "11-18T14",
-     4
-    ],
-    [
-     "11-18T15",
-     4
-    ],
-    [
-     "11-18T16",
-     4
-    ],
-    [
-     "11-18T17",
-     5
-    ],
-    [
-     "11-18T18",
-     7
-    ],
-    [
-     "11-18T19",
-     7
-    ],
-    [
      "11-18T20",
-     6
+     0
     ],
     [
      "11-18T21",
-     7
+     0
     ],
     [
      "11-18T22",
-     8
+     0
     ],
     [
      "11-18T23",
-     8
+     0
     ],
     [
      "11-19T00",
-     7
+     0
     ],
     [
      "11-19T01",
-     6
+     0
     ],
     [
      "11-19T02",
-     5
+     0
     ],
     [
      "11-19T03",
-     5
+     0
     ],
     [
      "11-19T04",
-     4
+     0
     ],
     [
      "11-19T05",
-     3
+     0
     ],
     [
      "11-19T06",
-     6
+     0
     ],
     [
      "11-19T07",
-     6
+     0
     ],
     [
      "11-19T08",
-     10
+     0
     ],
     [
      "11-19T09",
-     11
+     0
     ],
     [
      "11-19T10",
-     12
+     0
     ],
     [
      "11-19T11",
-     9
+     0
     ],
     [
      "11-19T12",
-     22
+     0
     ],
     [
      "11-19T13",
-     20
+     0
     ],
     [
      "11-19T14",
-     17
+     0
     ],
     [
      "11-19T15",
-     16
+     0
     ],
     [
      "11-19T16",
-     10
+     0
     ],
     [
      "11-19T17",
-     9
+     0
     ],
     [
      "11-19T18",
-     9
-    ]
-   ]
-  },
-  {
-   "tema": "rusia",
-   "impulso_24h_pct": 101,
-   "estado": "explosiva",
-   "impulso_3h_pct": -6,
-   "estado_3h": "estable",
-   "pico": {
-    "date": "2026-11-19T07:00:00+00:00",
-    "value": 100,
-    "is_partial": false
-   },
-   "ultimo_valor": 35,
-   "provincias_top": [
-    "Sucumbíos 100",
-    "Pichincha 87",
-    "Provincia de Napo 83",
-    "Loja 79",
-    "Guayas 79",
-    "Imbabura 76",
-    "Pastaza 74",
-    "Manabí 73"
-   ],
-   "el_oro": 68,
-   "busquedas_en_alza": [
-    "rusia vs. venezuela (Breakout)",
-    "venezuela vs rusia futbol (Breakout)",
-    "rusia vs venezuela pronostico (Breakout)",
-    "la actual rusia (Breakout)",
-    "rusia vs. nigeria (Breakout)",
-    "partidos de selección de fútbol de rusia contra selección de fútbol de venezuela (Breakout)",
-    "rusia vs. irán (Breakout)",
-    "venezuela vs rusia (+2,800%)"
-   ],
-   "serie": [
-    [
-     "11-17T19",
-     42
-    ],
-    [
-     "11-17T20",
-     26
-    ],
-    [
-     "11-17T21",
-     21
-    ],
-    [
-     "11-17T22",
-     23
-    ],
-    [
-     "11-17T23",
-     17
-    ],
-    [
-     "11-18T00",
-     23
-    ],
-    [
-     "11-18T01",
-     22
-    ],
-    [
-     "11-18T02",
-     27
-    ],
-    [
-     "11-18T03",
-     22
-    ],
-    [
-     "11-18T04",
-     29
-    ],
-    [
-     "11-18T05",
-     32
-    ],
-    [
-     "11-18T06",
      0
     ],
     [
-     "11-18T07",
+     "11-19T19",
      0
     ],
     [
-     "11-18T08",
+     "11-19T20",
      0
     ],
     [
-     "11-18T09",
+     "11-19T21",
      0
     ],
     [
-     "11-18T10",
+     "11-19T22",
      0
     ],
     [
-     "11-18T11",
+     "11-19T23",
      0
     ],
     [
-     "11-18T12",
-     19
+     "11-20T00",
+     0
     ],
     [
-     "11-18T13",
-     19
+     "11-20T01",
+     0
     ],
     [
-     "11-18T14",
-     20
+     "11-20T02",
+     0
     ],
     [
-     "11-18T15",
-     18
+     "11-20T03",
+     0
     ],
     [
-     "11-18T16",
-     26
+     "11-20T04",
+     0
     ],
     [
-     "11-18T17",
-     21
+     "11-20T05",
+     0
     ],
     [
-     "11-18T18",
-     17
+     "11-20T06",
+     0
     ],
     [
-     "11-18T19",
-     27
+     "11-20T07",
+     0
     ],
     [
-     "11-18T20",
-     16
+     "11-20T08",
+     0
     ],
     [
-     "11-18T21",
-     19
+     "11-20T09",
+     0
     ],
     [
-     "11-18T22",
-     32
+     "11-20T10",
+     0
     ],
     [
-     "11-18T23",
-     23
+     "11-20T11",
+     0
     ],
     [
-     "11-19T00",
-     35
+     "11-20T12",
+     0
     ],
     [
-     "11-19T01",
-     31
+     "11-20T13",
+     0
     ],
     [
-     "11-19T02",
-     21
+     "11-20T14",
+     0
     ],
     [
-     "11-19T03",
-     34
+     "11-20T15",
+     0
     ],
     [
-     "11-19T04",
+     "11-20T16",
+     0
+    ],
+    [
+     "11-20T17",
+     0
+    ],
+    [
+     "11-20T18",
      49
     ],
     [
+     "11-20T19",
+     100
+    ]
+   ]
+  },
+  {
+   "tema": "barco",
+   "impulso_24h_pct": 45,
+   "estado": "en crecimiento",
+   "impulso_3h_pct": -33,
+   "estado_3h": "en declive",
+   "pico": {
+    "date": "2026-11-18T08:00:00+00:00",
+    "value": 100,
+    "is_partial": false
+   },
+   "ultimo_valor": 0,
+   "provincias_top": [
+    "Galápagos Islands 100",
+    "Manabí 36",
+    "Santa Elena 25",
+    "Guayas 24",
+    "Imbabura 24",
+    "Morona-Santiago 22",
+    "Esmeraldas 21",
+    "Los Ríos 21"
+   ],
+   "el_oro": 21,
+   "busquedas_en_alza": [
+    "alfonso barco (+400%)"
+   ],
+   "serie": [
+    [
+     "11-18T20",
+     14
+    ],
+    [
+     "11-18T21",
+     13
+    ],
+    [
+     "11-18T22",
+     15
+    ],
+    [
+     "11-18T23",
+     11
+    ],
+    [
+     "11-19T00",
+     13
+    ],
+    [
+     "11-19T01",
+     14
+    ],
+    [
+     "11-19T02",
+     12
+    ],
+    [
+     "11-19T03",
+     12
+    ],
+    [
+     "11-19T04",
+     16
+    ],
+    [
      "11-19T05",
-     25
+     14
     ],
     [
      "11-19T06",
-     66
+     0
     ],
     [
      "11-19T07",
-     100
+     0
     ],
     [
      "11-19T08",
@@ -876,39 +761,139 @@
     ],
     [
      "11-19T10",
-     78
+     0
     ],
     [
      "11-19T11",
-     60
+     0
     ],
     [
      "11-19T12",
-     54
+     17
     ],
     [
      "11-19T13",
-     39
+     0
     ],
     [
      "11-19T14",
-     33
+     10
     ],
     [
      "11-19T15",
-     22
+     7
     ],
     [
      "11-19T16",
-     33
+     13
     ],
     [
      "11-19T17",
-     20
+     11
     ],
     [
      "11-19T18",
-     35
+     16
+    ],
+    [
+     "11-19T19",
+     0
+    ],
+    [
+     "11-19T20",
+     13
+    ],
+    [
+     "11-19T21",
+     10
+    ],
+    [
+     "11-19T22",
+     0
+    ],
+    [
+     "11-19T23",
+     14
+    ],
+    [
+     "11-20T00",
+     14
+    ],
+    [
+     "11-20T01",
+     0
+    ],
+    [
+     "11-20T02",
+     15
+    ],
+    [
+     "11-20T03",
+     10
+    ],
+    [
+     "11-20T04",
+     12
+    ],
+    [
+     "11-20T05",
+     0
+    ],
+    [
+     "11-20T06",
+     0
+    ],
+    [
+     "11-20T07",
+     0
+    ],
+    [
+     "11-20T08",
+     0
+    ],
+    [
+     "11-20T09",
+     0
+    ],
+    [
+     "11-20T10",
+     0
+    ],
+    [
+     "11-20T11",
+     0
+    ],
+    [
+     "11-20T12",
+     18
+    ],
+    [
+     "11-20T13",
+     24
+    ],
+    [
+     "11-20T14",
+     34
+    ],
+    [
+     "11-20T15",
+     39
+    ],
+    [
+     "11-20T16",
+     30
+    ],
+    [
+     "11-20T17",
+     29
+    ],
+    [
+     "11-20T18",
+     40
+    ],
+    [
+     "11-20T19",
+     0
     ]
    ]
   }
