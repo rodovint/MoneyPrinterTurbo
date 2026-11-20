@@ -2,7 +2,7 @@
  {
   "titulo": "Independiente del Valle vs Macará: vuelve la LigaPro con premiación al campeón",
   "etiqueta": "LIGAPRO",
-  "color": "#0033A0",
+  "color": "#38B000",
   "franja": [
    "VUELVE LA LIGAPRO ESTE VIERNES 20",
    "IDV VS. MACARÁ · 12:00",
@@ -44,11 +44,11 @@
     "grafico": {
      "tipo": "partido",
      "hora": "12:00",
+     "pie": "HOY · VIERNES 20 DE NOVIEMBRE",
      "equipos": [
       { "nombre": "IDV", "color": "#0033A0", "escudo": "img/escudos/idv.png" },
       { "nombre": "MACARÁ", "color": "#00529B", "escudo": "img/escudos/macara.png" }
-     ],
-     "sobre": "HOY · VIERNES 20"
+     ]
     },
     "voz": "andrea",
     "transicion": "zoom"
