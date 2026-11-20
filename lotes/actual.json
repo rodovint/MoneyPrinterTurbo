@@ -1,23 +1,21 @@
 [
  {
-  "titulo": "Independiente del Valle vs Macará: vuelve la LigaPro con premiación al campeón",
-  "etiqueta": "LIGAPRO",
+  "titulo": "La Tri cierra el 2026 en el puesto 24 del ranking FIFA",
+  "etiqueta": "LA TRI",
   "color": "#38B000",
   "franja": [
-   "VUELVE LA LIGAPRO ESTE VIERNES 20",
-   "IDV VS. MACARÁ · 12:00",
-   "PREMIACIÓN AL CAMPEÓN Y SUBCAMPEÓN",
-   "TEMPORADA 2026 DEL FÚTBOL ECUATORIANO"
+   "ECUADOR CIERRA EL AÑO EN EL TOP 24",
+   "1.593,34 PUNTOS EN EL RANKING FIFA",
+   "A SOLO 4,25 UNIDADES DE IRÁN",
+   "PRÓXIMA FECHA FIFA: MARZO 2027"
   ],
   "escenas": [
    {
-    "texto": "Hoy vuelve la LigaPro y lo hace con la premiación oficial a Independiente del Valle y Macará.",
-    "foto_commons": "Michel Deller Dirigente Deportivo de Independiente del Valle.jpg",
-    "movimiento": "zoom_in",
+    "texto": "La Tri cierra el año en el puesto veinticuatro del ranking FIFA y quedó a nada de Irán.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡PREMIACIÓN AL CAMPEÓN!",
-     "sobre": "IDV VS. MACARÁ"
+     "texto": "TOP 24 DEL MUNDO",
+     "sobre": "RANKING FIFA 2026"
     },
     "voz": "mui",
     "transicion": "flash",
@@ -25,54 +23,349 @@
     "hinchada": true
    },
    {
-    "texto": "Tras el parón por la fecha FIFA, el campeonato nacional se reanuda este viernes veinte de noviembre al mediodía.",
-    "foto_commons": "Estadio Banco Guayaquil1.jpg",
-    "movimiento": "paneo_der",
+    "texto": "Luego de ganar dos a cero sus dos amistosos ante Costa Rica y Bolivia, Ecuador mantuvo su lugar en la clasificación mundial.",
     "grafico": {
      "tipo": "titular",
-     "texto": "REGRESA LA LIGAPRO",
-     "sobre": "VIERNES 20 DE NOVIEMBRE"
+     "texto": "DOS VICTORIAS 2-0",
+     "sobre": "ANTE COSTA RICA Y BOLIVIA"
     },
     "voz": "andrea",
     "transicion": "barrido",
     "tono": "celebracion"
    },
    {
-    "texto": "Independiente del Valle y Macará abren la jornada a las doce en punto en un duelo especial.",
-    "foto_commons": "Macara 6.png",
-    "movimiento": "zoom_in",
+    "texto": "La selección suma mil quinientos noventa y tres puntos, quedando a apenas cuatro unidades de superar a Irán.",
     "grafico": {
-     "tipo": "partido",
-     "hora": "12:00",
-     "pie": "HOY · VIERNES 20 DE NOVIEMBRE",
-     "equipos": [
-      { "nombre": "IDV", "color": "#0033A0", "escudo": "img/escudos/idv.png" },
-      { "nombre": "MACARÁ", "color": "#00529B", "escudo": "img/escudos/macara.png" }
-     ]
+     "tipo": "cifra",
+     "valor": "24",
+     "texto": "PUESTO FIFA CON 1.593 PUNTOS"
     },
     "voz": "andrea",
     "transicion": "zoom"
    },
    {
-    "texto": "Al finalizar el partido, ambos clubes recibirán oficialmente sus reconocimientos como campeón y subcampeón de la temporada dos mil veintiséis.",
-    "foto_commons": "LigaPro Ecuabet Logo.png",
-    "movimiento": "zoom_out",
+    "texto": "Con este cierre positivo, la selección mayor volverá a tener actividad oficial recién en marzo de dos mil veintisiete.",
     "grafico": {
      "tipo": "titular",
-     "texto": "CAMPEÓN Y SUBCAMPEÓN",
-     "sobre": "PREMIACIÓN OFICIAL 2026"
+     "texto": "VUELVE EN MARZO 2027",
+     "sobre": "PRÓXIMA FECHA FIFA"
+    },
+    "voz": "andrea",
+    "transicion": "rota"
+   },
+   {
+    "texto": "¿En qué puesto debería estar hoy la selección de Ecuador?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿QUÉ PUESTO MERECE?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Ecuador Sub-17 vs Uganda en Catar y La Tri Femenina rumbo a Brasil 2027",
+  "etiqueta": "LA TRI",
+  "color": "#38B000",
+  "franja": [
+   "ECUADOR SUB-17 EN EL MUNDIAL DE CATAR",
+   "ESTE DOMINGO ANTE UGANDA",
+   "LA TRI FEMENINA JUEGA REPECHAJE",
+   "DEBUT ANTE GHANA RUMBO A BRASIL 2027"
+  ],
+  "escenas": [
+   {
+    "texto": "Ecuador Sub-diecisiete busca su segundo triunfo en Catar y La Tri Femenina ya mira a Brasil dos mil veintisiete.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DOBLE RETO MUNDIALISTA",
+     "sobre": "SELECCIONES DE ECUADOR"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "La selección Sub-diecisiete continúa su participación en el Mundial de Catar tras debutar con victoria.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MUNDIAL SUB-17 CATAR",
+     "sobre": "LA MINI-TRI EN ACCIÓN"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Este domingo enfrentará a Uganda con el objetivo de sumar su segundo triunfo consecutivo en el torneo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ECUADOR VS. UGANDA",
+     "sobre": "ESTE DOMINGO EN CATAR"
+    },
+    "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Mientras tanto, la selección femenina mayor alista su debut en el repechaje mundialista frente a Ghana por un boleto a Brasil dos mil veintisiete.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ECUADOR VS. GHANA",
+     "sobre": "REPECHAJE A BRASIL 2027"
     },
     "voz": "andrea",
     "transicion": "rota",
     "suspenso": true
    },
    {
-    "texto": "¿Merecido título de Independiente o le faltó pelea a Macará?",
-    "foto_commons": "Michel Deller Dirigente Deportivo de Independiente del Valle.jpg",
-    "movimiento": "zoom_out",
+    "texto": "¿Clasifican las dos selecciones de Ecuador a la siguiente fase?",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿MERECIDO CAMPEÓN?",
+     "texto": "¿CLASIFICAN LAS DOS?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Drama en Barcelona SC con Pablo Trobbiani en el Hexagonal Final",
+  "etiqueta": "LIGAPRO",
+  "color": "#38B000",
+  "franja": [
+   "BARCELONA SC MARCHA ÚLTIMO EN EL HEXAGONAL",
+   "PABLO TROBBIANI BUSCA REVERTIR EL ARRANQUE",
+   "RECTA FINAL POR EL NO DESCENSO",
+   "QUEDAN SOLO 4 FECHAS EN LIGAPRO"
+  ],
+  "escenas": [
+   {
+    "texto": "Barcelona marcha último en el hexagonal y Pablo Trobbiani busca levantar al equipo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DRAMA EN BARCELONA SC",
+     "sobre": "PABLO TROBBIANI"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "suspenso": true
+   },
+   {
+    "texto": "En la parte alta de la LigaPro, el cuadro amarillo atraviesa un mal arranque que lo tiene en el último lugar del hexagonal final.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ÚLTIMO EN EL HEXAGONAL",
+     "sobre": "MAL ARRANQUE TORERO"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "El equipo dirigido por Pablo Trobbiani necesita sumar con urgencia para revertir el mal momento.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "URGENCIA DE PUNTOS",
+     "sobre": "EL RETO DE TROBBIANI"
+    },
+    "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Al mismo tiempo, la pelea por el no descenso entra en su recta definitiva con apenas cuatro fechas por jugarse.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "4",
+     "texto": "FECHAS FINALES EN JUEGO"
+    },
+    "voz": "andrea",
+    "transicion": "rota",
+    "suspenso": true
+   },
+   {
+    "texto": "¿Logra Pablo Trobbiani levantar a Barcelona en estas fechas?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LEVANTA BARCELONA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Orense SC se juega la permanencia en el hexagonal del descenso",
+  "etiqueta": "EL ORO",
+  "color": "#1E8A4C",
+  "franja": [
+   "ORENSE SC CON 39 PUNTOS EN LA TABLA",
+   "SÉPTIMA FECHA DEL HEXAGONAL DE DESCENSO",
+   "DELFÍN TIENE 38 PUNTOS · MANTA Y TÉCNICO AL ACECHO",
+   "PARTIDO CLAVE PARA EL EQUIPO MACHALEÑO"
+  ],
+  "escenas": [
+   {
+    "texto": "Orense se juega la categoría este fin de semana con apenas un punto de ventaja sobre Delfín.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "FIN DE SEMANA CLAVE",
+     "sobre": "ORENSE SC"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "suspenso": true
+   },
+   {
+    "texto": "El cuadro machaleño afronta la séptima fecha del hexagonal por el no descenso con treinta y nueve puntos en la tabla.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "39",
+     "texto": "PUNTOS DE ORENSE SC"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Orense está en una zona comprometida, pero mantiene ventaja sobre Delfín que tiene treinta y ocho, además de Manta y Técnico Universitario.",
+    "grafico": {
+     "tipo": "partido",
+     "hora": "39 - 38",
+     "pie": "VENTAJA EN PUNTOS SOBRE DELFÍN",
+     "equipos": [
+      { "nombre": "ORENSE", "color": "#1E8A4C", "escudo": "img/escudos/orense.png" },
+      { "nombre": "DELFÍN", "color": "#0033A0", "escudo": "img/escudos/delfin.png" }
+     ]
+    },
+    "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Sumar en esta jornada resulta clave para que el equipo bananero asegure su permanencia en la primera categoría.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "A ASEGURAR LA SERIE A",
+     "sobre": "FECHA 7 · HEXAGONAL"
+    },
+    "voz": "andrea",
+    "transicion": "rota",
+    "hinchada": true
+   },
+   {
+    "texto": "¿Se salva Orense sin sufrir en estas últimas fechas?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE SALVA ORENSE?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Formativas de Orense en semifinales nacionales y fútbol barrial en Machala",
+  "etiqueta": "EL ORO",
+  "color": "#1E8A4C",
+  "franja": [
+   "ORENSE SUB-13 Y SUB-15 EN SEMIFINALES",
+   "SÁBADO IDA VS. U. CATÓLICA EN QUITO",
+   "FERNANDO CIGNO DIRIGE LA SUB-15",
+   "FERIADO CON POST 50 Y POST 60 EN MACHALA"
+  ],
+  "escenas": [
+   {
+    "texto": "Las formativas de Orense ya están en semifinales nacionales y hoy visitan a Católica en Quito.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CANTERA EN SEMIFINALES",
+     "sobre": "ORENSE SC"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "Las divisiones menores del cuadro machaleño clasificaron a las semifinales del Campeonato Nacional tanto en Sub-trece como en Sub-quince.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SUB-13 Y SUB-15",
+     "sobre": "SEMIFINALISTAS NACIONALES"
+    },
+    "voz": "andrea",
+    "transicion": "barrido",
+    "tono": "celebracion"
+   },
+   {
+    "texto": "El equipo Sub-quince, dirigido por Fernando Cigno, disputa este sábado el partido de ida ante Universidad Católica en Quito.",
+    "grafico": {
+     "tipo": "partido",
+     "hora": "IDA",
+     "pie": "SÁBADO EN QUITO · SUB-15",
+     "equipos": [
+      { "nombre": "CATÓLICA", "color": "#004B93", "escudo": "img/escudos/catolica.png" },
+      { "nombre": "ORENSE", "color": "#1E8A4C", "escudo": "img/escudos/orense.png" }
+     ]
+    },
+    "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Además, durante este feriado en Machala siguen activos los torneos tradicionales Post cincuenta de Jogo Bonito y Post sesenta de AFA en fases decisivas.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "POST 50 Y POST 60",
+     "sobre": "FÚTBOL BARRIAL EN MACHALA"
+    },
+    "voz": "andrea",
+    "transicion": "rota"
+   },
+   {
+    "texto": "¿Cuál es la mejor cantera del fútbol ecuatoriano hoy en día?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LA MEJOR CANTERA?",
      "sobre": "TU OPINIÓN"
     },
     "voz": "mui",
