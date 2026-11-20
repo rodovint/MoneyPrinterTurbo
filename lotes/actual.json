@@ -44,8 +44,8 @@
     "grafico": {
      "tipo": "partido",
      "equipos": [
-      { "nombre": "IDV", "escudo": "img/escudos/idv.png" },
-      { "nombre": "MACARÁ", "escudo": "img/escudos/macara.png" }
+      { "nombre": "IDV", "color": "#0033A0", "escudo": "img/escudos/idv.png" },
+      { "nombre": "MACARÁ", "color": "#00529B", "escudo": "img/escudos/macara.png" }
      ],
      "sobre": "HOY · 12:00"
     },
