@@ -1,563 +1,564 @@
 {
- "fecha": "2026-11-20T14:48-05:00",
+ "fecha": "2026-11-20T18:20-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "bayern",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Der Sport-Tag: 1. FC Köln muss in München auf große Teile seiner Fans verzichten (n-tv.de)",
-     "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane (come-on-fc.com)"
-    ]
-   },
-   {
-    "tema": "athletic - rcd espanyol",
+    "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Motivación extra en rojiblanco (Mundo Deportivo)",
-     "🚨 ONCES del Athletic Club-Espanyol: ¡Beñat Prados titular; Dolan suplente! (Yahoo)"
-    ]
-   },
-   {
-    "tema": "bayern - colonia",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T10:40:00-08:00",
+    "desde": "2026-11-20T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Preview: Bayern Munich vs FC Koln - prediction, team news, lineups (Sports Mole)",
-     "Noah Codjo-Evora on the bench! Vincent Kompany springs a surprise against Köln (Goal.com)"
+     "Athletic Club vs Espanyol: Spanish La Liga stats & head-to-head (BBC)",
+     "Sarabia: \"The game against Athletic Club is an opportunity to keep growing\" (RCD Espanyol)"
     ]
    },
    {
-    "tema": "aquiles álvarez",
+    "tema": "medellín - santa fe",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-20T10:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Caso Goleada: Fiscalía pide llamar a juicio a Aquiles Alvarez, su madre, sus dos hermanos y nueve personas más procesadas por lavado de activos (El Universo)",
-     "Suspenden proceso legal contra Fiorella Ycaza hasta después de las elecciones: conoce los motivos (El Telégrafo (por eliminar))"
-    ]
-   },
-   {
-    "tema": "cristiano ronaldo",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T10:10:00-08:00",
+    "desde": "2026-11-20T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "(VIDEO) LLEGÓ EL 986: Nuevo gol de Cristiano Ronaldo en Arabia (Studiofutbol)",
-     "Al Ahli vs Al Nassr Player Ratings: Galeno 8.5/10 As Al Ahli Come Back To Win At Home To Spoil The Party For Ronaldo & Co. | SPL (Sportsdunia)"
+     "TÉRMINOS Y CONDICIONES DE LA CAMPAÑA “FIDEL PIDE EL PERMISO POR VOS” (DIM Oficial)",
+     "El aguacero no dejó jugar: se suspendió, parcialmente, el partido DIM vs. Santa Fe por las semis de Liga | El Colombiano (El Colombiano)"
     ]
    },
    {
-    "tema": "ecuavisa",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T09:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Dictan prisión preventiva para exjuez acusado de abuso sexual (Diario La Hora)",
-     "David Jacho se entrega voluntariamente en la Corte Nacional tras orden de prisión preventiva (El Comercio)"
-    ]
-   },
-   {
-    "tema": "al nassr",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr (Reuters Connect)",
-     "Video: historic remontada as Al-Ahli exploit Ronaldo's slip to turn the tables on Al-Nassr (Goal.com)"
-    ]
-   },
-   {
-    "tema": "idv vs",
+    "tema": "porto - usc paredes",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-20T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Acreditaciones de prensa para recibir a Independiente del Valle (Barcelona Sporting Club)",
-     "LigaPro confirma el horario del partido reprogramado Barcelona vs. Independiente del Valle (Afición Central)"
-    ]
-   },
-   {
-    "tema": "al-ahli saudi - al-nassr",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-20T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr (Reuters Connect)",
-     "Video: historic remontada as Al-Ahli exploit Ronaldo's slip to turn the tables on Al-Nassr (Goal.com)"
-    ]
-   },
-   {
-    "tema": "independiente del valle - macará",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-20T08:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La hinchada de Independiente del Valle responde: el estadio Banco Guayaquil luce casi lleno ante Macará (El Universo)",
-     "¡Las figuras de la segunda estrella! Estos fueron los futbolistas clave para el bicampeonato de Independiente del Valle (Primicias)"
-    ]
-   }
-  ],
-  "US": [
-   {
-    "tema": "nasdaq",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-20T11:30:00-08:00",
+    "desde": "2026-11-20T13:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates (CNBC)",
-     "AI stock sell-off accelerates as markets head for steep weekly losses (Fast Company)"
-    ]
-   },
-   {
-    "tema": "smh stock",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Semiconductor ETF Is on Track to Beat the S&P 500 for a 4th Straight Year. It Has Never Done That Before. (The Motley Fool)",
-     "Is SMH A Great Dip Buy At 31% Off? (Yahoo Finance)"
-    ]
-   },
-   {
-    "tema": "purdue professor dead",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "2 adults, 2 girls found dead Wednesday night in West Lafayette (Journal & Courier)",
-     "Purdue U. Professor and Her Family Found Dead Inside Home After Daughter’s Terrifying 911 Call (People.com)"
-    ]
-   },
-   {
-    "tema": "troyes vs le havre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Troyes vs Le Havre Lineups, Prediction, Betting Picks & Odds (Oddschecker)"
-    ]
-   },
-   {
-    "tema": "athletic - rcd espanyol",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "🚨 ONCES del Athletic Club-Espanyol: ¡Beñat Prados titular; Dolan suplente! (Yahoo)",
-     "Un nuevo San Mamés y otro Sarabia en el césped (Diario AS)"
-    ]
-   },
-   {
-    "tema": "elise stefanik",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T11:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price (The Washington Post)",
-     "Republicans need a candidate who can unite | READER COMMENTARY (Baltimore Sun)"
-    ]
-   },
-   {
-    "tema": "eva xie",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T10:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Princeton neuroscience Ph.D. student detained by ICE (The Daily Princetonian)",
-     "Princeton PhD Student Detained by ICE (Newsweek)"
-    ]
-   },
-   {
-    "tema": "russia",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T10:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Russia pummels Ukraine, missile hits Poland, after Putin threat (Yahoo)",
-     "What we know about the latest Russian missile strikes on Ukraine (BBC)"
-    ]
-   },
-   {
-    "tema": "bayern vs köln",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-20T10:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bundesliga: Wirbel um Köln-Ultras vor dem Spiel gegen Bayern (BILD)",
-     "So startet der FC in München (1. FC Köln)"
-    ]
-   },
-   {
-    "tema": "bayern - colonia",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-20T10:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Preview: FC Bayern vs. 1. FC Köln, Bundesliga (FC Bayern)",
-     "Confirmed Lineups: FC Bayern vs. 1. FC Köln (Yahoo Sports)"
-    ]
-   }
-  ],
-  "ES": [
-   {
-    "tema": "huevos eroski",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Consumo activa una alerta por huevos con posible salmonella distribuidos en ocho autonomías (El Mundo)",
-     "Consumo alerta de la presencia de salmonella en unos huevos de Eroski (La Vanguardia)"
-    ]
-   },
-   {
-    "tema": "juegos del hambre 2026",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los juegos del hambre: Amanecer en la cosecha: Asturias paraíso artificial (**) (El Mundo)",
-     "Centenares de personas asisten al preestreno de 'Los Juegos del Hambre' en Somiedo (Radiotelevisión del Principado de Asturias)"
-    ]
-   },
-   {
-    "tema": "bayern – cologne",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Preview: FC Bayern vs. 1. FC Köln, Bundesliga (FC Bayern)",
-     "Bayern-Cologne: Kane leads the line, Olise starts on the right (Tu Futbolero)"
-    ]
-   },
-   {
-    "tema": "estopa la maketa",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'La maketa' de Estopa (★★★✩✩), un manantial sin fecha de caducidad (La Vanguardia)",
-     "David y José de Estopa revelan los problemas que les ha dado su madre como \"psicópata de la limpieza\": \"Ha tirado canciones\" (Antena 3)"
-    ]
-   },
-   {
-    "tema": "sara aagesen",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos (Ministerio de Transición Ecológica)",
-     "Los centros de datos llevarán a Aagesen a los tribunales y pedirán suspender su decreto (El Confidencial)"
-    ]
-   },
-   {
-    "tema": "exponaval",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Navantia apuesta por Chile con la fragata F-110 y transferencia tecnológica en ExpoNaval 2026 (Defensa.com)",
-     "Objetivo Santiago de Chile (murciaeconomia.com)"
-    ]
-   },
-   {
-    "tema": "farul - u cluj",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Farul Constanța - ”U” Cluj 1-0, ACUM, Digi Sport 1. GOOL! Alibec a deschis scorul, cu o lovitură de CAP! (Digi Sport)",
-     "Lovitură pentru Cristiano Bergodi! „U” Cluj a pierdut un titular pentru prima etapă după reluarea Superligii (PrimaSport.ro)"
-    ]
-   },
-   {
-    "tema": "athletic - rcd espanyol",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-20T11:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Un nuevo San Mamés y otro Sarabia en el césped (Diario AS)",
-     "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy (MARCA)"
-    ]
-   },
-   {
-    "tema": "fc andorra - leganés",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "FC Andorra - Leganés en directo (El Mundo)",
-     "Carrión: “Ahora tenemos que ser fuertes para aprovechar la buena racha” (Diario AS)"
-    ]
-   },
-   {
-    "tema": "adrián lastra",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Rosalía, con un gran pájaro blanco en la cabeza: la alfombra roja de LOS40 Music Awards Santander (EL PAÍS)",
-     "LOS40 Music Awards Santander 2026, en directo: última hora de la gala, ganadores, actuaciones, artistas y nominados como Rosalía (LOS40)"
-    ]
-   }
-  ],
-  "AR": [
-   {
-    "tema": "athletic - rcd espanyol",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Athletic vs Espanyol, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV (TN)",
-     "Sancet vuelve al once del Athletic ante un Espanyol con Roberto en punta (Infobae)"
-    ]
-   },
-   {
-    "tema": "bayern munich",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Preview: FC Bayern vs. 1. FC Köln, Bundesliga (FC Bayern)",
-     "Noah Codjo-Evora on the bench! Vincent Kompany springs a surprise against Köln (Goal.com)"
-    ]
-   },
-   {
-    "tema": "bayern - colonia",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-20T10:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cuándo juegan Bayern vs. Colonia por fecha 10 de Bundesliga: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
-     "Bayern Múnich vs Colonia, en vivo, por la Bundesliga de Alemania: minuto a minuto y qué canal pasa el partido por TV (TN)"
-    ]
-   },
-   {
-    "tema": "río neuquén",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T10:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Crecidas y represas: especialistas se reúnen para informar sobre el riesgo hídrico (Cipo360)",
-     "Riesgo hidríco en la región: qué medidas de prevención se plantearon ante la crecida del río Neuquén (ANR :: Agencia de Noticias Roca)"
-    ]
-   },
-   {
-    "tema": "loan peña laudelina",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T10:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Codazzi irrumpió en la causa Loan, dijo que lo atropellaron y el jueves irá al Tribunal (El Litoral | Novedades de Corrientes)",
-     "Corrientes | Laudelina ahora le dijo a su abogado que Loan está en una laguna (MisionesOnline)"
-    ]
-   },
-   {
-    "tema": "festival",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T10:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El Teatro Municipal Coliseo Podestá será escenario del Festival de Jazz La Plata Capital (Info Blanco Sobre Negro)",
-     "El Festival de Jazz La Plata Capital llega al Coliseo Podestá con destacados artistas (Labuenainfo)"
-    ]
-   },
-   {
-    "tema": "clima bahia blanca",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T09:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El pronóstico: así estará el tiempo este viernes en la ciudad (La Nueva Provincia)",
-     "Clima en Bahía Blanca hoy: cuál es el pronóstico del tiempo para el 20 de noviembre de 2026 (La Nación)"
-    ]
-   },
-   {
-    "tema": "volcán",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T09:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La ciencia explica el misterio de un volcán de Etiopía que liberó 38.000 toneladas de metano sin entrar en erupción (Meteored Argentina)",
-     "Sangay: aviso de ceniza volcánica — nube hasta 24.000 ft (7.300 m) a fecha de 20 nov., 13:00 UTC (Volcano Discovery)"
-    ]
-   },
-   {
-    "tema": "leonardo ponzio",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T09:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "River y un once con muchos pibes para enfrentar a Lanús (TyC Sports)",
-     "Arrancan los Playoffs del Torneo Clausura 2026: cómo sería el cuadro de River en caso de pasar a Lanús (La Página Millonaria)"
-    ]
-   },
-   {
-    "tema": "al nassr",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cristiano Ronaldo no perdonó con Al Nassr y marcó su gol 986 como profesional (ESPN Argentina)",
-     "Messi vs Cristiano Ronaldo: ¿cómo está la pelea por llegar a los 1.000 goles? :: Olé - ole.com.ar (Olé)"
-    ]
-   }
-  ],
-  "MX": [
-   {
-    "tema": "bayern",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Der Sport-Tag: 1. FC Köln muss in München auf große Teile seiner Fans verzichten (n-tv.de)",
-     "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane (come-on-fc.com)"
-    ]
-   },
-   {
-    "tema": "troyes - le havre",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Joueur de Bundesliga puis entraîneur grand voyageur, Valérien Ismaël s'apprête à diriger son premier match sur le banc d'un club français avec Le Havre à 51 ans (L'Équipe)",
-     "Malgré la maladie, Jean-Marc Furlan sera présent à Troyes ce vendredi (SO FOOT.com)"
-    ]
-   },
-   {
-    "tema": "pobreza",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "México abate índices de pobreza // Cepal: “marcada reducción” // Mayor salario y pensión universal - México SA (La Jornada)",
-     "México tendría 11.5% más pobres sin pensiones a adultos mayores, dice ahora la CEPAL (SinEmbargo MX)"
-    ]
-   },
-   {
-    "tema": "juarez vs atlas",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Juárez vs. Atlas, ¿Cómo y dónde ver? | Jornada 17 de Liga MX (Telemundo)",
-     "Atlas busca terminar con un triunfo en la frontera (Yahoo)"
-    ]
-   },
-   {
-    "tema": "troyes vs le havre",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Live: Troyes vs. Le Havre | Ligue 1 2026-27 (beIN SPORTS)",
-     "Troyes vs Le Havre Prediction, Betting Tips, Team News - 20 November 2026 (Betfred Insights)"
-    ]
-   },
-   {
-    "tema": "athletic - rcd espanyol",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "🚨 ONCES del Athletic Club-Espanyol: ¡Beñat Prados titular; Dolan suplente! (Yahoo)",
-     "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy (MARCA)"
-    ]
-   },
-   {
-    "tema": "bayern munich",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-20T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Preview: FC Bayern vs. 1. FC Köln, Bundesliga (FC Bayern)",
-     "Vincent Kompany surprises with Noah Codjo-Evora squad inclusion against Cologne (Goal.com)"
+     "FC Porto - Paredes, prolongamento no Dragão (RTP)",
+     "VÍDEO: Fofana faz o Dragão respirar de alívio em cima do intervalo (A Bola)"
     ]
    },
    {
     "tema": "bayer vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T11:20:00-08:00",
+    "desde": "2026-11-20T12:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Bayer Leverkusen vs Paderborn live today: Who is showing the match on TV and via live stream? (Goal.com)",
-     "Martinez insists Leverkusen must be ‘strong at the back’ against Paderborn (Soccer News)"
+     "Key trio expected back for Leverkusen's clash with Paderborn (Bulinews)",
+     "Leverkusen wary of Paderborn's threatening form (beIN SPORTS)"
     ]
    },
    {
-    "tema": "ola de frío",
+    "tema": "volcán",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T11:20:00-08:00",
+    "desde": "2026-11-20T12:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¿Llegará una ola de frío a México por el Vórtice Polar? José Martín Cortés explica la tendencia de bajas temperaturas (Meteored México)",
-     "El vórtice polar sufrió el 11 de noviembre su calentamiento más temprano en la historia y amenaza con enviar aire helado al norte de México en diciembre, desafiando el invierno cálido que impulsa El Niño hasta marzo (El Imparcial)"
+     "Ecuador consolida el repunte de su turismo en 2026 y proyecta un cierre récord de visitantes (Expreso - Diario de viajes y turismo)",
+     "Volcán Chimborazo se consolida como el destino predilecto para este feriado en plena temporada de nieve (diariolosandes.com.ec)"
     ]
    },
    {
-    "tema": "all nasr",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T11:10:00-08:00",
+    "tema": "khvicha kvaratskhelia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Khvicha Kvaratskhelia reveals PSG return date as Georgian star provides major injury update on ACL recovery (Goal.com)",
+     "Three reasons why extending Marquinhos is a no-brainer for PSG (PSG Post)"
+    ]
+   },
+   {
+    "tema": "posiciones de al-ahli saudi contra al-nassr",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T11:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Video: Cristiano Ronaldo scores 986th career goal for Al Nassr vs Al Ahli, later misses a penalty (Bolavip US)",
-     "Ronaldo's Race to 1,000: How close will the GOAT get before 2026 wraps up? (Yahoo Sports)"
+     "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo (Diario AS)",
+     "Cristiano Ronaldo y su partido contra el al alhi en la liga saudí (Diario del Sur)"
+    ]
+   },
+   {
+    "tema": "bayern",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liveticker | Bayern München - 1. FC Köln 1:1 | 10. Spieltag | Bundesliga 2026/27 (Kicker)",
+     "Syndesmosebandriss bei Harry Kane, Michael Olise mit Prellung (FC Bayern)"
+    ]
+   },
+   {
+    "tema": "posiciones de independiente del valle contra macará",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-20T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Independiente del Valle y Macará fueron premiados como campeón y vicecampeón de la LigaPro 2026 (Teleamazonas)",
+     "LigaPro tambien premio la campana historica del Macara de Ambato y su segundo lugar (futbolecuador.com)"
+    ]
+   },
+   {
+    "tema": "athletic - rcd espanyol",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Athletic 0 - 1 Espanyol: resumen, resultado y gol (Diario AS)",
+     "La felicidad de Eder Sarabia: «Ganar en San Mamés es la leche» (El Correo)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "max sasson",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Why The Canucks Are Better Off Not Naming A Captain Right Now (Yahoo Sports)",
+     "Canucks' Brock Boeser embracing leadership role amid rebuilding season (Sportsnet.ca)"
+    ]
+   },
+   {
+    "tema": "bucaramanga - américa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Bucaramanga vs América por fecha 1 de cuadrangulares de Liga BetPlay: equipo, fecha, hora y TV en vivo (ESPN Deportes)",
+     "América inicia el camino hacia su segunda final del año (leanotas.com)"
+    ]
+   },
+   {
+    "tema": "florida weather flooding",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Florida coast under rare Level 4 flood threat as relentless storms raise risk of catastrophic flooding (FOX Weather)",
+     "Flooding in Christmas leaves roads, yards underwater as family worries about more rain (WKMG)"
+    ]
+   },
+   {
+    "tema": "drinking",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Should You Drink Water Before Coffee in the Morning? The Answer May Surprise You (Good Housekeeping)",
+     "What Happens to Your Body When You Drink Coffee Every Morning? (Health.com)"
+    ]
+   },
+   {
+    "tema": "jordan leasure",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "White Sox Trade Jordan Leasure To Phillies (MLB Trade Rumors)",
+     "White Sox DFA Jordan Leasure Following Injury (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "feister brothers",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "OHSAA suspends Feister brothers ahead of Massillon football showdown game (Canton Repository)",
+     "Massillon’s Feister brothers set to play against Bishop Watterson: Emergency injunction granted (Cleveland.com)"
+    ]
+   },
+   {
+    "tema": "dayton basketball",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dayton basketball: Flyers will play Utah for first time since 1958 on Friday at Charleston Classic (Dayton Daily News)",
+     "Dayton vs Utah Prediction, Pick, College Basketball Odds for Friday, Nov. 20 (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "clemson vs duke",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Clemson vs. Duke prediction, odds, time: Week 12 college football Friday picks from proven model (CBS Sports)",
+     "Clemson Tigers vs. Duke Blue Devils: How to Watch, TV Schedule, Live Gamethread (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "royce lewis",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dodgers acquire INF Royce Lewis from Twins (source) (MLB.com)",
+     "Dodgers trade for Twins’ Royce Lewis, 2017 No. 1 pick slowed by injuries: Source (The New York Times)"
+    ]
+   },
+   {
+    "tema": "luis gil",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Yankees non-tender former Rookie of the Year Luis Gil, reliever Fernando Cruz (MLB.com)",
+     "Yankees Non-Tender Fernando Cruz, Luis Gil (MLB Trade Rumors)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "bucaramanga - américa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Atlético Bucaramanga - América de Cali S. A. | Pronóstico y cuotas 20.11.2026 (Diario AS)",
+     "América inicia el camino hacia su segunda final del año (leanotas.com)"
+    ]
+   },
+   {
+    "tema": "celeste temporada 2",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Carmen Machi: \"Los inspectores de Hacienda me agradecen haberles humanizado con la serie\" (EFE - Agencia de noticias)",
+     "El triple salto mortal hacia atrás de ‘Celeste’: “Es un ejercicio de riesgo total” (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "jesús owono",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Owono se deja ver por primera vez para asistir al homenaje a Demi en Andorra (MARCA)",
+     "Owono, presente en Encamp para el Andorra-Leganés (Diario AS)"
+    ]
+   },
+   {
+    "tema": "nvda",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say (Reuters)",
+     "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting (Yahoo Finance)"
+    ]
+   },
+   {
+    "tema": "alberto hierro ciclista",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encuentran muerto al ex ciclista Alberto Hierro tendido en una carretera de Igorre, Vizcaya (El Mundo)",
+     "Muere el exciclista Alberto Hierro a los 48 años mientras circulaba en bicicleta (Heraldo de Aragón)"
+    ]
+   },
+   {
+    "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Athletic Club vs Espanyol: Spanish La Liga stats & head-to-head (BBC)",
+     "Sarabia: \"The game against Athletic Club is an opportunity to keep growing\" (RCD Espanyol)"
+    ]
+   },
+   {
+    "tema": "javier milei",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Viernes negro en los mercados del mundo: el riesgo país superó los 1.000 puntos y el dólar se acercó a los $1.600 (Clarin.com)",
+     "Firmeza de riesgo país de Argentina golpea mercados, con derrumbe de activos (Yahoo)"
+    ]
+   },
+   {
+    "tema": "jason statham",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "This 10/10 Action Thriller Is Still Jason Statham’s Greatest Movie 8 Years Later (Collider)",
+     "Jason Statham Is Locked & Loaded With a Huge Weapon in Wild New The Beekeeper 2 Poster (Yahoo)"
+    ]
+   },
+   {
+    "tema": "laura escanes",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El inesperado susto de Laura Escanes que la ha llevado a pasar la noche en urgencias (HOLA)",
+     "Laura Escanes revela por la red el susto de salud que ha sufrido Rock, su perro: qué le ha pasado (El Nacional.cat)"
+    ]
+   },
+   {
+    "tema": "barcelona estrella roja euroliga",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El Barça cede en el Palau con polémica al final de la prórroga (MARCA)",
+     "Resumen del Barcelona vs. Estrella Roja de Euroliga (Diario AS)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "china",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kirby: There’s ‘no slowing down’ China’s nuclear modernization (MS NOW)",
+     "Trump not sure if denuclearisation 'can ever happen' (The Express Tribune)"
+    ]
+   },
+   {
+    "tema": "s&p 500",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues (The New York Times)",
+     "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading (The Guardian)"
+    ]
+   },
+   {
+    "tema": "lucas martínez quarta",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El técnico del fútbol argentino que quiere a Martínez Quarta en su equipo: \"Lo hablamos con la dirigencia...\" (Olé)",
+     "Leonardo Madelón, DT de Unión, pidió por la llegada Martínez Quarta: “Lo hablamos con la dirigencia” (La Página Millonaria)"
+    ]
+   },
+   {
+    "tema": "promedio industrial dow jones",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El desplome de la IA lleva al Nasdaq a su peor semana en año y medio con Anthropic hundiéndose un 8,5% (EL PAÍS)",
+     "La euforia por la IA da paso al miedo y a una “volatilidad extrema” (Infobae)"
+    ]
+   },
+   {
+    "tema": "frank darío kudelka",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Le redujeron la sanción a Kudelka y podrá dirigir los octavos del Clausura ante Gimnasia (Olé)",
+     "La AFA jugó a favor de Newell's en la previa del partido ante Gimnasia (0221)"
+    ]
+   },
+   {
+    "tema": "estadio juan carmelo zerillo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Las claves del Proyecto 65: ¿cómo será el nuevo Estadio de Gimnasia? (0221)",
+     "La dirigencia de Gimnasia realizó un comunicado importante sobre el futuro del estadio (Punto Capital Noticias)"
+    ]
+   },
+   {
+    "tema": "cambio climático",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "COP31 posterga su decisión en medio de una creciente presión para abandonar energía fósil (Infobae)",
+     "La cumbre del clima llega a su recta final entre el bloqueo y las críticas a sus propias reglas: “Son una receta para el fracaso” (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "mauricio pochettino",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pochettino demands say on big United decisions; Arteta takes fantasy football action – as it happened (The Guardian)",
+     "Mauricio Pochettino: Man Utd boss priorities include Fernandes, culture and defence (BBC)"
+    ]
+   },
+   {
+    "tema": "vélez - belgrano",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡TODOS EN CASA! (Vélez Sarsfield)",
+     "Vélez vs Belgrano hoy en vivo por el Torneo Clausura: hora, TV y formaciones (Página|12)"
+    ]
+   },
+   {
+    "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Athletic Club vs Espanyol: Spanish La Liga stats & head-to-head (BBC)",
+     "Sarabia: \"The game against Athletic Club is an opportunity to keep growing\" (RCD Espanyol)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "condenado",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Condenan a 12 años de prisión a 'Pity' Álvarez por homicidio (Reforma)",
+     "Músico de rock argentino condenado a doce años de prisión domiciliaria por homicidio (Yahoo)"
+    ]
+   },
+   {
+    "tema": "s&p 500",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-20T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues (The New York Times)",
+     "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves (CNN)"
+    ]
+   },
+   {
+    "tema": "xu jin",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Qué sabemos de Xu Jin, la ‘guardaespaldas más bella’ que cuidó a Sheinbaum durante su visita a China? (El Financiero)",
+     "Xu Jin, agente china que resguardó a Sheinbaum en APEC Shenzhen (Pulso Diario San Luis)"
+    ]
+   },
+   {
+    "tema": "lucero",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lucero y Majo Aguilar: Unidas por el mariachi (Reforma)",
+     "Lucero felicita a Majo Aguilar tras cantar juntas (Yahoo en Español Vida y Estilo)"
+    ]
+   },
+   {
+    "tema": "tijuana vs atlante",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atlante no quiere \"regalarle\" nada a Tijuana (Yahoo)",
+     "¿A qué hora juega Tijuana vs. Atlante HOY? Horario y canal EN VIVO Jornada 17 de Liga MX 2026 (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "liga dimayor",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liga BetPlay: así se disputarán las fechas 3 y 4 de los cuadrangulares (ESPN México)",
+     "La IA predijo que Nacional le ganará al Once Caldas en Manizales en el inicio de los cuadrangulares: prográmese con los partidos | El Colombiano (El Colombiano)"
+    ]
+   },
+   {
+    "tema": "china",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers (The New York Times)",
+     "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State (WSJ)"
+    ]
+   },
+   {
+    "tema": "posiciones de estac troyes contra le havre athletic club",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Troyes vs Le Havre: French Ligue 1 stats & head-to-head (BBC)",
+     "ESTAC Troyes 3-1 Le Havre: Result and Key Stats (Football.com)"
+    ]
+   },
+   {
+    "tema": "velez vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Vélez vs. Belgrano por octavos de final del Torneo Clausura: equipo, fecha, hora y TV en vivo (ESPN México)",
+     "Vélez y Belgrano abren los Playoffs del Clausura 2026 con formaciones confirmadas (Yahoo)"
+    ]
+   },
+   {
+    "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Athletic Club vs Espanyol: Spanish La Liga stats & head-to-head (BBC)",
+     "Sarabia: \"The game against Athletic Club is an opportunity to keep growing\" (RCD Espanyol)"
     ]
    }
   ]
