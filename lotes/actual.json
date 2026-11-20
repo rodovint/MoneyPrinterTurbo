@@ -1,63 +1,81 @@
 [
  {
-  "titulo": "Ecuador vs Nueva Caledonia Sub-17: triunfo 1-0 de la Mini-Tri",
-  "etiqueta": "LA TRI",
-  "color": "#FFD100",
+  "titulo": "Independiente del Valle vs Macará: vuelve la LigaPro con premiación al campeón",
+  "etiqueta": "LIGAPRO",
+  "color": "#0033A0",
   "franja": [
-   "ECUADOR 1-0 NUEVA CALEDONIA · SUB-17",
-   "DEBUT CON VICTORIA DE LA MINI-TRI",
-   "DOMINGO 22 VS. UGANDA",
-   "MIÉRCOLES 25 VS. COREA DEL SUR"
+   "VUELVE LA LIGAPRO ESTE VIERNES 20",
+   "IDV VS. MACARÁ · 12:00",
+   "PREMIACIÓN AL CAMPEÓN Y SUBCAMPEÓN",
+   "TEMPORADA 2026 DEL FÚTBOL ECUATORIANO"
   ],
   "escenas": [
    {
-    "texto": "Ecuador Sub-diecisiete derrotó uno a cero a Nueva Caledonia y arrancó ganando.",
+    "texto": "Hoy vuelve la LigaPro y lo hace con la premiación oficial a Independiente del Valle y Macará.",
+    "foto_commons": "Michel Deller Dirigente Deportivo de Independiente del Valle.jpg",
+    "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "ECUADOR 1-0 N. CALEDONIA",
-     "sobre": "DEBUT SUB-17"
+     "texto": "¡PREMIACIÓN AL CAMPEÓN!",
+     "sobre": "IDV VS. MACARÁ"
     },
     "voz": "mui",
+    "transicion": "flash",
     "destello": true,
     "hinchada": true
    },
    {
-    "texto": "La Mini-Tri sumó sus primeros tres puntos en el torneo con un triunfo trabajado por la mínima.",
+    "texto": "Tras el parón por la fecha FIFA, el campeonato nacional se reanuda este viernes veinte de noviembre al mediodía.",
+    "foto_commons": "Estadio Banco Guayaquil1.jpg",
+    "movimiento": "paneo_der",
     "grafico": {
-     "tipo": "cifra",
-     "valor": "3",
-     "texto": "PUNTOS EN EL DEBUT"
+     "tipo": "titular",
+     "texto": "REGRESA LA LIGAPRO",
+     "sobre": "VIERNES 20 DE NOVIEMBRE"
     },
     "voz": "andrea",
+    "transicion": "barrido",
     "tono": "celebracion"
    },
    {
-    "texto": "El próximo partido de Ecuador será este domingo veintidós de noviembre frente a Uganda.",
+    "texto": "Independiente del Valle y Macará abren la jornada a las doce en punto en un duelo especial.",
+    "foto_commons": "Macara 6.png",
+    "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "titular",
-     "texto": "ECUADOR VS. UGANDA",
-     "sobre": "DOMINGO 22 DE NOVIEMBRE"
-    },
-    "voz": "andrea"
-   },
-   {
-    "texto": "Luego cerrará esta fase el miércoles veinticinco de noviembre ante Corea del Sur.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "ECUADOR VS. COREA DEL SUR",
-     "sobre": "MIÉRCOLES 25 DE NOVIEMBRE"
+     "tipo": "partido",
+     "equipos": [
+      { "nombre": "IDV", "escudo": "img/escudos/idv.png" },
+      { "nombre": "MACARÁ", "escudo": "img/escudos/macara.png" }
+     ],
+     "sobre": "HOY · 12:00"
     },
     "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Al finalizar el partido, ambos clubes recibirán oficialmente sus reconocimientos como campeón y subcampeón de la temporada dos mil veintiséis.",
+    "foto_commons": "LigaPro Ecuabet Logo.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CAMPEÓN Y SUBCAMPEÓN",
+     "sobre": "PREMIACIÓN OFICIAL 2026"
+    },
+    "voz": "andrea",
+    "transicion": "rota",
     "suspenso": true
    },
    {
-    "texto": "¿Ecuador clasifica primero de su grupo en este Mundial Sub-diecisiete?",
+    "texto": "¿Merecido título de Independiente o le faltó pelea a Macará?",
+    "foto_commons": "Michel Deller Dirigente Deportivo de Independiente del Valle.jpg",
+    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿CLASIFICA PRIMERO?",
+     "texto": "¿MERECIDO CAMPEÓN?",
      "sobre": "TU OPINIÓN"
     },
-    "voz": "mui"
+    "voz": "mui",
+    "transicion": "glitch"
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -65,7 +83,8 @@
      "tipo": "cierre",
      "texto": "COMENTA Y SÍGUENOS"
     },
-    "voz": "mui"
+    "voz": "mui",
+    "transicion": "barrido"
    }
   ]
  }
