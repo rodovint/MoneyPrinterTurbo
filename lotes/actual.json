@@ -1,21 +1,23 @@
 [
  {
-  "titulo": "La Tri cierra el 2026 en el puesto 24 del ranking FIFA",
-  "etiqueta": "LA TRI",
+  "titulo": "Gol 986 de Cristiano Ronaldo: anotó con Al Nassr ante Al Ahli y queda a 14 de los 1.000",
+  "etiqueta": "INTERNACIONAL",
   "color": "#38B000",
   "franja": [
-   "ECUADOR CIERRA EL AÑO EN EL TOP 24",
-   "1.593,34 PUNTOS EN EL RANKING FIFA",
-   "A SOLO 4,25 UNIDADES DE IRÁN",
-   "PRÓXIMA FECHA FIFA: MARZO 2027"
+   "GOL 986 DE CRISTIANO RONALDO",
+   "ANOTÓ CON AL NASSR ANTE AL AHLI",
+   "QUEDA A 14 GOLES DE LOS 1.000 OFICIALES",
+   "VIERNES 20 DE NOVIEMBRE DE 2026"
   ],
   "escenas": [
    {
-    "texto": "La Tri cierra el año en el puesto veinticuatro del ranking FIFA y quedó a nada de Irán.",
+    "texto": "Cristiano Ronaldo anotó hoy con Al Nassr y llegó a novecientos ochenta y seis goles oficiales.",
+    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
+    "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "TOP 24 DEL MUNDO",
-     "sobre": "RANKING FIFA 2026"
+     "texto": "¡GOL 986 DE CRISTIANO!",
+     "sobre": "AL NASSR VS. AL AHLI"
     },
     "voz": "mui",
     "transicion": "flash",
@@ -23,116 +25,50 @@
     "hinchada": true
    },
    {
-    "texto": "Luego de ganar dos a cero sus dos amistosos ante Costa Rica y Bolivia, Ecuador mantuvo su lugar en la clasificación mundial.",
+    "texto": "El delantero portugués marcó este viernes veinte de noviembre frente a Al Ahli en Arabia Saudita.",
+    "foto_commons": "Ivan Tony with Al-Ahli.jpg",
+    "movimiento": "paneo_der",
     "grafico": {
      "tipo": "titular",
-     "texto": "DOS VICTORIAS 2-0",
-     "sobre": "ANTE COSTA RICA Y BOLIVIA"
+     "texto": "MARCÓ ANTE AL AHLI",
+     "sobre": "VIERNES 20 DE NOVIEMBRE"
     },
     "voz": "andrea",
     "transicion": "barrido",
     "tono": "celebracion"
    },
    {
-    "texto": "La selección suma mil quinientos noventa y tres puntos, quedando a apenas cuatro unidades de superar a Irán.",
+    "texto": "Con este nuevo tanto, Cristiano quedó a apenas catorce goles de alcanzar la histórica marca de los mil.",
+    "foto_commons": "Nassr FC Logo.svg",
+    "movimiento": "zoom_in",
     "grafico": {
      "tipo": "cifra",
-     "valor": "24",
-     "texto": "PUESTO FIFA CON 1.593 PUNTOS"
+     "valor": "986",
+     "texto": "GOLES · A 14 DE LOS 1.000"
     },
     "voz": "andrea",
     "transicion": "zoom"
    },
    {
-    "texto": "Con este cierre positivo, la selección mayor volverá a tener actividad oficial recién en marzo de dos mil veintisiete.",
+    "texto": "A sus cuarenta y un años sigue ampliando su récord como el máximo goleador en la historia del fútbol.",
+    "foto_commons": "Cristiano Ronaldo benched.jpg",
+    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "VUELVE EN MARZO 2027",
-     "sobre": "PRÓXIMA FECHA FIFA"
-    },
-    "voz": "andrea",
-    "transicion": "rota"
-   },
-   {
-    "texto": "¿En qué puesto debería estar hoy la selección de Ecuador?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿QUÉ PUESTO MERECE?",
-     "sobre": "TU OPINIÓN"
-    },
-    "voz": "andrea",
-    "transicion": "glitch"
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    },
-    "voz": "mui",
-    "transicion": "barrido"
-   }
-  ]
- },
- {
-  "titulo": "Ecuador Sub-17 vs Uganda en Catar y La Tri Femenina rumbo a Brasil 2027",
-  "etiqueta": "LA TRI",
-  "color": "#38B000",
-  "franja": [
-   "ECUADOR SUB-17 EN EL MUNDIAL DE CATAR",
-   "ESTE DOMINGO ANTE UGANDA",
-   "LA TRI FEMENINA JUEGA REPECHAJE",
-   "DEBUT ANTE GHANA RUMBO A BRASIL 2027"
-  ],
-  "escenas": [
-   {
-    "texto": "Ecuador Sub-diecisiete busca su segundo triunfo en Catar y La Tri Femenina ya mira a Brasil dos mil veintisiete.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "DOBLE RETO MUNDIALISTA",
-     "sobre": "SELECCIONES DE ECUADOR"
-    },
-    "voz": "mui",
-    "transicion": "flash",
-    "destello": true,
-    "hinchada": true
-   },
-   {
-    "texto": "La selección Sub-diecisiete continúa su participación en el Mundial de Catar tras debutar con victoria.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "MUNDIAL SUB-17 CATAR",
-     "sobre": "LA MINI-TRI EN ACCIÓN"
-    },
-    "voz": "andrea",
-    "transicion": "barrido"
-   },
-   {
-    "texto": "Este domingo enfrentará a Uganda con el objetivo de sumar su segundo triunfo consecutivo en el torneo.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "ECUADOR VS. UGANDA",
-     "sobre": "ESTE DOMINGO EN CATAR"
-    },
-    "voz": "andrea",
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Mientras tanto, la selección femenina mayor alista su debut en el repechaje mundialista frente a Ghana por un boleto a Brasil dos mil veintisiete.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "ECUADOR VS. GHANA",
-     "sobre": "REPECHAJE A BRASIL 2027"
+     "texto": "A 14 DE LOS 1.000",
+     "sobre": "RÉCORD HISTÓRICO"
     },
     "voz": "andrea",
     "transicion": "rota",
     "suspenso": true
    },
    {
-    "texto": "¿Clasifican las dos selecciones de Ecuador a la siguiente fase?",
+    "texto": "¿Llega Cristiano Ronaldo a los mil goles oficiales antes de retirarse?",
+    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
+    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿CLASIFICAN LAS DOS?",
+     "texto": "¿LLEGA A LOS 1.000?",
      "sobre": "TU OPINIÓN"
     },
     "voz": "andrea",
