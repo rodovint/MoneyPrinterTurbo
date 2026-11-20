@@ -1,561 +1,559 @@
 {
- "fecha": "2026-11-19T21:08-05:00",
+ "fecha": "2026-11-20T06:06-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "grizzlies - warriors",
+    "tema": "ecuador",
     "volumen": "200+",
     "volumen_min": 200,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Secretario de Guerra Pete Hegseth reafirma apoyo de EE.UU. a Ecuador para combatir narcoterrorismo (DW.com)",
+     "José Julio Neira destaca los avances de la alianza estratégica de seguridad con Estados Unidos tras reunión entre Daniel Noboa y Pete Hegseth (El Universo)"
+    ]
+   },
+   {
+    "tema": "diésel",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T20:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ecuador sufre racionamiento de diésel por crisis eléctrica: Distribuidores al límite, pero sin escasez (Diario La Hora)",
+     "Distribuidores denuncian recortes de hasta el 30% en despachos de diésel (Confirmado.net)"
+    ]
+   },
+   {
+    "tema": "timberwolves - knicks",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T19:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Karl-Anthony Towns extends double-double streak in ‘bittersweet’ return to Minnesota (The New York Times)",
+     "Knicks Face Timberwolves in Minneapolis NBA Showdown (cwibc.co.id)"
+    ]
+   },
+   {
+    "tema": "fluminense vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "São Paulo vs Fluminense: Brazilian Serie A stats & head-to-head (BBC)",
+     "Martinelli hails rapid return: “Doing all we can to keep Thiago Silva” (OneFootball)"
+    ]
+   },
+   {
+    "tema": "grizzlies - warriors",
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-19T17:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Game Preview: Warriors at Memphis Grizzlies - 11/19/26 (NBA.com)",
-     "NBA: Golden State Warriors at Memphis Grizzlies (Reuters Connect)"
+     "Game Recap: Grizzlies 126, Warriors 98 (Nov. 19) (NBA.com)",
+     "Winners and losers as Cedric Coward, Cam Boozer, Jaylen Wells continue consistent play (Sports Illustrated)"
     ]
    },
    {
     "tema": "los lobos",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-19T17:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Reorganización penitenciaria en Ecuador incluye el traslado de 326 personas privadas de libertad (El Universo)",
-     "SNAI traslada 200 presos, integrantes de Los Lobos, desde la cárcel de El Inca a Cotopaxi (Primicias)"
+     "Seis detenidos en operativo contra presunta célula de Los Lobos en Latacunga y Salcedo (La Gaceta)",
+     "Cotopaxi: seis presuntos integrantes de Los Lobos cayeron en operativo policial (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "x",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-19T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best? (Digital Foundry)",
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)"
     ]
    },
    {
     "tema": "orlando city - cincinnati",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-19T17:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Slavia Prague vs Villarreal: Kalshi Promo Code & $55 Bonus (Squawka)",
-     "Orlando City Starting XI: A look at the Lions' starters and bench as they host FC Cincinnati for the Wild Card match (Orlando City)"
+     "Licensable picture: MLS: MLS Cup Playoffs Wild Card-FC Cincinnati at Orlando City SC (Reuters Connect)",
+     "Evander rises to the occasion in FC Cincinnati's Wild Card win (MLSsoccer.com)"
     ]
    },
    {
-    "tema": "lionel messi",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How Lionel Messi's 2026 Inter Miami Contract Compared to Payrolls of Entire MLS Teams (Bleacher Report)",
-     "Major League Soccer 2026 Payrolls (WFMZ.com)"
-    ]
-   },
-   {
-    "tema": "são paulo - fluminense",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-19T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "São Paulo x Fluminense: onde assistir ao vivo e escalações do jogo do Brasileirão (ESPN Brasil)",
-     "Hulk passou pela base do São Paulo; conhece os 15 do quiz do Fluminense? (brasileirao.com.br)"
-    ]
-   },
-   {
-    "tema": "club atlético boca juniors",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T16:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Atlético Mineiro vs. Boca Juniors por la Gran Conquista en Barranquilla (Conmebol)",
-     "Barranquilla espera recaudar $ 60 millones por la final de la Copa Sudamericana 2026 (El Universo)"
-    ]
-   },
-   {
-    "tema": "vitória - bragantino",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-19T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "No Barradão, Red Bull Bragantino é superado pelo Vitória pela 35ª rodada do Brasileirão 2026 (Red Bull Bragantino)",
-     "Vitória relaciona meia argentino Almaraz pela primeira vez na Série A; saiba mais (Bahia Notícias)"
-    ]
-   },
-   {
-    "tema": "vasco da gama - internacional",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-19T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Inter perde para o Vasco e deixa Corinthians fora da zona de rebaixamento (Estadão)",
-     "Veja a festa da torcida em São Januário após a vitória sobre o Internacional (NETVASCO)"
-    ]
-   },
-   {
-    "tema": "alerta roja",
+    "tema": "evin",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T13:40:00-08:00",
+    "desde": "2026-11-19T17:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Suspensión de la jornada laboral en Ecuador: 12 provincias en alerta roja por fuertes lluvias desde el 19 de noviembre (Primicias)",
-     "Fuertes lluvias en Quito dejan árboles caídos y acumulación de agua en varios sectores (Teleamazonas)"
+     "Herkes bu duvarları konuşuyor: Büyükçekmece'deki evden kimler çıktı (Odatv)",
+     "Şair ruhlu kiracı, aşkını duvarlara yazdı (Gazete3)"
     ]
    },
    {
-    "tema": "arsenal - ol lyonnes",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T13:20:00-08:00",
+    "tema": "sudamericana",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T16:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "L'OL Lyonnes remporte le choc face à Arsenal et se qualifie en quarts de finale de Ligue des champions, le Paris FC décroche sa première victoire (franceinfo)",
-     "Ligue des champions (F/J5) : Brand, Dumornay, Hinds... les tops/flops d'Arsenal - OL Lyonnes : Sports - Orange (Sports - Orange)"
+     "Barranquilla espera recaudar $ 60 millones por la final de la Copa Sudamericana 2026 (El Universo)",
+     "Atlético Mineiro vs. Boca Juniors por la Gran Conquista en Barranquilla (Conmebol)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "iowa women's basketball",
+    "tema": "deion sanders",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-19T17:50:00-08:00",
+    "desde": "2026-11-20T02:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Three Keys And A Pick: Hawkeyes Host Montana State In Thursday Night Bout (247Sports)",
-     "Iowa women's basketball vs. Montana State: Live score, updates, highlights (Yahoo Sports)"
+     "Deion Sanders says he receives death threats. Police records reveal the troubling details - The Athletic (The New York Times)",
+     "Deion Sanders receives 'about five' death threats every day as Colorado football coach (Fox News)"
     ]
    },
    {
-    "tema": "emari demercado",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T17:50:00-08:00",
+    "tema": "nc lottery",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Emari Demercado Set to complement Montgomery in Week 11 (Fantasy Footballers Podcast)",
-     "Emari Demercado Takes Over After Woody Marks’ Concussion (Draft Sharks)"
+     "NC Lottery Pick 3 Day, Pick 3 Evening results for Nov. 19, 2026 (Yahoo)",
+     "Cherokee County man wins $442,108 Digital Instant jackpot (NC Education Lottery)"
     ]
    },
    {
-    "tema": "cameron boozer",
+    "tema": "dolar hoje",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Kia Rookie Ladder: Yaxel Lendeborg holds top spot as Cameron Boozer climbs to No. 2 (NBA.com)",
-     "Fantasy Basketball Rookie Report: Tiered rankings for top 1st-year players one month into the 2026-27 NBA season (Yahoo Sports)"
+     "Dólar fecha a R$ 5,93 e tem sexta alta seguida, mesmo após BC vender US$ 1 bilhão; Ibovespa cai (G1)",
+     "Dólar chega a R$ 5,92, mas modera alta após intervenção do Banco Central (UOL Economia)"
     ]
    },
    {
-    "tema": "canucks vs kraken",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Canucks at Kraken projected lineups (NHL.com)",
-     "Canucks vs Kraken Prediction, Picks, NHL Odds for Thursday, November 19 (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "kamari lassiter",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Will Texans CB Kamari Lassiter Play in Week 11 vs. Colts on TNF? (Yahoo Sports)",
-     "Texans CB Kamari Lassiter downgraded to a non-participant Tuesday (NBC Sports)"
-    ]
-   },
-   {
-    "tema": "nate ament",
+    "tema": "new york yankees",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
+    "desde": "2026-11-20T02:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Tom Izzo calls Michigan State's shooting woes an 'all-time low' as coach (ESPN)",
-     "Injury status no excuse, but no small issue in Michigan State's loss to Tennessee (The Detroit News)"
+     "After busy day in office, Cashman hits field to Sleep Out for good cause (MLB.com)",
+     "Yankees’ Brian Cashman Sends Ambiguous Message on Potential Deal (Yahoo Sports)"
     ]
    },
    {
-    "tema": "texas basketball",
+    "tema": "ukraine war",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "For Xi and Putin, the Trump trilateral was a win for a new world order (CNN)",
+     "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on (CNBC)"
+    ]
+   },
+   {
+    "tema": "stock market futures",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Stock Market Today: Anthropic Stock Drops Premarket as Tech Rout Intensifies (WSJ)",
+     "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks (CNBC)"
+    ]
+   },
+   {
+    "tema": "erika eleniak",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Baywatch' star Erika Eleniak says OnlyFans saved her from eviction (USA Today)",
+     "'Baywatch' Star Erika Eleniak Says OnlyFans Saved Her From Eviction (Variety)"
+    ]
+   },
+   {
+    "tema": "google play",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "No. 6 Texas Men's Basketball live game thread: vs Southern Utah (247Sports)",
-     "Newcomer Elyjah Freeman, No. 6 Texas welcome Southern Utah (The Daily News | Texas' Oldest Newspaper)"
+     "Google is forcing Android app developers to properly support foldables (The Verge)",
+     "Google Play wants Android apps to nail foldable basics by April 2027 (9to5Google)"
     ]
    },
    {
-    "tema": "colts owner",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T17:40:00-08:00",
+    "tema": "national hurricane center",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T01:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Colts Owner Carlie Irsay-Gordon Trends on Sideline for TNF (Heavy.com)",
-     "Why can't Richardson beat out struggling Jones as Colts QB1? (ESPN)"
+     "Tropical wind and rainstorm to streak north near US East Coast this weekend into next week (AccuWeather)",
+     "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast (CNN)"
     ]
    },
    {
-    "tema": "carlie irsay-gordon",
+    "tema": "cruise ship",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T17:40:00-08:00",
+    "desde": "2026-11-20T01:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Doyel: Should Carlie Irsay-Gordon hire Bruce Arians, 74, to coach Colts? Better question: Why NOT? (IndyStar)",
-     "Colts Owner Carlie Irsay-Gordon Trends on Sideline for TNF (Heavy.com)"
-    ]
-   },
-   {
-    "tema": "jj watt",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Emmett Johnson’s Rookie Surge Changes Chiefs Backfield Plan (Yahoo Sports)",
-     "Why Chiefs’ Emmett Johnson continues to tune out the noise despite recent success (Kansas City Star)"
+     "148 people sickened by unknown G.I. outbreak aboard Caribbean Princess cruise ship (NBC 6 South Florida)",
+     "Cruise Ship Hit with Contagious Vomiting Bug on Voyage to the Caribbean (People.com)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "fútbol",
+    "tema": "claudio giráldez",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T18:00:00-08:00",
+    "desde": "2026-11-20T02:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A... (Diario AS)",
-     "Mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas (SPORT)"
+     "“Quisimos fichar a Diomande” (Diario AS)",
+     "El intento fallido del Celta por el fichaje de Yan Diomande: \"Madre mía, vaya cañón\" (El Desmarque)"
     ]
    },
    {
-    "tema": "grizzlies - warriors",
+    "tema": "amnistía internacional",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T17:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Game Preview: Warriors at Memphis Grizzlies - 11/19/26 (NBA.com)",
-     "NBA: Golden State Warriors at Memphis Grizzlies (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "noticias",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:30:00-08:00",
+    "desde": "2026-11-20T02:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Isabel Sartorius manda un mensaje de tranquilidad tras dos años en una residencia (Antena 3)",
-     "Las noticias de hoy, jueves 19 de noviembre: El dolor por el estado de Isabel Sartorius, ingresada en una residencia (Lecturas)"
+     "Amnistía Internacional alerta de la “situación de riesgo” que creó el uso del gas lacrimógeno contra una multitud el día de la huelga en Madrid (EL PAÍS)",
+     "Amnistía Internacional documenta 61 casos de uso excesivo de la fuerza por policías en la huelga del 11N (RTVE.es)"
     ]
    },
    {
-    "tema": "belén esteban",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El tenso reencuentro entre Belén Esteban y Jorge Javier en GH VIP 9: \"Vivimos realidades diferentes\" (Diez Minutos ES)",
-     "Jorge Javier Vázquez se rompe con Belén Esteban en GH VIP y desnuda la gran herida de Telecinco: \"Me quedé sin nadie\" (El Mundo)"
-    ]
-   },
-   {
-    "tema": "cuantos capitulos tiene gta 6",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T16:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "GTA 6: Una guía de todas las misiones y capítulos (Red Bull)",
-     "Todos los logros y trofeos de GTA 6 - lista completa en PlayStation 5 y Xbox Series X/S (Eurogamer.es)"
-    ]
-   },
-   {
-    "tema": "juegos",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "GTA 6 es más que un videojuego: incluye una consola con juegos creados por un equipo de Rockstar Games (Vandal)",
-     "Mi primera visita a Vice City ha sido como para no volver en la vida, pero no todo está perdido si Rockstar tomó nota (VidaExtra)"
-    ]
-   },
-   {
-    "tema": "vuelos",
+    "tema": "bryan mbeumo",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T15:50:00-08:00",
+    "desde": "2026-11-20T02:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Andalucía busca en el avión una salida a la crisis ferroviaria: Wizz Air conectará Almería y Jerez con Madrid (La Vanguardia)",
-     "Wizz Air conectará Jerez de la Frontera y Almería con Madrid para atraer a unos 2.000 viajeros semanales a Andalucía (20 Minutos)"
+     "Manchester United star in trouble with Pochettino over his GTA 6 'addiction' (MARCA)",
+     "Man United star Bryan Mbeumo stays up late to play GTA6 (Daily Mail)"
     ]
    },
    {
-    "tema": "tomas gomez",
+    "tema": "alejandro sanz",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T15:50:00-08:00",
+    "desde": "2026-11-20T02:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Tomás Gómez, exsecretario del PSOE en Madrid: «Pedro Sánchez intenta transmitir una falsa euforia. En el PSOE están muy preocupados. Dan por perdidas las elecciones» (ABC)",
-     "El análisis de Tomás Gómez sobre la risa histérica de Sánchez frente a Franganillo: «Si no hubiese cámaras,... (OkDiario)"
+     "Alejandro Sanz arrancará su gira española '¿Y Ahora Qué+?' en Tenerife con un concierto en junio de 2027 (Canarias7)",
+     "Alejandro Sanz anuncia concierto en Zaragoza para 2027: dónde y cuándo comprar las entradas (Heraldo de Aragón)"
     ]
    },
    {
-    "tema": "pipi estrada",
+    "tema": "gonzalo bernardos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gonzalo Bernardos, economista: “Para hacer viable el sistema de pensiones hay que hacer ajustes que a los trab (Diario AS)",
+     "Gonzalo Bernardos y los economistas expertos avisan de lo que llega a España: «En 2029 habrá muchas jubilac... (OkDiario)"
+    ]
+   },
+   {
+    "tema": "esquela",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T15:30:00-08:00",
+    "desde": "2026-11-20T02:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pipi Estrada se despide de 'El Chiringuito' y lanza un mensaje a Belén Esteban antes de entrar en 'GH VIP 9': \"Pesada\" (El Periódico)",
-     "Pipi Estrada da sus últimas notas antes de entrar en ‘GH VIP’: suspenso rotundo a Valentino Rossi (OkDiario)"
+     "Andoni Garitaonandia Aurrekoetxea (El Correo)",
+     "Abel González Justa (Esquelas de La Rioja)"
     ]
    },
    {
-    "tema": "encuestas elecciones generales 2026",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-19T15:30:00-08:00",
+    "tema": "congestión vehicular",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos (El Mundo)",
-     "¿Quién ganará las elecciones generales del 29N? Esto dicen los últimos sondeos y encuestas hoy, 19 de noviembr (Diario AS)"
+     "Accidente de tránsito causa congestión vehicular en la vía a la Costa (El Universo)",
+     "Consejos ante un repunte en el flujo de pasajeros en los muelles Panamericanos (El Nuevo Día)"
+    ]
+   },
+   {
+    "tema": "flota pesquera",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Comunidad abona cerca de un millón de euros a la flota pesquera por las paradas temporales (Cadena SER)",
+     "Luz verde a casi un millón de euros en ayudas para la flota pesquera de la Región de Murcia (COPE)"
+    ]
+   },
+   {
+    "tema": "florentino pérez",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Florentino Pérez: “Las fiestas de Navidad para mí han sido siempre muy familiares. Con mis padres las vivíamos en familia y ahora yo también hago lo mismo. Las paso con mis hijos y con mis nietos” (Lecturas)",
+     "“¿300 millones por Olise? El Bayern no es un club vendedor” (Diario AS)"
+    ]
+   },
+   {
+    "tema": "harry kane",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T01:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kane tiene claro quién será su sucesor en el Balón de Oro (MARCA)",
+     "Harry Kane señala su sucesor en el Balón de Oro: \"Tiene todo lo necesario\" (SPORT)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "grego rossello",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Se viralizó una foto de Grego Rossello en su época de estudiante: “Era bastante malo, no jugué en el First” (Infobae)",
-     "Revelaron que Wanda Nara estuvo con uno de los participantes de MasterChef Celebrity: de quién se trata (Fenix951)"
-    ]
-   },
-   {
-    "tema": "los juegos del hambre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Hunger Games: Why joining the franchise is 'nerve-racking' for new stars (BBC)",
-     "‘The Hunger Games: Sunrise on the Reaping’ review: Prequel shines bright (The Seattle Times)"
-    ]
-   },
-   {
-    "tema": "nfl",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "QB Index leaderboard: Joe Burrow is the easy MVP; Jordan Love is way too inconsistent (The New York Times)",
-     "NFL Week 10: The highest-graded player at every position (The Katy News)"
-    ]
-   },
-   {
-    "tema": "quiniela tucuman",
+    "tema": "saturnino",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T17:50:00-08:00",
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alivio por Saturnino: reapareció el elefante marino tras ser asustado por perros (Diario El Día de La Plata)",
+     "Especialistas creen que Saturnino entró al mar y aún no salió por un proceso natural (Diario La Capital de Mar del Plata)"
+    ]
+   },
+   {
+    "tema": "clima tandil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:30:00-08:00",
     "deporte_probable": false,
     "titulares": []
    },
    {
-    "tema": "tini stoessel",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Rodrigo De Paul confirmó cuándo se casará con Tini Stoessel y compartió un tierno posteo (Ciudad Magazine)",
-     "De Paul confirmó la fecha exacta del casamiento con Tini: el romántico posteo (eldoce)"
-    ]
-   },
-   {
-    "tema": "club atlético talleres",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Reserva: Goleada histórica en Avellaneda (Club Atlético Talleres)",
-     "Torneo Proyección: Talleres aplastó 7-1 a Racing y clasificó a playoffs como líder de la Zona A noviembre 2026 (Canal Showsport)"
-    ]
-   },
-   {
-    "tema": "ganadería",
+    "tema": "rafaela noticias",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T17:40:00-08:00",
+    "desde": "2026-11-20T02:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El gobierno habilitó a seis plataformas para certificar “esquemas de diferenciación agroindustriales”, pero solo c (Bichos de Campo)",
-     "Productos libres de deforestación: habilitan nuevas plataformas (Periódico MOTIVAR)"
+     "Clima en El Trebol hoy: cuál es el pronóstico del tiempo para el 19 de noviembre de 2026 (La Nación)",
+     "Mañana a puro sol con algunas nubes en la ciudad de Rafaela: ¿cómo seguirá el resto del día? (Radio Rafaela)"
     ]
    },
    {
-    "tema": "leandro paredes",
+    "tema": "gran premio de las vegas",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Franco Colapinto, metido entre los diez en el viernes de Las Vegas (ESPN Argentina)",
+     "Cómo le fue a Franco Colapinto en la segunda práctica del GP de Las Vegas :: Olé - ole.com.ar (Olé)"
+    ]
+   },
+   {
+    "tema": "dia de la soberania nacional",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Efemérides de hoy: qué pasó un 20 de noviembre (Página|12)",
+     "El día que la Argentina frenó a Inglaterra y Francia con tres cadenas cruzadas en el Paraná: la hazaña de la Vuelta de Obligado (Clarín)"
+    ]
+   },
+   {
+    "tema": "patrick stewart",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Patrick Stewart's Cause of Death Revealed (TMZ)",
+     "The Star Trek and X-Men actor, known as Captain Picard and Professor X, died at his Los Angeles home (Facebook)"
+    ]
+   },
+   {
+    "tema": "tito speranza",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Sin querer, le saqué lo que él más quería”: Tito Speranza recuerda su historia con Ricardo Fort y cuenta su presente lejos de la tele (Infobae)"
+    ]
+   },
+   {
+    "tema": "allanamiento",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T17:20:00-08:00",
+    "desde": "2026-11-20T01:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Leandro Paredes comienza una nueva carrera: su profesión a futuro (Página|12)",
-     "Anuncio oficial: Paredes empieza a preparar su futuro como entrenador (Olé)"
+     "Secuestraron más de un kilo de marihuana en un allanamiento en Virasoro (Diario Época Corrientes)",
+     "Droga en Corrientes: allanamiento y secuestro de estupefacientes y armas en el interior (Corrientes Hoy)"
     ]
    },
    {
-    "tema": "las vegas",
+    "tema": "mastercard",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-19T17:20:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-20T01:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "F1 practice LIVE: Las Vegas Grand Prix 2026 times, results & radio (BBC)",
-     "CIRCUIT GUIDE: Everything you need to know about the Las Vegas Strip Circuit (Formula 1)"
+     "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers (WSJ)",
+     "Cyberattack may have exposed Chase Bank and Mastercard customer data (The Washington Post)"
     ]
    },
    {
-    "tema": "cnu",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T17:20:00-08:00",
+    "tema": "masterchef",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T00:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Concurso INSS: presidente prioriza preencher 2 mil vagas (Estratégia Concursos)",
-     "CNU 2025: governo republica edital com novas listas de espera (diariodigital.com.br)"
+     "El comentario sin filtro de Lizy Tagliani en MasterChef que dejó a Wanda Nara sin palabras (Monte Caseros Online)",
+     "“No hace falta”: el filoso comentario de Lizy Tagliani que descolocó a Wanda Nara en MasterChef Celebrity (La 100)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "daniel jones",
+    "tema": "la granja vip",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-19T18:00:00-08:00",
+    "desde": "2026-11-20T02:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Why can't Richardson beat out struggling Jones as Colts QB1? (ESPN)",
-     "Will Daniel Jones remain the Colts starting quarterback? Here's what Shane Steichen said (IndyStar)"
+     "Exigen a TV Azteca frenar actividades que pongan en riesgo a animales de 'La Granja VIP' (La Jornada)",
+     "\"La Granja VIP\" enfrenta señalamientos por presunto maltrato animal; autoridades exhortan a TV Azteca a garantizar su bienestar (El Universal)"
     ]
    },
    {
-    "tema": "cam spencer",
+    "tema": "denuncia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SSC atiende denuncia de transporte publico que obstaculizaba vía pública. (Excélsior)",
+     "Denuncian al IMSS por entregar sin órganos el cuerpo de una joven que murió en el parto en México (Telemundo)"
+    ]
+   },
+   {
+    "tema": "supermercado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T00:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Del laboratorio al supermercado: Especialista IBERO revela desafío de producir alimentos innovadores a gran escala (Prensa Ibero)"
+    ]
+   },
+   {
+    "tema": "posiciones de seattle sounders contra real salt lake",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-20T00:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "SEAvRSL 101 Preview: All you need to know when the Sounders host Real Salt Lake in the 2026 Audi MLS Cup Playoffs Wildcard Round, pres. by Ticketmaster (Seattle Sounders FC)",
+     "Sounders bounced from MLS playoffs: 'This team wanted more' (The Seattle Times)"
+    ]
+   },
+   {
+    "tema": "al nassr",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T23:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Al-Ahli star recovers from the Saudi national team curse before the Clasico after a month and a half (Goal.com)",
+     "Al-Nassr can go top with victory over Al-Ahli — The National (UA.NEWS)"
+    ]
+   },
+   {
+    "tema": "mastercard",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T22:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Reportan Visa y Mastercard filtración de datos de clientes (Reforma)",
+     "Chase, Visa y Mastercard reportan posible filtración de datos por ciberataques (Univision)"
+    ]
+   },
+   {
+    "tema": "modalidad 40",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-19T21:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Pueden quitarte la pensión que ya estabas pagando? Académico IBERO advierte que llevar a la ley el recorte a la Modalidad 40 sería inconstitucional (Prensa Ibero)",
+     "Zoé Robledo, titular del IMSS, explica en el Senado situación de la modalidad 40 (La Jornada)"
+    ]
+   },
+   {
+    "tema": "cuantos capitulos tiene gta 6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T21:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6: Una guía de todas las misiones y capítulos (Red Bull)",
+     "¿Cuánto tardarás en completar GTA 6? Éstas HORAS de juego que necesitarás y cuántas misiones tendrá su histori (Milenio)"
+    ]
+   },
+   {
+    "tema": "gasolina",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T21:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Menos gasolina del extranjero: México busca que solo 12% de sus combustibles sean importados en 2030 (El Financiero)",
+     "México busca que solo 12% de los combustibles que consume sea importado para 2030 (EL CEO)"
+    ]
+   },
+   {
+    "tema": "hunger games",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-19T18:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Western Notes: Grizzlies, Jazz, Kyrie, Suns, Williams (Hoops Rumors)",
-     "Cavaliers Host Grizzlies in Cleveland NBA Matchup (Limapagi)"
-    ]
-   },
-   {
-    "tema": "cj stroud",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T18:00:00-08:00",
+    "desde": "2026-11-19T21:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Indianapolis Colts wide receiver Quez Watkins’ first catch as a Colt results in 26-yard gain down the right sideline (NFL.com)",
-     "Logan Hall engulfs Seth McGowan in backfield for 3-yard loss (Houston Texans)"
-    ]
-   },
-   {
-    "tema": "club de fútbol cruz azul",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Así trabajará Chivas para buscar el liderato en la última jornada del AP26 (Chivas)",
-     "Chivas vs. Cruz Azul, ¿Cómo y dónde ver el partido que podría definir al líder de la Liga MX? | Apertura 2026 (Telemundo)"
-    ]
-   },
-   {
-    "tema": "fiona",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Cincinnati Zoo hopes a little shake will help Fiona the hippo pass a swallowed hat (AP News)",
-     "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo (CNN)"
-    ]
-   },
-   {
-    "tema": "ramón ramírez",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "“Nunca hubiera querido jugar en América”: Ramón Ramírez recuerda la presión para disputar lesionado el Clásico (Récord)",
-     "Estrella de Selección Mexicana admite que fue un gran error jugar en América (Juanfutbol)"
-    ]
-   },
-   {
-    "tema": "niko bellic gta 6",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "‘GTA VI’ finally reveals the actors, voices and familiar names behind Vice City (AP News)",
-     "The 'GTA 6' voice actor for Lucia has finally been revealed. What to know about Manni Perez and the rest of the cast (Yahoo)"
-    ]
-   },
-   {
-    "tema": "universidad nacional autónoma de méxico",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tras denuncias por gastos opacos, anuncian relevos en Radio UNAM, TV UNAM y otros (Proceso)",
-     "Anuncia Cultura UNAM relevos; sale Benito Taibo (Reforma)"
-    ]
-   },
-   {
-    "tema": "seth mcgowan",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-19T17:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Colts Week 11 preview: Jonathan Taylor, Seth McGowan running back duo gets national spotlight on Thursday Night Football (Colts.com)",
-     "Week 11 TNF Fantasy Football Start 'Em, Sit 'Em: Seth McGowan or Emari Demercado? (Sports Illustrated)"
-    ]
-   },
-   {
-    "tema": "isaac del toro",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-19T17:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Faltó a trabajar para hacer bici, terminó rodando y tomando café con Isaac del Toro (SinEmbargo MX)",
-     "VIDEO: Isaac del Toro es captado rodando en el Desierto de los Leones (Excélsior)"
+     "New Hunger Games cast say joining the franchise is 'nerve-racking' (BBC)",
+     "Everything You Need to Know Before Seeing the New ‘Hunger Games’ Prequel (The New York Times)"
     ]
    }
   ]

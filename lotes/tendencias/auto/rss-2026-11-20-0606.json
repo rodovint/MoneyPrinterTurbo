@@ -1,0 +1,561 @@
+{
+ "fecha": "2026-11-20T06:06-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "ecuador",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Secretario de Guerra Pete Hegseth reafirma apoyo de EE.UU. a Ecuador para combatir narcoterrorismo (DW.com)",
+     "José Julio Neira destaca los avances de la alianza estratégica de seguridad con Estados Unidos tras reunión entre Daniel Noboa y Pete Hegseth (El Universo)"
+    ]
+   },
+   {
+    "tema": "diésel",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T20:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ecuador sufre racionamiento de diésel por crisis eléctrica: Distribuidores al límite, pero sin escasez (Diario La Hora)",
+     "Distribuidores denuncian recortes de hasta el 30% en despachos de diésel (Confirmado.net)"
+    ]
+   },
+   {
+    "tema": "timberwolves - knicks",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T19:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Karl-Anthony Towns extends double-double streak in ‘bittersweet’ return to Minnesota (The New York Times)",
+     "Knicks Face Timberwolves in Minneapolis NBA Showdown (cwibc.co.id)"
+    ]
+   },
+   {
+    "tema": "fluminense vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "São Paulo vs Fluminense: Brazilian Serie A stats & head-to-head (BBC)",
+     "Martinelli hails rapid return: “Doing all we can to keep Thiago Silva” (OneFootball)"
+    ]
+   },
+   {
+    "tema": "grizzlies - warriors",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Game Recap: Grizzlies 126, Warriors 98 (Nov. 19) (NBA.com)",
+     "Winners and losers as Cedric Coward, Cam Boozer, Jaylen Wells continue consistent play (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "los lobos",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seis detenidos en operativo contra presunta célula de Los Lobos en Latacunga y Salcedo (La Gaceta)",
+     "Cotopaxi: seis presuntos integrantes de Los Lobos cayeron en operativo policial (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "x",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-19T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best? (Digital Foundry)",
+     "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination (Wccftech)"
+    ]
+   },
+   {
+    "tema": "orlando city - cincinnati",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: MLS: MLS Cup Playoffs Wild Card-FC Cincinnati at Orlando City SC (Reuters Connect)",
+     "Evander rises to the occasion in FC Cincinnati's Wild Card win (MLSsoccer.com)"
+    ]
+   },
+   {
+    "tema": "evin",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Herkes bu duvarları konuşuyor: Büyükçekmece'deki evden kimler çıktı (Odatv)",
+     "Şair ruhlu kiracı, aşkını duvarlara yazdı (Gazete3)"
+    ]
+   },
+   {
+    "tema": "sudamericana",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Barranquilla espera recaudar $ 60 millones por la final de la Copa Sudamericana 2026 (El Universo)",
+     "Atlético Mineiro vs. Boca Juniors por la Gran Conquista en Barranquilla (Conmebol)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "deion sanders",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Deion Sanders says he receives death threats. Police records reveal the troubling details - The Athletic (The New York Times)",
+     "Deion Sanders receives 'about five' death threats every day as Colorado football coach (Fox News)"
+    ]
+   },
+   {
+    "tema": "nc lottery",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "NC Lottery Pick 3 Day, Pick 3 Evening results for Nov. 19, 2026 (Yahoo)",
+     "Cherokee County man wins $442,108 Digital Instant jackpot (NC Education Lottery)"
+    ]
+   },
+   {
+    "tema": "dolar hoje",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dólar fecha a R$ 5,93 e tem sexta alta seguida, mesmo após BC vender US$ 1 bilhão; Ibovespa cai (G1)",
+     "Dólar chega a R$ 5,92, mas modera alta após intervenção do Banco Central (UOL Economia)"
+    ]
+   },
+   {
+    "tema": "new york yankees",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "After busy day in office, Cashman hits field to Sleep Out for good cause (MLB.com)",
+     "Yankees’ Brian Cashman Sends Ambiguous Message on Potential Deal (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "ukraine war",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "For Xi and Putin, the Trump trilateral was a win for a new world order (CNN)",
+     "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on (CNBC)"
+    ]
+   },
+   {
+    "tema": "stock market futures",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Stock Market Today: Anthropic Stock Drops Premarket as Tech Rout Intensifies (WSJ)",
+     "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks (CNBC)"
+    ]
+   },
+   {
+    "tema": "erika eleniak",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Baywatch' star Erika Eleniak says OnlyFans saved her from eviction (USA Today)",
+     "'Baywatch' Star Erika Eleniak Says OnlyFans Saved Her From Eviction (Variety)"
+    ]
+   },
+   {
+    "tema": "google play",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Google is forcing Android app developers to properly support foldables (The Verge)",
+     "Google Play wants Android apps to nail foldable basics by April 2027 (9to5Google)"
+    ]
+   },
+   {
+    "tema": "national hurricane center",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T01:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tropical wind and rainstorm to streak north near US East Coast this weekend into next week (AccuWeather)",
+     "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast (CNN)"
+    ]
+   },
+   {
+    "tema": "cruise ship",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "148 people sickened by unknown G.I. outbreak aboard Caribbean Princess cruise ship (NBC 6 South Florida)",
+     "Cruise Ship Hit with Contagious Vomiting Bug on Voyage to the Caribbean (People.com)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "claudio giráldez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "“Quisimos fichar a Diomande” (Diario AS)",
+     "El intento fallido del Celta por el fichaje de Yan Diomande: \"Madre mía, vaya cañón\" (El Desmarque)"
+    ]
+   },
+   {
+    "tema": "amnistía internacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Amnistía Internacional alerta de la “situación de riesgo” que creó el uso del gas lacrimógeno contra una multitud el día de la huelga en Madrid (EL PAÍS)",
+     "Amnistía Internacional documenta 61 casos de uso excesivo de la fuerza por policías en la huelga del 11N (RTVE.es)"
+    ]
+   },
+   {
+    "tema": "bryan mbeumo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Manchester United star in trouble with Pochettino over his GTA 6 'addiction' (MARCA)",
+     "Man United star Bryan Mbeumo stays up late to play GTA6 (Daily Mail)"
+    ]
+   },
+   {
+    "tema": "alejandro sanz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alejandro Sanz arrancará su gira española '¿Y Ahora Qué+?' en Tenerife con un concierto en junio de 2027 (Canarias7)",
+     "Alejandro Sanz anuncia concierto en Zaragoza para 2027: dónde y cuándo comprar las entradas (Heraldo de Aragón)"
+    ]
+   },
+   {
+    "tema": "gonzalo bernardos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gonzalo Bernardos, economista: “Para hacer viable el sistema de pensiones hay que hacer ajustes que a los trab (Diario AS)",
+     "Gonzalo Bernardos y los economistas expertos avisan de lo que llega a España: «En 2029 habrá muchas jubilac... (OkDiario)"
+    ]
+   },
+   {
+    "tema": "esquela",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Andoni Garitaonandia Aurrekoetxea (El Correo)",
+     "Abel González Justa (Esquelas de La Rioja)"
+    ]
+   },
+   {
+    "tema": "congestión vehicular",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Accidente de tránsito causa congestión vehicular en la vía a la Costa (El Universo)",
+     "Consejos ante un repunte en el flujo de pasajeros en los muelles Panamericanos (El Nuevo Día)"
+    ]
+   },
+   {
+    "tema": "flota pesquera",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Comunidad abona cerca de un millón de euros a la flota pesquera por las paradas temporales (Cadena SER)",
+     "Luz verde a casi un millón de euros en ayudas para la flota pesquera de la Región de Murcia (COPE)"
+    ]
+   },
+   {
+    "tema": "florentino pérez",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Florentino Pérez: “Las fiestas de Navidad para mí han sido siempre muy familiares. Con mis padres las vivíamos en familia y ahora yo también hago lo mismo. Las paso con mis hijos y con mis nietos” (Lecturas)",
+     "“¿300 millones por Olise? El Bayern no es un club vendedor” (Diario AS)"
+    ]
+   },
+   {
+    "tema": "harry kane",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-20T01:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kane tiene claro quién será su sucesor en el Balón de Oro (MARCA)",
+     "Harry Kane señala su sucesor en el Balón de Oro: \"Tiene todo lo necesario\" (SPORT)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "saturnino",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alivio por Saturnino: reapareció el elefante marino tras ser asustado por perros (Diario El Día de La Plata)",
+     "Especialistas creen que Saturnino entró al mar y aún no salió por un proceso natural (Diario La Capital de Mar del Plata)"
+    ]
+   },
+   {
+    "tema": "clima tandil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "rafaela noticias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en El Trebol hoy: cuál es el pronóstico del tiempo para el 19 de noviembre de 2026 (La Nación)",
+     "Mañana a puro sol con algunas nubes en la ciudad de Rafaela: ¿cómo seguirá el resto del día? (Radio Rafaela)"
+    ]
+   },
+   {
+    "tema": "gran premio de las vegas",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Franco Colapinto, metido entre los diez en el viernes de Las Vegas (ESPN Argentina)",
+     "Cómo le fue a Franco Colapinto en la segunda práctica del GP de Las Vegas :: Olé - ole.com.ar (Olé)"
+    ]
+   },
+   {
+    "tema": "dia de la soberania nacional",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Efemérides de hoy: qué pasó un 20 de noviembre (Página|12)",
+     "El día que la Argentina frenó a Inglaterra y Francia con tres cadenas cruzadas en el Paraná: la hazaña de la Vuelta de Obligado (Clarín)"
+    ]
+   },
+   {
+    "tema": "patrick stewart",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Patrick Stewart's Cause of Death Revealed (TMZ)",
+     "The Star Trek and X-Men actor, known as Captain Picard and Professor X, died at his Los Angeles home (Facebook)"
+    ]
+   },
+   {
+    "tema": "tito speranza",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-20T01:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Sin querer, le saqué lo que él más quería”: Tito Speranza recuerda su historia con Ricardo Fort y cuenta su presente lejos de la tele (Infobae)"
+    ]
+   },
+   {
+    "tema": "allanamiento",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T01:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Secuestraron más de un kilo de marihuana en un allanamiento en Virasoro (Diario Época Corrientes)",
+     "Droga en Corrientes: allanamiento y secuestro de estupefacientes y armas en el interior (Corrientes Hoy)"
+    ]
+   },
+   {
+    "tema": "mastercard",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T01:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers (WSJ)",
+     "Cyberattack may have exposed Chase Bank and Mastercard customer data (The Washington Post)"
+    ]
+   },
+   {
+    "tema": "masterchef",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-20T00:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El comentario sin filtro de Lizy Tagliani en MasterChef que dejó a Wanda Nara sin palabras (Monte Caseros Online)",
+     "“No hace falta”: el filoso comentario de Lizy Tagliani que descolocó a Wanda Nara en MasterChef Celebrity (La 100)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "la granja vip",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Exigen a TV Azteca frenar actividades que pongan en riesgo a animales de 'La Granja VIP' (La Jornada)",
+     "\"La Granja VIP\" enfrenta señalamientos por presunto maltrato animal; autoridades exhortan a TV Azteca a garantizar su bienestar (El Universal)"
+    ]
+   },
+   {
+    "tema": "denuncia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-20T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SSC atiende denuncia de transporte publico que obstaculizaba vía pública. (Excélsior)",
+     "Denuncian al IMSS por entregar sin órganos el cuerpo de una joven que murió en el parto en México (Telemundo)"
+    ]
+   },
+   {
+    "tema": "supermercado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-20T00:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Del laboratorio al supermercado: Especialista IBERO revela desafío de producir alimentos innovadores a gran escala (Prensa Ibero)"
+    ]
+   },
+   {
+    "tema": "posiciones de seattle sounders contra real salt lake",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-20T00:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "SEAvRSL 101 Preview: All you need to know when the Sounders host Real Salt Lake in the 2026 Audi MLS Cup Playoffs Wildcard Round, pres. by Ticketmaster (Seattle Sounders FC)",
+     "Sounders bounced from MLS playoffs: 'This team wanted more' (The Seattle Times)"
+    ]
+   },
+   {
+    "tema": "al nassr",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T23:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Al-Ahli star recovers from the Saudi national team curse before the Clasico after a month and a half (Goal.com)",
+     "Al-Nassr can go top with victory over Al-Ahli — The National (UA.NEWS)"
+    ]
+   },
+   {
+    "tema": "mastercard",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-19T22:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Reportan Visa y Mastercard filtración de datos de clientes (Reforma)",
+     "Chase, Visa y Mastercard reportan posible filtración de datos por ciberataques (Univision)"
+    ]
+   },
+   {
+    "tema": "modalidad 40",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-19T21:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Pueden quitarte la pensión que ya estabas pagando? Académico IBERO advierte que llevar a la ley el recorte a la Modalidad 40 sería inconstitucional (Prensa Ibero)",
+     "Zoé Robledo, titular del IMSS, explica en el Senado situación de la modalidad 40 (La Jornada)"
+    ]
+   },
+   {
+    "tema": "cuantos capitulos tiene gta 6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T21:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6: Una guía de todas las misiones y capítulos (Red Bull)",
+     "¿Cuánto tardarás en completar GTA 6? Éstas HORAS de juego que necesitarás y cuántas misiones tendrá su histori (Milenio)"
+    ]
+   },
+   {
+    "tema": "gasolina",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-19T21:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Menos gasolina del extranjero: México busca que solo 12% de sus combustibles sean importados en 2030 (El Financiero)",
+     "México busca que solo 12% de los combustibles que consume sea importado para 2030 (EL CEO)"
+    ]
+   },
+   {
+    "tema": "hunger games",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-19T21:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "New Hunger Games cast say joining the franchise is 'nerve-racking' (BBC)",
+     "Everything You Need to Know Before Seeing the New ‘Hunger Games’ Prequel (The New York Times)"
+    ]
+   }
+  ]
+ }
+}
