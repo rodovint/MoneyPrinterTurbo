@@ -1,0 +1,8 @@
+{"fecha": "2026-11-21T16:50-05:00", "nota": "Pedido de Mui. La Action no corría desde 12:57; la lancé a mano (rss 16:47). Comparado con rss 12:57.", "temas": [
+ {"tema": "U. Católica vs. Barcelona SC (fecha 7, hexagonal final LigaPro)", "señales": ["nuevo EC 10000+", "ES 200+", "AR 200+"], "volumen_EC": "10000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Gonzalo Plata (Flamengo gana y se acerca al título)", "señales": ["nuevo EC 100+ (flamengo vs)"], "volumen_EC": "100+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Alexander Zverev / top 10 ATP 2026 cerrado", "señales": ["nuevo EC 500+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Sevilla vs. Real Betis", "señales": ["EC 1000+ a 500+"], "volumen_EC": "500+", "volumen_anterior": "1000+", "estado": "EN DECLIVE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Moisés Caicedo (vuelve a lesionarse con Chelsea, titular El Comercio)", "señales": ["EC 500+ a fuera del top", "explore 12:57 explosiva, El Oro 58"], "volumen_EC": null, "volumen_anterior": "500+", "estado": "EN DECLIVE", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Newcastle - Arsenal", "señales": ["EC 5000+ a fuera del top"], "volumen_EC": null, "volumen_anterior": "5000+", "estado": "EN DECLIVE", "brecha": "SINCRONIZADA", "avisado": false}
+]}
