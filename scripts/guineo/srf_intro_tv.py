@@ -96,14 +96,14 @@ def grafica(k, t):
         z = 1 + 0.04 * t
         im = im.resize((int(W * z), int(H * z))).crop((int(W * (z - 1) / 2), int(H * (z - 1) / 2), int(W * (z - 1) / 2) + W, int(H * (z - 1) / 2) + H))
         return np.asarray(im)
+    # gráfica propia: logo de Guineo sobre negro con la franja "GUINEO TV"
     im = Image.new("RGB", (W, H), NEGRO)
     d = ImageDraw.Draw(im)
-    for i, (s_, c) in enumerate([("VILLANO", ROJO), ("WINNER", (222, 178, 52)), ("CABALLERO", (250, 242, 220))]):
-        ee = base.ease_out((t - i * 0.08) / 0.2)
-        cy = H * (0.27 + i * 0.23)
-        x = W / 2 + (1 - ee) * W * (1 if i % 2 else -1)
-        d.text((x, cy), s_, font=NEGI(170), fill=c, anchor="mm")
-    d.text((W / 2, H * 0.92), "DE LA SEMANA", font=OSD(48), fill=BLANCO, anchor="mm")
+    e = base.ease_out(t / 0.25)
+    tam = int(420 * (0.8 + 0.2 * e))
+    lg = base.LOGO.resize((tam, tam))
+    im.paste(lg, (W // 2 - tam // 2, H // 2 - tam // 2 - 60), lg)
+    d.text((W / 2, H * 0.80), "GUINEO TV", font=NEGI(110), fill=(222, 178, 52), anchor="mm")
     return np.asarray(im)
 
 
@@ -132,8 +132,6 @@ def titulo(t):
         k = 1 - abs(t - 0.35) / 0.1
         im = Image.blend(im, Image.new("RGB", (W, H), CREMA), max(0, k) * 0.55)
         d = ImageDraw.Draw(im)
-    if t > 0.8:
-        d.text((W / 2, H * 0.93), "VILLANO  ·  WINNER  ·  CABALLERO", font=NEG(44), fill=ORO, anchor="mm")
     if t > 1.1:
         d.text((90, 70), "▶ PLAY", font=OSD(56), fill=VERDE, anchor="la")
     if t > 3.3:  # parpadeo de salida
