@@ -4,49 +4,103 @@
     "etiqueta": "HEXAGONAL FINAL",
     "color": "#FFD100",
     "audio": "audio/NN",
-    "franja": ["CATÓLICA 0-1 BARCELONA SC", "GOL: PERLAZA", "BSC: 52 PUNTOS", "MIÉ 25/11: BSC VS. IDV EN CASA"],
+    "franja": [
+      "CATÓLICA 0-1 BARCELONA SC",
+      "AUTOGOL DE ANANGONÓ 55'",
+      "VAR ANULÓ GOL DE CATÓLICA AL FINAL",
+      "MIÉ 25/11: BSC VS. IDV EN CASA"
+    ],
     "escenas": [
       {
         "texto": "¡Barcelona ganó uno a cero en Quito y el ídolo está más vivo que nunca!",
-        "foto": "img/[FOTO-PROTAGONISTA]",
+        "foto": "img/alerta-2026-11-21/foto-4-dt-bsc-entrenamiento.jpg",
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "titular", "texto": "¡EL ÍDOLO ESTÁ VIVO!", "sobre": "CATÓLICA 0-1 BARCELONA SC"},
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡EL ÍDOLO ESTÁ VIVO!",
+          "sobre": "CATÓLICA 0-1 BARCELONA SC"
+        },
         "transicion": "flash",
         "hinchada": true
       },
       {
-        "texto": "Perlaza abrió el marcador y el equipo de Pablo Trobbiani se trajo los tres puntos en la fecha siete del hexagonal final.",
+        "texto": "Un autogol de Anangonó, al minuto cincuenta y cinco, le dio el triunfo al equipo de Pablo Trobbiani.",
         "voz": "andrea",
         "destello": true,
-        "grafico": {"tipo": "marcador", "equipos": [
-          {"nombre": "U. CATÓLICA", "color": "#0B4EA2", "goles": 0, "escudo": "img/escudos/catolica.png"},
-          {"nombre": "BARCELONA SC", "color": "#FFD100", "goles": 1, "escudo": "img/escudos/barcelona.png"}], "pie": "HEXAGONAL FINAL · FECHA 7"}
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "U. CATÓLICA",
+              "color": "#0B4EA2",
+              "goles": 0,
+              "escudo": "img/escudos/catolica.png"
+            },
+            {
+              "nombre": "BARCELONA SC",
+              "color": "#FFD100",
+              "goles": 1,
+              "escudo": "img/escudos/barcelona.png"
+            }
+          ],
+          "pie": "AUTOGOL DE ANANGONÓ 55' · HEXAGONAL FINAL F7"
+        }
       },
       {
-        "texto": "Con este triunfo, Barcelona llega a cincuenta y dos puntos, a solo dos de Universidad Católica.",
+        "texto": "Y al final, el VAR le anuló un gol a Católica para sellar tres puntos que valen oro.",
         "voz": "andrea",
-        "grafico": {"tipo": "cifra", "numero": 52, "texto": "PUNTOS DE BARCELONA", "sobre": "CATÓLICA: 54"}
+        "destello": true,
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡GOL ANULADO POR EL VAR!",
+          "sobre": "LOS TRES PUNTOS SON AMARILLOS"
+        }
       },
       {
-        "texto": "Y lo mejor viene ahora: el miércoles, en casa, juega el partido pendiente contra Independiente del Valle.",
+        "texto": "Barcelona llega a cincuenta y dos puntos, a solo dos de Universidad Católica, y el miércoles, en casa, recibe a Independiente del Valle.",
         "voz": "andrea",
-        "grafico": {"tipo": "partido", "equipos": [
-          {"nombre": "BARCELONA SC", "color": "#FFD100", "escudo": "img/escudos/barcelona.png"},
-          {"nombre": "INDEPENDIENTE DEL VALLE", "color": "#1A1A1A", "escudo": "img/escudos/idv.png"}], "hora": "MIÉ 25/11", "pie": "PARTIDO PENDIENTE · EN CASA"}
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {
+              "nombre": "BARCELONA SC",
+              "color": "#FFD100",
+              "escudo": "img/escudos/barcelona.png"
+            },
+            {
+              "nombre": "INDEPENDIENTE DEL VALLE",
+              "color": "#1A1A1A",
+              "escudo": "img/escudos/idv.png"
+            }
+          ],
+          "hora": "MIÉ 25/11",
+          "pie": "BSC 52 PTS · CATÓLICA 54"
+        }
       },
       {
         "texto": "¡Si gana, el ídolo se mete con todo en la pelea por la Libertadores dos mil veintisiete!",
-        "grafico": {"tipo": "titular", "texto": "¡RUMBO A LA LIBERTADORES 2027!", "sobre": "MIÉRCOLES EN CASA"},
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡RUMBO A LA LIBERTADORES 2027!",
+          "sobre": "MIÉRCOLES EN CASA"
+        },
         "hinchada": true
       },
       {
         "texto": "¿Hincha torero, le ganamos a Independiente y nos metemos a la Libertadores?",
-        "grafico": {"tipo": "titular", "texto": "¿NOS METEMOS?", "sobre": "TU OPINIÓN"},
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿NOS METEMOS?",
+          "sobre": "TU OPINIÓN"
+        },
         "suspenso": true
       },
       {
         "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        }
       }
     ]
   }
