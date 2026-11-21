@@ -64,3 +64,7 @@ Actúa como director creativo, guionista y editor audiovisual de fútbol digital
 ## Entrega
 - mp4 16:9, portada (cara/acción + texto grande, sin pantallas solo de texto), y textos de YouTube: título con los nombres más buscados de la semana, descripción con resumen, **capítulos con minuto** (00:00 Apertura, …), fuentes, créditos y hashtags.
 - 2–3 cortes verticales (30–45 s) para Instagram y TikTok (el más fuerte suele ser el Caballero o el Villano), con sus textos.
+
+## Identidad visual del SRF (corrección de Mui, 21/11)
+- El SRF NO usa el look de los cortos de Guineo (amarillo + Anton). Su estilo es de tele vieja: fondo negro, blanco / rojo (232,32,42) / cian (25,195,230), letra Inter Display Black (itálica en títulos) y texto OSD monoespaciado verde ("CH 03", "▶ PLAY").
+- Señal de ajuste siempre con el logo de Guineo al centro. La intro es un zapping veloz: señal de ajuste → meme → estática → placa propia → meme… y al final la tele se apaga y aparece el título (scripts/guineo/srf_intro_tv.py).
