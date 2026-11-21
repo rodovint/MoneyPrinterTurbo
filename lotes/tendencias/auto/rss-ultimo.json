@@ -1,12 +1,23 @@
 {
- "fecha": "2026-11-21T12:54-05:00",
+ "fecha": "2026-11-21T12:57-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
+    "tema": "aleksandre topuria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion (Bloody Elbow)",
+     "Aleksandre Topuria vs Santiago Luna Prediction | UFC (ATS.io)"
+    ]
+   },
+   {
     "tema": "sevilla - real betis",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-21T08:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -16,13 +27,13 @@
    },
    {
     "tema": "psg",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-21T08:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG (L'Équipe)",
-     "Grosse inquiétude pour Désiré Doué, sorti sur civière (SO FOOT.com)"
+     "Grosse inquiétude pour Désiré Doué, sorti sur civière (SO FOOT.com)",
+     "EN DIRECT - Nice-PSG : les Parisiens renversent des Aiglons sonnés en moins d’une minute (Le Figaro)"
     ]
    },
    {
@@ -43,8 +54,8 @@
     "desde": "2026-11-21T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Newcastle vs Arsenal LIVE! Premier League match updates, free highlights, news and score (Sky Sports)",
-     "Licensable picture: Premier League - Newcastle United v Arsenal (Reuters Connect)"
+     "Match Summary (BBC)",
+     "Newcastle vs Arsenal: Predicted starting 11 as Gunners head to St James’ Park (Pain in the Arsenal)"
     ]
    },
    {
@@ -54,8 +65,8 @@
     "desde": "2026-11-21T08:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Gilardino ha scelto Tourè in avanti con Elphege - Le videoformazioni di Sandro Piovani (Gazzetta di Parma)",
-     "Perché Soulé, Wesley e Ndicka non giocano Parma-Roma: chi è convocato e in panchina e chi no (Goal.com)"
+     "Parma-Roma: Formazioni ufficiali e Cronaca in diretta (Virgilio)",
+     "Gilardino ha scelto Tourè in avanti con Elphege - Le videoformazioni di Sandro Piovani (Gazzetta di Parma)"
     ]
    },
    {
@@ -74,10 +85,10 @@
     "volumen": "100+",
     "volumen_min": 100,
     "desde": "2026-11-21T07:50:00-08:00",
-    "deporte_probable": true,
+    "deporte_probable": false,
     "titulares": [
      "Union verliert gegen Leipzig (1. FC Union Berlin)",
-     "Bundesliga am Samstag - Union geht trotz Aebischer-Tor unter – Dortmund neuer Leader (SRF)"
+     "(k+) Mintzlaffs Worte sind auch heute noch gültig (Kicker)"
     ]
    },
    {
@@ -100,17 +111,6 @@
     "titulares": [
      "Alavés vs Deportivo de A Coruña: Spanish La Liga stats & head-to-head (BBC)",
      "November 21, 2026: Real Madrid vs Celta Vigo: First Half Winner Soccer Prediction Market (Robinhood)"
-    ]
-   },
-   {
-    "tema": "niza - psg",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T07:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'Players are liars' - Luis Enrique delivers classic quip ahead of PSG clash with Nice as Ousmane Dembele returns to boost squad (Goal.com)",
-     "Ligue 1 - OGC Nice v Paris St Germain (Reuters Connect)"
     ]
    }
   ],
@@ -167,7 +167,7 @@
     "deporte_probable": false,
     "titulares": [
      "D’Amico on Kone’s future: “It’s unlikely he’ll leave in January.” (Yahoo Sports)",
-     "Man United and Chelsea to renew interest in Kone (RomaPress)"
+     "Roma concede 4 times more without Kone on the pitch (RomaPress)"
     ]
    },
    {
@@ -451,14 +451,25 @@
   ],
   "MX": [
    {
-    "tema": "roma fc",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-21T09:40:00-08:00",
+    "tema": "betis vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "UAB 81-76 George Washington (Nov 20, 2026) Final Score (ESPN)",
-     "Sevilla vs. Betis (Nov 21, 2026) Team Stats (ESPN)"
+     "¿Quién es José María Sánchez Martínez? Árbitro del Sevilla vs Real Betis de la jornada 13 de LALIGA (DAZN)",
+     "José María Sánchez Martínez es el árbitro del derbi sevillano (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "feyenoord vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El Feyenoord sale sin Hadj Moussa ni Targhalline: estos son sus sustitutos (Goal.com)",
+     "Posible alineación del Feyenoord: ¿qué hará Van Bronckhorst con Hadj Moussa? (Goal.com)"
     ]
    },
    {
@@ -470,6 +481,17 @@
     "titulares": [
      "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever (BBC)",
      "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. (The New York Times)"
+    ]
+   },
+   {
+    "tema": "roma fc",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seton Hall 87-81 NC State (Nov 20, 2026) Final Score (ESPN)",
+     "UAB 81-76 George Washington (Nov 20, 2026) Final Score (ESPN)"
     ]
    },
    {
@@ -512,52 +534,30 @@
     "desde": "2026-11-21T09:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "UFC AO VIVO, Jiri Prochazka x Navajo Stirling no UFC Fight Night (VAVEL.com)",
-     "Saiba como assistir ao UFC Catar, card com três membros do Esquadrão Brasileiro (UOL)"
+     "Confiante! Xicão promete show contra Gaziev no UFC Catar: \"O que ele tem, tenho melhor\" (UOL)",
+     "Tallison Xicão Leva Susto, Mas Vence Em Luta Morna No UFC Catar (Super Lutas)"
+    ]
+   },
+   {
+    "tema": "arsenal vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Arsenal vs Borussia Dortmund: horario y transmisión en México | UEFA Champions League (NNC.MX)",
+     "Match Summary (BBC)"
     ]
    },
    {
     "tema": "76ers - bucks",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
-     "Sixers vs. Bucks: Final playing status for star guard Tyrese Maxey (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "shamil gaziev",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar (MMA Fighting)",
-     "UFC Fight Night: Shamil Gaziev vs Tallison Teixeira Preview & Prediction (The Stats Zone)"
-    ]
-   },
-   {
-    "tema": "inés gómez mont",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-21T09:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Inés Gómez Mont, la constructora: Así habría recibido 178 mdp de dos empresas, según la FGR (El Financiero)",
-     "Salpica Gómez Mont a TV-Azteca y Monry Jr (Campeche HOY)"
-    ]
-   },
-   {
-    "tema": "stuttgart vs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T09:10:00-08:00",
+    "desde": "2026-11-21T09:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Schalke unter Druck: Gelingt gegen Stuttgart die Wende? (ZDFheute)",
-     "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM (DAZN)"
+     "LeBron and the Sixers Headline NBA Weekend Primetime Action (Sports247 Nigeria)",
+     "Sixers host Milwaukee Bucks for afternoon game (Yahoo Sports)"
     ]
    }
   ]
