@@ -68,3 +68,4 @@ Actúa como director creativo, guionista y editor audiovisual de fútbol digital
 ## Identidad visual del SRF (corrección de Mui, 21/11)
 - El SRF NO usa el look de los cortos de Guineo (amarillo + Anton). Su estilo es de tele vieja: fondo negro, blanco / rojo (232,32,42) / cian (25,195,230), letra Inter Display Black (itálica en títulos) y texto OSD monoespaciado verde ("CH 03", "▶ PLAY").
 - Señal de ajuste siempre con el logo de Guineo al centro. La intro es un zapping veloz: señal de ajuste → meme → estática → placa propia → meme… y al final la tele se apaga y aparece el título (scripts/guineo/srf_intro_tv.py).
+- Logo oficial (aprobado por Mui 21/11): scripts/guineo/srf/srf-logo.png (escudo verde y dorado), srf-avatar.png (SRF, para perfil y esquina) y srf-marca-agua.png. La intro cierra con el escudo sobre negro; los textos del episodio usan verde/dorado/crema del escudo, el zapping mantiene el look de tele vieja.

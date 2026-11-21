@@ -98,7 +98,7 @@ def grafica(k, t):
         return np.asarray(im)
     im = Image.new("RGB", (W, H), NEGRO)
     d = ImageDraw.Draw(im)
-    for i, (s_, c) in enumerate([("VILLANO", ROJO), ("WINNER", CIAN), ("CABALLERO", BLANCO)]):
+    for i, (s_, c) in enumerate([("VILLANO", ROJO), ("WINNER", (222, 178, 52)), ("CABALLERO", (250, 242, 220))]):
         ee = base.ease_out((t - i * 0.08) / 0.2)
         cy = H * (0.27 + i * 0.23)
         x = W / 2 + (1 - ee) * W * (1 if i % 2 else -1)
@@ -107,36 +107,38 @@ def grafica(k, t):
     return np.asarray(im)
 
 
+ESCUDO = Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "srf", "srf-logo.png")).convert("RGBA")
+ORO, CREMA, VERDE_SRF = (222, 178, 52), (250, 242, 220), (22, 92, 48)
+
+
 def titulo(t):
-    """Tras apagarse la tele: título con estilo propio del SRF (negro, blanco/rojo/cian, Inter)."""
+    """Tras apagarse la tele: el escudo oficial del SRF aparece sobre negro (verde y dorado)."""
     im = Image.new("RGB", (W, H), NEGRO)
     d = ImageDraw.Draw(im)
-    lineas = [("SÚPER", 0.05, 150), ("RESUMEN", 0.20, 230), ("FUTBOLERO", 0.35, 230)]
-    capas = []
-    for i, (txt, t0, tam) in enumerate(lineas):
-        e = base.ease_out((t - t0) / 0.18)
-        if e <= 0:
-            continue
-        y = H * (0.23 + i * 0.22) + (1 - e) * 60
-        glitch = max(0, 1 - (t - t0) / 0.35) * 26
-        f = NEGI(tam)
-        if glitch > 1:
-            d.text((W / 2 - glitch, y), txt, font=f, fill=ROJO, anchor="mm")
-            d.text((W / 2 + glitch, y), txt, font=f, fill=CIAN, anchor="mm")
-        d.text((W / 2, y), txt, font=f, fill=BLANCO if i < 2 else ROJO, anchor="mm")
-    e = base.ease_out((t - 0.7) / 0.3)
+    # resplandor verde detrás
+    e = base.ease_out(t / 0.35)
     if e > 0:
-        ww = int(820 * e)
-        d.rectangle([W / 2 - ww, H * 0.78, W / 2 + ww, H * 0.78 + 10], fill=CIAN)
-        lg = base.LOGO.resize((110, 110))
-        im.paste(lg, (int(W / 2 - 330), int(H * 0.80)), lg)
-        d.text((W / 2 - 200, H * 0.80 + 55), "por GUINEO COMUNICACIONES", font=OSD(42), fill=BLANCO, anchor="lm")
+        r = int(520 * e)
+        glow = Image.new("L", (W, H), 0)
+        ImageDraw.Draw(glow).ellipse([W / 2 - r, H / 2 - 40 - r, W / 2 + r, H / 2 - 40 + r], fill=110)
+        glow = glow.filter(ImageFilter.GaussianBlur(90))
+        im.paste(Image.new("RGB", (W, H), VERDE_SRF), (0, 0), glow)
+        # escudo: entra grande con rebote y destello
+        z = 1.35 - 0.35 * e + 0.05 * math.sin(min(t, 0.6) * 18) * (1 - e)
+        tam = int(820 * z)
+        lg = ESCUDO.resize((tam, tam), Image.LANCZOS)
+        im.paste(lg, (W // 2 - tam // 2, H // 2 - 40 - tam // 2), lg)
+    if 0.25 < t < 0.45:  # destello al asentarse
+        k = 1 - abs(t - 0.35) / 0.1
+        im = Image.blend(im, Image.new("RGB", (W, H), CREMA), max(0, k) * 0.55)
+        d = ImageDraw.Draw(im)
+    if t > 0.8:
+        d.text((W / 2, H * 0.93), "VILLANO  ·  WINNER  ·  CABALLERO", font=NEG(44), fill=ORO, anchor="mm")
     if t > 1.1:
         d.text((90, 70), "▶ PLAY", font=OSD(56), fill=VERDE, anchor="la")
-        d.text((W - 90, 70), "VILLANO · WINNER · CABALLERO", font=OSD(36), fill=BLANCO, anchor="ra")
     if t > 3.3:  # parpadeo de salida
-        return crt(np.asarray(im) // 3 if int(t * 30) % 2 else np.asarray(im), 0.8)
-    return crt(np.asarray(im), 0.8)
+        return crt(np.asarray(im) // 3 if int(t * 30) % 2 else np.asarray(im), 0.5)
+    return crt(np.asarray(im), 0.5)
 
 
 def cargar_meme(m):
