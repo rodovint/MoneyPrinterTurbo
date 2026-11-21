@@ -3,7 +3,7 @@
     "titulo": "¡Barcelona SC gana 1-0 a Universidad Católica en Quito y sueña con la Libertadores 2027!",
     "etiqueta": "HEXAGONAL FINAL",
     "color": "#FFD100",
-    "audio": "audio/NN",
+    "audio": "audio/bsc-quito",
     "franja": [
       "CATÓLICA 0-1 BARCELONA SC",
       "AUTOGOL DE ANANGONÓ 55'",
@@ -12,7 +12,7 @@
     ],
     "escenas": [
       {
-        "texto": "¡Barcelona ganó uno a cero en Quito y el ídolo está más vivo que nunca!",
+        "texto": "Barcelona ganó uno a cero en Quito a la Universidad Católica y el ídolo está más vivo que nunca.",
         "foto": "img/alerta-2026-11-21/foto-4-dt-bsc-entrenamiento.jpg",
         "movimiento": "zoom_in",
         "grafico": {
@@ -24,7 +24,7 @@
         "hinchada": true
       },
       {
-        "texto": "Un autogol de Anangonó, al minuto cincuenta y cinco, le dio el triunfo al equipo de Pablo Trobbiani.",
+        "texto": "Un autogol de Anangonó al minuto cincuenta y cinco le dio el triunfo al equipo de Trobbiani.",
         "voz": "andrea",
         "destello": true,
         "grafico": {
@@ -47,7 +47,7 @@
         }
       },
       {
-        "texto": "Y al final, el VAR le anuló un gol a Católica para sellar tres puntos que valen oro.",
+        "texto": "Y al final, el VAR le anuló un gol a Católica.",
         "voz": "andrea",
         "destello": true,
         "grafico": {
@@ -57,7 +57,7 @@
         }
       },
       {
-        "texto": "Barcelona llega a cincuenta y dos puntos, a solo dos de Universidad Católica, y el miércoles, en casa, recibe a Independiente del Valle.",
+        "texto": "Barcelona suma cincuenta y dos puntos, a dos de Católica, y el miércoles recibe a Independiente del Valle.",
         "voz": "andrea",
         "grafico": {
           "tipo": "partido",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "texto": "¡Si gana, el ídolo se mete con todo en la pelea por la Libertadores dos mil veintisiete!",
+        "texto": "Si gana, el ídolo se mete con todo en la pelea por la Libertadores dos mil veintisiete.",
         "grafico": {
           "tipo": "titular",
           "texto": "¡RUMBO A LA LIBERTADORES 2027!",
@@ -87,7 +87,7 @@
         "hinchada": true
       },
       {
-        "texto": "¿Hincha torero, le ganamos a Independiente y nos metemos a la Libertadores?",
+        "texto": "¿Hincha torero, le ganan a Independiente el día miércoles y se meten a la Libertadores?",
         "grafico": {
           "tipo": "titular",
           "texto": "¿NOS METEMOS?",
