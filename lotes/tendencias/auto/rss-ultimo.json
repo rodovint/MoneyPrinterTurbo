@@ -1,561 +1,563 @@
 {
- "fecha": "2026-11-21T04:24-05:00",
+ "fecha": "2026-11-21T12:54-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "los juegos del hambre",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T20:20:00-08:00",
+    "tema": "sevilla - real betis",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Los juegos del hambre’ ya está en Ecuador y sus fans opinan (El Comercio)",
-     "Los Juegos del Hambre vuelve con 21 millones de dólares en sus preestrenos (MUNDIARIO)"
+     "“Es muy difícil que el Sevilla vuelva a ser el de antes” (Diario AS)",
+     "Casi 800 efectivos velarán por la seguridad en el derbi sevillano (MARCA)"
     ]
    },
    {
-    "tema": "lakers - kings",
+    "tema": "psg",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-20T19:20:00-08:00",
+    "desde": "2026-11-21T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG (L'Équipe)",
+     "Grosse inquiétude pour Désiré Doué, sorti sur civière (SO FOOT.com)"
+    ]
+   },
+   {
+    "tema": "posiciones de borussia mönchengladbach contra borussia dortmund",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T08:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Player Grades: Lakers vs. Kings (Silver Screen and Roll)",
-     "Luka Doncic addresses sluggish starts, Redick’s halftime talk: “He yells” (Eurohoops)"
+     "Dortmund go top in the Bundesliga after late win at Gladbach (Yahoo Sports)",
+     "Castrop's Defensive Efforts Fail to Save Borussia Mönchengladbach from Loss (조선일보)"
     ]
    },
    {
-    "tema": "deportivo cali - millonarios",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T18:20:00-08:00",
+    "tema": "newcastle - arsenal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Clásico añejo sin goles (OneFootball)",
-     "Deportivo Cali vs Millonarios: formaciones confirmadas para los Cuadrangulares de Liga BetPlay (365Scores)"
+     "Newcastle vs Arsenal LIVE! Premier League match updates, free highlights, news and score (Sky Sports)",
+     "Licensable picture: Premier League - Newcastle United v Arsenal (Reuters Connect)"
     ]
    },
    {
-    "tema": "miss universo 2026",
+    "tema": "parma - roma",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gilardino ha scelto Tourè in avanti con Elphege - Le videoformazioni di Sandro Piovani (Gazzetta di Parma)",
+     "Perché Soulé, Wesley e Ndicka non giocano Parma-Roma: chi è convocato e in panchina e chi no (Goal.com)"
+    ]
+   },
+   {
+    "tema": "ligue 1",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "OGC Nice - PSG : les compositions probables (Foot Mercato)",
+     "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1 (Sports - Orange)"
+    ]
+   },
+   {
+    "tema": "fc union berlin - rb leipzig",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-20T17:30:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-21T07:50:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Este es el traje nacional de la ecuatoriana Dalia Bucaram para la competencia de Miss Universo 2026: su inspiración y significado (El Universo)",
-     "Dalia Bucaram está entre las 30 más votadas de Miss Universo 2026: ¿ya clasificó a la final? (El Telégrafo (por eliminar))"
+     "Union verliert gegen Leipzig (1. FC Union Berlin)",
+     "Bundesliga am Samstag - Union geht trotz Aebischer-Tor unter – Dortmund neuer Leader (SRF)"
     ]
    },
    {
-    "tema": "cne",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T17:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Candidatos a prefectos y alcaldes miden propuestas en los debates electorales del CNE antes de los comicios (Primicias)",
-     "Candidatos a la Prefectura de Pichincha encabezan la jornada nacional de debates obligatorios del CNE (La República EC)"
-    ]
-   },
-   {
-    "tema": "fenómeno",
+    "tema": "moisés caicedo",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-20T16:50:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-21T07:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Fenómeno de El Niño presenta características de fase madura y Erfen advierte lluvias muy fuertes e inundaciones a finales de noviembre (El Universo)",
-     "SNGR mantiene asistencia humanitaria en ocho provincias afectadas por las lluvias (El Telégrafo (por eliminar))"
+     "Moisés Caicedo vuelve a lesionarse con Chelsea tras cuidarse en Ecuador (El Comercio)",
+     "Moisés Caicedo luego del partido frente a Bolivia: 'No me sentí muy bien, así que pedí el cambio' (Primicias)"
     ]
    },
    {
-    "tema": "debate electoral 2026",
+    "tema": "posiciones de alavés contra deportivo la coruña",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T16:10:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-21T07:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "El traje marrón-fracaso de Sánchez y sus otras 23 derrotas del cara a cara (El Español)",
-     "EURONEWS HOY | Las noticias del viernes 20 de noviembre de 2026: Debate del 29N (Yahoo)"
+     "Alavés vs Deportivo de A Coruña: Spanish La Liga stats & head-to-head (BBC)",
+     "November 21, 2026: Real Madrid vs Celta Vigo: First Half Winner Soccer Prediction Market (Robinhood)"
     ]
    },
    {
-    "tema": "bucaramanga - américa",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T15:40:00-08:00",
+    "tema": "niza - psg",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-21T07:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Bucaramanga y América abren el Grupo B con vibrante empate (AS Colombia)",
-     "Tabla de posiciones del cuadrangular B: resultados en fecha 1 (Futbolred)"
-    ]
-   },
-   {
-    "tema": "vélez - belgrano",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T15:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los pibes de Vélez eliminaron a los caciques de Belgrano (y el Fortín tiene un arquero fenomenal) (La Nación)",
-     "Tomás Marchiori, el héroe de Vélez que atajó tres penales en la definición: \"Habíamos estudiado a los pateadores\" (Olé)"
-    ]
-   },
-   {
-    "tema": "prisión preventiva",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T15:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tribunal niega apelación de Darío Macas y ratifica su prisión preventiva por presunto enriquecimiento ilícito (FM Mundo)",
-     "Carmen Chávez recupera su libertad con medidas cautelares; Darío Macas seguirá en prisión preventiva (Machala Móvil)"
+     "'Players are liars' - Luis Enrique delivers classic quip ahead of PSG clash with Nice as Ousmane Dembele returns to boost squad (Goal.com)",
+     "Ligue 1 - OGC Nice v Paris St Germain (Reuters Connect)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "la cascara motel safe code",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T01:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "All GTA 6 Safe Codes for Chapter 2 in Port Gellhorn (VICE)",
-     "How to get safe codes in GTA 6 (PC Gamer)"
-    ]
-   },
-   {
-    "tema": "la cascara motel gta 6",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "All La Cascara Motel Robbery Loot & Secrets Locations - GTA 6 (Mobalytics)",
-     "La Cascara Motel Walkthrough (IGN)"
-    ]
-   },
-   {
-    "tema": "dreamstate",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Above & Beyond to Play First-Ever ‘Anjunabeats Classics’ Set at Dreamstate Festival (EDM.com)",
-     "7 artists you can’t miss at Dreamstate SoCal 2026 (We Rave You)"
-    ]
-   },
-   {
-    "tema": "porto fc",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Francesco Farioli admits Porto struggles: “For us, not a great night” (OneFootball)",
-     "LIVE: FC Porto vs USC Paredes | Taça de Portugal (beIN SPORTS)"
-    ]
-   },
-   {
-    "tema": "jensen ackles",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Boys: Vought Rising: Jensen Ackles & Aya Cash Are Heading to CCXP (Bleeding Cool News)",
-     "Jared Padalecki's Latest Role Might Surprise You (Who What Wear)"
-    ]
-   },
-   {
-    "tema": "quentin tarantino",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-20T23:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "David Fincher got to make his own Tarantino movie. First he needed to find himself in it (Los Angeles Times)",
-     "\"THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH\" - Review (Next Best Picture)"
-    ]
-   },
-   {
-    "tema": "nvidia stock market",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T23:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic (Yahoo Finance)",
-     "Here’s My Top AI Stock to Buy With Nvidia in Uncertain Territory (The Motley Fool)"
-    ]
-   },
-   {
-    "tema": "how old is jason in gta 6",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T23:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "‘GTA VI’ finally reveals the actors, voices and familiar names behind Vice City (AP News)",
-     "The lead actress in 'Grand Theft Auto VI' has finally been revealed. What to know about the woman behind Lucia. (Yahoo)"
-    ]
-   },
-   {
-    "tema": "gta 6 money glitch",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T23:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "The Best Ways To Earn Money In ‘GTA 6,’ Early, Mid- And Late-Game (Forbes)",
-     "How To Do GTA 6 Infinite Money Glitch (Insider Gaming)"
-    ]
-   },
-   {
-    "tema": "aus vs eng",
+    "tema": "game gta vi",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-20T23:30:00-08:00",
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Australia vs England LIVE: First T20, MCG, Melbourne - cricket score, commentary & updates (BBC)",
-     "Harper's Australia debut a much-needed good story (Cricinfo)"
+     "Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) (The New York Times)",
+     "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida (Yahoo Tech)"
+    ]
+   },
+   {
+    "tema": "joel klatt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "What the CFP rankings got wrong about Alabama, Tennessee and Notre Dame (USA Today)",
+     "Longhorns Daily News: Fox Sports analyst Joel Klatt thinks the CFP ‘screwed’ Texas football (Burnt Orange Nation)"
+    ]
+   },
+   {
+    "tema": "del state vs sc state",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "November 21, 2026: Brown vs Dartmouth College Football Prediction Market (Robinhood)",
+     "South Carolina State vs Delaware State - Where to Watch, Stream Info, TV Channel, and Live Updates (November 21, 2026) (Fubo)"
+    ]
+   },
+   {
+    "tema": "ilia topuria",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Aleksandre Topuria: 'I Don't Plan On Letting Him Win' | UFC Qatar (UFC.com)",
+     "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion (Bloody Elbow)"
+    ]
+   },
+   {
+    "tema": "roma fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "D’Amico on Kone’s future: “It’s unlikely he’ll leave in January.” (Yahoo Sports)",
+     "Man United and Chelsea to renew interest in Kone (RomaPress)"
+    ]
+   },
+   {
+    "tema": "jeremiah smith",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness (ESPN)",
+     "Jeremiah Smith Is That Good, So Which NFL Teams Could Consider Trading Up for Star WR in 2027 Draft (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "jerry jones",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Police investigate man's death after alleged altercation at 49ers-Cowboys game (ESPN)",
+     "Family of Dallas Cowboys fan who died after an apparent altercation at a game speaks out (kcentv.com)"
+    ]
+   },
+   {
+    "tema": "désiré doué",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG (L'Équipe)",
+     "PSG : Mayulu et Doué inscrivent deux buts en deux minutes à Nice (Foot Mercato)"
+    ]
+   },
+   {
+    "tema": "gulf of finland",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security (Reuters)",
+     "Rescue efforts under way as drones hit Russian ship off Finland coast (Al Jazeera)"
+    ]
+   },
+   {
+    "tema": "matt rhule",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Can Nebraska's Matt Rhule end his drought against ranked opponents? (ESPN)",
+     "Live updates: Nebraska hosts Ohio State on Senior Day (KETV)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "óscar puente",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T00:50:00-08:00",
+    "tema": "josé maría aznar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Puente fue informado de que Transportes pagó un tratamiento de cáncer para la exmujer de Ábalos al llegar al Ministerio (ABC)",
-     "Exclusiva | Ábalos envía un audio desde la cárcel a 'TEM' para desmentir las acusaciones de 'ABC': “Es de un nivel de indecencia insuperable” (Cuatro)"
+     "Campaña electoral 29-N y actualidad política, en directo | Aznar asegura que Sánchez “demolerá” la Constitución si es reelegido (EL PAÍS)",
+     "Aznar y Ayuso responden a Sánchez: \"El que pueda votar que vote, sí... Pero para echarle\" (El Mundo)"
     ]
    },
    {
-    "tema": "england vs australia",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T00:50:00-08:00",
+    "tema": "schalke – vfb stuttgart",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Australia vs England LIVE: First T20, MCG, Melbourne - cricket score, commentary & updates (BBC)",
-     "Harper's Australia debut a much-needed good story (Cricinfo)"
+     "Schalke unter Druck: Gelingt gegen Stuttgart die Wende? (ZDFheute)",
+     "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM (DAZN)"
     ]
    },
    {
-    "tema": "encendido luces madrid 2026",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T00:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Guía definitiva de las luces de Navidad de Madrid: horarios, localizaciones, novedades y lo que no te puedes perder (EL PAÍS)",
-     "El Ayuntamiento de Madrid habilita un extenso dispositivo de seguridad, emergencias y movilidad para las fiestas de Navidad (Ayuntamiento de Madrid)"
-    ]
-   },
-   {
-    "tema": "gta vi ps5",
+    "tema": "76ers - bucks",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T00:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "GTA VI At 30 FPS: Can Your TV Save The Day? (RTINGS.com)",
-     "GTA 6 daily routine: What you should do every day and why it matters (Red Bull)"
-    ]
-   },
-   {
-    "tema": "schnee",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Wetter: Glättegefahr in Thüringen - Schnee in Sicht (DIE ZEIT)",
-     "News, Regional, Thüringen: Wetterbericht für Thüringen (21.11.2026) (tixio - Nachrichten)"
-    ]
-   },
-   {
-    "tema": "strahinja pavlović",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T00:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "\"He rechazado al Atlético de Madrid\" (Fichajes.com)",
-     "Pavlović confiesa que rechazó al Atlético de Madrid: “Quería unirme al Milan” (OneFootball)"
-    ]
-   },
-   {
-    "tema": "plomo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T00:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Ya es oficial: la UE pone fecha al fin del plomo en la caza menor poniendo en riesgo 16.000 empleos (Revista Jara y Sedal)",
-     "Ya sabemos la fecha en la que serán prohibidas las municiones de plomo para la caza menor en Europa y España (Club de Caza)"
-    ]
-   },
-   {
-    "tema": "real jaén club de fútbol",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:10:00-08:00",
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "El Antequera CF se medirá a un equipo de Primera División en la Copa del Rey (Cadena SER)",
-     "El Real Jaén jugará en Copa del Rey contra un Primera (www.diariojaen.es)"
+     "Full injury reports for Sixers-Bucks on Saturday (PhillyVoice)",
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)"
     ]
    },
    {
-    "tema": "irán",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-21T00:00:00-08:00",
+    "tema": "isco",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Irán quiere poner a prueba el bloqueo de EE.UU. a sus petroleros (La Vanguardia)",
-     "Irán reúne 14 petroleros para desafiar el bloqueo naval estadounidense (Euronews.com)"
+     "La revancha de Isco en el derbi (ABC)",
+     "El oficio de los 'veteranos' del Betis para afrontar el derbi (Diario de Sevilla)"
     ]
    },
    {
-    "tema": "bayer",
+    "tema": "jamal musiala",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rummenigge refuses to rule out Jamal Musiala sale (BeSoccer Livescore)",
+     "Helmes: I don't understand Rummenigge's interview, Bayern must accept the risk of Musiala's contract (AllFootball)"
+    ]
+   },
+   {
+    "tema": "doue",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alerta en el PSG: posible lesión grave de rodilla para Doué (MARCA)",
+     "Doué, evacuado en camilla (Diario AS)"
+    ]
+   },
+   {
+    "tema": "superdeporte",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Valencia CF pidió penalti por esta mano de Sadick (Superdeporte)",
+     "Copete y Dimitrievski amargan la fiesta de Vallecas (Diario AS)"
+    ]
+   },
+   {
+    "tema": "hugh jackman",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T00:00:00-08:00",
+    "desde": "2026-11-21T09:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern (tagesschau.de)",
-     "Unkrautvernichter Roundup: US-Gericht genehmigt Milliardenvergleich von Bayer im Glyphosatstreit (DIE ZEIT)"
+     "Avengers: Doomsday's Official Writing Credits Confirm Two Major Marvel Cameos (SlashFilm)",
+     "Ryan Reynolds and Hugh Jackman Join Long List of ‘Doomsday’ Writers (Pajiba)"
+    ]
+   },
+   {
+    "tema": "encendido luces palma 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encendido de luces de Navidad en Palma 2026: cuándo es, dónde, espectáculos y cómo llegar (Diario de Mallorca)",
+     "DJ Juan Campos 20/11/2026 - DJ Juan Campos - Más de uno Mallorca (Onda Cero)"
+    ]
+   },
+   {
+    "tema": "cibeles",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cibeles acepta las críticas del nuevo paseo central de Alcalá, pero reivindica la obra (Telemadrid)",
+     "Cibeles celebra el fin de las obras del paseo central de la calle Alcalá y hace frente a las críticas (Libertad Digital)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "francisco moura",
+    "tema": "76ers - bucks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
+     "Tyrese Maxey (foot) returns to lineup Saturday (FantasyPros)"
+    ]
+   },
+   {
+    "tema": "tallison teixeira",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Confiante! Xicão promete show contra Gaziev no UFC Catar: \"O que ele tem, tenho melhor\" (UOL)",
+     "Tallison Xicão Leva Susto, Mas Vence Em Luta Morna No UFC Catar (Super Lutas)"
+    ]
+   },
+   {
+    "tema": "independiente",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Torneo Clausura: Argentinos recibe a Independiente (Página|12)",
+     "Argentinos Juniors vs. Independiente, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "cartelera ufc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jiří Procházka y Navajo Stirling, EN VIVO: dónde ver por TV y ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "kocaelispor - fenerbahçe",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kocaelispor - Fenerbahçe maçı yorumları Libero TV’de (Takvim)",
+     "Tokadı attı 0 çekti! Maradona'nın Fenerbahçe şubesi (Fotospor)"
+    ]
+   },
+   {
+    "tema": "defensa y justicia - barracas central",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Defensa y Justicia y Barracas inician la jornada de sábado (AFA)",
+     "Defensa y Justicia vs. Barracas Central, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "josé coronado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Netflix: José Coronado y Ricardo Darín brillan con el estreno de una nueva serie española (A24.com)",
+     "Netflix: José Coronado y Luis Zahera arrasan con la serie ideal para ver en el fin de semana (A24.com)"
+    ]
+   },
+   {
+    "tema": "flavio briatore",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-21T01:00:00-08:00",
+    "desde": "2026-11-21T08:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Farioli: \"Moura? Há erros que podem custar um jogo\" (Sport TV)",
-     "«Cláudio Ramos evitou eliminação histórica»: as reações à vitória do FC Porto sobre o Paredes nos penáltis (Record)"
+     "Briatore mostró su lado más exigente para calificar a sus pilotos y le dejó una advertencia a Colapinto: “Será crucial para él” (Infobae)",
+     "Flavio Briatore definió el año de Franco Colapinto, Pierre Gasly y Alpine con una llamativa frase (TyC Sports)"
     ]
    },
    {
-    "tema": "tormenta",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T00:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Fin de semana largo del 21 al 23 de noviembre con tormentas: Córdoba, San Luis, Buenos Aires, Santa Fe y norte del país (Meteored Argentina)",
-     "Hay alerta amarilla por tormentas y nevadas para este sábado 21 de noviembre: las provincias afectadas (La Nación)"
-    ]
-   },
-   {
-    "tema": "allanamiento",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T00:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Nuevos allanamientos en Santa Cruz por la causa de lavado contra Lázaro Báez (Infobae)",
-     "Prefectura allana un domicilio por la causa Baez (Tiempo Sur)"
-    ]
-   },
-   {
-    "tema": "gabriel felix influencer",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T23:10:00-08:00",
+    "tema": "newcastle - arsenal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Tras descompensarse en un partido de fútbol con amigos, murió el influencer brasileño Gabriel Félix (Infobae)",
-     "Un influencer murió durante un partido de fútbol: el desgarrador mensaje de su pareja tras la tragedia (Clarin.com)"
+     "Match Summary (BBC)",
+     "Team news: Eze in, Guimaraes starts at Newcastle (Arsenal.com)"
     ]
    },
    {
-    "tema": "estrella gigante",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T20:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Astrónomos observaron por primera vez cómo una estrella gigante engulló a su compañera en Andrómeda (Infobae)",
-     "Un equipo de astrónomos observa por primera vez una fusión estelar completa en la galaxia de Andrómeda (UB - Universitat de Barcelona)"
-    ]
-   },
-   {
-    "tema": "disney",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T20:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "‘Home Alone’ Sequel With Macaulay Culkin In Early Works With Seth Rogen & Evan Goldberg Writing & Producing (Deadline)",
-     "‘Home Alone’ Director Chris Columbus Said Minutes Before New Sequel Was Announced That Another Movie ‘Can’t Happen’ After Catherine O’Hara’s Death (Variety)"
-    ]
-   },
-   {
-    "tema": "juárez - atlas",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T20:10:00-08:00",
+    "tema": "sevilla - real betis",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Juárez vs Atlas, EN VIVO: cuándo y dónde ver la Jornada 17 del Apertura 2026 (Infobae)",
-     "Alineaciones de FC Juárez y Atlas por la Liga MX: formaciones confirmadas (Bolavip México)"
-    ]
-   },
-   {
-    "tema": "mckenna grace",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T20:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Mckenna Grace Reveals Hardest Part of Playing Twin Roles in ‘Sunrise on the Reaping’ (Parade Magazine)",
-     "Mckenna Grace ‘Wept’ After Landing ‘Sunrise on the Reaping’ Role (Exclusive) (People.com)"
-    ]
-   },
-   {
-    "tema": "nuggets - rockets",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-20T19:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "NBA: Houston Rockets at Denver Nuggets (Reuters Connect)",
-     "Nikola Jokic admits he still doubts his game: “Every day” (Eurohoops)"
-    ]
-   },
-   {
-    "tema": "jazz - suns",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T19:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Game Recap: Suns 111, Jazz 101 (Nov. 20) (NBA.com)",
-     "Darryn Peterson puts up 20/10/8 in loss to Suns (NBC Sports)"
+     "Guridi y Castrín, novedades en el Sevilla y Pellegrini sorprende con Ruibal en punta (Infobae)",
+     "Sevilla vs Betis, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV (TN)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "la mansión vip 2 en vivo hoy",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T01:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": []
-   },
-   {
-    "tema": "como vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T00:30:00-08:00",
+    "tema": "roma fc",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Como vs Cagliari: Italian Serie A stats & head-to-head (BBC)",
-     "Como vs Cagliari Preview: Team News & Prediction (The Stats Zone)"
+     "UAB 81-76 George Washington (Nov 20, 2026) Final Score (ESPN)",
+     "Sevilla vs. Betis (Nov 21, 2026) Team Stats (ESPN)"
     ]
    },
    {
-    "tema": "hotspanish la mansión vip",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-20T23:10:00-08:00",
+    "tema": "grand theft auto vi gta vi",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Luis R. Conríquez anuncia posible visita a La Mansión VIP 2 para apoyar a su amigo Tony Aguirre (El Sol de México)",
-     "¿Nuevo habitante de La Mansión VIP? HotSpanish invitó a Luis R. Conríquez y visitó el reality (Debate)"
+     "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever (BBC)",
+     "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. (The New York Times)"
     ]
    },
    {
-    "tema": "como vs cagliari",
+    "tema": "ohio state vs nebraska",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Ohio State Buckeyes defensive coordinator Matt Patricia arrives to the stadium before the NCAA football game against the (Reuters Connect)",
+     "Buckeye Bullies versus Little Red (Carriker Chronicles)"
+    ]
+   },
+   {
+    "tema": "valencia fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Why Valencia are the value bet to be relegated from La Liga (Goal.com)",
+     "Aguirre: “The team have attitude and commitment” (Valencia CF)"
+    ]
+   },
+   {
+    "tema": "roma vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Parma vs. Roma por la Serie A: equipo, fecha, hora y TV en vivo (ESPN México)",
+     "Parma Calcio 1913 contra Roma en directo hoy: ¿dónde ver el partido por TV y streaming? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "tallison teixeira",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T22:30:00-08:00",
+    "desde": "2026-11-21T09:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Pronóstico Como 1907 - Cagliari Calcio - Serie A (SportyTrader)",
-     "Como-Cagliari: regresa Chalobah y Fabregas confirma cuatro bajas (Tu Futbolero)"
+     "UFC AO VIVO, Jiri Prochazka x Navajo Stirling no UFC Fight Night (VAVEL.com)",
+     "Saiba como assistir ao UFC Catar, card com três membros do Esquadrão Brasileiro (UOL)"
     ]
    },
    {
-    "tema": "manchester city vs fulham",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T22:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Gvardiol, Guehi, Semenyo: Man City injury latest for FPL Gameweek 11 (www.fantasyfootballscout.co.uk)",
-     "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more! (Sky Sports)"
-    ]
-   },
-   {
-    "tema": "jennifer lawrence",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T22:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jennifer Lawrence humiliates A-list actor as she ranks him as her 'worst' onscreen kiss on live TV (Daily Mail)",
-     "Jennifer Lawrence Ranks Her On-Screen Kisses – and Chris Pratt Is Dead Last (TheWrap)"
-    ]
-   },
-   {
-    "tema": "lazio vs lecce",
+    "tema": "76ers - bucks",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T22:10:00-08:00",
+    "desde": "2026-11-21T09:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Preview: Lazio vs Lecce - prediction, team news, lineups (Sports Mole)",
-     "Gattuso: ‘Feel like I’ve been at Lazio for 10 years, Frattesi is fine’ (Yahoo Sports)"
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
+     "Sixers vs. Bucks: Final playing status for star guard Tyrese Maxey (Yahoo Sports)"
     ]
    },
    {
-    "tema": "hipótesis de riemann",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-20T21:40:00-08:00",
-    "deporte_probable": false,
+    "tema": "shamil gaziev",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Un matemático de Anthropic asegura haber resuelto la hipótesis de Riemann, el mayor enigma de las matemáticas, con ayuda de la IA (EL PAÍS)",
-     "Resuelven con Claude otro de los 'Problemas del Milenio' (Reforma)"
+     "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar (MMA Fighting)",
+     "UFC Fight Night: Shamil Gaziev vs Tallison Teixeira Preview & Prediction (The Stats Zone)"
     ]
    },
    {
-    "tema": "club tijuana vs atlante f.c. standings",
+    "tema": "inés gómez mont",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-20T21:30:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-21T09:10:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Rockets vs. Nuggets (Nov 20, 2026) Live Score (ESPN)",
-     "Purdue 95-49 Oakland (Nov 20, 2026) Game Recap (ESPN)"
+     "Inés Gómez Mont, la constructora: Así habría recibido 178 mdp de dos empresas, según la FGR (El Financiero)",
+     "Salpica Gómez Mont a TV-Azteca y Monry Jr (Campeche HOY)"
     ]
    },
    {
-    "tema": "tabla liga mx 2026",
+    "tema": "stuttgart vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-20T21:30:00-08:00",
+    "desde": "2026-11-21T09:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Salomón Rondón, con MARCA: \"La Liga Mx es la mejor del continente\" (MARCA)",
-     "Saborea Salomón Rondón corona de goleador (Reforma)"
+     "Schalke unter Druck: Gelingt gegen Stuttgart die Wende? (ZDFheute)",
+     "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM (DAZN)"
     ]
    }
   ]

@@ -1,0 +1,565 @@
+{
+ "fecha": "2026-11-21T12:54-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "sevilla - real betis",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Es muy difícil que el Sevilla vuelva a ser el de antes” (Diario AS)",
+     "Casi 800 efectivos velarán por la seguridad en el derbi sevillano (MARCA)"
+    ]
+   },
+   {
+    "tema": "psg",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG (L'Équipe)",
+     "Grosse inquiétude pour Désiré Doué, sorti sur civière (SO FOOT.com)"
+    ]
+   },
+   {
+    "tema": "posiciones de borussia mönchengladbach contra borussia dortmund",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T08:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dortmund go top in the Bundesliga after late win at Gladbach (Yahoo Sports)",
+     "Castrop's Defensive Efforts Fail to Save Borussia Mönchengladbach from Loss (조선일보)"
+    ]
+   },
+   {
+    "tema": "newcastle - arsenal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Newcastle vs Arsenal LIVE! Premier League match updates, free highlights, news and score (Sky Sports)",
+     "Licensable picture: Premier League - Newcastle United v Arsenal (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "parma - roma",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gilardino ha scelto Tourè in avanti con Elphege - Le videoformazioni di Sandro Piovani (Gazzetta di Parma)",
+     "Perché Soulé, Wesley e Ndicka non giocano Parma-Roma: chi è convocato e in panchina e chi no (Goal.com)"
+    ]
+   },
+   {
+    "tema": "ligue 1",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T08:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "OGC Nice - PSG : les compositions probables (Foot Mercato)",
+     "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1 (Sports - Orange)"
+    ]
+   },
+   {
+    "tema": "fc union berlin - rb leipzig",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T07:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Union verliert gegen Leipzig (1. FC Union Berlin)",
+     "Bundesliga am Samstag - Union geht trotz Aebischer-Tor unter – Dortmund neuer Leader (SRF)"
+    ]
+   },
+   {
+    "tema": "moisés caicedo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T07:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Moisés Caicedo vuelve a lesionarse con Chelsea tras cuidarse en Ecuador (El Comercio)",
+     "Moisés Caicedo luego del partido frente a Bolivia: 'No me sentí muy bien, así que pedí el cambio' (Primicias)"
+    ]
+   },
+   {
+    "tema": "posiciones de alavés contra deportivo la coruña",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T07:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alavés vs Deportivo de A Coruña: Spanish La Liga stats & head-to-head (BBC)",
+     "November 21, 2026: Real Madrid vs Celta Vigo: First Half Winner Soccer Prediction Market (Robinhood)"
+    ]
+   },
+   {
+    "tema": "niza - psg",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-21T07:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Players are liars' - Luis Enrique delivers classic quip ahead of PSG clash with Nice as Ousmane Dembele returns to boost squad (Goal.com)",
+     "Ligue 1 - OGC Nice v Paris St Germain (Reuters Connect)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "game gta vi",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Find Serenity in Grand Theft Auto VI. (Or Just Embrace the Chaos.) (The New York Times)",
+     "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida (Yahoo Tech)"
+    ]
+   },
+   {
+    "tema": "joel klatt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "What the CFP rankings got wrong about Alabama, Tennessee and Notre Dame (USA Today)",
+     "Longhorns Daily News: Fox Sports analyst Joel Klatt thinks the CFP ‘screwed’ Texas football (Burnt Orange Nation)"
+    ]
+   },
+   {
+    "tema": "del state vs sc state",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "November 21, 2026: Brown vs Dartmouth College Football Prediction Market (Robinhood)",
+     "South Carolina State vs Delaware State - Where to Watch, Stream Info, TV Channel, and Live Updates (November 21, 2026) (Fubo)"
+    ]
+   },
+   {
+    "tema": "ilia topuria",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Aleksandre Topuria: 'I Don't Plan On Letting Him Win' | UFC Qatar (UFC.com)",
+     "Ilia Topuria predicts timeline for his 7-1 brother to become UFC bantamweight champion (Bloody Elbow)"
+    ]
+   },
+   {
+    "tema": "roma fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "D’Amico on Kone’s future: “It’s unlikely he’ll leave in January.” (Yahoo Sports)",
+     "Man United and Chelsea to renew interest in Kone (RomaPress)"
+    ]
+   },
+   {
+    "tema": "jeremiah smith",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness (ESPN)",
+     "Jeremiah Smith Is That Good, So Which NFL Teams Could Consider Trading Up for Star WR in 2027 Draft (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "jerry jones",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Police investigate man's death after alleged altercation at 49ers-Cowboys game (ESPN)",
+     "Family of Dallas Cowboys fan who died after an apparent altercation at a game speaks out (kcentv.com)"
+    ]
+   },
+   {
+    "tema": "désiré doué",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Désiré Doué blessé au genou droit et sorti en pleurs à Nice avec le PSG (L'Équipe)",
+     "PSG : Mayulu et Doué inscrivent deux buts en deux minutes à Nice (Foot Mercato)"
+    ]
+   },
+   {
+    "tema": "gulf of finland",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security (Reuters)",
+     "Rescue efforts under way as drones hit Russian ship off Finland coast (Al Jazeera)"
+    ]
+   },
+   {
+    "tema": "matt rhule",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Can Nebraska's Matt Rhule end his drought against ranked opponents? (ESPN)",
+     "Live updates: Nebraska hosts Ohio State on Senior Day (KETV)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "josé maría aznar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Campaña electoral 29-N y actualidad política, en directo | Aznar asegura que Sánchez “demolerá” la Constitución si es reelegido (EL PAÍS)",
+     "Aznar y Ayuso responden a Sánchez: \"El que pueda votar que vote, sí... Pero para echarle\" (El Mundo)"
+    ]
+   },
+   {
+    "tema": "schalke – vfb stuttgart",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Schalke unter Druck: Gelingt gegen Stuttgart die Wende? (ZDFheute)",
+     "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM (DAZN)"
+    ]
+   },
+   {
+    "tema": "76ers - bucks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Full injury reports for Sixers-Bucks on Saturday (PhillyVoice)",
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)"
+    ]
+   },
+   {
+    "tema": "isco",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La revancha de Isco en el derbi (ABC)",
+     "El oficio de los 'veteranos' del Betis para afrontar el derbi (Diario de Sevilla)"
+    ]
+   },
+   {
+    "tema": "jamal musiala",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rummenigge refuses to rule out Jamal Musiala sale (BeSoccer Livescore)",
+     "Helmes: I don't understand Rummenigge's interview, Bayern must accept the risk of Musiala's contract (AllFootball)"
+    ]
+   },
+   {
+    "tema": "doue",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alerta en el PSG: posible lesión grave de rodilla para Doué (MARCA)",
+     "Doué, evacuado en camilla (Diario AS)"
+    ]
+   },
+   {
+    "tema": "superdeporte",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Valencia CF pidió penalti por esta mano de Sadick (Superdeporte)",
+     "Copete y Dimitrievski amargan la fiesta de Vallecas (Diario AS)"
+    ]
+   },
+   {
+    "tema": "hugh jackman",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Avengers: Doomsday's Official Writing Credits Confirm Two Major Marvel Cameos (SlashFilm)",
+     "Ryan Reynolds and Hugh Jackman Join Long List of ‘Doomsday’ Writers (Pajiba)"
+    ]
+   },
+   {
+    "tema": "encendido luces palma 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encendido de luces de Navidad en Palma 2026: cuándo es, dónde, espectáculos y cómo llegar (Diario de Mallorca)",
+     "DJ Juan Campos 20/11/2026 - DJ Juan Campos - Más de uno Mallorca (Onda Cero)"
+    ]
+   },
+   {
+    "tema": "cibeles",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cibeles acepta las críticas del nuevo paseo central de Alcalá, pero reivindica la obra (Telemadrid)",
+     "Cibeles celebra el fin de las obras del paseo central de la calle Alcalá y hace frente a las críticas (Libertad Digital)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "76ers - bucks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
+     "Tyrese Maxey (foot) returns to lineup Saturday (FantasyPros)"
+    ]
+   },
+   {
+    "tema": "tallison teixeira",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Confiante! Xicão promete show contra Gaziev no UFC Catar: \"O que ele tem, tenho melhor\" (UOL)",
+     "Tallison Xicão Leva Susto, Mas Vence Em Luta Morna No UFC Catar (Super Lutas)"
+    ]
+   },
+   {
+    "tema": "independiente",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Torneo Clausura: Argentinos recibe a Independiente (Página|12)",
+     "Argentinos Juniors vs. Independiente, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "cartelera ufc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jiří Procházka y Navajo Stirling, EN VIVO: dónde ver por TV y ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "kocaelispor - fenerbahçe",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kocaelispor - Fenerbahçe maçı yorumları Libero TV’de (Takvim)",
+     "Tokadı attı 0 çekti! Maradona'nın Fenerbahçe şubesi (Fotospor)"
+    ]
+   },
+   {
+    "tema": "defensa y justicia - barracas central",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Defensa y Justicia y Barracas inician la jornada de sábado (AFA)",
+     "Defensa y Justicia vs. Barracas Central, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "josé coronado",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Netflix: José Coronado y Ricardo Darín brillan con el estreno de una nueva serie española (A24.com)",
+     "Netflix: José Coronado y Luis Zahera arrasan con la serie ideal para ver en el fin de semana (A24.com)"
+    ]
+   },
+   {
+    "tema": "flavio briatore",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Briatore mostró su lado más exigente para calificar a sus pilotos y le dejó una advertencia a Colapinto: “Será crucial para él” (Infobae)",
+     "Flavio Briatore definió el año de Franco Colapinto, Pierre Gasly y Alpine con una llamativa frase (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "newcastle - arsenal",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-21T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Match Summary (BBC)",
+     "Team news: Eze in, Guimaraes starts at Newcastle (Arsenal.com)"
+    ]
+   },
+   {
+    "tema": "sevilla - real betis",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Guridi y Castrín, novedades en el Sevilla y Pellegrini sorprende con Ruibal en punta (Infobae)",
+     "Sevilla vs Betis, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV (TN)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "roma fc",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UAB 81-76 George Washington (Nov 20, 2026) Final Score (ESPN)",
+     "Sevilla vs. Betis (Nov 21, 2026) Team Stats (ESPN)"
+    ]
+   },
+   {
+    "tema": "grand theft auto vi gta vi",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'I'm hit with a feeling of self-healing': The moment I realised GTA 6 was one of the greatest games ever (BBC)",
+     "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It. (The New York Times)"
+    ]
+   },
+   {
+    "tema": "ohio state vs nebraska",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Ohio State Buckeyes defensive coordinator Matt Patricia arrives to the stadium before the NCAA football game against the (Reuters Connect)",
+     "Buckeye Bullies versus Little Red (Carriker Chronicles)"
+    ]
+   },
+   {
+    "tema": "valencia fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Why Valencia are the value bet to be relegated from La Liga (Goal.com)",
+     "Aguirre: “The team have attitude and commitment” (Valencia CF)"
+    ]
+   },
+   {
+    "tema": "roma vs",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Parma vs. Roma por la Serie A: equipo, fecha, hora y TV en vivo (ESPN México)",
+     "Parma Calcio 1913 contra Roma en directo hoy: ¿dónde ver el partido por TV y streaming? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "tallison teixeira",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UFC AO VIVO, Jiri Prochazka x Navajo Stirling no UFC Fight Night (VAVEL.com)",
+     "Saiba como assistir ao UFC Catar, card com três membros do Esquadrão Brasileiro (UOL)"
+    ]
+   },
+   {
+    "tema": "76ers - bucks",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
+     "Sixers vs. Bucks: Final playing status for star guard Tyrese Maxey (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "shamil gaziev",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tallison Teixeira learned heel hooks training with Valter Walker, Shamil Gaziev ‘in trouble’ at UFC Qatar (MMA Fighting)",
+     "UFC Fight Night: Shamil Gaziev vs Tallison Teixeira Preview & Prediction (The Stats Zone)"
+    ]
+   },
+   {
+    "tema": "inés gómez mont",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T09:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Inés Gómez Mont, la constructora: Así habría recibido 178 mdp de dos empresas, según la FGR (El Financiero)",
+     "Salpica Gómez Mont a TV-Azteca y Monry Jr (Campeche HOY)"
+    ]
+   },
+   {
+    "tema": "stuttgart vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T09:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Schalke unter Druck: Gelingt gegen Stuttgart die Wende? (ZDFheute)",
+     "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM (DAZN)"
+    ]
+   }
+  ]
+ }
+}
