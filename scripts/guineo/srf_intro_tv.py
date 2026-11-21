@@ -11,7 +11,7 @@ Los memes NO van en el repo público: se pasan por ruta (material de terceros qu
 import json, math, os, subprocess, sys, tempfile, wave
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import srf_intro as base  # noqa: E402
@@ -19,6 +19,30 @@ import srf_intro as base  # noqa: E402
 W, H, FPS, SR = 1920, 1080, 30, 44100
 A, B, Y, BG, INK = base.A, base.B, base.Y, base.BG, base.INK
 rng = np.random.default_rng(11)
+FD = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")
+NEG = lambda n: ImageFont.truetype(os.path.join(FD, "InterDisplay-Black.otf"), n)
+NEGI = lambda n: ImageFont.truetype(os.path.join(FD, "InterDisplay-BlackItalic.otf"), n)
+OSD = lambda n: ImageFont.truetype(os.path.join(FD, "DejaVuSansMono-Bold.ttf"), n)
+ROJO, CIAN, BLANCO, NEGRO, VERDE = (232, 32, 42), (25, 195, 230), (245, 245, 245), (8, 8, 10), (90, 255, 120)
+PLACA = None  # imagen "por favor espere" que manda Mui (opcional)
+
+
+def canal(arr, n):
+    """Texto OSD de tele vieja: CH 0n arriba a la derecha."""
+    im = Image.fromarray(arr)
+    d = ImageDraw.Draw(im)
+    d.text((W - 90, 70), f"CH {n:02d}", font=OSD(64), fill=VERDE, anchor="ra", stroke_width=3, stroke_fill=NEGRO)
+    return np.asarray(im)
+
+
+def ajustar(im):
+    """Imagen cualquiera a 16:9 con fondo borroso."""
+    fondo = im.resize((W, H)).filter(ImageFilter.GaussianBlur(30))
+    fondo = Image.eval(fondo, lambda v: int(v * 0.45))
+    k = H / im.height
+    fg = im.resize((int(im.width * k), H))
+    fondo.paste(fg, ((W - fg.width) // 2, 0))
+    return fondo
 
 
 def crt(arr, fuerza=1.0):
@@ -48,8 +72,10 @@ def barras(variante):
         d.rectangle([i * bw, H * 0.67, (i + 1) * bw, H * 0.75], fill=c)
     for i, c in enumerate([(0, 33, 76), (255, 255, 255), (50, 0, 106), (19, 19, 19), (9, 9, 9), (19, 19, 19), (29, 29, 29)]):
         d.rectangle([i * W / 7, H * 0.75, (i + 1) * W / 7, H], fill=c)
-    d.rectangle([W / 2 - 330, H * 0.30, W / 2 + 330, H * 0.43], fill=BG)
-    d.text((W / 2, H * 0.365), "GUINEO TV · SEÑAL DE AJUSTE", font=B(44), fill=Y, anchor="mm")
+    r = 230
+    d.ellipse([W / 2 - r, H * 0.36 - r, W / 2 + r, H * 0.36 + r], fill=NEGRO, outline=BLANCO, width=10)
+    lg = base.LOGO.resize((380, 380))
+    im.paste(lg, (int(W / 2 - 190), int(H * 0.36 - 190)), lg)
     return np.asarray(im)
 
 
@@ -64,22 +90,53 @@ def estatica():
 
 
 def grafica(k, t):
-    """Gráficas propias de Guineo entre memes."""
-    im = Image.new("RGB", (W, H), Y if k == 0 else BG)
+    """Gráficas propias entre memes: placa 'por favor espere' y los segmentos."""
+    if k == 0 and PLACA is not None:
+        im = ajustar(PLACA)
+        z = 1 + 0.04 * t
+        im = im.resize((int(W * z), int(H * z))).crop((int(W * (z - 1) / 2), int(H * (z - 1) / 2), int(W * (z - 1) / 2) + W, int(H * (z - 1) / 2) + H))
+        return np.asarray(im)
+    im = Image.new("RGB", (W, H), NEGRO)
     d = ImageDraw.Draw(im)
-    e = base.ease_out(t / 0.25)
-    if k == 0:
-        lg = base.LOGO.resize((360, 360))
-        im.paste(lg, (int(W / 2 - 180 - (1 - e) * 400), int(H / 2 - 260)), lg)
-        d.text((W / 2, H * 0.72), "GUINEO COMUNICACIONES", font=A(120), fill=BG, anchor="mm")
-    else:
-        for i, s in enumerate(["VILLANO", "WINNER", "CABALLERO"]):
-            ee = base.ease_out((t - i * 0.08) / 0.2)
-            cy = H * (0.28 + i * 0.22)
-            x = W / 2 + (1 - ee) * W * (1 if i % 2 else -1)
-            d.rectangle([x - 560, cy - 85, x + 560, cy + 85], fill=Y)
-            d.text((x, cy), f"{s} DE LA SEMANA", font=A(90), fill=BG, anchor="mm")
+    for i, (s_, c) in enumerate([("VILLANO", ROJO), ("WINNER", CIAN), ("CABALLERO", BLANCO)]):
+        ee = base.ease_out((t - i * 0.08) / 0.2)
+        cy = H * (0.27 + i * 0.23)
+        x = W / 2 + (1 - ee) * W * (1 if i % 2 else -1)
+        d.text((x, cy), s_, font=NEGI(170), fill=c, anchor="mm")
+    d.text((W / 2, H * 0.92), "DE LA SEMANA", font=OSD(48), fill=BLANCO, anchor="mm")
     return np.asarray(im)
+
+
+def titulo(t):
+    """Tras apagarse la tele: título con estilo propio del SRF (negro, blanco/rojo/cian, Inter)."""
+    im = Image.new("RGB", (W, H), NEGRO)
+    d = ImageDraw.Draw(im)
+    lineas = [("SÚPER", 0.05, 150), ("RESUMEN", 0.20, 230), ("FUTBOLERO", 0.35, 230)]
+    capas = []
+    for i, (txt, t0, tam) in enumerate(lineas):
+        e = base.ease_out((t - t0) / 0.18)
+        if e <= 0:
+            continue
+        y = H * (0.23 + i * 0.22) + (1 - e) * 60
+        glitch = max(0, 1 - (t - t0) / 0.35) * 26
+        f = NEGI(tam)
+        if glitch > 1:
+            d.text((W / 2 - glitch, y), txt, font=f, fill=ROJO, anchor="mm")
+            d.text((W / 2 + glitch, y), txt, font=f, fill=CIAN, anchor="mm")
+        d.text((W / 2, y), txt, font=f, fill=BLANCO if i < 2 else ROJO, anchor="mm")
+    e = base.ease_out((t - 0.7) / 0.3)
+    if e > 0:
+        ww = int(820 * e)
+        d.rectangle([W / 2 - ww, H * 0.78, W / 2 + ww, H * 0.78 + 10], fill=CIAN)
+        lg = base.LOGO.resize((110, 110))
+        im.paste(lg, (int(W / 2 - 330), int(H * 0.80)), lg)
+        d.text((W / 2 - 200, H * 0.80 + 55), "por GUINEO COMUNICACIONES", font=OSD(42), fill=BLANCO, anchor="lm")
+    if t > 1.1:
+        d.text((90, 70), "▶ PLAY", font=OSD(56), fill=VERDE, anchor="la")
+        d.text((W - 90, 70), "VILLANO · WINNER · CABALLERO", font=OSD(36), fill=BLANCO, anchor="ra")
+    if t > 3.3:  # parpadeo de salida
+        return crt(np.asarray(im) // 3 if int(t * 30) % 2 else np.asarray(im), 0.8)
+    return crt(np.asarray(im), 0.8)
 
 
 def cargar_meme(m):
@@ -94,13 +151,12 @@ def cargar_meme(m):
     out = []
     for f in fr:
         im = Image.fromarray(f).crop((int(x0 * w0), int(y0 * h0), int(x1 * w0), int(y1 * h0)))
-        fondo = im.resize((W, H)).filter(ImageFilter.GaussianBlur(30))
-        fondo = Image.eval(fondo, lambda v: int(v * 0.45))
-        k = H / im.height
-        fg = im.resize((int(im.width * k), H))
-        fondo.paste(fg, ((W - fg.width) // 2, 0))
+        fondo = ajustar(im)
         d = ImageDraw.Draw(fondo)
-        d.text((W / 2, H * 0.86), m["texto"], font=A(110), fill=Y, anchor="mm", stroke_width=8, stroke_fill=BG)
+        f = NEGI(92)
+        x0_, y0_, x1_, y1_ = d.textbbox((W / 2, H * 0.86), m["texto"], font=f, anchor="mm")
+        d.rectangle([x0_ - 34, y0_ - 22, x1_ + 34, y1_ + 22], fill=ROJO)
+        d.text((W / 2, H * 0.86), m["texto"], font=f, fill=BLANCO, anchor="mm")
         out.append(np.asarray(fondo))
     while len(out) < n:
         out.append(out[-1])
@@ -112,7 +168,10 @@ def audio_meme(m, path):
                            "-ac", "1", "-ar", str(SR), path])
 
 
-def main(out, memes_json):
+def main(out, memes_json, placa=None):
+    global PLACA
+    if placa:
+        PLACA = Image.open(placa).convert("RGB")
     memes = json.load(open(memes_json, encoding="utf-8"))
     tmp = tempfile.mkdtemp()
     # guion de planos: (tipo, duracion, dato)
@@ -134,11 +193,13 @@ def main(out, memes_json):
     mix = np.zeros(int(n_total / FPS * SR) + SR, np.float32)
     pos = 0  # frame actual
     ultimo = None
+    ch = 0
     for tipo, dur, dato in plan:
         n = int(round(dur * FPS))
         a0 = int(pos / FPS * SR)
         if tipo == "barras":
-            fr = crt(barras(dato))
+            ch += 1
+            fr = crt(canal(barras(dato), ch))
             for _ in range(n):
                 p.stdin.write(fr.tobytes())
             tt = np.arange(int(dur * SR)) / SR
@@ -152,8 +213,9 @@ def main(out, memes_json):
             tt = np.arange(int(0.25 * SR)) / SR
             mix[a0:a0 + len(tt)] += np.sin(2 * math.pi * (80 + 200 * np.exp(-tt * 20)) * tt) * np.exp(-tt * 8) * 0.8
         elif tipo == "meme":
+            ch += 1
             for fr in cargar_meme(dato):
-                fr = crt(fr, 0.7)
+                fr = crt(canal(fr, ch), 0.7)
                 p.stdin.write(fr.tobytes())
                 ultimo = fr
             if dato.get("audio", True):
@@ -189,7 +251,7 @@ def main(out, memes_json):
             mix[a0:a0 + len(tt)] += np.sin(2 * math.pi * (900 * np.exp(-tt * 6) + 60) * tt) * np.exp(-tt * 3) * 0.35
         elif tipo == "final":
             for f in range(n):
-                p.stdin.write(base.cuadro(1.85 + f / FPS).tobytes())
+                p.stdin.write(titulo(f / FPS).tobytes())
         pos += n
     p.stdin.close(); p.wait()
     # audio del final: el de srf_intro desde 1.85 s
@@ -209,4 +271,4 @@ def main(out, memes_json):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2], sys.argv[3] if len(sys.argv) > 3 else None)
