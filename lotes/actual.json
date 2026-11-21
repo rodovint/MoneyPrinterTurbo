@@ -1,78 +1,218 @@
 [
  {
-  "titulo": "Moisés Caicedo salió lesionado en el primer tiempo de Chelsea vs Leeds United",
-  "etiqueta": "ECUATORIANOS",
-  "color": "#38B000",
-  "audio": "audio/Moisesc.ogg",
+  "titulo": "Boca vs Atlético Mineiro: final de la Sudamericana con 4 ecuatorianos",
+  "etiqueta": "FINAL SUDAMERICANA",
+  "color": "#0B3D91",
+  "audio": "audio/final-sud",
   "franja": [
-   "ALARMA POR MOISÉS CAICEDO",
-   "SALIÓ LESIONADO ANTE LEEDS UNITED",
-   "CAMBIO EN EL PRIMER TIEMPO",
-   "PREOCUPACIÓN EN CHELSEA Y EN LA TRI"
+   "FINAL SUDAMERICANA HOY 17:30",
+   "BOCA JUNIORS VS. ATLÉTICO MINEIRO",
+   "BARRANQUILLA · PARTIDO ÚNICO",
+   "4 ECUATORIANOS EN LA FINAL"
   ],
   "escenas": [
    {
-    "texto": "Moisés Caicedo salió lesionado en el primer tiempo ante Leeds tras una dura caída.",
-    "foto_commons": "Moisés Caicedo 20042025 (1).jpg",
+    "texto": "¡Final con sabor ecuatoriano: Enner Valencia contra el Ecuamineiro!",
+    "foto_commons": "Franck Kessie Enner Valencia Cote D'Ivoire v Ecuador 14 June 2026-202.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡MOISÉS SALIÓ LESIONADO!",
-     "sobre": "CHELSEA VS. LEEDS"
+     "texto": "¡FINAL CON SABOR ECUATORIANO!",
+     "sobre": "ENNER VS. EL ECUAMINEIRO"
     },
     "transicion": "flash",
     "destello": true,
-    "suspenso": true
+    "hinchada": true,
+    "inicio": 6.72,
+    "fin": 11.14
    },
    {
-    "texto": "El volante ecuatoriano disputó un balón aéreo, cayó con fuerza y no pudo seguir en el partido.",
-    "foto_commons": "Joshua Kimmich Enner Valencia Ecuador v Germany 25 June 2026-098.jpg",
+    "texto": "Hoy, a las cinco y media de la tarde, Boca Juniors y Atlético Mineiro se juegan la Copa Sudamericana a partido único.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "BOCA JUNIORS",
+       "color": "#0B3D91",
+       "escudo": "img/escudos/boca.png"
+      },
+      {
+       "nombre": "ATLÉTICO MINEIRO",
+       "color": "#1A1A1A",
+       "escudo": "img/escudos/atletico-mineiro.png"
+      }
+     ],
+     "hora": "HOY 17:30",
+     "pie": "FINAL COPA SUDAMERICANA · PARTIDO ÚNICO"
+    },
+    "transicion": "barrido",
+    "hinchada": true,
+    "inicio": 19.48,
+    "fin": 25.66
+   },
+   {
+    "texto": "El escenario es el Metropolitano Roberto Meléndez de Barranquilla, en Colombia.",
+    "foto_commons": "Estadio Metropolitano de Baranquilla 2011.jpg",
     "movimiento": "paneo_der",
     "grafico": {
      "tipo": "titular",
-     "texto": "FUERTE CAÍDA EN EL ÁREA",
-     "sobre": "PRIMER TIEMPO"
+     "texto": "METROPOLITANO DE BARRANQUILLA",
+     "sobre": "EL ESCENARIO"
     },
-    "voz": "andrea",
-    "transicion": "barrido",
-    "suspenso": true
+    "transicion": "zoom",
+    "inicio": 31.2,
+    "fin": 35.7
    },
    {
-    "texto": "Al minuto veintiuno dejó la cancha en Stamford Bridge y salió del encuentro.",
-    "foto_commons": "Chelsea Football Club, Stamford Bridge 28.jpg",
+    "texto": "En Boca está nuestro Superman, Enner Valencia, que quiere levantar una copa internacional con el xeneize.",
+    "foto_commons": "Enner Valencia (24735821595) (cropped).jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "cifra",
-     "valor": "21'",
-     "texto": "SALIÓ EN EL PRIMER TIEMPO"
+     "tipo": "escudo",
+     "escudo": "img/escudos/boca.png",
+     "sobre": "BOCA JUNIORS",
+     "texto": "NUESTRO SUPERMAN"
     },
-    "voz": "andrea",
-    "transicion": "zoom"
+    "transicion": "flash",
+    "destello": true,
+    "inicio": 37.74,
+    "fin": 43.1
    },
    {
-    "texto": "La preocupación crece porque ya había pedido cambio en el entretiempo del amistoso de La Tri ante Bolivia.",
-    "foto_commons": "Enner Valencia Cote D'Ivoire v Ecuador 14 June 2026-169.jpg",
+    "texto": "Del otro lado, el Mineiro tiene tres tricolores: Ángelo Preciado, Alan Minda y Alan Franco.",
+    "foto_commons": "Angelo Preciado 17 Ecuador v Germany at 2026 Fifa World Cup by YantsImages 01.jpg",
     "movimiento": "paneo_izq",
     "grafico": {
-     "tipo": "titular",
-     "texto": "ANTECEDENTE ANTE BOLIVIA",
-     "sobre": "PREOCUPACIÓN FÍSICA"
+     "tipo": "escudo",
+     "escudo": "img/escudos/atletico-mineiro.png",
+     "sobre": "3 TRICOLORES",
+     "texto": "PRECIADO · MINDA · FRANCO"
     },
-    "voz": "andrea",
-    "transicion": "rota",
-    "tono": "urgente"
+    "transicion": "barrido",
+    "inicio": 43.98,
+    "fin": 49.0
    },
    {
-    "texto": "¿Qué tan grave crees que sea esta nueva molestia de Moisés Caicedo?",
-    "foto_commons": "Museo de la Pasión Boquense en enero de 2024 - BugWarp 06.jpg",
+    "texto": "Por eso en Ecuador ya le dicen el Ecuamineiro.",
+    "foto_commons": "Alan Minda Cote D'Ivoire v Ecuador 14 June 2026-186 (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡EL ECUAMINEIRO!",
+     "sobre": "ASÍ LE DICEN EN ECUADOR"
+    },
+    "transicion": "glitch",
+    "destello": true,
+    "inicio": 60.8,
+    "fin": 63.34
+   },
+   {
+    "texto": "Pero ojo: Alan Franco no juega la final, porque fue expulsado en la semis.",
+    "foto_commons": "Alan Franco Bazoumana Toure Cote D'Ivoire v Ecuador 14 June 2026-147.jpg",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿QUÉ TAN GRAVE ES?",
-     "sobre": "TU OPINIÓN"
+     "texto": "FRANCO NO JUEGA LA FINAL",
+     "sobre": "EXPULSADO EN SEMIFINALES"
     },
-    "voz": "andrea",
-    "transicion": "glitch"
+    "transicion": "rota",
+    "tono": "urgente",
+    "suspenso": true,
+    "inicio": 69.84,
+    "fin": 74.6
+   },
+   {
+    "texto": "Así que en la cancha veremos a Enner frente a Preciado y Minda.",
+    "foto_commons": "Amad Diallo Angelo Preciado Cote D'Ivoire v Ecuador 14 June 2026-229.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ENNER VS. PRECIADO Y MINDA",
+     "sobre": "DUELO TRICOLOR"
+    },
+    "transicion": "barrido",
+    "hinchada": true,
+    "inicio": 78.44,
+    "fin": 81.4
+   },
+   {
+    "texto": "El Mineiro llega con una espina: el año pasado perdió la final de la Sudamericana por penales ante Lanús.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "LANÚS",
+       "color": "#7A1F2B",
+       "escudo": "img/escudos/lanus.png"
+      },
+      {
+       "nombre": "ATLÉTICO MINEIRO",
+       "color": "#1A1A1A",
+       "escudo": "img/escudos/atletico-mineiro.png"
+      }
+     ],
+     "hora": "FINAL 2025 · PENALES",
+     "pie": "EL MINEIRO SE QUEDÓ SIN LA COPA"
+    },
+    "transicion": "zoom",
+    "tono": "recuerdo",
+    "suspenso": true,
+    "inicio": 88.92,
+    "fin": 94.22
+   },
+   {
+    "texto": "Y el Galo nunca ha ganado este torneo.",
+    "foto_commons": "Camiseta y trofeo de la Copa Sudamericana 2013, expuestos en el Museo Granate, del Club Atlético Lanús.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "0",
+     "texto": "SUDAMERICANAS GANADAS POR EL GALO"
+    },
+    "transicion": "flash",
+    "suspenso": true,
+    "inicio": 98.78,
+    "fin": 101.16
+   },
+   {
+    "texto": "Pase lo que pase, esta noche un ecuatoriano levantará la copa.",
+    "foto_commons": "Cote D'Ivoire v Ecuador 14 June 2026-159.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "UN ECUATORIANO LEVANTA LA COPA",
+     "sobre": "PASE LO QUE PASE"
+    },
+    "transicion": "flash",
+    "destello": true,
+    "tono": "celebracion",
+    "hinchada": true,
+    "inicio": 105.98,
+    "fin": 109.7
+   },
+   {
+    "texto": "¿Con quién vas: con Enner y Boca, o con el Ecuamineiro?",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "BOCA JUNIORS",
+       "color": "#0B3D91",
+       "escudo": "img/escudos/boca.png"
+      },
+      {
+       "nombre": "ATLÉTICO MINEIRO",
+       "color": "#1A1A1A",
+       "escudo": "img/escudos/atletico-mineiro.png"
+      }
+     ],
+     "hora": "¿CON QUIÉN VAS?",
+     "pie": "ENNER Y BOCA O EL ECUAMINEIRO"
+    },
+    "transicion": "barrido",
+    "hinchada": true,
+    "inicio": 114.78,
+    "fin": 119.32
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -80,7 +220,8 @@
      "tipo": "cierre",
      "texto": "COMENTA Y SÍGUENOS"
     },
-    "transicion": "barrido"
+    "inicio": 123.16,
+    "fin": 126.2
    }
   ]
  }
