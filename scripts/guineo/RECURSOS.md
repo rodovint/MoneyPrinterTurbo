@@ -118,3 +118,10 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 ## Pendiente / ideas
 - **Escena animada corta (idea de Mui, 18/11; se prueba el sábado 21 con el Súper Resumen, NO usar antes):** recurso extra para los reels de Guineo basado en la habilidad claude-animated-shorts (github.com/mromidev/claude-animated-shorts, MIT; three.js + Remotion, personajes 2D en mundo 3D). Regla: **máximo 5 s por reel**, recreando el momento que se está contando, combinada con los recursos de siempre (gráficos, escudos, dibujos, pizarra). Solo 1 por reel y solo en los reels 🔥 más importantes, para no gastar uso. Reutilizar escenarios y personajes genéricos ya hechos (estadio, hinchas, arquero, delantero) en vez de crear todo de cero. Sin caras realistas de jugadores reales ni escudos dentro de la animación.
 - Recreación 3D de jugadas con la animación de El Profe (otro repo): aún no conectada.
+
+## Guion de edición con cada guion (Mui, 21/11)
+- Con CADA guion que se manda a Mui para aprobar va también su GUION DE EDICIÓN, segundo a segundo, para que ella vea el video antes de producirlo. Una línea por escena con este formato:
+  `0:00–0:03 · VISUAL: foto Commons de Enner (zoom in) · TEXTO: "¡ENNER LO HIZO!" · EFECTO: destello + flash de entrada · VOZ: Mui (gancho)`
+- Debe decir en qué segundo entra cada imagen (foto Commons, escudo, gráfico, dibujo, pizarra), cada efecto (destello, hinchada, suspenso, zoom, glitch), cada transición entre escenas (flash, barrido, zoom, glitch, rota), los textos/franja en pantalla y quién dice cada frase (Mui o Andrea).
+- Los segundos se estiman a ~2,6 palabras por segundo hasta que llegue el audio; con el audio de Mui se ajustan con los tiempos reales (inicio/fin) y, si cambian mucho, se avisa.
+- Va en el mismo mensaje de aprobación (debajo del guion) y en el .md del borrador.
