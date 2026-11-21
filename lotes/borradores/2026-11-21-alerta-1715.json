@@ -1,21 +1,21 @@
 [
   {
-    "titulo": "Barcelona SC vence a Universidad Católica y sigue vivo por la Libertadores",
+    "titulo": "¡Barcelona SC gana 1-0 a Universidad Católica en Quito y sueña con la Libertadores 2027!",
     "etiqueta": "HEXAGONAL FINAL",
     "color": "#FFD100",
     "audio": "audio/NN",
-    "franja": ["CATÓLICA [L]-[V] BARCELONA SC", "GOL: [GOLEADOR] [MIN]'", "BSC: 52 PUNTOS", "PENDIENTE VS. IDV: MIÉ 25/11"],
+    "franja": ["CATÓLICA 0-1 BARCELONA SC", "GOL: PERLAZA", "BSC: 52 PUNTOS", "MIÉ 25/11: BSC VS. IDV EN CASA"],
     "escenas": [
       {
-        "texto": "Barcelona le ganó [MARCADOR] a Católica y sigue vivo en la pelea por la Libertadores.",
+        "texto": "¡Barcelona ganó uno a cero en Quito y el ídolo está más vivo que nunca!",
         "foto": "img/[FOTO-PROTAGONISTA]",
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "titular", "texto": "¡EL ÍDOLO SIGUE VIVO!", "sobre": "CATÓLICA [L]-[V] BARCELONA SC"},
+        "grafico": {"tipo": "titular", "texto": "¡EL ÍDOLO ESTÁ VIVO!", "sobre": "CATÓLICA 0-1 BARCELONA SC"},
         "transicion": "flash",
         "hinchada": true
       },
       {
-        "texto": "[GOLEADOR] marcó al minuto [MIN], bajo la lluvia, en la fecha siete del hexagonal final.",
+        "texto": "Perlaza abrió el marcador y el equipo de Pablo Trobbiani se trajo los tres puntos en la fecha siete del hexagonal final.",
         "voz": "andrea",
         "destello": true,
         "grafico": {"tipo": "marcador", "equipos": [
@@ -23,20 +23,25 @@
           {"nombre": "BARCELONA SC", "color": "#FFD100", "goles": 1, "escudo": "img/escudos/barcelona.png"}], "pie": "HEXAGONAL FINAL · FECHA 7"}
       },
       {
-        "texto": "Con este triunfo, Barcelona llega a cincuenta y dos puntos, a solo dos de Católica, Liga de Quito y Aucas.",
+        "texto": "Con este triunfo, Barcelona llega a cincuenta y dos puntos, a solo dos de Universidad Católica.",
         "voz": "andrea",
-        "grafico": {"tipo": "cifra", "numero": 52, "texto": "PUNTOS DE BARCELONA", "sobre": "CATÓLICA, LIGA Y AUCAS: 54"}
+        "grafico": {"tipo": "cifra", "numero": 52, "texto": "PUNTOS DE BARCELONA", "sobre": "CATÓLICA: 54"}
       },
       {
-        "texto": "Y todavía le queda el partido pendiente contra Independiente del Valle, el miércoles veinticinco.",
+        "texto": "Y lo mejor viene ahora: el miércoles, en casa, juega el partido pendiente contra Independiente del Valle.",
         "voz": "andrea",
         "grafico": {"tipo": "partido", "equipos": [
           {"nombre": "BARCELONA SC", "color": "#FFD100", "escudo": "img/escudos/barcelona.png"},
-          {"nombre": "INDEPENDIENTE DEL VALLE", "color": "#1A1A1A", "escudo": "img/escudos/idv.png"}], "hora": "MIÉ 25/11", "pie": "PARTIDO PENDIENTE"}
+          {"nombre": "INDEPENDIENTE DEL VALLE", "color": "#1A1A1A", "escudo": "img/escudos/idv.png"}], "hora": "MIÉ 25/11", "pie": "PARTIDO PENDIENTE · EN CASA"}
       },
       {
-        "texto": "¿Le alcanza a Barcelona para meterse en la Libertadores?",
-        "grafico": {"tipo": "titular", "texto": "¿LE ALCANZA?", "sobre": "TU OPINIÓN"},
+        "texto": "¡Si gana, el ídolo se mete con todo en la pelea por la Libertadores dos mil veintisiete!",
+        "grafico": {"tipo": "titular", "texto": "¡RUMBO A LA LIBERTADORES 2027!", "sobre": "MIÉRCOLES EN CASA"},
+        "hinchada": true
+      },
+      {
+        "texto": "¿Hincha torero, le ganamos a Independiente y nos metemos a la Libertadores?",
+        "grafico": {"tipo": "titular", "texto": "¿NOS METEMOS?", "sobre": "TU OPINIÓN"},
         "suspenso": true
       },
       {
