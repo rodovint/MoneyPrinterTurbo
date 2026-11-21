@@ -1,17 +1,83 @@
 {
- "fecha": "2026-11-21T16:47-05:00",
+ "fecha": "2026-11-21T17:22-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "flamengo vs",
+    "tema": "laliga",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pablo Durán puts Celta ahead at the Bernabéu after six minutes (Tu Futbolero)",
+     "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "kylian mbappé",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Mbappé disappoints, Vinícius dazzles, Espí decides': Mourinho survives a disastrous night! (Goal.com)",
+     "Did the referee favour Real? Archivo VAR settles debate over Mbappé penalty (Goal.com)"
+    ]
+   },
+   {
+    "tema": "la liga",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Soccer (chronicleonline.com)",
+     "Italy Serie A Soccer (chronicleonline.com)"
+    ]
+   },
+   {
+    "tema": "alianza lima - fc cajamarca",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alianza Lima vs FC Cajamarca EN VIVO HOY: minuto a minuto del partido en Matute por Torneo Clausura de Liga 1 2026 (Infobae)",
+     "Y llegó el primer gol oficial: Luis Ramos anotó el 1-0 de Alianza Lima ante FC Cajamarca [VIDEO] (https://geniostv.pe/)"
+    ]
+   },
+   {
+    "tema": "mónaco - auxerre",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "AS Monaco 1-1 Auxerre: Faivre brilla en la Ligue 1 (Sofascore)",
+     "Mónaco-Auxerre, previa: el Mónaco suma 5 bajas y el Auxerre 4 (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "posiciones de técnico universitario contra deportivo cuenca",
+    "volumen": "10000+",
+    "volumen_min": 10000,
     "desde": "2026-11-21T13:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Gonzalo Plata actuó en triunfo del Flamengo que lo acerca al título en Brasil (El Universo)",
-     "Gonzalo Plata vuelve a la cancha: así le fue con Flamengo tras dejar la Tri y cerca de ser campeón (Diario Extra)"
+     "Técnico Universitario cobra vida con tres puntos de oro para salir de la zona del descenso (VIDEO) (futbolecuador.com)",
+     "EN VIVO | Técnico Universitario vs. Deportivo Cuenca por la Fecha 7 del hexagonal del descenso de la LigaPro (Primicias)"
+    ]
+   },
+   {
+    "tema": "flamengo vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Los Reyes de Brasil Flamengo se tomo la cancha de Palmeiras y Gonzalo Plata grito bicampeon (futbolecuador.com)",
+     "¿Qué necesita Flamengo para ser campeón del Brasileirao 2026? (Ecuavisa)"
     ]
    },
    {
@@ -21,30 +87,19 @@
     "desde": "2026-11-21T13:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Monaco vs Auxerre Confirmed Lineups (WhoScored.com)",
-     "Monaco vs Auxerre Prediction & Betting Tips | 21/11/2026 (FootballPredictions.com)"
-    ]
-   },
-   {
-    "tema": "madrid",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Real Madrid vs Celta Vigo: Spanish La Liga stats & head-to-head (BBC)",
-     "CONFIRMED lineups: Real Madrid vs Celta Vigo, 2026 La Liga (Managing Madrid)"
+     "Monaco vs Auxerre: French Ligue 1 stats & head-to-head (BBC)",
+     "Monaco-Auxerre preview: Monaco have five absentees, Auxerre four (Tu Futbolero)"
     ]
    },
    {
     "tema": "u. católica - barcelona sc",
-    "volumen": "10000+",
-    "volumen_min": 10000,
+    "volumen": "20000+",
+    "volumen_min": 20000,
     "desde": "2026-11-21T12:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Universidad Católica vs. Barcelona SC por el hexagonal final de la LigaPro (Ecuavisa)",
-     "Pablo Trobbiani, DT de Barcelona SC: “Tenemos cinco finales por delante, hay que buscar los resultados tanto afuera como adentro” (El Universo)"
+     "EN VIVO | Universidad Católica vs. Barcelona SC por el partido de la Fecha 7 del primer hexagonal de la LigaPro (Primicias)",
+     "Universidad Católica vs. Barcelona SC por el hexagonal final de la LigaPro (Ecuavisa)"
     ]
    },
    {
@@ -54,295 +109,328 @@
     "desde": "2026-11-21T12:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Argentinos Juniors vs Independiente, por los playoffs del Torneo Clausura, EN VIVO: resultado y minuto a minuto (Clarin.com)",
-     "Equipo titular. Viera confirmo a los 11 (OneFootball)"
-    ]
-   },
-   {
-    "tema": "losc - lyon",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T12:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "LOSC - OL : les compositions officielles (Foot Mercato)",
-     "Ayase Ueda pourrait revenir de blessure face au Lyon (Tu Futbolero)"
-    ]
-   },
-   {
-    "tema": "palmeiras vs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T12:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Palmeiras vs Flamengo: Brazilian Serie A stats & head-to-head (BBC)",
-     "What do Flamengo need to be crowned Brasileirao champions? (BeSoccer Livescore)"
-    ]
-   },
-   {
-    "tema": "puerto santa ana",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-21T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Colapsó muro en Puerto Santa Ana en área que estaba cerrada de manera preventiva (El Universo)",
-     "Alerta en Puerto Santa Ana: cede un muro de contención tras un deslizamiento de tierra (Teleamazonas)"
-    ]
-   },
-   {
-    "tema": "posiciones de sevilla fc contra betis",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sevilla vs Real Betis: Spanish La Liga stats & head-to-head (BBC)",
-     "Parrott's first Seville derby for Betis ends in a draw (RTE.ie)"
-    ]
-   },
-   {
-    "tema": "alexander zverev",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T12:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The final top-10 rankings for 2026 are now confirmed after Daniil Medvedev beats Frances Tiafoe (Tennishead)",
-     "Alcaraz Targets Perfect Group Finish as Medvedev Faces Tiafoe (cwibc.co.id)"
+     "Equipo titular. Viera confirmo a los 11 (OneFootball)",
+     "Argentinos marcó el gol del empate ante Independiente en el arranque del segundo tiempo (ESPN Argentina)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "i play rocky cast",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T13:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "How did 'I Play Rocky' star Anthony Ippolito transform into Sylvester Stallone? Raw eggs, a 40-pound weight gain and some X-rated homework. (Yahoo)",
-     "Review: 'I Play Rocky' might be even more inspiring than original 'Rocky' (KSL)"
-    ]
-   },
-   {
-    "tema": "bret bielema",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Notebook: Scott 'grateful' for Illini opportunity; preparing for '60-minute fist fight' against Iowa (247Sports)",
-     "Matthew Bailey and Bret Bielema reflect on Bailey's career at Illinois (KWQC)"
-    ]
-   },
-   {
-    "tema": "indiana fever",
+    "tema": "kylian mbappé",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-21T13:20:00-08:00",
+    "desde": "2026-11-21T14:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Sources: Fever working through finalists to head basketball operations (ESPN)",
-     "Indiana Fever GM search narrows, multiple candidates come with NBA ties: Sources - The Athletic (The New York Times)"
+     "'Goodness gracious me!' Mbappe skies penalty for Real Madrid (ESPN)",
+     "Kylian Mbappé skies penalty in rare moment for Real Madrid 📉 (Yahoo Sports)"
     ]
    },
    {
-    "tema": "byrum brown",
+    "tema": "desean bishop",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-21T13:20:00-08:00",
+    "desde": "2026-11-21T14:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "How Tristan Ti’a is developing behind Byrum Brown this season (AL.com)",
-     "Auburn encouraged by development of backup quarterback Tristan Ti'a (On3)"
+     "Why Tennessee's DeSean Bishop is deserving of Doak Walker Award | Adams (Knoxville News Sentinel)",
+     "DeSean Bishop rumbles into top five of Tennessee's career rushing leaders (On3)"
     ]
    },
    {
-    "tema": "colin simmons",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Only one change on the Friday Texas injury report (Burnt Orange Nation)",
-     "DB Warren Roberson upgraded to probable in Friday's SEC availability report (247Sports)"
-    ]
-   },
-   {
-    "tema": "mbappe",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Kylian Mbappé Impersonator Leads Colorful Roster of Doubles in Egyptian Doc ‘The Lookalike’ (IMDb)",
-     "The Lookalike (The Film Verdict)"
-    ]
-   },
-   {
-    "tema": "nathan mackinnon",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Avalanche superstar Nathan MacKinnon is now out 12 weeks (The Denver Post)",
-     "Nathan MacKinnon's injury timeline extended to 12 weeks, says coach (Sportsnet.ca)"
-    ]
-   },
-   {
-    "tema": "syracuse basketball",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Orange Welcome Lafayette for Saturday Showdown at the Dome (Syracuse University Athletics)",
-     "Syracuse basketball has to empty the tank to hold off Lafayette: Final score, recap, photos (Syracuse.com)"
-    ]
-   },
-   {
-    "tema": "wake forest college football standings",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:10:00-08:00",
+    "tema": "jude bellingham",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T14:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Who's on College Football Playoff bubble after the committee's third ranking? (ESPN)",
-     "‘Built in the Dark’: How Jake Dickert and John Currie Quietly Turned Wake Forest Into a Juggernaut (Sports Illustrated)"
+     "Jude Bellingham lays down two major conditions for Real Madrid contract extension as English star seeks parity with Vinicius Junior (Goal.com)",
+     "Real Madrid looks to increase Jude Bellingham's salary to 25 million euros: a new contract is in the works (Zamin.uz)"
     ]
    },
    {
-    "tema": "bob chesney",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T13:00:00-08:00",
+    "tema": "pachuca - toluca",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T14:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "‘On brand’ Bob Chesney has UCLA football alums fired up. Can the Bruins keep him? (Los Angeles Times)",
-     "Michigan’s Replacement for Kyle Whittingham Could Be At Big House Today (Yahoo Sports)"
+     "⚽ ¡Ya casi! Checa a qué HORA y en DÓNDE VER el Pachuca vs Toluca de la Liga MX 🦫🆚👹 (Facebook)",
+     "Pachuca vs Toluca en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA (DAZN)"
+    ]
+   },
+   {
+    "tema": "atlético mineiro - boca juniors",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ao vivo: Atlético-MG x Boca Juniors | Final | Copa Sul-Americana (ge)",
+     "Governador eleito Cleitinho Azevedo aposta em vitória do Atlético nos pênaltis na decisão da Sula (Rede 98)"
+    ]
+   },
+   {
+    "tema": "d3 football playoffs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "2026 DIII football championship: Bracket, schedule, scores (NCAA.com)",
+     "The 2026 Division III playoff bracket is out (FootballScoop.com)"
+    ]
+   },
+   {
+    "tema": "la liga",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Real Madrid vs Celta Vigo: Spanish La Liga stats & head-to-head (BBC)",
+     "Real Madrid starting lineup against Celta (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "marshall football",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chicago Blackhawks at Calgary Flames - NHL Game Summary - Nov 21, 2026 (USA Today)",
+     "South Carolina Gamecocks at Providence Friars - WNCAAB Game Summary - Nov 21, 2026 (USA Today)"
+    ]
+   },
+   {
+    "tema": "fsd 15",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tesla FSD V15 UI Overhaul: What to Expect and How to Prepare (BASENOR - Tesla Accessories)",
+     "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements (Teslarati)"
+    ]
+   },
+   {
+    "tema": "miss universe 2026",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Everything to Know About Miss Universe 2026, Including How to Watch the Pageant (People.com)",
+     "Miss Universe 2026: HOLA! USA and ¡HOLA! Américas’ top picks to win the crown (HOLA)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "primitiva 21 noviembre 2026",
+    "tema": "kylian mbappé",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La bendita injusticia de Mourinho (MARCA)",
+     "¡Penalti a la grada de Mbappé! (SPORT)"
+    ]
+   },
+   {
+    "tema": "sport",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "As good as anything for two years (Fox Sports)",
+     "Main Card Results | UFC Qatar (UFC.com)"
+    ]
+   },
+   {
+    "tema": "pablo gonzález fuertes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Florentino Pérez, con Nadal ya como nuevo miembro de la directiva del Madrid, no olvida el caso Negreira: “No voy a parar hasta que se depuren responsabilidades” (EL PAÍS)",
+     "González Fuertes responde a Florentino Pérez: \"A lo mejor los árbitros tienen que estar indignados con Real Madrid TV\" (MARCA)"
+    ]
+   },
+   {
+    "tema": "endrick",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cardinale confirms Milan ‘will spend money’ in January and praises Endrick (SempreMilan)",
+     "AC Milan chief drops transfer hint over Real Madrid star (Get Spanish Football News)"
+    ]
+   },
+   {
+    "tema": "jordi évole",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-21T13:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La Primitiva: comprobar sorteo del sábado 21 de noviembre (EL PAÍS)",
-     "Bonoloto y La Primitiva: Resultado de los sorteos de este sábado 21 de noviembre de 2026 (El Correo de Andalucía)"
-    ]
-   },
-   {
-    "tema": "yalla kora",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:30:00-08:00",
+    "desde": "2026-11-21T13:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "قام اللاعب الشاب الموهوب تشافي إسبارت بتمديد عقده مع برشلونة حتى عام 2030. (Vietnam.vn)",
-     "إسبارت يمدد عقده مع برشلونة حتى 2030 (الهيئة الوطنية للإعلام)"
+     "Nacieron a 70 kilómetros, pero en una Cataluña muy distinta: las raíces separadas de Jordi Évole (52 años) y Anna Gabriel (51) está entre la Barcelona metropolitana y un pueblo minero de patrimonio románico (Viajar)",
+     "Lola Índigo responde a Isabel Díaz Ayuso en LOS40 Music Awards: \"Que vivan los garrapateros y el pueblo trabajador de Andalucía\" (El Mundo)"
     ]
    },
    {
-    "tema": "denzel washington",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "2006 Action Thriller Starring Denzel Washington is Officially Free to Stream (Yahoo)",
-     "Denzel Washington’s Fan-Favorite Sci-Fi Thriller Movie Is Now Streaming Free (AOL.com)"
-    ]
-   },
-   {
-    "tema": "plus ultra",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La rescatada Plus Ultra echa el cierre definitivo: sale también de Venezuela y deja tirados a 80.000 pasaje... (OkDiario)",
-     "Avianca ofrece reubicación a los pasajeros afectados por el cese de rutas de Plus Ultra (Hosteltur)"
-    ]
-   },
-   {
-    "tema": "los juegos del hambre saga",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los juegos del hambre: Amanecer en la cosecha: Asturias paraíso artificial (**) (El Mundo)",
-     "\"Aterradoramente divertida\": Llega a Prime Video la precuela de 'Los juegos del hambre' con Peter Dinklage que revela el misterioso origen de Snow (Fotogramas ES)"
-    ]
-   },
-   {
-    "tema": "u. católica - barcelona sc",
+    "tema": "expropiación",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Universidad Catolica - Barcelona | Pronóstico y cuotas 21.11.2026 (Diario AS)",
-     "Trobbiani: “Ganando los partidos tendremos posibilidades para meternos en el pelotón de arriba” (OneFootball)"
-    ]
-   },
-   {
-    "tema": "christian imga",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Imga, primera baja de España en el Mundial (MARCA)",
-     "Lesión de Imga, vuelta a Lezama y adiós al Mundial sub-17 (Mundo Deportivo)"
-    ]
-   },
-   {
-    "tema": "mbappe",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T12:50:00-08:00",
+    "desde": "2026-11-21T13:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "González Fuertes: \"No me parece penalti a Mbappé y el VAR debió intervenir\" (MARCA)",
-     "¡Otro piscinazo que le pitan a Mbappé y lo manda a las nubes! (Mundo Deportivo)"
+     "Vietnam: se aprueba una ley que agiliza la expropiación de terrenos (AsiaNews)",
+     "Las transacciones transparentes previenen riesgos para los compradores de bienes raíces. (Vietnam.vn)"
     ]
    },
    {
-    "tema": "copa sudamericana",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T12:50:00-08:00",
-    "deporte_probable": true,
+    "tema": "la séptima",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Boca Juniors - Atlético Mineiro: horario y dónde ver la final de la Copa Sudamericana 2026 (EL PAÍS)",
-     "Boca Juniors y Atlético Mineiro buscan la Copa Sudamericana este sábado en Barranquilla (naiz:)"
+     "‘La Retranca’ analizará el debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo (Radio Televisión Canaria)",
+     "La Séptima se lleva el cara a cara contra laSexta: Javier Ruiz se impone a Ferreras (Elplural.com)"
     ]
    },
    {
-    "tema": "france vs argentina",
+    "tema": "jose sacristan",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T12:50:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "France vs Argentina: FREE live streams for Nations Championship game (TechRadar)",
-     "France welcomes back Jalibert and Dupont returns to scrumhalf for Argentina rugby test (Laredo Morning Times)"
+     "Una productora teatral denuncia al Ayuntamiento de Pinto (PP) por cancelar “por motivos ideológicos” una obra inspirada en Lorca y otros cuatro montajes (EL PAÍS)",
+     "Una compañía denuncia que el Ayuntamiento de Pinto (PP) \"censura\" una obra sobre Lorca por \"tintes ideológicos\" (RTVE.es)"
+    ]
+   },
+   {
+    "tema": "aspas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere un excursionista al despeñarse desde unos 70 metros de altura en Mallorca (La Vanguardia)",
+     "El excursionista fallecido al despeñarse en el Massanella es Jaime Ferrer, gerente de la Fundación Aspas (Diario de Mallorca)"
+    ]
+   },
+   {
+    "tema": "leighton meester",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Guarding Stars review – Leighton Meester is a delight in fizzy Netflix holiday romance (The Guardian)",
+     "Jared Padalecki Is Right Where He Never Expected to Be (Collider)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "paolo bulgari",
+    "tema": "tomás cuello",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tomás Cuello, el argentino de Atlético Mineiro que busca ante Boca un título esquivo y un récord histórico (La Nación)",
+     "¿Quién es el ex Atlético Tucumán que quiere amargar a Boca en la final de la Copa Sudamericana? (La Gaceta)"
+    ]
+   },
+   {
+    "tema": "kevin castaño",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Kevin Castaño, el ex River que puede amargar a Boca en la final de la Copa Sudamericana con Atlético Mineiro (TyC Sports)",
+     "La familia de Kevin Castaño presentes en el Metropolitano (Olé)"
+    ]
+   },
+   {
+    "tema": "fred",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "In Mexico City, 49ers' Fred Warner can represent his heritage and boost DPOY case (ESPN)",
+     "Aaron Jones, Sr. & Levi Drake Rodriguez Share Excitement for Vikings 1st Game in Mexico (Vikings.com)"
+    ]
+   },
+   {
+    "tema": "santiago mele",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Quién atajó más penales en su carrera?: Brayan Cortés o Santiago Mele (El Gráfico)",
+     "Mele fue titular en la goleada de Uruguay sobre República Dominicana – Todas las Ultimas Noticias de Independiente (InfiernoRojo.com)"
+    ]
+   },
+   {
+    "tema": "bernard",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bernard and his second spell at Atlético Mineiro: \"I've lived through a hurricane of things in these two years\" (gol.conmebol.com)",
+     "Bernard Is Atlético Mineiro's Last Link to the Historic 2013 Libertadores Final (beIN SPORTS)"
+    ]
+   },
+   {
+    "tema": "fiesta nacional del sol",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en San Juan: el pronóstico del tiempo para este sábado 21 noviembre de 2026 (Clarin.com)",
+     "FNS 2026: habrá colectivos gratuitos desde 23 puntos de la provincia (Si San Juan)"
+    ]
+   },
+   {
+    "tema": "espn",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "BYU Cougars at Kansas Jayhawks - NCAAF Game Summary - Nov 21, 2026 (USA Today)",
+     "BYU escapes with a triple-overtime win at Kansas (ESPN)"
+    ]
+   },
+   {
+    "tema": "atlético mineiro - boca juniors",
+    "volumen": "200000+",
+    "volumen_min": 200000,
+    "desde": "2026-11-21T13:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los 10 jugadores de Boca que se quedaron afuera del banco en Barranquilla (TyC Sports)",
+     "Videos: el color, la pasión y lo mejor de Boca-Atlético Mineiro :: Olé - ole.com.ar (Olé)"
+    ]
+   },
+   {
+    "tema": "paolo bulgari",
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-21T13:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -360,100 +448,62 @@
      "Pablo Trobbiani y el desafío de Barcelona ante la Universidad Católica: \"No nos resignamos en ninguna cancha\" (ESPN Argentina)",
      "Universidad Católica vs. Barcelona SC por el hexagonal final de la LigaPro (Ecuavisa)"
     ]
-   },
-   {
-    "tema": "clima tandil",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "napoli vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Watch: Serie A - Napoli v Torino (BBC)",
-     "[LIVESTREAMs] Real Madrid vs Celta Vigo Live Free Soccer LaLiga latest updates November 21, 2026 (Charleston Sun-Sentinel)"
-    ]
-   },
-   {
-    "tema": "o'higgins - u. de chile",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cuándo juegan O'Higgins vs. Universidad de Chile por la Liga de Primera: equipo, fecha y hora (ESPN Argentina)",
-     "Fernando Gago se florea con este logro en la Universidad de Chile: “Somos uno de los equipos…” (Bolavip Chile)"
-    ]
-   },
-   {
-    "tema": "clima olavarria",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T12:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "atlanta",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T12:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "At ATL Write Party, Atlanta Creatives Trade Screens for Notebooks (The Atlanta Voice)",
-     "The Atlanta News Quiz for November 21 (Reporter Newspapers)"
-    ]
-   },
-   {
-    "tema": "estudiantes vs palmeiras",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Palmeiras vs Estudiantes de La Plata: cuándo, a qué hora y dónde ver en vivo desde México la Final de la Copa Libertadores 2026 (Infobae)",
-     "Un centenario que tuvo de todo con Palmeiras (Diario El Día de La Plata)"
-    ]
-   },
-   {
-    "tema": "alianza lima - fc cajamarca",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alianza Lima vs. FC Cajamarca, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE (TyC Sports)",
-     "Luis Ramos marcó su primer gol con Alianza Lima tras asistencia de Cristian Neira en duelo vs FC Cajamarca por Torneo Clausura 2026 (Infobae)"
-    ]
-   },
-   {
-    "tema": "monaco fc",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Monaco vs Auxerre Confirmed Lineups (WhoScored.com)",
-     "Monaco vs Auxerre Prediction & Betting Tips | 21/11/2026 (FootballPredictions.com)"
-    ]
    }
   ],
   "MX": [
    {
-    "tema": "jude bellingham",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "tema": "julion alvarez en monterrey",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Metrorrey extiende su horario por concierto de Julión Álvarez este sábado; ¿hasta qué hora? (MILENIO)",
+     "Julión Álvarez en Monterrey: ¿habrá lluvia durante su concierto en Monterrey? (ABC Noticias)"
+    ]
+   },
+   {
+    "tema": "ucla vs michigan",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: NCAA Football: UCLA at Michigan (Reuters Connect)",
+     "Polymarket Promo Code MLIVE25BONUS unlocks a $25 bonus for predicting UCLA vs. Michigan (MLive.com)"
+    ]
+   },
+   {
+    "tema": "kylian mbappé",
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-21T13:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Messi heir Paz sends timely reminder to Poch as long-term Man Utd target shines (The Sun)",
-     "Manchester United fans told to watch for transfer clues as ‘heir to Lionel Messi’ linked (talkSPORT)"
+     "¿Favoreció el árbitro al Real Madrid? «Archivo VAR» zanja la polémica del penalti de Mbappé (Goal.com)",
+     "Mbappé falla penal en el Real Madrid vs Celta y Rafael Nadal lo lamenta en el Bernabéu | VIDEO (El Heraldo de México)"
+    ]
+   },
+   {
+    "tema": "jude bellingham",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liverpool Transfer News: The next Jude Bellingham confirms he's ready to join Reds (Anfield Watch)",
+     "Messi heir Paz sends timely reminder to Poch as long-term Man Utd target shines (The Sun)"
+    ]
+   },
+   {
+    "tema": "tasa de cambio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "1 DAY a ARS: Tasa de cambio en tiempo real (WEEX)",
+     "La caída del peso… ¿sin efecto inflacionario? (El Financiero)"
     ]
    },
    {
@@ -468,25 +518,14 @@
     ]
    },
    {
-    "tema": "kylian mbappé",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¿Favoreció el árbitro al Real Madrid? «Archivo VAR» zanja la polémica del penalti de Mbappé (Goal.com)",
-     "Mbappé falla penal en el Real Madrid vs Celta y Rafael Nadal lo lamenta en el Bernabéu | VIDEO (El Heraldo de México)"
-    ]
-   },
-   {
     "tema": "trent alexander-arnold",
     "volumen": "100+",
     "volumen_min": 100,
     "desde": "2026-11-21T13:30:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Open Thread: 19 November 2026 (Managing Madrid)",
-     "Endrick’s January Exit Blocked After Mourinho Intervenes (Sportscape Magazine)"
+     "Jose Mourinho takes firm stance on Real Madrid January departures – report (Yahoo Sports)",
+     "Jose Mourinho makes a firm decision on Real Madrid departures in January (Gazeta Express)"
     ]
    },
    {
@@ -519,40 +558,7 @@
     "deporte_probable": true,
     "titulares": [
      "No. 5 Texas Hosts Arkansas in Key SEC Football Showdown (cwibc.co.id)",
-     "Texas Longhorns Vs Arkansas Razorbacks NCAA Football Saturday Game (11/21) FREE U.S. stream (TheBusinessDesk.com)"
-    ]
-   },
-   {
-    "tema": "meteorología",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Escuelas de Broward permanecerán cerradas el viernes; escuelas de Miami-Dade reabrirán (WPLG Local 10)",
-     "Conductores en Coconut Grove intentan transitar por calles inundadas (WPLG Local 10)"
-    ]
-   },
-   {
-    "tema": "real madrid fc",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "FC Bayern Munchen (TEMPEST) v Real Madrid (GREED) Odds (FanDuel Sportsbook)",
-     "Watch UEFA WCL Highlights: Bayern v Real Madrid (Disney Plus)"
-    ]
-   },
-   {
-    "tema": "iago aspas",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Una nueva puñalada en el corazón (Diario AS)",
-     "Aspas encara su última visita al Bernabéu con el Celta gafado ante el gol fuera de casa (Mundo Deportivo)"
+     "Texas Confidence Meter: How I'm Feeling About the Longhorns Ahead of Arkansas (Yahoo Sports)"
     ]
    }
   ]
