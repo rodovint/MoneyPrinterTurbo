@@ -1,0 +1,6 @@
+{"fecha": "2026-11-21T17:23-05:00", "nota": "Ronda automática. rss-ultimo sigue siendo el de 16:47 (sin datos nuevos desde la foto 16:50). Sin señal nueva; búsqueda web sin resultado confirmado de U. Católica vs. Barcelona SC.", "temas": [
+ {"tema": "U. Católica vs. Barcelona SC (fecha 7, hexagonal final LigaPro)", "señales": ["EC 10000+ (sin cambio desde 16:47)"], "volumen_EC": "10000+", "volumen_anterior": "10000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Gonzalo Plata (flamengo vs)", "señales": ["EC 100+ sin cambio"], "volumen_EC": "100+", "volumen_anterior": "100+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Alexander Zverev", "señales": ["EC 500+ sin cambio"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Chivas vs Cruz Azul", "señales": ["MX 1000+", "ausente en EC/US/ES/AR"], "volumen_EC": null, "volumen_anterior": null, "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
