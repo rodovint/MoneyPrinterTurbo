@@ -91,3 +91,69 @@ No hay secciones fijas. Con las noticias del finde decidimos qué secciones sale
 
   Son 25 s de cara en total, se graban en 5 minutos y le dan identidad al canal. En videos largos, ver a la persona que habla ayuda mucho a que la gente se quede.
 - **Opción C · todo a cámara:** es lo que más conecta, pero también la más cara de grabar dos veces por semana. Mejor para más adelante, cuando el formato ya esté rodando.
+
+---
+
+# 🎙️ GUION DE GRABACIÓN DE MUI (episodio 001)
+**Modo de este episodio: TODO VOZ EN OFF** (primera prueba). Lo marcado con 🎥 es donde iría un clip tuyo a cámara cuando lo probemos más adelante; por ahora lo grabas solo en voz.
+
+**Cómo grabar**
+- Un audio por bloque (A1, A2, …), en orden, en un lugar sin eco (un clóset con ropa sirve), con el celular a un palmo de la boca.
+- Deja 1 segundo de silencio entre frases. Si te equivocas, repite la frase completa: yo me quedo con la mejor toma.
+- Toda frase que cierra termina con tono hacia abajo y sin cortar la última palabra. Solo las preguntas suben.
+- Lo que va entre [corchetes] lo completo el lunes con los resultados reales; tú lees la versión final.
+- Tiempo total de voz: unos 8 min 30 s (el resto es intro, cortinillas y memes).
+
+### A1 · Gancho (0:13–0:40) — 🎥 a futuro: clip a cámara
+1. Ecuatorianos en los dos lados de una final… y alguien se fue a casa llorando.
+2. [Resultado de la final en una frase.]
+3. Eso, el Independiente del Valle levantando la copa, el feriado de LigaPro y la Champions que vuelve este martes.
+4. Esto es el Súper Resumen Futbolero. Arrancamos.
+
+### A2 · Titulares (0:40–1:30) — 🎙️ voz
+1. Uno: [titular de la final].
+2. Dos: Independiente del Valle ya tiene en sus manos el trofeo de campeón de la LigaPro 2026. Se lo entregaron el viernes, frente a Macará.
+3. Tres: Liga y Aucas se vieron las caras el domingo. [Resultado.]
+4. Cuatro: la pelea por no bajar está que arde. Los dos que se van a la B se conocen el 13 de diciembre.
+5. Cinco: [ecuatoriano destacado del finde en Europa].
+
+### A3 · La final de la Sudamericana (1:30–3:40) — 🎙️ voz
+1. Barranquilla, sábado en la noche, estadio lleno y una copa en juego.
+2. [Contexto: Mineiro buscaba su primera Sudamericana / Boca, la tercera.]
+3. [Narración del gol 1.]
+4. [Narración del gol 2 o la jugada clave.]
+5. Y ojo, que esta final tenía sabor ecuatoriano.
+6. [Enner: frase con su actuación.]
+7. [Preciado: frase.]
+8. [Minda: frase.]
+9. [Franco: frase.]
+10. [Dato clave del partido + remate gracioso.]
+11. [Campeón]: campeón de la Copa Sudamericana 2026.
+
+### A4 · LigaPro en feriado (3:40–5:40) — 🎙️ voz
+1. Feriado largo en Ecuador, y la LigaPro no se tomó vacaciones: seis partidos de viernes a domingo.
+2. El viernes fue de fiesta en Sangolquí: Independiente del Valle recibió el trofeo de campeón, frente a Macará.
+3. [Dato del campeón: puntos, goles, récord.]
+4. El domingo, el clásico de la capital: Liga contra Aucas. [Crónica corta.]
+5. [Qué significa en la tabla.]
+6. Y abajo, la pelea es de vida o muerte. [Cómo queda el descenso.]
+7. Los demás resultados, rapidito: [lista].
+
+### A5 · Ecuatorianos en el mundo (5:40–6:50) — 🎙️ voz
+1. Y como siempre, revisamos qué hicieron los nuestros afuera.
+2. [Jugador 1: dato.]
+3. [Jugador 2: dato.]
+4. [Jugador 3: dato.]
+5. [Jugador 4: dato, si aplica.]
+
+### A6 · Secciones del episodio (6:50–9:00) — 🎙️ voz · 🎥 a futuro: reacciones de 3 s
+Se escriben el lunes según las noticias (qué secciones salen y cuántas). Cada una lleva 3–4 frases: la presentación, el caso y un remate.
+
+### B1 · Lo que se viene (9:00–9:40) — 🎙️ voz · se graba el martes a las 17:15
+1. Y esto no para: el martes y miércoles vuelve la Champions con la jornada cinco.
+2. [Partidos top y horarios de Ecuador / resultados del martes si ya terminaron.]
+3. En la LigaPro, no te pierdas [partido de la próxima fecha].
+
+### B2 · Cierre (9:40–10:00) — 🎥 a futuro: clip a cámara
+1. [Pregunta del episodio para que comenten]
+2. Esto fue el Súper Resumen Futbolero. Suscríbete a Guineo Comunicaciones, y nos vemos el jueves.
