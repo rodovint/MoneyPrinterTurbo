@@ -1,0 +1,48 @@
+[
+  {
+    "titulo": "Barcelona SC vence a Universidad Católica y sigue vivo por la Libertadores",
+    "etiqueta": "HEXAGONAL FINAL",
+    "color": "#FFD100",
+    "audio": "audio/NN",
+    "franja": ["CATÓLICA [L]-[V] BARCELONA SC", "GOL: [GOLEADOR] [MIN]'", "BSC: 52 PUNTOS", "PENDIENTE VS. IDV: MIÉ 25/11"],
+    "escenas": [
+      {
+        "texto": "Barcelona le ganó [MARCADOR] a Católica y sigue vivo en la pelea por la Libertadores.",
+        "foto": "img/[FOTO-PROTAGONISTA]",
+        "movimiento": "zoom_in",
+        "grafico": {"tipo": "titular", "texto": "¡EL ÍDOLO SIGUE VIVO!", "sobre": "CATÓLICA [L]-[V] BARCELONA SC"},
+        "transicion": "flash",
+        "hinchada": true
+      },
+      {
+        "texto": "[GOLEADOR] marcó al minuto [MIN], bajo la lluvia, en la fecha siete del hexagonal final.",
+        "voz": "andrea",
+        "destello": true,
+        "grafico": {"tipo": "marcador", "equipos": [
+          {"nombre": "U. CATÓLICA", "color": "#0B4EA2", "goles": 0, "escudo": "img/escudos/catolica.png"},
+          {"nombre": "BARCELONA SC", "color": "#FFD100", "goles": 1, "escudo": "img/escudos/barcelona.png"}], "pie": "HEXAGONAL FINAL · FECHA 7"}
+      },
+      {
+        "texto": "Con este triunfo, Barcelona llega a cincuenta y dos puntos, a solo dos de Católica, Liga de Quito y Aucas.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "numero": 52, "texto": "PUNTOS DE BARCELONA", "sobre": "CATÓLICA, LIGA Y AUCAS: 54"}
+      },
+      {
+        "texto": "Y todavía le queda el partido pendiente contra Independiente del Valle, el miércoles veinticinco.",
+        "voz": "andrea",
+        "grafico": {"tipo": "partido", "equipos": [
+          {"nombre": "BARCELONA SC", "color": "#FFD100", "escudo": "img/escudos/barcelona.png"},
+          {"nombre": "INDEPENDIENTE DEL VALLE", "color": "#1A1A1A", "escudo": "img/escudos/idv.png"}], "hora": "MIÉ 25/11", "pie": "PARTIDO PENDIENTE"}
+      },
+      {
+        "texto": "¿Le alcanza a Barcelona para meterse en la Libertadores?",
+        "grafico": {"tipo": "titular", "texto": "¿LE ALCANZA?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]
