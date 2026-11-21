@@ -1,9 +1,8 @@
 [
  {
-  "titulo": "Orense se juega la permanencia ante Mushuc Runa en Machala",
+  "titulo": "Orense se juega la permanencia ante Mushuc Runa este domingo en Machala",
   "etiqueta": "EL ORO",
   "color": "#1E8A4C",
-  "audio": "audio/21",
   "franja": [
    "ORENSE VS. MUSHUC RUNA · DOMINGO 22",
    "FECHA 7 DEL HEXAGONAL DEL DESCENSO",
@@ -13,21 +12,34 @@
   "escenas": [
    {
     "texto": "Orense se juega la categoría este domingo en Machala.",
-    "grafico": {"tipo": "titular", "texto": "SE JUEGA LA CATEGORÍA", "sobre": "ORENSE SC"},
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SE JUEGA LA CATEGORÍA",
+     "sobre": "ORENSE SC"
+    },
+    "voz": "mui",
     "transicion": "flash",
     "destello": true,
     "suspenso": true
    },
    {
-    "texto": "Recibe a Mushuc Runa en la fecha siete del hexagonal del descenso.",
-    "dicho": "Recibe a Mushuk Runa en la fecha siete del hexagonal del descenso.",
+    "texto": "Recibe a Mushuc Runa en el estadio Nueve de Mayo, por la fecha siete del hexagonal del descenso.",
+    "dicho": "Recibe a Mushuk Runa en el estadio Nueve de Mayo, por la fecha siete del hexagonal del descenso.",
     "grafico": {
      "tipo": "partido",
      "hora": "DOM 22",
      "pie": "FECHA 7 · ESTADIO 9 DE MAYO · MACHALA",
      "equipos": [
-      {"nombre": "ORENSE", "color": "#1E8A4C", "escudo": "img/escudos/orense.png"},
-      {"nombre": "MUSHUC RUNA", "color": "#B71C1C", "escudo": "img/escudos/mushuc.png"}
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "escudo": "img/escudos/orense.png"
+      },
+      {
+       "nombre": "MUSHUC RUNA",
+       "color": "#B71C1C",
+       "escudo": "img/escudos/mushuc.png"
+      }
      ]
     },
     "voz": "andrea",
@@ -35,33 +47,436 @@
     "hinchada": true
    },
    {
-    "texto": "Orense tiene treinta y nueve puntos, solo uno más que Delfín, que suma treinta y ocho.",
-    "grafico": {"tipo": "cifra", "valor": "39", "texto": "PUNTOS DE ORENSE · DELFÍN TIENE 38"},
+    "texto": "Orense llega con treinta y nueve puntos, solo uno más que Delfín.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "39",
+     "texto": "PUNTOS DE ORENSE · DELFÍN TIENE 38"
+    },
     "voz": "andrea",
     "transicion": "zoom"
    },
    {
-    "texto": "Viene de perder dos a cero ante Cuenca, y antes empató uno a uno con Técnico Universitario.",
-    "grafico": {"tipo": "titular", "texto": "0-2 CON CUENCA", "sobre": "ANTES: 1-1 CON TÉCNICO U."},
+    "texto": "Viene de perder dos a cero ante Cuenca, un resultado que le quitó margen sobre los últimos puestos.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "0-2 CON CUENCA",
+     "sobre": "ANTES: 1-1 CON TÉCNICO U."
+    },
     "voz": "andrea",
     "tono": "recuerdo",
     "transicion": "rota"
    },
    {
-    "texto": "Los dos últimos del hexagonal bajan a la Serie B en dos mil veintisiete.",
-    "grafico": {"tipo": "titular", "texto": "BAJAN LOS DOS ÚLTIMOS", "sobre": "SERIE B 2027"},
+    "texto": "Quedan cuatro fechas, contando esta, y los dos últimos del hexagonal bajan a la Serie B.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "BAJAN LOS DOS ÚLTIMOS",
+     "sobre": "CUATRO FECHAS PARA EL FINAL"
+    },
     "voz": "andrea",
     "suspenso": true,
     "transicion": "glitch"
    },
    {
     "texto": "¿Orense se salva este domingo?",
-    "grafico": {"tipo": "titular", "texto": "¿SE SALVA ORENSE?", "sobre": "TU OPINIÓN"},
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE SALVA ORENSE?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
     "transicion": "barrido"
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Formativas de Orense en semifinales nacionales: Sub-13 y Sub-15",
+  "etiqueta": "EL ORO",
+  "color": "#1E8A4C",
+  "franja": [
+   "ORENSE SUB-13 Y SUB-15 EN SEMIFINALES",
+   "CAMPEONATO NACIONAL DE FORMATIVAS",
+   "SUB-15 GANÓ 1-0 EN CASA DE BARCELONA",
+   "LA CANTERA DE EL ORO SIGUE CRECIENDO"
+  ],
+  "escenas": [
+   {
+    "texto": "La cantera de Orense ya está en semifinales nacionales.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CANTERA EN SEMIFINALES",
+     "sobre": "ORENSE SC"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "Las categorías Sub-trece y Sub-quince lograron su pase a las semifinales del Campeonato Nacional de Formativas.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SUB-13 Y SUB-15",
+     "sobre": "SEMIFINALISTAS NACIONALES"
+    },
+    "voz": "andrea",
+    "transicion": "barrido",
+    "tono": "celebracion"
+   },
+   {
+    "texto": "La Sub-quince aseguró su lugar ganando uno a cero como visitante ante Barcelona.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "1-0 EN CASA DE BARCELONA",
+     "sobre": "SUB-15 · CLASIFICACIÓN"
+    },
+    "voz": "andrea",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Ahora le espera la semifinal, y la ida es ante Universidad Católica, este sábado en Quito.",
+    "grafico": {
+     "tipo": "partido",
+     "hora": "IDA",
+     "pie": "SEMIFINAL · SUB-15 · QUITO",
+     "equipos": [
+      {
+       "nombre": "CATÓLICA",
+       "color": "#004B93",
+       "escudo": "img/escudos/catolica.png"
+      },
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "escudo": "img/escudos/orense.png"
+      }
+     ]
+    },
+    "voz": "andrea",
+    "transicion": "rota",
+    "suspenso": true
+   },
+   {
+    "texto": "Mientras el primer equipo pelea la permanencia, las formativas le dan una alegría a Machala.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ALEGRÍA PARA MACHALA",
+     "sobre": "ORGULLO DE EL ORO"
+    },
+    "voz": "andrea",
+    "transicion": "glitch",
+    "hinchada": true
+   },
+   {
+    "texto": "¿Cuál es la mejor cantera del fútbol ecuatoriano?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LA MEJOR CANTERA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Independiente del Valle recibió la copa de campeón, pero Macará le dañó la fiesta",
+  "etiqueta": "LIGAPRO",
+  "color": "#2B2B2B",
+  "franja": [
+   "IDV 0-1 MACARÁ · FECHA 7 DEL HEXAGONAL FINAL",
+   "AUTOGOL DE RICHARD SCHUNKE",
+   "IDV, BICAMPEÓN Y SÉPTIMO TÍTULO NACIONAL",
+   "AHORA VIENE LA FINAL DE LA COPA ECUADOR"
+  ],
+  "escenas": [
+   {
+    "texto": "Independiente del Valle recibió la copa de campeón, pero perdió ante Macará.",
+    "foto_commons": "Estadio Banco Guayaquil1.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "COPA, PERO CON DERROTA",
+     "sobre": "IDV 0-1 MACARÁ"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "Fue este viernes en Sangolquí, por la fecha siete del hexagonal final.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "FECHA 7 · HEXAGONAL FINAL",
+     "sobre": "SANGOLQUÍ · VIERNES 20"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Macará ganó uno a cero con un autogol de Richard Schunke.",
+    "dicho": "Macará ganó uno a cero con un autogol de Richard Shúnke.",
+    "grafico": {
+     "tipo": "marcador",
+     "pie": "AUTOGOL DE SCHUNKE",
+     "equipos": [
+      {
+       "nombre": "IDV",
+       "color": "#2B2B2B",
+       "goles": 0,
+       "escudo": "img/escudos/idv.png"
+      },
+      {
+       "nombre": "MACARÁ",
+       "color": "#00529B",
+       "goles": 1,
+       "escudo": "img/escudos/macara.png"
+      }
+     ]
+    },
+    "voz": "andrea",
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Aun así, Independiente del Valle sumó su séptimo título nacional y es bicampeón.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "7",
+     "texto": "TÍTULOS NACIONALES DE IDV"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo",
+    "transicion": "rota"
+   },
+   {
+    "texto": "Y su próximo reto es la final de la Copa Ecuador.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "VA POR LA COPA ECUADOR",
+     "sobre": "SIGUE LA TEMPORADA"
+    },
+    "voz": "andrea",
+    "transicion": "glitch",
+    "suspenso": true
+   },
+   {
+    "texto": "¿Se le dañó la fiesta a Independiente del Valle?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿FIESTA DAÑADA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Ecuador vs. Uganda Sub-17: la Mini Tri puede clasificar este domingo en el Mundial de Catar",
+  "etiqueta": "LA TRI",
+  "color": "#E0B000",
+  "franja": [
+   "ECUADOR VS. UGANDA · DOMINGO 22 · 08:00",
+   "MUNDIAL SUB-17 DE CATAR · GRUPO B",
+   "DEBUT: ECUADOR 1-0 NUEVA CALEDONIA",
+   "SI GANA, PASA A DIECISEISAVOS"
+  ],
+  "escenas": [
+   {
+    "texto": "La Tri Sub-diecisiete puede sellar su clasificación este domingo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PUEDE CLASIFICAR",
+     "sobre": "MUNDIAL SUB-17"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "Ecuador enfrenta a Uganda a las ocho de la mañana, por la segunda fecha del Grupo B en Catar.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ECUADOR VS. UGANDA",
+     "sobre": "DOMINGO 22 · 08:00"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "En el debut, Ecuador venció uno a cero a Nueva Caledonia.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ECUADOR 1-0 N. CALEDONIA",
+     "sobre": "DEBUT SUB-17"
+    },
+    "voz": "andrea",
+    "transicion": "zoom",
+    "tono": "celebracion"
+   },
+   {
+    "texto": "Con un triunfo, la Tri asegura su pase a los dieciseisavos de final.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PASA A DIECISEISAVOS",
+     "sobre": "SI GANA HOY"
+    },
+    "voz": "andrea",
+    "transicion": "rota",
+    "suspenso": true
+   },
+   {
+    "texto": "Después cierra la fase de grupos ante Corea del Sur, el miércoles veinticinco de noviembre.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "VS. COREA DEL SUR",
+     "sobre": "MIÉRCOLES 25 DE NOVIEMBRE"
+    },
+    "voz": "andrea",
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿La Mini Tri clasifica este domingo?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿CLASIFICA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Cristiano Ronaldo hizo su gol 986 pero falló un penal y Al Nassr perdió 3-1",
+  "etiqueta": "MUNDO",
+  "color": "#1B3A8F",
+  "franja": [
+   "GOL 986 DE CRISTIANO RONALDO",
+   "FALLÓ UN PENAL · AL AHLI 3-1 AL NASSR",
+   "A 14 GOLES DE LOS 1.000",
+   "LIGA SAUDITA · PARTIDO APLAZADO"
+  ],
+  "escenas": [
+   {
+    "texto": "Cristiano Ronaldo hizo el gol novecientos ochenta y seis, pero Al Nassr perdió.",
+    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡GOL 986!",
+     "sobre": "CRISTIANO RONALDO"
+    },
+    "voz": "mui",
+    "transicion": "flash",
+    "destello": true,
+    "hinchada": true
+   },
+   {
+    "texto": "Abrió el marcador ante Al Ahli en el primer tiempo, en un partido aplazado de la liga saudita.",
+    "dicho": "Abrió el marcador ante Al Ájli en el primer tiempo, en un partido aplazado de la liga saudita.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ABRIÓ EL MARCADOR",
+     "sobre": "AL NASSR VS. AL AHLI"
+    },
+    "voz": "andrea",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Poco después falló un penal que pudo darle el doblete.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "FALLÓ UN PENAL",
+     "sobre": "PUDO SER EL 987"
+    },
+    "voz": "andrea",
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Al Ahli le dio la vuelta y ganó tres a uno.",
+    "dicho": "Al Ájli le dio la vuelta y ganó tres a uno.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "AL AHLI 3-1 AL NASSR",
+     "sobre": "DERROTA DE CR7"
+    },
+    "voz": "andrea",
+    "tono": "recuerdo",
+    "transicion": "rota"
+   },
+   {
+    "texto": "Aun así, Cristiano queda a catorce goles de los mil.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "14",
+     "texto": "GOLES PARA LLEGAR A LOS 1.000"
+    },
+    "voz": "andrea",
+    "transicion": "glitch",
+    "suspenso": true
+   },
+   {
+    "texto": "¿Llega Cristiano Ronaldo a los mil goles?",
+    "foto_commons": "An image of Cristiano Ronaldo at Al-Nassr in 2026.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LLEGA A LOS 1.000?",
+     "sobre": "TU OPINIÓN"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    },
+    "voz": "mui",
+    "transicion": "barrido"
    }
   ]
  }
