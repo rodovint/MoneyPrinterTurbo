@@ -1,0 +1,7 @@
+{"fecha": "2026-11-22T10:23-05:00", "nota": "rss-ultimo estaba en 05:54 (GitHub saltó las corridas 06:05-10:05); se lanzó tendencias.yml modo rss a mano (10:24). Sin explore de hoy.", "temas": [
+ {"tema": "Barcelona - Villarreal", "señales": ["nuevo 50000+", "remontada 3-2", "Yamal falla penal"], "volumen_EC": "50000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Ecuador Sub-17 - Uganda Sub-17", "señales": ["nuevo 5000+"], "volumen_EC": "5000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Hull City - Brighton", "señales": ["nuevo 2000+"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Juventus - Venezia", "señales": ["nuevo 2000+"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "La Liga", "señales": ["nuevo 2000+", "ligado a Barça-Villarreal"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": false}
+]}

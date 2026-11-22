@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "Barcelona vs Villarreal 3-2: ¡remontada del Barça y Lamine Yamal falla un penal!",
+    "etiqueta": "LALIGA",
+    "club": "fc barcelona",
+    "audio": "audio/30",
+    "franja": [
+      "FC BARCELONA 3-2 VILLARREAL",
+      "VILLARREAL GANABA 0-2",
+      "GOLES: GERARD MARTÍN · FERMÍN LÓPEZ · AUTOGOL DE PAU NAVARRO",
+      "BARÇA LÍDER, +3 SOBRE EL REAL MADRID"
+    ],
+    "escenas": [
+      {
+        "texto": "El Barcelona remontó un dos a cero y le ganó tres a dos al Villarreal.",
+        "dicho": "El Barcelona remontó un dos a cero y le ganó tres a dos al Viyarreal.",
+        "grafico": {"tipo": "titular", "texto": "¡REMONTADA DEL BARÇA!", "sobre": "BARCELONA 3-2 VILLARREAL"},
+        "transicion": "flash",
+        "hinchada": true
+      },
+      {
+        "texto": "Buchanan y Oluwaseyi marcaron para el Villarreal antes del minuto siete.",
+        "dicho": "Biúcanan y Oluaséyi marcaron para el Viyarreal antes del minuto siete.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {"nombre": "FC BARCELONA", "color": "#A50044", "goles": 0},
+            {"nombre": "VILLARREAL", "color": "#FFE667", "goles": 2}
+          ],
+          "pie": "BUCHANAN · OLUWASEYI · PRIMEROS 7 MINUTOS"
+        }
+      },
+      {
+        "texto": "Lamine Yamal falló un penal: pegó en el poste.",
+        "dicho": "Lamín Yamal falló un penal: pegó en el poste.",
+        "voz": "andrea",
+        "destello": true,
+        "grafico": {"tipo": "titular", "texto": "¡YAMAL FALLA EL PENAL!", "sobre": "AL POSTE"}
+      },
+      {
+        "texto": "En diez minutos del segundo tiempo, Gerard Martín, Fermín López y un autogol de Pau Navarro le dieron la vuelta.",
+        "dicho": "En diez minutos del segundo tiempo, Yerard Martín, Fermín López y un autogol de Pau Navarro le dieron la vuelta.",
+        "voz": "andrea",
+        "hinchada": true,
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {"nombre": "FC BARCELONA", "color": "#A50044", "goles": 3},
+            {"nombre": "VILLARREAL", "color": "#FFE667", "goles": 2}
+          ],
+          "pie": "G. MARTÍN · FERMÍN (ASIST. YAMAL) · AUTOGOL P. NAVARRO"
+        }
+      },
+      {
+        "texto": "El Barça sigue líder con tres puntos sobre el Real Madrid.",
+        "dicho": "El Barsa sigue líder con tres puntos sobre el Real Madrid.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "+3", "texto": "BARÇA LÍDER SOBRE EL REAL MADRID"}
+      },
+      {
+        "texto": "¿Hincha, Yamal se redimió o pesa más el penal fallado?",
+        "grafico": {"tipo": "titular", "texto": "¿SE REDIMIÓ?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]
