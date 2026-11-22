@@ -1,0 +1,550 @@
+[
+ {
+  "titulo": "¡Enner Valencia campeón de la Copa Sudamericana con Boca Juniors! Boca 2-0 Atlético Mineiro",
+  "etiqueta": "COPA SUDAMERICANA",
+  "club": "boca",
+  "audio": "audio/23",
+  "franja": [
+   "BOCA 2-0 ATLÉTICO MINEIRO",
+   "FINAL EN BARRANQUILLA",
+   "GOLES: ASCACIBAR Y MERENTIEL",
+   "BOCA CORTA 18 AÑOS SIN TÍTULO INTERNACIONAL"
+  ],
+  "escenas": [
+   {
+    "texto": "Enner Valencia es campeón de la Copa Sudamericana con Boca Juniors.",
+    "foto": "img/2026-11-22/enner.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡ENNER CAMPEÓN!",
+     "sobre": "BOCA 2-0 MINEIRO"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Boca le ganó dos a cero al Atlético Mineiro en la final jugada en Barranquilla.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "BOCA JUNIORS",
+       "color": "#003DA5",
+       "escudo": "img/escudos/boca.png"
+      },
+      {
+       "nombre": "ATLÉTICO MINEIRO",
+       "color": "#111111",
+       "escudo": "img/escudos/atletico-mineiro.png"
+      }
+     ],
+     "pie": "FINAL · BARRANQUILLA · 21/11"
+    }
+   },
+   {
+    "texto": "Santiago Ascacibar abrió el marcador en el primer tiempo y Miguel Merentiel liquidó al inicio del complemento.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ASCACIBAR Y MERENTIEL",
+     "sobre": "LOS GOLES DE LA FINAL"
+    }
+   },
+   {
+    "texto": "Enner entró en el segundo tiempo y tuvo un mano a mano que le tapó el arquero Everson.",
+    "voz": "andrea",
+    "foto": "img/2026-11-22/enner.jpg",
+    "movimiento": "zoom_out",
+    "destello": true,
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡MANO A MANO!",
+     "sobre": "ENNER ENTRÓ AL 63'"
+    }
+   },
+   {
+    "texto": "Con este título, Boca cortó una sequía de dieciocho años sin coronas internacionales.",
+    "voz": "andrea",
+    "foto": "img/enner-boca-trofeo.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "18",
+     "texto": "AÑOS SIN TÍTULO INTERNACIONAL"
+    },
+    "tono": "celebracion"
+   },
+   {
+    "texto": "¿Hincha, Enner merece ser titular en Boca?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿TITULAR EN BOCA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "¡Gonzalo Plata campeón del Brasileirão con Flamengo! El ecuatoriano fue titular",
+  "etiqueta": "BRASILEIRÃO",
+  "paleta": {
+   "fondo": "#E2001A",
+   "texto": "#000000"
+  },
+  "audio": "audio/24",
+  "franja": [
+   "FLAMENGO CAMPEÓN DEL BRASILEIRÃO 2026",
+   "CAMPEÓN A FALTA DE 2 FECHAS",
+   "GONZALO PLATA TITULAR: 57 MINUTOS",
+   "DÉCIMA LIGA DEL FLAMENGO"
+  ],
+  "escenas": [
+   {
+    "texto": "Gonzalo Plata es campeón de Brasil con el Flamengo.",
+    "foto": "img/2026-11-22/plata.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡PLATA CAMPEÓN!",
+     "sobre": "FLAMENGO CAMPEÓN DE BRASIL"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "El Flamengo aseguró el Brasileirão a falta de dos fechas, con el ecuatoriano como titular.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CAMPEÓN ANTICIPADO!",
+     "sobre": "A FALTA DE 2 FECHAS"
+    }
+   },
+   {
+    "texto": "Plata jugó cincuenta y siete minutos en el partido ante Palmeiras.",
+    "voz": "andrea",
+    "foto": "img/2026-11-22/plata.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "57'",
+     "texto": "MINUTOS DE PLATA ANTE PALMEIRAS"
+    }
+   },
+   {
+    "texto": "Es la décima liga brasileña en la historia del Flamengo.",
+    "voz": "andrea",
+    "destello": true,
+    "foto": "img/plata-flamengo-festejo.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "10",
+     "texto": "LIGAS DEL FLAMENGO"
+    },
+    "tono": "celebracion"
+   },
+   {
+    "texto": "Un ecuatoriano más levantando trofeos en el fútbol grande de Sudamérica.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ORGULLO ECUATORIANO",
+     "sobre": "PLATA Y ENNER, CAMPEONES"
+    }
+   },
+   {
+    "texto": "¿Plata o Enner, quién tuvo el mejor fin de semana?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿PLATA O ENNER?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Orense vs Mushuc Runa HOY 14:00 en Machala: Orense, a un punto del descenso",
+  "etiqueta": "HEXAGONAL PERMANENCIA",
+  "club": "orense",
+  "audio": "audio/25",
+  "franja": [
+   "HOY 14:00 · ESTADIO 9 DE MAYO",
+   "ORENSE 39 · DELFÍN 38",
+   "DESCIENDEN LOS DOS ÚLTIMOS",
+   "11:30 MANTA VS. DELFÍN"
+  ],
+  "escenas": [
+   {
+    "texto": "Orense está a un punto del descenso y hoy juega una final en Machala.",
+    "foto": "img/2026-11-22/orense.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡FINAL EN MACHALA!",
+     "sobre": "ORENSE VS. MUSHUC RUNA · HOY"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Recibe a Mushuc Runa a las catorce horas en el estadio Nueve de Mayo.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8F3E",
+       "escudo": "img/escudos/orense.png"
+      },
+      {
+       "nombre": "MUSHUC RUNA",
+       "color": "#E30613",
+       "escudo": "img/escudos/mushuc.png"
+      }
+     ],
+     "hora": "HOY 14:00",
+     "pie": "ESTADIO 9 DE MAYO · MACHALA"
+    }
+   },
+   {
+    "texto": "Orense tiene treinta y nueve puntos y Delfín, que es quinto, tiene treinta y ocho.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "duo",
+     "a": "39",
+     "a_texto": "ORENSE",
+     "b": "38",
+     "b_texto": "DELFÍN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Descienden los dos últimos, y antes, a las once y media, Delfín visita a Manta.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "MANTA",
+       "color": "#0072CE",
+       "escudo": "img/escudos/manta.png"
+      },
+      {
+       "nombre": "DELFÍN",
+       "color": "#00529B",
+       "escudo": "img/escudos/delfin.png"
+      }
+     ],
+     "hora": "HOY 11:30",
+     "pie": "ESTADIO JOCAY · MANTA"
+    }
+   },
+   {
+    "texto": "Este año, el único duelo en Machala lo ganó Orense tres a dos.",
+    "voz": "andrea",
+    "destello": true,
+    "foto": "img/orense-hinchada.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "EN MACHALA: ORENSE 3-2",
+     "sobre": "EL ANTECEDENTE DE 2026"
+    }
+   },
+   {
+    "texto": "¿Hincha bananero, hoy se gana y se respira?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿HOY SE GANA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Liga de Quito vs Aucas HOY 16:30: clásico capitalino por la Copa Libertadores",
+  "etiqueta": "HEXAGONAL FINAL",
+  "audio": "audio/26",
+  "franja": [
+   "HOY 16:30 · RODRIGO PAZ DELGADO",
+   "LIGA 54 · AUCAS 54 · CATÓLICA 54",
+   "BSC 52 CON UN PARTIDO MENOS",
+   "TRANSMITE ZAPPING"
+  ],
+  "escenas": [
+   {
+    "texto": "Liga y Aucas se juegan hoy el clásico capitalino con la Copa Libertadores en la mesa.",
+    "foto": "img/2026-11-22/liga-aucas.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CLÁSICO POR LA COPA!",
+     "sobre": "LIGA VS. AUCAS · HOY 16:30"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "El partido es a las dieciséis y treinta en el estadio Rodrigo Paz Delgado.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "LIGA DE QUITO",
+       "color": "#C8102E",
+       "escudo": "img/escudos/liga.png"
+      },
+      {
+       "nombre": "AUCAS",
+       "color": "#D71920",
+       "escudo": "img/escudos/aucas.png"
+      }
+     ],
+     "hora": "HOY 16:30",
+     "pie": "RODRIGO PAZ DELGADO · ZAPPING"
+    }
+   },
+   {
+    "texto": "Los dos llegan con cincuenta y cuatro puntos, igual que Universidad Católica, que ayer perdió con Barcelona.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "54",
+     "texto": "LIGA, AUCAS Y CATÓLICA"
+    },
+    "destello": true
+   },
+   {
+    "texto": "Barcelona suma cincuenta y dos y tiene pendiente su partido ante Independiente del Valle.",
+    "voz": "andrea",
+    "foto": "img/liga-aucas-clasico.png",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "BSC 52 PUNTOS",
+     "sobre": "PENDIENTE: MIÉ 25/11 VS. IDV"
+    }
+   },
+   {
+    "texto": "El que gane hoy da un paso enorme en la pelea por los cupos internacionales.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡SE DESPEGA EL QUE GANE!",
+     "sobre": "PELEA POR LA COPA"
+    }
+   },
+   {
+    "texto": "¿Quién gana hoy, Liga o Aucas?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LIGA O AUCAS?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Alerta en Ecuador: Moisés Caicedo sale golpeado en Chelsea vs Leeds",
+  "etiqueta": "PREMIER LEAGUE",
+  "club": "ecuador",
+  "audio": "audio/27",
+  "franja": [
+   "CAICEDO SALIÓ ANTES DE LA MEDIA HORA",
+   "GOLPE EN CADERA Y ZONA LUMBAR",
+   "CHELSEA PERDIÓ CON LEEDS",
+   "SIN PARTE MÉDICO OFICIAL"
+  ],
+  "escenas": [
+   {
+    "texto": "Moisés Caicedo salió golpeado ante el Leeds y Ecuador está en alerta.",
+    "foto": "img/2026-11-22/caicedo.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡ALERTA CON CAICEDO!",
+     "sobre": "CHELSEA VS. LEEDS"
+    },
+    "transicion": "glitch",
+    "tono": "urgente"
+   },
+   {
+    "texto": "El capitán del Chelsea cayó fuerte tras un choque aéreo y pidió el cambio antes de la media hora.",
+    "voz": "andrea",
+    "destello": true,
+    "foto": "img/caicedo-camilla.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡PIDIÓ EL CAMBIO!",
+     "sobre": "ANTES DE LA MEDIA HORA"
+    }
+   },
+   {
+    "texto": "El golpe fue en la cadera y la zona lumbar, y salió con dificultad para caminar.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CADERA Y ZONA LUMBAR",
+     "sobre": "SALIÓ CON DIFICULTAD"
+    }
+   },
+   {
+    "texto": "Sin él, el Chelsea perdió en casa con el Leeds en Stamford Bridge.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CHELSEA PERDIÓ EN CASA",
+     "sobre": "PREMIER LEAGUE · FECHA 11"
+    }
+   },
+   {
+    "texto": "El club todavía no informa la gravedad de la lesión.",
+    "voz": "andrea",
+    "foto": "img/2026-11-22/caicedo.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SIN PARTE MÉDICO",
+     "sobre": "ECUADOR ESPERA"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "¿Hincha, al Niño Moi lo están exprimiendo demasiado?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LO EXPRIMEN?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Max Verstappen gana el Gran Premio de Las Vegas 2026 de Fórmula 1",
+  "etiqueta": "FÓRMULA 1",
+  "audio": "audio/28",
+  "franja": [
+   "1. VERSTAPPEN · 2. NORRIS · 3. PIASTRI",
+   "COLAPINTO 6.º CON ALPINE",
+   "ANTONELLI LÍDER CON 402 PUNTOS",
+   "PRÓXIMA: QATAR 27-29/11"
+  ],
+  "escenas": [
+   {
+    "texto": "Max Verstappen ganó en Las Vegas en una carrera de locos.",
+    "foto": "img/2026-11-22/verstappen.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡MAX REINA EN VEGAS!",
+     "sobre": "GRAN PREMIO DE LAS VEGAS"
+    },
+    "transicion": "flash"
+   },
+   {
+    "texto": "Salió desde la pole y recuperó el primer lugar una y otra vez ante Russell y Antonelli.",
+    "voz": "andrea",
+    "foto": "img/vegas-noche.png",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CAMBIOS DE LÍDER!",
+     "sobre": "EL REBUFO HIZO DE LAS SUYAS"
+    }
+   },
+   {
+    "texto": "Lando Norris llegó a seis décimas y Oscar Piastri completó el podio.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PODIO: MAX, NORRIS Y PIASTRI",
+     "sobre": "A 0,639 SEGUNDOS"
+    }
+   },
+   {
+    "texto": "El argentino Franco Colapinto terminó sexto con Alpine.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "6.º",
+     "texto": "COLAPINTO CON ALPINE"
+    }
+   },
+   {
+    "texto": "Kimi Antonelli lidera el Mundial con cuatrocientos dos puntos, noventa y ocho más que Max.",
+    "voz": "andrea",
+    "destello": true,
+    "dicho": "Kimi Antoneli lidera el Mundial con cuatrocientos dos puntos, noventa y ocho más que Max.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "402",
+     "a_texto": "ANTONELLI",
+     "b": "304",
+     "b_texto": "VERSTAPPEN"
+    }
+   },
+   {
+    "texto": "¿Max es el mejor piloto de la parrilla?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿EL MEJOR?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ }
+]
