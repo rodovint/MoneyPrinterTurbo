@@ -1,0 +1,8 @@
+{"fecha": "2026-11-22T13:23-05:00", "nota": "rss-ultimo 13:21 OK (corridas horarias irregulares: 05:54, 10:25 manual, 13:21). explore-ultimo sigue del 21/11 17:22: no corrió el de 06:10 ni el de 12:45. Resultados de hoy no verificados en la búsqueda: sin reel urgente.", "temas": [
+ {"tema": "Liverpool - Manchester United", "señales": ["nuevo 20000+"], "volumen_EC": "20000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Manta - Delfín", "señales": ["nuevo 5000+", "se juegan el descenso, fecha 7 hexagonal"], "volumen_EC": "5000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Alcaraz vs Zverev (final ATP Finals)", "señales": ["AR 2000+", "MX 2000+", "EC 500+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "TEMPRANA", "avisado": true},
+ {"tema": "Milan - Frosinone", "señales": ["nuevo 2000+", "2-1 en vivo"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Barcelona - Athletic Club (Liga F)", "señales": ["nuevo 500+", "MX 2000+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Juventus - Venezia", "señales": ["igual 500+"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
