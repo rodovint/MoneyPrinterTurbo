@@ -1,0 +1,7 @@
+{"fecha": "2026-11-22T15:24-05:00", "nota": "Sin rss nuevo desde 13:28 (≈2 h). Mismos temas de la ronda 13:23, ya avisados; la búsqueda no trajo novedades verificables. Sin señal nueva.", "temas": [
+ {"tema": "Liverpool - Manchester United", "señales": ["20000+ sin cambio"], "volumen_EC": "20000+", "volumen_anterior": "20000+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Manta - Delfín", "señales": ["5000+ sin cambio"], "volumen_EC": "5000+", "volumen_anterior": "5000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Alcaraz vs Zverev (final ATP Finals)", "señales": ["500+ sin cambio"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "TEMPRANA", "avisado": false},
+ {"tema": "Milan - Frosinone", "señales": ["2000+ sin cambio"], "volumen_EC": "2000+", "volumen_anterior": "2000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Orense - Mushuc Runa", "señales": ["500+"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
