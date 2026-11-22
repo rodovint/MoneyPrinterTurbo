@@ -1,0 +1,9 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no sponsors anywhere. No players, no people in the foreground, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "plata-flamengo-festejo", "seed": 231, "referencias": [0], "prompt": "Vertical illustration, empty pitch in the foreground with a round black-and-white soccer ball on the grass, behind it a huge stadium at night with distant stands full of tiny fans in red and black, red flares and smoke, red and black confetti falling, floodlights. No players on the pitch, nobody close to the camera."}
+  ]
+}
