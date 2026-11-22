@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-22T17:46-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "fluminense vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Brasileiro Championship - Fluminense v Mirassol (Reuters Connect)",
+     "Savarino and Canobbio back, Wesley Natã out! Flu squad to face Mirassol (OneFootball)"
+    ]
+   },
+   {
+    "tema": "river plate - lanús",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "River Plate empata con Lanús por los octavos de final del Torneo Clausura (Infobae)",
+     "Casi 100 años sin ganarle a Lanús: el historial que preocupa a River (ESPN Colombia)"
+    ]
+   },
+   {
+    "tema": "river",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Elk River woman charged in $36K SNAP fraud case (FOX 9 Minneapolis-St. Paul)",
+     "Boys Soccer NJSIAA Group 3 Championship Preview: Toms River East vs. Ramapo (Shore Sports Insider)"
+    ]
+   },
+   {
+    "tema": "sport clube união torreense - benfica",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Torreense v Benfica Odds (FanDuel Sportsbook)",
+     "Why Torreense star is convinced they can pull off Europa League shock (The Celtic Way)"
+    ]
+   },
+   {
+    "tema": "fluminense - mirassol",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Aos 19 min do 1º tempo - cabeceio defendido de Canobbio do Fluminense contra o Mirassol (ge)",
+     "Que chance! Eduardo perde, com gol aberto, oportunidade do primeiro do Mirassol (R7 Esportes)"
+    ]
+   },
+   {
+    "tema": "colo-colo - u. católica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T13:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Las dos universidades\": el lienzo que se robó las miradas en el clásico Colo Colo vs. Universidad Católica (TVN)",
+     "VIDEO | Su cara dijo todo: el enojo de Iván Zamorano por los fuegos artificiales que interrumpieron el Clásico (En Cancha)"
+    ]
+   },
+   {
+    "tema": "ldu quito - aucas",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-22T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿A qué hora y dónde ver EN VIVO Liga de Quito vs. Aucas por la Liga Ecuabet 2026? (El Universo)",
+     "Liga de Quito vs. Aucas, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "marsella - le mans football club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "OM : malade, Pierre-Emile Hojbjerg devrait être forfait contre Le Mans (La Provence)",
+     "Ligue 1 2026/2027 - Classement J11 : le Paris FC dauphin du PSG, l'OM tombe au Vélodrome contre Le Mans (www.ski-nordique.net)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "tom coughlin",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tom Coughlin fails to advance in Pro Football Hall of Fame bid (Yahoo Sports)",
+     "Tom Coughlin fails to advance in Pro Football Hall of Fame bid (Giants Wire)"
+    ]
+   },
+   {
+    "tema": "jameis winston",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Officials give Jameis Winston a TD, replays appear to show he was down before scoring (NBC Sports)",
+     "Jameis Winston's TD run on fourth down gives Giants a 9-3 lead against Jags (NFL.com)"
+    ]
+   },
+   {
+    "tema": "ap poll college football rankings",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "AP college football Week 12 poll reaction: What's next for Top 25 (ESPN)",
+     "AP College Football Poll 2026 Week 13 Rankings Released with Top Risers and Fallers (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "mlb trade rumors",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play? (Yahoo Sports)",
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)"
+    ]
+   },
+   {
+    "tema": "kansas city chiefs taylor swift",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Taylor Swift Wears $60 Chiefs Jacket from Friend Erin Andrews’ Line to Cheer on Husband Travis Kelce (People.com)",
+     "Taylor Swift Cheers on Travis Kelce at Chiefs Game With Kylie Kelce, Donna Kelce & Her Parents – See Photos! (IMDb)"
+    ]
+   },
+   {
+    "tema": "ashton jeanty",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ashton Jeanty’s bad season running the ball overshadows his receiving production (NBC Sports)",
+     "Raiders Week 11 fantasy start/sit: Ashton Jeanty still holds PPR value (Raiders Wire)"
+    ]
+   },
+   {
+    "tema": "shohei ohtani contract",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "New Balance and Shohei Ohtani Extend Relationship for Remainder of His Playing Career (Newbalance Press Box)",
+     "Column: Selling shoes and trying to sway public opinion as the baseball lockout date nears (Chicago Tribune)"
+    ]
+   },
+   {
+    "tema": "david corenswet",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Superman’ actor David Corenswet shares father’s cancer journey (KRON4)",
+     "‘Superman’ actor David Corenswet shares father’s cancer journey (AOL.com)"
+    ]
+   },
+   {
+    "tema": "gary kubiak",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Next generation: Like dad, Klint Kubiak to coach at Mile High (9NEWS)",
+     "Broncos Have Some Serious Ties To Raiders Coaches, Executives (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "cam little",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jaguars kicker Cam Little wins AFC special teams player of the week (Yahoo Sports)",
+     "Cam Little Talks Through \"Killer Mindset\", Big Kicks on The O-Zone Podcast (Jacksonville Jaguars)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "incendio autobús barcelona",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Arde un autobús en el barrio de Gràcia de Barcelona sin causar heridos (La Vanguardia)",
+     "Un incendio quema un autobús en el barrio de Gràcia de Barcelona sin causar heridos (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "posiciones de olympique de marsella contra le mans fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Marseille vs Le Mans: French Ligue 1 stats & head-to-head (BBC)",
+     "Amine Gouiri Gives Marseille the Lead Against Le Mans (cwibc.co.id)"
+    ]
+   },
+   {
+    "tema": "raquel mosquera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La casa de Raquel Mosquera, de 'GH VIP': con jardín, piscina comunitaria y una decoración muy personal (Telecinco)",
+     "Dónde está la peluquería de Raquel Mosquera: la concursante de 'GH VIP' tiene un centro de belleza a pocos minutos de Pozuelo (El Periódico de España)"
+    ]
+   },
+   {
+    "tema": "el corte ingles black friday",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Black Friday' en El Corte Inglés: 10 flechazos de moda que añadir a tu cesta (ELLE)",
+     "Los 10 productos electrónicos y para el hogar de El Corte Inglés que te aseguro van a agotarse antes de que empiece este Black Friday (HOLA)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "guillermo, príncipe de gales",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El príncipe Guillermo y su plan para cambiar la monarquía británica: Harry y sus propios hijos, entre los afectados (Vanitatis)",
+     "La drástica decisión que planea tomar el príncipe Guillermo cuando sea Rey y que afecta directamente a su hermano Harry (HOLA)"
+    ]
+   },
+   {
+    "tema": "carrie coon",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘The Gilded Age’ Star Carrie Coon Admits She’s ‘Read Everything’ People Say About Her Online: ‘Good Exposure Therapy’ (People.com)",
+     "Carrie Coon discusses why her ‘The Liberation’ character Rita Cooper gave up control to find herself See more from #DeadlineContenders Film: Los Angeles here: https://deadline.com/p/contenders-film-los-angeles-2026/ (Facebook)"
+    ]
+   },
+   {
+    "tema": "perfectos mentirosos reparto",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Perfectos mentirosos', un fenómeno español para conquistar a los jóvenes y al mundo (ABC)",
+     "Pablo Scapigliati, protagonista del nuevo 'thriller' de Prime Video: \"De 'Perfectos mentirosos' he aprendido que la verdad siempre sale a la luz\" (Cosmopolitan)"
+    ]
+   },
+   {
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "ldu quito - aucas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LDU Quito - Aucas | Pronóstico y cuotas 22.11.2026 (Diario AS)",
+     "Solo camisetas Albas bienvenidas: El Superclásico entre Liga y Aucas se jugará únicamente con hinchada local (FOTO) (Yahoo)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "delta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Delta Air Lines says system issue that delayed flights nationwide has been resolved (CNN)",
+     "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights (The New York Times)"
+    ]
+   },
+   {
+    "tema": "luna llena noviembre 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega la Luna llena en Géminis 2026: qué le espera a cada signo del zodiaco y qué energía trae (Clarin.com)",
+     "El cielo de Argentina se prepara para la superluna (AIM Digital)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "scott bessent",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jeff Bezos says Nvidia shouldn’t hire an outsider if Jensen Huang doesn’t return — it’s ‘too complicated’ (Yahoo Finance)",
+     "US seeks answers on Nvidia's sale of chips to China, Bessent says (TradingView)"
+    ]
+   },
+   {
+    "tema": "caputo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno se resigna a que la economía \"no va a ganar la elección\" y vuelve a polarizar con los K (Clarin.com)",
+     "La crisis manda (Página|12)"
+    ]
+   },
+   {
+    "tema": "santiago espindola",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Arsene Wenger lo llenó de elogios y vale 100 millones de euros: la historia de Santiago Espíndola, la nueva... (La Página Millonaria)",
+     "Sin Vera, el doble 5 que piensa Ponzio ante Lanús (Olé)"
+    ]
+   },
+   {
+    "tema": "mirtha legrand",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Juana Viale impactó con un vestido de seda natural rojo y reveló la curiosa situación que vivió con Mirtha Legrand días atrás (Infobae)",
+     "Juana Viale detalló el insólito momento que vivió con Mirtha Legrand: \"De repente miro y...\" (A24.com)"
+    ]
+   },
+   {
+    "tema": "marte",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play? (Yahoo Sports)",
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)"
+    ]
+   },
+   {
+    "tema": "gta6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax? (Video Games Chronicle)",
+     "All Halifax Choices & What You Should Do in GTA 6 (GameRant)"
+    ]
+   },
+   {
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "primevideo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "En 5 días regresa una legendaria saga de ciencia ficción: la secuela de una obra maestra cyberpunk que llega directo a streaming (Xataka México)",
+     "Blade Runner 2099 llegará a Prime Video el 25 de noviembre con ocho episodios | #BladeRunner #PrimeVideo #Series (MultiAnime.com.mx)"
+    ]
+   },
+   {
+    "tema": "a que hora juegan las chivas hoy",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chivas vs Cruz Azul: Can Chivas finally beat the champions? (Sofascore)",
+     "Who Are the Chivas Players Called Up to Fight for the AP26 Top Spot Against Cruz Azul? (Chivas)"
+    ]
+   },
+   {
+    "tema": "víctor manuel vucetich",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "No hay nadie seguro en Tigres.- Vucetich (El Norte)",
+     "Tigres arranca sus vacaciones en medio de la incertidumbre por su futuro (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "guadalajara - cruz azul",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Quiénes son los convocados de Chivas para buscar el liderato del AP26 ante Cruz Azul? (Chivas)",
+     "Chivas: Gabriel Milito busca su primera victoria ante Cruz Azul (ESPN México)"
+    ]
+   },
+   {
+    "tema": "heat - thunder",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "“We’ll see,” Spoelstra said following Saturday’s … (Yahoo Sports)",
+     "How to watch Thunder vs. Heat: TV channel and streaming options for November 22 (The New York Times)"
+    ]
+   },
+   {
+    "tema": "efraín juárez",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Efraín Juárez, líder en Hungría con el Gyori ETO (ESPN México)",
+     "Mientras Efraín Juárez brilla en Hungría, Pumas decepciona (El Universal)"
+    ]
+   },
+   {
+    "tema": "cincinnati vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "November 28, 2026: 1. FC Koln vs SV 07 Elversberg: Spread Soccer Prediction Market (Robinhood)",
+     "Prediction: Shakhtar Donetsk vs Fenerbahçe | UEFA Champions League | 25/11/2026 (The Daily Star Lebanon)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Boselli ruled out for Getafe vs Atlético with a leg injury (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "fernando mendoza",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Las lecciones que Fernando Mendoza deberá aprender de cara al partido contra Broncos (Milenio)",
+     "NFL Semana 11: Qué se comenta sobre el debut de Fernando Mendoza (ESPN México)"
+    ]
+   },
+   {
+    "tema": "river",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Elk River woman charged in $36K SNAP fraud case (FOX 9 Minneapolis-St. Paul)",
+     "Boys Soccer NJSIAA Group 3 Championship Preview: Toms River East vs. Ramapo (Shore Sports Insider)"
+    ]
+   }
+  ]
+ }
+}

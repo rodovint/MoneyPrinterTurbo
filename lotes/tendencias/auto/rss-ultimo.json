@@ -1,561 +1,564 @@
 {
- "fecha": "2026-11-22T13:28-05:00",
+ "fecha": "2026-11-22T17:46-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "orense - mushuc runa",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡Todos al estadio! Orense afronta una final por la permanencia y lanza entradas 2×1 desde $4 (Machala Móvil)",
-     "Orense SC vs Mushuc Runa EN VIVO: transmisión, horario y dónde ver hoy | LigaPro 2026 (Diario Extra)"
-    ]
-   },
-   {
-    "tema": "alexander zverev",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sky Sports forced to apologise as Alexander Zverev explodes in X-rated rant at ATP Finals (Daily Express)",
-     "Medvedev: \"I don't think Zverev has improved anything in his tennis\" (Punto de Break)"
-    ]
-   },
-   {
-    "tema": "jair bolsonaro",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Michelle diz que deu banho, secou o cabelo e hidratou Bolsonaro durante internação (Maurílio Júnior)",
-     "Jair Bolsonaro segue na UTI com obstrução intestinal; Moraes retira tornozeleira e autoriza visitas (Jornal Grande Bahia)"
-    ]
-   },
-   {
-    "tema": "barcelona - athletic club",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T09:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alineaciones confirmadas del FC Barcelona – Athletic Club de Liga F (Las Futbolistas)",
-     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
-    ]
-   },
-   {
-    "tema": "carlos alcaraz",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Zverev vs. Alcaraz: final esperada en las Nitto ATP Finals (ATP Tour)",
-     "El número 1 del mundo 2027 se empieza a jugar entre Alcaraz y Zverev en la final de finales (ESPN Deportes)"
-    ]
-   },
-   {
-    "tema": "manchester united",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-22T09:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Mauricio Pochettino brings Man Utd youngster to Anfield despite not naming him on bench in hint over future role (The Sun)",
-     "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates (BBC)"
-    ]
-   },
-   {
-    "tema": "ac milan",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T08:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: Serie A - AC Milan v Frosinone (Reuters Connect)",
-     "Italy Serie A Soccer (WV News)"
-    ]
-   },
-   {
-    "tema": "milan - frosinone",
+    "tema": "posiciones de getafe cf contra atlético de madrid",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-22T08:30:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "LIVE Milan-Frosinone 4-1 Serie A 2026/2027: Milan travolge il Frosinone 4-1 (Virgilio)",
-     "Serie A, in campo Milan-Frosinone DIRETTA (ANSA)"
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
     ]
    },
    {
-    "tema": "manta - delfín",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-22T08:00:00-08:00",
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T14:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "EN VIVO | Manta FC vs. Delfín SC, los equipos manabitas se juegan el descenso en la Fecha 7 del hexagonal de LigaPro (Primicias)",
-     "Clásico Mantense: Raúl Duarte y Juan Carlos León, cara a cara por la permanencia en LigaPro (www.eldiario.ec)"
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
     ]
    },
    {
-    "tema": "liverpool - manchester united",
+    "tema": "fluminense vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Brasileiro Championship - Fluminense v Mirassol (Reuters Connect)",
+     "Savarino and Canobbio back, Wesley Natã out! Flu squad to face Mirassol (OneFootball)"
+    ]
+   },
+   {
+    "tema": "river plate - lanús",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "River Plate empata con Lanús por los octavos de final del Torneo Clausura (Infobae)",
+     "Casi 100 años sin ganarle a Lanús: el historial que preocupa a River (ESPN Colombia)"
+    ]
+   },
+   {
+    "tema": "river",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Elk River woman charged in $36K SNAP fraud case (FOX 9 Minneapolis-St. Paul)",
+     "Boys Soccer NJSIAA Group 3 Championship Preview: Toms River East vs. Ramapo (Shore Sports Insider)"
+    ]
+   },
+   {
+    "tema": "sport clube união torreense - benfica",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T13:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Torreense v Benfica Odds (FanDuel Sportsbook)",
+     "Why Torreense star is convinced they can pull off Europa League shock (The Celtic Way)"
+    ]
+   },
+   {
+    "tema": "fluminense - mirassol",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Aos 19 min do 1º tempo - cabeceio defendido de Canobbio do Fluminense contra o Mirassol (ge)",
+     "Que chance! Eduardo perde, com gol aberto, oportunidade do primeiro do Mirassol (R7 Esportes)"
+    ]
+   },
+   {
+    "tema": "colo-colo - u. católica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T13:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Las dos universidades\": el lienzo que se robó las miradas en el clásico Colo Colo vs. Universidad Católica (TVN)",
+     "VIDEO | Su cara dijo todo: el enojo de Iván Zamorano por los fuegos artificiales que interrumpieron el Clásico (En Cancha)"
+    ]
+   },
+   {
+    "tema": "ldu quito - aucas",
     "volumen": "20000+",
     "volumen_min": 20000,
-    "desde": "2026-11-22T07:40:00-08:00",
+    "desde": "2026-11-22T12:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates (BBC)",
-     "Andoni Iraola unbeaten vs. Man United – 1st relegation zone visit for 89 years (This Is Anfield)"
+     "¿A qué hora y dónde ver EN VIVO Liga de Quito vs. Aucas por la Liga Ecuabet 2026? (El Universo)",
+     "Liga de Quito vs. Aucas, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "marsella - le mans football club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "OM : malade, Pierre-Emile Hojbjerg devrait être forfait contre Le Mans (La Provence)",
+     "Ligue 1 2026/2027 - Classement J11 : le Paris FC dauphin du PSG, l'OM tombe au Vélodrome contre Le Mans (www.ski-nordique.net)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "is taylor swift at the chiefs game today",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:10:00-08:00",
+    "tema": "tom coughlin",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Is Taylor Swift Going to Travis Kelce’s Chiefs Game Today? (IMDb)",
-     "Will Taylor Swift Attend Chiefs-Bills Thanksgiving Game? Travis Kelce’s Wife Faces Decision (Yahoo Sports)"
+     "Tom Coughlin fails to advance in Pro Football Hall of Fame bid (Yahoo Sports)",
+     "Tom Coughlin fails to advance in Pro Football Hall of Fame bid (Giants Wire)"
     ]
    },
    {
-    "tema": "tyler shough",
+    "tema": "jameis winston",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Officials give Jameis Winston a TD, replays appear to show he was down before scoring (NBC Sports)",
+     "Jameis Winston's TD run on fourth down gives Giants a 9-3 lead against Jags (NFL.com)"
+    ]
+   },
+   {
+    "tema": "ap poll college football rankings",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "AP college football Week 12 poll reaction: What's next for Top 25 (ESPN)",
+     "AP College Football Poll 2026 Week 13 Rankings Released with Top Risers and Fallers (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "mlb trade rumors",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play? (Yahoo Sports)",
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)"
+    ]
+   },
+   {
+    "tema": "kansas city chiefs taylor swift",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Taylor Swift Wears $60 Chiefs Jacket from Friend Erin Andrews’ Line to Cheer on Husband Travis Kelce (People.com)",
+     "Taylor Swift Cheers on Travis Kelce at Chiefs Game With Kylie Kelce, Donna Kelce & Her Parents – See Photos! (IMDb)"
+    ]
+   },
+   {
+    "tema": "ashton jeanty",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Tyler Shough is the Saints’ leading rusher, with 187 yards this season (NBC Sports)",
-     "Jeremiah Wright on o-line play, run game 11/16/2026 (New Orleans Saints)"
-    ]
-   },
-   {
-    "tema": "dallas cowboys game today",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Man dies days after fight at Dallas Cowboys game (FOX 4 News Dallas-Fort Worth)",
-     "Police investigate man's death after alleged altercation at 49ers-Cowboys game (ESPN)"
-    ]
-   },
-   {
-    "tema": "rashod bateman",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Projected 2027 NFL Draft order: Chargers climb out of No. 1 spot; Ravens’ top-10 odds soar (The New York Times)",
-     "Late for Work: Why Did the Ravens Struggle Running the Ball and How Can They Fix It? (Baltimore Ravens)"
-    ]
-   },
-   {
-    "tema": "detective",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:10:00-08:00",
+    "desde": "2026-11-22T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Denver police detective accused of DUI hit-and-run was driving city-issued SUV, sheriff's report says (CBS News)",
-     "Denver Detective DUI Hit-and-Run in City SUV: What Happened (Hoodline)"
+     "Ashton Jeanty’s bad season running the ball overshadows his receiving production (NBC Sports)",
+     "Raiders Week 11 fantasy start/sit: Ashton Jeanty still holds PPR value (Raiders Wire)"
     ]
    },
    {
-    "tema": "ollie gordon",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Underdog NFL Picks Sunday: Monangai, Ollie Gordon Higher (OddsShopper)",
-     "Dolphins 2026 Midseason Awards: From Ollie to Chop to Uche (Sports Illustrated)"
-    ]
-   },
-   {
-    "tema": "dolphins qb",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:10:00-08:00",
+    "tema": "shohei ohtani contract",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "There's only one reasonable answer to the question of whether or not the Miami Dolphins should entertain adding QB Daniel Jones (Yahoo Sports)",
-     "Dolphins shouldn't even think about adding former Colts QB Daniel Jones (Phin Phanatic)"
+     "New Balance and Shohei Ohtani Extend Relationship for Remainder of His Playing Career (Newbalance Press Box)",
+     "Column: Selling shoes and trying to sway public opinion as the baseball lockout date nears (Chicago Tribune)"
     ]
    },
    {
-    "tema": "max hurleman",
+    "tema": "david corenswet",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Kaden Wetjen scratched for Steelers vs. Eagles; Max Hurleman to serve as returner in NFL debut (TribLIVE.com)",
-     "Week 11 inactives for Steelers (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "hector herrera",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:00:00-08:00",
+    "desde": "2026-11-22T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Héctor Herrera es arrestado por manejar bajo los efectos del alcohol, días antes de los Playoffs de la MLS (Telemundo)",
-     "¡Última hora! Reportan que Héctor Herrera fue arrestado en Estados Unidos; esto se sabe de su detención (Mediotiempo)"
+     "‘Superman’ actor David Corenswet shares father’s cancer journey (KRON4)",
+     "‘Superman’ actor David Corenswet shares father’s cancer journey (AOL.com)"
     ]
    },
    {
-    "tema": "is kenneth walker playing this week",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": true,
+    "tema": "gary kubiak",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals (ESPN)",
-     "Chiefs-Cardinals Inactives: DT Peter Woods to miss third straight game (Arrowhead Pride)"
+     "Next generation: Like dad, Klint Kubiak to coach at Mile High (9NEWS)",
+     "Broncos Have Some Serious Ties To Raiders Coaches, Executives (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "cam little",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jaguars kicker Cam Little wins AFC special teams player of the week (Yahoo Sports)",
+     "Cam Little Talks Through \"Killer Mindset\", Big Kicks on The O-Zone Podcast (Jacksonville Jaguars)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "real valladolid",
+    "tema": "incendio autobús barcelona",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Arde un autobús en el barrio de Gràcia de Barcelona sin causar heridos (La Vanguardia)",
+     "Un incendio quema un autobús en el barrio de Gràcia de Barcelona sin causar heridos (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "posiciones de olympique de marsella contra le mans fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Marseille vs Le Mans: French Ligue 1 stats & head-to-head (BBC)",
+     "Amine Gouiri Gives Marseille the Lead Against Le Mans (cwibc.co.id)"
+    ]
+   },
+   {
+    "tema": "raquel mosquera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La casa de Raquel Mosquera, de 'GH VIP': con jardín, piscina comunitaria y una decoración muy personal (Telecinco)",
+     "Dónde está la peluquería de Raquel Mosquera: la concursante de 'GH VIP' tiene un centro de belleza a pocos minutos de Pozuelo (El Periódico de España)"
+    ]
+   },
+   {
+    "tema": "el corte ingles black friday",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Black Friday' en El Corte Inglés: 10 flechazos de moda que añadir a tu cesta (ELLE)",
+     "Los 10 productos electrónicos y para el hogar de El Corte Inglés que te aseguro van a agotarse antes de que empiece este Black Friday (HOLA)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "guillermo, príncipe de gales",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-22T10:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Celta Fortuna - Valladolid en directo | Última hora de LALIGA Hypermotion en vivo hoy (MARCA)",
-     "Convocatoria del Celta Fortuna para recibir al Real Valladolid (Celta)"
-    ]
-   },
-   {
-    "tema": "atp ranking",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "El imponente dominio de Alcaraz ante el Top 10 actual (ATP Tour)",
-     "Alcaraz emociona en las ATP Finals: \"Vivir esto juntos es maravilloso. Aquí estoy para lo que necesite\" (Mundo Deportivo)"
-    ]
-   },
-   {
-    "tema": "junta de castilla y león",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "fc argeș pitești - fcsb",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:20:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "FCSB o surprinde pe FC Argeș! Improvizațiile neașteptate ale lui Laurențiu Reghecampf (Sport.ro)",
-     "FC Argeș - FCSB, în etapa #16 din Superliga » Comentăm la GSP Live Special (GSP)"
+     "El príncipe Guillermo y su plan para cambiar la monarquía británica: Harry y sus propios hijos, entre los afectados (Vanitatis)",
+     "La drástica decisión que planea tomar el príncipe Guillermo cuando sea Rey y que afecta directamente a su hermano Harry (HOLA)"
     ]
    },
    {
-    "tema": "natalia figueroa",
+    "tema": "carrie coon",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘The Gilded Age’ Star Carrie Coon Admits She’s ‘Read Everything’ People Say About Her Online: ‘Good Exposure Therapy’ (People.com)",
+     "Carrie Coon discusses why her ‘The Liberation’ character Rita Cooper gave up control to find herself See more from #DeadlineContenders Film: Los Angeles here: https://deadline.com/p/contenders-film-los-angeles-2026/ (Facebook)"
+    ]
+   },
+   {
+    "tema": "perfectos mentirosos reparto",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-22T10:20:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Las raíces separadas de Raphael (83 años) y Natalia Figueroa (87 años) están a casi 600 kilómetros en línea recta: desde un paseo marítimo de la Belle Époque hasta un enclave minero que fue cuna de artistas (Woman Madame Figaro)",
-     "Raphael, hospitalizado de urgencia tras cancelar un concierto en A Coruña (La Vanguardia)"
+     "'Perfectos mentirosos', un fenómeno español para conquistar a los jóvenes y al mundo (ABC)",
+     "Pablo Scapigliati, protagonista del nuevo 'thriller' de Prime Video: \"De 'Perfectos mentirosos' he aprendido que la verdad siempre sale a la luz\" (Cosmopolitan)"
     ]
    },
    {
-    "tema": "lexus",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk (NBC News)",
-     "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue (Fox Business)"
-    ]
-   },
-   {
-    "tema": "torino",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Il tennis italiano ha un problema (Punto de Break)",
-     "Binaghi \"Con le Finals superato uno stress test, manifestazione di valore assoluto\" (Il Sole 24 ORE)"
-    ]
-   },
-   {
-    "tema": "luis astolfi",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Los criadores de caballo piden al próximo Gobierno más apoyo como ganaderos (El Confidencial)",
-     "Sevilla se rinde al jinete Luis Astolfi, amigo íntimo de la infanta Elena, 8 meses después de anunciar que padece ELA (HOLA)"
-    ]
-   },
-   {
-    "tema": "dani ceballos",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Lista de convocados del Real Betis para El Gran Derbi (Real Betis Balompié - Web Oficial)",
-     "Dani Ceballos, uno más en la concentración del Betis antes del derbi ante el Sevilla (ABC)"
-    ]
-   },
-   {
-    "tema": "ranking atp",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-22T10:00:00-08:00",
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "(1) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live (The Guardian)",
-     "Final Preview: Zverev vs. Alcaraz in Nitto ATP Finals championship blockbuster (ATP Tour)"
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "ldu quito - aucas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LDU Quito - Aucas | Pronóstico y cuotas 22.11.2026 (Diario AS)",
+     "Solo camisetas Albas bienvenidas: El Superclásico entre Liga y Aucas se jugará únicamente con hinchada local (FOTO) (Yahoo)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "asignación universal por hijo",
+    "tema": "delta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Delta Air Lines says system issue that delayed flights nationwide has been resolved (CNN)",
+     "As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights (The New York Times)"
+    ]
+   },
+   {
+    "tema": "luna llena noviembre 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega la Luna llena en Géminis 2026: qué le espera a cada signo del zodiaco y qué energía trae (Clarin.com)",
+     "El cielo de Argentina se prepara para la superluna (AIM Digital)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Calendario Anses: cuándo cobro la AUH en noviembre 2026 si mi DNI termina en 6 (La Nación)",
-     "Respuestas a dudas previsionales (El Tribuno)"
-    ]
-   },
-   {
-    "tema": "barcelona - athletic club",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T09:50:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "FC Barcelona - Athletic Club, en directo: partido de la Liga F Moeve, en vivo (SPORT)",
-     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27 (Reuters Connect)"
     ]
    },
    {
-    "tema": "zaira nara",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-22T09:50:00-08:00",
+    "tema": "scott bessent",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Risas y unión familiar: el gesto de Wanda y Zaira Nara para acompañar a su padre Andrés en su nuevo proyecto (Infobae)",
-     "En fotos: Andrés Nara debutó en streaming y reunió a Wanda, Zaira y sus dos ex, Nora Colosimo y Alicia Barbasola (Ciudad Magazine)"
+     "Jeff Bezos says Nvidia shouldn’t hire an outsider if Jensen Huang doesn’t return — it’s ‘too complicated’ (Yahoo Finance)",
+     "US seeks answers on Nvidia's sale of chips to China, Bessent says (TradingView)"
     ]
    },
    {
-    "tema": "copa potrero",
+    "tema": "caputo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno se resigna a que la economía \"no va a ganar la elección\" y vuelve a polarizar con los K (Clarin.com)",
+     "La crisis manda (Página|12)"
+    ]
+   },
+   {
+    "tema": "santiago espindola",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-22T09:30:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "La Copa Potrero con acento santafesino (El Litoral)",
-     "De la Copa Potrero al Federal A: Brian Fernández tiene nuevo club y vuelve al fútbol profesional (Olé)"
+     "Arsene Wenger lo llenó de elogios y vale 100 millones de euros: la historia de Santiago Espíndola, la nueva... (La Página Millonaria)",
+     "Sin Vera, el doble 5 que piensa Ponzio ante Lanús (Olé)"
     ]
    },
    {
-    "tema": "carlos alcaraz",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-22T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Alexander Zverev, otra vez finalista de las ATP Finals: \"No creo que hayamos jugado mucho al tenis\" (ESPN Argentina)",
-     "Alcaraz-Zverev, la gran final del Masters (Página|12)"
-    ]
-   },
-   {
-    "tema": "atp finals",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-22T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "ATP Finals: Carlos Alcaraz to face Alexander Zverev for title after comeback against Ben Shelton (BBC)",
-     "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz (ATP Tour)"
-    ]
-   },
-   {
-    "tema": "zverev",
+    "tema": "mirtha legrand",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-22T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Zverev Erases Top 10 Doubts With Four ATP Finals Wins (Peradaban.id)",
-     "“One second of play, 30 seconds of wait. It’s impossible”: Mouratoglou says tennis cannot go on like this (Tennis Majors)"
-    ]
-   },
-   {
-    "tema": "nitto atp finals",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T09:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Daniil Medvedev defeats Flavio Cobolli in straight sets in the round-robin stage at the Nitto ATP finals 2026 in Turin (TNT Sports)",
-     "Licensable picture: Tennis 2026: Nitto ATP Finals: AREVALO PAVIC V ARRIBAGE OLIVETTI (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "olimpia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T09:20:00-08:00",
+    "desde": "2026-11-22T14:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Los impactantes números de un ex-Central al frente de Olimpia, que está a un paso de ser bicampeón (La Capital)",
-     "\"Glory Has No Price\": Olimpia Chases 49th Title Under A Phrase That Never Faded (The Asunción Times)"
+     "Juana Viale impactó con un vestido de seda natural rojo y reveló la curiosa situación que vivió con Mirtha Legrand días atrás (Infobae)",
+     "Juana Viale detalló el insólito momento que vivió con Mirtha Legrand: \"De repente miro y...\" (A24.com)"
     ]
    },
    {
-    "tema": "clima rio gallegos",
+    "tema": "marte",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-22T09:20:00-08:00",
+    "desde": "2026-11-22T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play? (Yahoo Sports)",
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)"
+    ]
+   },
+   {
+    "tema": "gta6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Clima hoy en Río Gallegos, Santa Cruz: el pronóstico del tiempo para este domingo 22 noviembre de 2026 (Clarín)",
-     "Clima de este domingo 22 de noviembre en Río Gallegos (Tiempo Sur)"
+     "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax? (Video Games Chronicle)",
+     "All Halifax Choices & What You Should Do in GTA 6 (GameRant)"
+    ]
+   },
+   {
+    "tema": "posiciones de atalanta contra inter milan",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T13:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atalanta vs Inter Milan: Italian Serie A stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta strength of character, but hire someone else for man-marking’ (Yahoo Sports)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "anderlecht",
+    "tema": "primevideo",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-22T10:20:00-08:00",
+    "desde": "2026-11-22T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "En 5 días regresa una legendaria saga de ciencia ficción: la secuela de una obra maestra cyberpunk que llega directo a streaming (Xataka México)",
+     "Blade Runner 2099 llegará a Prime Video el 25 de noviembre con ocho episodios | #BladeRunner #PrimeVideo #Series (MultiAnime.com.mx)"
+    ]
+   },
+   {
+    "tema": "a que hora juegan las chivas hoy",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Anderlecht vs OH Leuven: Belgian Pro League stats & head-to-head (BBC)",
-     "Watch Anderlecht vs OH Leuven live today: Who is broadcasting the match on TV and via live stream? (Goal.com)"
+     "Chivas vs Cruz Azul: Can Chivas finally beat the champions? (Sofascore)",
+     "Who Are the Chivas Players Called Up to Fight for the AP26 Top Spot Against Cruz Azul? (Chivas)"
     ]
    },
    {
-    "tema": "liam hemsworth",
+    "tema": "víctor manuel vucetich",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-22T10:20:00-08:00",
+    "desde": "2026-11-22T14:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Miley Cyrus’ Dating History: From Ex Liam Hemsworth to Husband Maxx Morando (AOL.com)",
-     "'That Dress..' Miley Cyrus Shared If She Really Took A Jab At Jennifer Lawrence For Kissing Ex Liam (BollywoodShaadis)"
+     "No hay nadie seguro en Tigres.- Vucetich (El Norte)",
+     "Tigres arranca sus vacaciones en medio de la incertidumbre por su futuro (Mediotiempo)"
     ]
    },
    {
-    "tema": "héctor herrera",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-22T10:10:00-08:00",
+    "tema": "guadalajara - cruz azul",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-22T14:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¡Última hora! Reportan que Héctor Herrera fue arrestado en Estados Unidos; esto se sabe de su detención (Mediotiempo)",
-     "ÚLTIMO MINUTO: Héctor Herrera es arrestado en Texas por presuntamente conducir en estado de ebriedad (Récord)"
+     "¿Quiénes son los convocados de Chivas para buscar el liderato del AP26 ante Cruz Azul? (Chivas)",
+     "Chivas: Gabriel Milito busca su primera victoria ante Cruz Azul (ESPN México)"
     ]
    },
    {
-    "tema": "girona - eibar",
+    "tema": "heat - thunder",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "“We’ll see,” Spoelstra said following Saturday’s … (Yahoo Sports)",
+     "How to watch Thunder vs. Heat: TV channel and streaming options for November 22 (The New York Times)"
+    ]
+   },
+   {
+    "tema": "efraín juárez",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Efraín Juárez, líder en Hungría con el Gyori ETO (ESPN México)",
+     "Mientras Efraín Juárez brilla en Hungría, Pumas decepciona (El Universal)"
+    ]
+   },
+   {
+    "tema": "cincinnati vs",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-22T10:10:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-22T14:20:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "El Girona busca continuidad ante el Eibar (Mundo Deportivo)",
-     "Girona-Eibar: el Eibar ganó cuatro de los últimos cinco duelos (Tu Futbolero)"
+     "November 28, 2026: 1. FC Koln vs SV 07 Elversberg: Spread Soccer Prediction Market (Robinhood)",
+     "Prediction: Shakhtar Donetsk vs Fenerbahçe | UEFA Champions League | 25/11/2026 (The Daily Star Lebanon)"
     ]
    },
    {
-    "tema": "florian wirtz",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T10:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Wirtz begeistert mit Zaubertor - selbst Hamann schwärmt (SPORT1)",
-     "Akrobatisches Tor von Florian Wirtz! FC Liverpool vermöbelt Manchester United bei Horror-Comeback von Ex-Bayern-Star (Yahoo Nachrichten)"
-    ]
-   },
-   {
-    "tema": "olympiacos",
+    "tema": "posiciones de getafe cf contra atlético de madrid",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-22T09:50:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Olympiacos vs Iraklis, en vivo: ¡La Hormiga está en la banca! (Claro Sports)",
-     "El delantero Armando González a seguir por el camino goleador (88.9 Noticias | Noticias en Vivo | Información Que Sirve)"
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)",
+     "Boselli ruled out for Getafe vs Atlético with a leg injury (Tu Futbolero)"
     ]
    },
    {
-    "tema": "rennes",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-22T09:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "À Rennes, quelles sont les rues bloquées par de nouveaux travaux cette semaine ? (Ouest-France)",
-     "Réseaux électrique et d’eau potable, trambus… Les principaux travaux dans Rennes, cette semaine (maville.com)"
-    ]
-   },
-   {
-    "tema": "barcelona - athletic club",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-22T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Previa Barça – Athletic Club (Yahoo)",
-     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
-    ]
-   },
-   {
-    "tema": "carlos alcaraz",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-22T09:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡EN VIVO! Carlos Alcaraz vs. Alexander Zverev, por la final de las ATP Finals 2026 (ESPN México)",
-     "Alexander Zverev - Carlos Alcaraz en directo, la final de las ATP Finals en vivo | Tenis | Deportes (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "lions - buccaneers",
+    "tema": "fernando mendoza",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-22T09:30:00-08:00",
+    "desde": "2026-11-22T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Buccaneers’ Jacob Parrish: Predicted Stats vs. Lions in Week 11 (BVM Sports)",
-     "Best Buccaneers Sportsbook Promos: Claim Over $1,700 for Buccaneers Odds (RotoWire)"
+     "Las lecciones que Fernando Mendoza deberá aprender de cara al partido contra Broncos (Milenio)",
+     "NFL Semana 11: Qué se comenta sobre el debut de Fernando Mendoza (ESPN México)"
+    ]
+   },
+   {
+    "tema": "river",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Elk River woman charged in $36K SNAP fraud case (FOX 9 Minneapolis-St. Paul)",
+     "Boys Soccer NJSIAA Group 3 Championship Preview: Toms River East vs. Ramapo (Shore Sports Insider)"
     ]
    }
   ]
