@@ -1,564 +1,562 @@
 {
- "fecha": "2026-11-21T17:54-05:00",
+ "fecha": "2026-11-21T21:54-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "disney",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "EPCOT Prepares for Festival of the Holidays 2026 and Living With the Land 'Glimmering Greenhouses' (WDW News Today)",
-     "Disney World Extends Best Christmas Ride Overlay Into 2027 (Disney Tourist Blog)"
-    ]
-   },
-   {
-    "tema": "final libertadores",
+    "tema": "pumas - monterrey",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "desde": "2026-11-21T17:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Pedro Sampaio: shows na Libertadores e no Réveillon do Rio (diariodamidia.com.br)",
-     "PEDRO SAMPAIO É ANUNCIADO PARA O SHOW DO INTERVALO NA FINAL DA LIBERTADORES E RÉVEILLON DE COPACABANA (Jornal O candeeiro)"
+     "Pumas vs. Monterrey partido EN VIVO: ¡Doble amarilla para 'Titán' Salcedo! (TUDN)",
+     "De estar a minutos de ser campeón a quedarse fuera de la Liguilla: la meteórica caída de Pumas (Récord)"
     ]
    },
    {
-    "tema": "inter miami - columbus crew",
+    "tema": "policía",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un policía vestido de civil frenó a sospechosos de un violento robo en Sauces 2 (Diario Extra)",
+     "Cubano buscado por fraude en Estados Unidos desde 2012 fue detenido en Guayaquil (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "once caldas - atlético nacional",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "desde": "2026-11-21T16:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "How the Columbus Crew switched paths en route to the MLS playoffs (The Guardian)",
-     "November 22, 2026: Nashville vs Cincinnati: First Half Winner Prediction Market (Robinhood)"
+     "Dónde y cómo ver en vivo y gratis Once Caldas vs. Nacional hoy: TV y streaming online del partido por la Liga BetPlay 2026 (Yahoo)",
+     "Cuadrangulares Liga BetPlay: Nacional anunció 20 convocados ante Once Caldas (ESPN Deportes)"
     ]
    },
    {
-    "tema": "césar farías",
+    "tema": "conmebol libertadores",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "desde": "2026-11-21T16:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¿Cesár Farías, extécnico de Barcelona SC, está cerca de volver a dirigir?: esto dice la prensa de Venezuela (El Universo)",
-     "César Farías regresa a los banquillos de la Liga FUTVE (Radio America)"
+     "La final de la Copa Libertadores tendrá show de entretiempo por primera vez, según Conmebol (Teleamazonas)",
+     "Pedro Sampaio protagonizará el primer show de medio tiempo en una final de Copa Libertadores (Primicias)"
     ]
    },
    {
-    "tema": "disney plus",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'Home Alone' Sequel With Macaulay Culkin In Works At Disney (Deadline)",
-     "‘Home Alone’ Director Chris Columbus Said Minutes Before New Sequel Was Announced That Another Movie ‘Can’t Happen’ After Catherine O’Hara’s Death (Variety)"
-    ]
-   },
-   {
-    "tema": "kylian mbappé",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:10:00-08:00",
+    "tema": "tomás cuello",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T16:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Impressive rating for Real Madrid v Celta Vigo referee after Mbappé penalty (Goal.com)",
-     "After latest miss, what is Kylian Mbappé’s penalty record for Real Madrid? (Get Spanish Football News)"
+     "Tomás Cuello, el argentino de Atlético Mineiro que busca ante Boca un título esquivo y un récord histórico (La Nación)",
+     "¿Quién es el ex Atlético Tucumán que quiere amargar a Boca en la final de la Copa Sudamericana? (La Gaceta)"
     ]
    },
    {
-    "tema": "la liga",
+    "tema": "facundo herrera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T16:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "'Jagger' Herrera explicó por qué haber hecho las inferiores en Boca otorga otra \"preparación\" (ESPN Ecuador)",
+     "¡Boca Juniors, campeón de la Copa Sudamericana 2026! (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "leandro paredes",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "(VIDEO) Leandro Paredes se desvaneció durante una entrevista en zona mixta y se recuperó progresivamente (Studiofutbol)",
+     "Las voces de los jugadores de Boca tras ser campeones de la Copa Sudamericana: \"Es algo muy grande para la ... (DSports)"
+    ]
+   },
+   {
+    "tema": "liga pro 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Independiente del Valle dedica ‘un minuto de silencio’ a Barcelona SC (El Comercio)",
+     "Joaquín Papa a la hinchada de IDV tras el bicampeonato: “Disfruten, festejen, que no es fácil ser campeón” (El Universo)"
+    ]
+   },
+   {
+    "tema": "alineaciones de atlético mineiro contra boca juniors",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Boca Juniors - Mineiro EN VIVO: alineaciones de la final de la Sudamericana (Diario Extra)",
+     "Así se retiró Eduardo Dominguez tras la derrota de Atletico Mineiro ante Boca en Barranquilla (Olé)"
+    ]
+   },
+   {
+    "tema": "miss universo 2026",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-21T13:50:00-08:00",
+    "desde": "2026-11-21T14:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Carlos Espí, the hero again: late goal gives Madrid the win (Tu Futbolero)",
-     "Licensable picture: REAL MADRID C.F. Vs. REAL CLUB CELTA DE VIGO - 2026/27 National League 11.21.26 (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "alianza lima - fc cajamarca",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T13:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "L1 Max transmitirá Alianza Lima vs FC Cajamarca por el Torneo Clausura 2026 (Infobae)",
-     "Y llegó el primer gol oficial: Luis Ramos anotó el 1-0 de Alianza Lima ante FC Cajamarca [VIDEO] (https://geniostv.pe/)"
-    ]
-   },
-   {
-    "tema": "mónaco - auxerre",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T13:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Mónaco empata con el Auxerre y el Estrasburgo cae con Vitor Matos (Tu Futbolero)",
-     "Alineaciones de AS Monaco contra AJ Auxerre (rcdm.es)"
-    ]
-   },
-   {
-    "tema": "posiciones de técnico universitario contra deportivo cuenca",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T13:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Técnico Universitario cobra vida con tres puntos de oro para salir de la zona del descenso (VIDEO) (futbolecuador.com)",
-     "EN VIVO | Técnico Universitario vs. Deportivo Cuenca por la Fecha 7 del hexagonal del descenso de la LigaPro (Primicias)"
+     "¿Cómo ver en YouTube en vivo el desfile de traje típico de Miss Universo? (El Universo)",
+     "¡Un pedazo de Quito en el Miss Universo! Así será el traje típico de Dalia Bucaram (El Telégrafo (por eliminar))"
     ]
    }
   ],
   "US": [
    {
-    "tema": "kirk ferentz",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "DISRESPECTED: How IOWA Can Respond to the CFP Rankings vs. Illinois | SwarmCast (247Sports)",
-     "Iowa's Kirk Ferentz threatens to fire coaches if they mention style points with great old-school statement (Fox News)"
-    ]
-   },
-   {
-    "tema": "app state football",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Louisiana-Monroe Warhawks at Appalachian State Mountaineers - NCAAF Game Summary - Nov 21, 2026 (USA Today)",
-     "Game Day Preview: Football Faces ULM in Saturday's Home Finale (App State Athletics)"
-    ]
-   },
-   {
-    "tema": "josh heupel",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Why Nick Saban is so impressed with Tennessee coach Josh Heupel (On3)",
-     "Josh Heupel deserves credit for something Tennessee has done well that Ohio State and others have struggled with (A to Z Sports)"
-    ]
-   },
-   {
-    "tema": "weather forecast",
+    "tema": "hawaii vs nevada",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Millions across 20+ states face Thanksgiving travel disruptions as powerful storms take aim at both coasts (FOX Weather)",
-     "Storms expected on both coasts threatens Thanksgiving travel (NPR)"
-    ]
-   },
-   {
-    "tema": "is karl anthony towns playing tonight",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Trail Blazers Set to Take On World Champion Knicks (Blazer's Edge)",
-     "OG Anunoby (calf) downgraded to out Saturday (NBC Sports)"
-    ]
-   },
-   {
-    "tema": "alabama vs unc",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "desde": "2026-11-21T18:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Where to watch Alabama vs. UNC women’s basketball for free today (AL.com)",
-     "North Carolina vs Alabama - Where to Watch, Stream Info, TV Channel, and Live Updates (November 21, 2026) (Fubo)"
+     "How to watch Hawaii vs Nevada: Live stream NCAA College Football, TV channel (Yahoo Sports)",
+     "UH football to battle low 30-degree temperature in Nevada (Honolulu Star-Advertiser)"
     ]
    },
    {
-    "tema": "uc davis football",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Big weekend of Sacramento-area football: high school and JuCo semis, a UC Davis must-win (Abridged – PBS KVIE)",
-     "UC Davis Looks to Defend Golden Horseshoe, Extend Streak on Senior Day (UC Davis Athletics)"
-    ]
-   },
-   {
-    "tema": "maryland vs usc",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-21T14:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "USC football vs. Maryland: Live updates, start time and how to watch (Los Angeles Times)",
-     "How to watch Maryland vs USC: Live stream NCAA College Football, TV channel (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "gta vi review metacritic",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T14:20:00-08:00",
+    "tema": "donovan clingan",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "‘GTA VI’ sales blew past $3 billion in its first day, making it one of the biggest entertainment launches ever (CNN)",
-     "GTA 6 first-day sales of $3.8B is largest entertainment launch ever (USA Today)"
+     "Donovan Clingan’s 25-under-25 snub undersells how much he’s anchoring Blazers (Rip City Project)",
+     "Donovan Clingan posts 11 rebounds in win (FantasyPros)"
     ]
    },
    {
-    "tema": "tesla fsd v15",
+    "tema": "wemby",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Spurs' Victor Wembanyama says new-look 'shunk' done because of blister on hand (ESPN)",
+     "Victor Wembanyama, NBA's dunk king, turns to the 'shunk' due to painful blister on hand (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "u of u football",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Utah Football Season Ticket Renewal Period Opens Today (University of Utah Athletics)",
+     "Utah vs TCU Prediction, Pick, College Football Odds for Saturday, Nov. 21 (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "toronto maple leafs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Thought you’d at least maybe hear something’: Lorentz on not receiving call from new Leafs regime (TSN)",
+     "Ex-Maple Leafs Forward Rips John Chayka Ahead of Toronto Return (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "utah state vs oregon state",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-21T14:20:00-08:00",
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Oregon State Beavers vs. Utah State Aggies preview: Who wins in the trenches could be the difference (OregonLive.com)",
+     "Oregon State football vs. Utah State updates, score, TV, streaming (Statesman Journal)"
+    ]
+   },
+   {
+    "tema": "product recall",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T18:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Tesla FSD V15 UI Overhaul: What to Expect and How to Prepare (BASENOR - Tesla Accessories)",
-     "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements (Teslarati)"
+     "Over 51,000 units of kids' and adult toothpaste, mouthwash recalled nationwide over hormone contamination (Fox Business)",
+     "Over 51K toothpaste, mouthwash products recalled. See the list (USA Today)"
+    ]
+   },
+   {
+    "tema": "josh hart",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Athletic: Josh Hart’s toughest battle is mental (NBA.com)",
+     "Championship hangover? Josh Hart 'not in a good headspace' as he, other Knicks struggle amid uneven start (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "emergency operations center",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa (The New York Times)",
+     "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday (WQAD)"
+    ]
+   },
+   {
+    "tema": "carlos salcedo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El 'Titán' Carlos Salcedo se hace expulsar y pone a sufrir a Almeyda y Rayados (MARCA)",
+     "Carlos Salcedo expulsado vs Pumas por doble amarilla (365Scores)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "vinícius júnior",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Virada e nona vitória consecutiva (Real Madrid CF | Web Oficial)",
-     "Real Madrid-Celta: no Bernabéu para recolar ao Barcelona (A Bola)"
-    ]
-   },
-   {
-    "tema": "cayo lara",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Cayo Lara reivindica en Argamasilla de Alba las pensiones públicas y el derecho a la vivienda junto a Frente Amplio (La Voz de Tomelloso)",
-     "Cayo Lara: «Me fío mucho más de que las pensiones las garantice el Estado que un inversor» (ABC)"
-    ]
-   },
-   {
-    "tema": "permafrost",
+    "tema": "cuantos capitulos tiene gta 6",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "desde": "2026-11-21T18:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "An der Zugspitze bröckelt‘s: Was wird aus Deutschlands höchstem Berg? (Augsburger Allgemeine)",
-     "Der Hochvogel bricht offenbar auseinander: Geologen warnen (GMX)"
+     "GTA 6: Una guía de todas las misiones y capítulos (Red Bull)",
+     "GTA VI, una historia llena de misiones secundarias y misterios que puede llegar a las 200 horas (MARCA)"
     ]
    },
    {
-    "tema": "inter miami - columbus crew",
+    "tema": "spurs - pelicans",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "It’s time for Basketball: San Antonio Spurs vs New Orleans Pelicans (Pounding The Rock)",
+     "New Orleans Pelicans at San Antonio Spurs - NBA Game Summary - Nov 21, 2026 (USA Today)"
+    ]
+   },
+   {
+    "tema": "mavericks - clippers",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mavericks Face Clippers With Key Players Sidelined in Dallas (cwibc.co.id)",
+     "Karl-Anthony Towns (illness) downgraded to out (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "cuando es el miss universo 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Conoce a las candidatas latinas que competirán en Miss Universe 2026 (Telemundo)",
+     "Miss Universo 2026: fecha, horario, canal y cómo seguir online la competencia desde USA (Diario AS)"
+    ]
+   },
+   {
+    "tema": "jennifer lawrence",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jennifer Lawrence Teases Miss Piggy Movie Update: “I Always Get In Trouble For Saying Stuff” (Deadline)",
+     "Jennifer Lawrence & Emma Stone's 'Muppet Movie' Spin-Off Officially Moves Forward (MovieWeb)"
+    ]
+   },
+   {
+    "tema": "once caldas - atlético nacional",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-21T16:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Messi chases another impossible feat: back-to-back MLS titles (BeSoccer Livescore)",
-     "It’s Miami Time: Get Ready for Inter Miami CF’s Playoffs Opener This Saturday Presented by Nu (Inter Miami CF)"
+     "Once Caldas - Atlético Nacional S. A. | Pronóstico y cuotas 22.11.2026 (Diario AS)",
+     "Presidente de Once Caldas responde a Lucas González antes del duelo con Nacional (PrimerTiempo.CO)"
     ]
    },
    {
-    "tema": "classement real madrid – celta vigo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "tema": "knicks - trail blazers",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T16:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Carlos Espi offre encore les trois points au Real Madrid au bout d'un match brouillon contre le Celta Vigo (L'Équipe)",
-     "Real Madrid : l’émotion du héros Carlos Espi sous les yeux de Nadal (Foot Mercato)"
+     "Knicks vs. Trail Blazers prediction, props: Jalen Brunson continues hot streak (New York Post)",
+     "Licensable picture: NBA: Portland Trail Blazers at New York Knicks (Reuters Connect)"
     ]
    },
    {
-    "tema": "conmebol sudamericana",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
+    "tema": "seguridad social",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-21T16:40:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Preview: Atletico Mineiro vs Boca Juniors - prediction, team news, lineups (Sports Mole)",
-     "Licensable picture: Copa Sudamericana - Final - Boca Juniors Training (Reuters Connect)"
+     "Es oficial: La Seguridad Social cambia el cálculo de la pensión de jubilación en 2027: suben los meses cotizados para calcular la base reguladora (Líder Actual)",
+     "Alfonso Muñoz, funcionario de la Seguridad Social, sobre las pensiones: \"Serán necesarios 37 años cotizados para obtener la base reguladora completa\" (20 Minutos)"
     ]
    },
    {
-    "tema": "as",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T14:20:00-08:00",
-    "deporte_probable": true,
+    "tema": "penélope cruz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T16:30:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "CeeDee Lamb fined $23,882 for block the league used as a highlight (NBC Sports)",
-     "NFL fines Cowboys WR CeeDee Lamb after battle with 49ers CB Deommodore Lenoir (Dallas News)"
+     "Penélope Cruz sobre Meryl Streep: \"Siempre le digo a mi agente si hay algo. O sea, si es un día, una línea, voy allí para llevarle café, lo que sea. Es muy encantadora y amable\" (InStyle)",
+     "Penélope Cruz: “Javier y yo somos muy cuidadosos a la hora de elegir cuándo trabajar juntos” (Vanity Fair España)"
     ]
    },
    {
-    "tema": "mundo deportivo",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T14:20:00-08:00",
-    "deporte_probable": true,
+    "tema": "katniss everdeen",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T16:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Real Madrid - Celta en directo (El Mundo)",
-     "González Fuertes: \"No me parece penalti a Mbappé y el VAR debió intervenir\" (MARCA)"
-    ]
-   },
-   {
-    "tema": "sport",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Wales 26-29 Australia: Nations Championship 2026 - Reaction from Cardiff (BBC)",
-     "Wales fightback not enough as Australia edge thriller thanks to Gordon (The Guardian)"
-    ]
-   },
-   {
-    "tema": "endrick",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Real Madrid’s demands revealed as AC Milan prepare January transfer offer (Get Spanish Football News)",
-     "Open Thread: 19 November 2026 (Managing Madrid)"
+     "Katniss Everdeen: The Personification of Haymitch Abernathy’s Horrors (Her Campus)",
+     "Mckenna Grace ‘Wept’ After Landing ‘Sunrise on the Reaping’ Role (Exclusive) (People.com)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "ascacibar",
+    "tema": "a que hora es la carrera de f1",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "desde": "2026-11-21T18:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "La ausencia de un titular que tuvo Boca en el último entrenamiento antes de la final de Mineiro (Olé)",
-     "Boca se entrenó a puerta abiertas antes de la final ante Mineiro por la Copa Sudamericana (TyC Sports)"
+     "F1: cronograma y horario del GP de Las Vegas 2026 (TyC Sports)",
+     "F1 GP de Las Vegas: horarios de la carrera, cómo y dónde ver la Fórmula 1 (Clarin.com)"
     ]
    },
    {
-    "tema": "futbol en vivo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bayer Leverkusen (Flashscore.com.ar)",
-     "Marcelo Gallardo encadenó una nueva victoria en Ecuador: la padeció Bolivia (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "boca partidos",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La gran final: cómo está el historial entre Boca y Atlético Mineiro (Olé)",
-     "Boca y Atlético Mineiro: el único antecedente de una final continental entre ambos que terminó en manos del Xeneize (AFA)"
-    ]
-   },
-   {
-    "tema": "villa",
+    "tema": "kings - celtics",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T14:40:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-21T18:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Santa Fe: mató a tiros a su vecino porque no quiso bajar el volumen de la música (Infobae)",
-     "Quién era el carnicero de 40 años que fue asesinado por un farmacéutico tras una discusión por el volumen de la música en Santa Fe (TN)"
+     "Celtics vs Kings LIVE, Score Updates, Stream Info and Results in NBA Regular Season (VAVEL.com)",
+     "Derrick White (shoulder) ruled out Saturday (FantasyPros)"
     ]
    },
    {
-    "tema": "final libertadores 2026",
+    "tema": "las vegas f1",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "desde": "2026-11-21T18:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Palmeiras x Estudiantes: Conmebol anuncia árbitro da final da Libertadores (ge)",
-     "Palco da final da Libertadores tem bola de ouro de 22 quilates (iG Esportes)"
+     "Antonelli quickest in Las Vegas GP Qualifying as Verstappen inherits pole position (Formula 1)",
+     "Winners and losers from F1 2026 Las Vegas Grand Prix qualifying (The Race)"
     ]
    },
    {
-    "tema": "radio",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "tema": "desierto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sergio Rojas: \"Es una satisfacción este trabajo para nosotros\" (Radio Rivadavia AM630)",
-     "Quiénes se quedaron afuera del banco de Boca para la final y la sorpresa entre los suplentes (Olé)"
+     "La NASA publicó reveladoras fotos satelitales que muestran el antes y el después de El Niño en el Desierto de Atacama (Clarin.com)",
+     "El Niño pintó el desierto de Atacama: la floración más extensa de la era satelital (El Economista - Últimas noticias económicas y financieras)"
     ]
    },
    {
-    "tema": "bo",
+    "tema": "pilar smith",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "desde": "2026-11-21T18:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "BOLIVIA: Con duras críticas a Rodrigo Paz y la oposición, Linera denunció un colapso institucional y judicial inédito (Primereando Las Noticias)"
+     "Luis Ventura y Pilar Smith protagonizaron un picante cruce en los Martín Fierro de Uruguay: la versión que desató la polémica (A24.com)",
+     "Pilar Smith reaccionó y no entregó un Martín Fierro (laubfal)"
     ]
    },
    {
-    "tema": "cisse",
+    "tema": "policía del chaco",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "desde": "2026-11-21T18:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "ONE YEAR LATER (Yahoo Sports)",
-     "“We needed to make a move” – Moncada explains Milan’s multi-year pursuit of Cisse (SempreMilan)"
+     "La Policía del Chaco confirmó la autenticidad de las fotos viralizadas en la Comisaría Quinta de Resistencia (Alerta Urbana)",
+     "La madre de Axel González apuntó contra la Policía de Chaco por su desaparición: Siguen trabajando como si nada (La Voz del Interior)"
     ]
    },
    {
-    "tema": "tv publica",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¡Escándalo en la Televisión Pública! Levantaron el programa del Tucu López y Jimena Cyrulnik antes del debut: el supuesto motivo (Pronto)",
-     "Polémica en Canal 7: freezaron el estreno de El Tucu López y Jimena Cyrulnik (NewsDigitales)"
-    ]
-   },
-   {
-    "tema": "merentiel",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
+    "tema": "timberwolves - grizzlies",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Doble blooper en el área: la perdió el arquero y Merentiel erró un gol insólito (TyC Sports)",
-     "Quiénes se quedaron afuera del banco de Boca para la final y la sorpresa entre los suplentes (Olé)"
+     "NBA: Memphis Grizzlies at Minnesota Timberwolves (Reuters Connect)",
+     "Polymarket’s Grizzlies vs. Timberwolves Market Sees LaMelo Ball Yes Odds Fall 25.5 Points (TradingView)"
+    ]
+   },
+   {
+    "tema": "laurita fernández",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Laurita Fernández, Juana Viale y Aurora Figueras demuestran que el verde Kelly es el color del verano 2027 (Caras)",
+     "Laurita Fernández contó la escatológica anécdota de su primera cita con Matías Busquet (Telefe)"
+    ]
+   },
+   {
+    "tema": "gordon anibal",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aníbal Gordon, el terror detrás de Automotores Orletti (Página|12)",
+     "Las fortalezas y la debilidad de \"Gordon\", la serie de Netflix sobre el ladrón que terminó como agente de la Triple A y se volvió un represor de la dictadura (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "alberto ades",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mercados alterados: los economistas ven más presión sobre el dólar y a Milei, que lo aguanta (Clarin.com)",
+     "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\" (Ambito)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "dólar estadounidense",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T14:40:00-08:00",
+    "tema": "san francisco 49ers",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "La caída del peso… ¿sin efecto inflacionario? (El Financiero)",
-     "El dólar toma vuelo; amenaza con llegar a $20 pesos (El Universal)"
+     "How Vikings brought Mexico City's elevation to Minnesota (ESPN)",
+     "How the Vikings and 49ers are training for Mexico City’s thin air (Mexico News Daily)"
     ]
    },
    {
-    "tema": "superluna",
+    "tema": "gp de las vegas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gran Premio de Las Vegas: Horario y dónde ver la carrera de la Fórmula 1 (TUDN)",
+     "GP de Las Vegas EN VIVO: A qué hora y dónde ver carrera de F1 HOY ONLINE 2026 (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "los juegos del hambre en llamas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Los juegos del hambre’: Lo que necesitas saber antes de ver ‘Amanecer en la cosecha’ (The New York Times)",
+     "La nueva precuela de 'Los juegos del hambre' genera 56 millones de dólares en Norteamérica (Yahoo)"
+    ]
+   },
+   {
+    "tema": "kings - celtics",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Dos superlunas brillarán en el cielo de noviembre y diciembre para despedir el año (El Sol de México)",
-     "¿A qué hora ver la Superluna de Castor el 23 de noviembre EN VIVO? Horario para ver la luna llena en su punto (Milenio)"
-    ]
-   },
-   {
-    "tema": "bahia vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T14:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bahia vs Coritiba: Brazilian Serie A stats & head-to-head (BBC)",
-     "Queretaro vs Necaxa: First Half Spread (Coinbase)"
-    ]
-   },
-   {
-    "tema": "inter miami - columbus crew",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-21T14:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How the Columbus Crew switched paths en route to the MLS playoffs (The Guardian)",
-     "November 22, 2026: Nashville vs Cincinnati: First Half Winner Prediction Market (Robinhood)"
-    ]
-   },
-   {
-    "tema": "santos - león",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-21T14:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¿A qué hora juega Santos vs. León HOY? Horario y canal EN VIVO partido J17 de Liga MX 2026 (Mediotiempo)",
-     "León llega a Torreón con la consigna de vencer a Santos y avanzar a la Liguilla (MILENIO)"
-    ]
-   },
-   {
-    "tema": "julion alvarez en monterrey",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-21T14:10:00-08:00",
+    "desde": "2026-11-21T18:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Metrorrey extiende su horario por concierto de Julión Álvarez este sábado; ¿hasta qué hora? (MILENIO)",
-     "Julión Álvarez en Monterrey: ¿Cómo llegar al concierto en Metro y camión? (ABC Noticias)"
+     "Boston Celtics: Jayson Tatum Will Have to Wait a Night For History (Yahoo Sports)",
+     "Derrick White (shoulder) ruled out Saturday (FantasyPros)"
     ]
    },
    {
-    "tema": "pachuca - toluca",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-21T14:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "A qué hora y dónde ver el Pachuca vs. Toluca de la Jornada 17 (TUDN)",
-     "Pachuca vs. Toluca: Horario y canal EN VIVO partido J17 de Liga MX 2026 (Mediotiempo)"
-    ]
-   },
-   {
-    "tema": "ucla vs michigan",
+    "tema": "el sol de san juan del río",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-21T14:00:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-21T18:20:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Licensable picture: NCAA Football: UCLA at Michigan (Reuters Connect)",
-     "UCLA vs Michigan Prediction (Nov 21): UCLA 61% — Odds & Live Score (AccuScore)"
+     "Convocan a sorteo militar para clase 2008 y remisos (El Sol de México)",
+     "Sortean este domingo el Servicio Militar para mil 605 jóvenes en Cancún (Quadratin Quintana Roo)"
     ]
    },
    {
-    "tema": "atlético mineiro - boca juniors",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-21T13:50:00-08:00",
+    "tema": "tigres - américa",
+    "volumen": "200000+",
+    "volumen_min": 200000,
+    "desde": "2026-11-21T18:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "El título y mucho más: qué se juegan Boca y el fútbol argentino ante Atlético Mineiro (ESPN México)",
-     "Atlético Mineiro vs. Boca Juniors: ¿A qué hora y dónde ver EN VIVO Final de la Copa Sudamericana 2026 HOY? (Mediotiempo)"
+     "¿A qué hora juega Tigres vs. América HOY? Horario y canal EN VIVO partido Jornada 17 de Liga MX 2026 (Mediotiempo)",
+     "Alineaciones de Tigres vs Club América – Apertura 2026 (Yahoo)"
     ]
    },
    {
-    "tema": "kylian mbappé",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-21T13:40:00-08:00",
+    "tema": "sandra cuevas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "De osos panda a hospitales inteligentes: Sheinbaum quiere diversificar el comercio y la inversión en su visita a China sin arriesgar el TMEC (EL PAÍS)",
+     "Con China, atados de manos como nadie más… (MILENIO)"
+    ]
+   },
+   {
+    "tema": "liverpool vs manchester united",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-21T18:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¿Favoreció el árbitro al Real Madrid? «Archivo VAR» zanja la polémica del penalti de Mbappé (Goal.com)",
-     "Mbappé falla penal en el Real Madrid vs Celta y Rafael Nadal lo lamenta en el Bernabéu | VIDEO (El Heraldo de México)"
+     "'We know what this game means' - Virgil van Dijk previews Liverpool v Man Utd (Liverpool FC)",
+     "Andoni Iraola admits “we need to be better at home” starting vs. Man United (This Is Anfield)"
     ]
+   },
+   {
+    "tema": "keylor navas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-21T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liga MX: ¿Arde el vestidor de Pumas? El video del pleito entre Keylor Navas y Esteban Solari en pleno entreno (Al Bat)",
+     "Filtran video del enojo de Keylor Navas con Esteban Solari durante la última práctica de Pumas (Juanfutbol)"
+    ]
+   },
+   {
+    "tema": "la mansión vip votos",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-21T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
    }
   ]
  }
