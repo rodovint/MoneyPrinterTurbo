@@ -230,9 +230,9 @@
     "hinchada": true
    },
    {
-    "texto": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "texto": "En el Mundial pasado, ocho de los doce primeros jugaron contra un tercero.",
     "voz": "andrea",
-    "dicho": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "dicho": "En el Mundial pasado, ocho de los doce primeros jugaron contra un tercero.",
     "grafico": {
      "tipo": "duo",
      "a": "8",
@@ -243,13 +243,13 @@
     }
    },
    {
-    "texto": "Con un empate sería segundo, y si pierde, depende de Uganda contra Nueva Caledonia.",
+    "texto": "Con empate sería segundo, y si pierde, depende de Uganda y Nueva Caledonia.",
     "voz": "andrea",
     "foto": "img/sub17-uganda-2026-11-22/tri5-final.jpg",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "EMPATE: 2.º · DERROTA: A ESPERAR",
+     "texto": "EMPATE: SEGUNDO · DERROTA: A ESPERAR",
      "sobre": "SI COREA GANA HOY A NUEVA CALEDONIA"
     },
     "suspenso": true,
