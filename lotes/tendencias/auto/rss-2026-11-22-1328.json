@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-22T13:28-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "orense - mushuc runa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡Todos al estadio! Orense afronta una final por la permanencia y lanza entradas 2×1 desde $4 (Machala Móvil)",
+     "Orense SC vs Mushuc Runa EN VIVO: transmisión, horario y dónde ver hoy | LigaPro 2026 (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "alexander zverev",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sky Sports forced to apologise as Alexander Zverev explodes in X-rated rant at ATP Finals (Daily Express)",
+     "Medvedev: \"I don't think Zverev has improved anything in his tennis\" (Punto de Break)"
+    ]
+   },
+   {
+    "tema": "jair bolsonaro",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Michelle diz que deu banho, secou o cabelo e hidratou Bolsonaro durante internação (Maurílio Júnior)",
+     "Jair Bolsonaro segue na UTI com obstrução intestinal; Moraes retira tornozeleira e autoriza visitas (Jornal Grande Bahia)"
+    ]
+   },
+   {
+    "tema": "barcelona - athletic club",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T09:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alineaciones confirmadas del FC Barcelona – Athletic Club de Liga F (Las Futbolistas)",
+     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
+    ]
+   },
+   {
+    "tema": "carlos alcaraz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Zverev vs. Alcaraz: final esperada en las Nitto ATP Finals (ATP Tour)",
+     "El número 1 del mundo 2027 se empieza a jugar entre Alcaraz y Zverev en la final de finales (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "manchester united",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T09:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mauricio Pochettino brings Man Utd youngster to Anfield despite not naming him on bench in hint over future role (The Sun)",
+     "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates (BBC)"
+    ]
+   },
+   {
+    "tema": "ac milan",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T08:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Serie A - AC Milan v Frosinone (Reuters Connect)",
+     "Italy Serie A Soccer (WV News)"
+    ]
+   },
+   {
+    "tema": "milan - frosinone",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T08:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LIVE Milan-Frosinone 4-1 Serie A 2026/2027: Milan travolge il Frosinone 4-1 (Virgilio)",
+     "Serie A, in campo Milan-Frosinone DIRETTA (ANSA)"
+    ]
+   },
+   {
+    "tema": "manta - delfín",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T08:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "EN VIVO | Manta FC vs. Delfín SC, los equipos manabitas se juegan el descenso en la Fecha 7 del hexagonal de LigaPro (Primicias)",
+     "Clásico Mantense: Raúl Duarte y Juan Carlos León, cara a cara por la permanencia en LigaPro (www.eldiario.ec)"
+    ]
+   },
+   {
+    "tema": "liverpool - manchester united",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-22T07:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates (BBC)",
+     "Andoni Iraola unbeaten vs. Man United – 1st relegation zone visit for 89 years (This Is Anfield)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "is taylor swift at the chiefs game today",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Is Taylor Swift Going to Travis Kelce’s Chiefs Game Today? (IMDb)",
+     "Will Taylor Swift Attend Chiefs-Bills Thanksgiving Game? Travis Kelce’s Wife Faces Decision (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "tyler shough",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tyler Shough is the Saints’ leading rusher, with 187 yards this season (NBC Sports)",
+     "Jeremiah Wright on o-line play, run game 11/16/2026 (New Orleans Saints)"
+    ]
+   },
+   {
+    "tema": "dallas cowboys game today",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Man dies days after fight at Dallas Cowboys game (FOX 4 News Dallas-Fort Worth)",
+     "Police investigate man's death after alleged altercation at 49ers-Cowboys game (ESPN)"
+    ]
+   },
+   {
+    "tema": "rashod bateman",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Projected 2027 NFL Draft order: Chargers climb out of No. 1 spot; Ravens’ top-10 odds soar (The New York Times)",
+     "Late for Work: Why Did the Ravens Struggle Running the Ball and How Can They Fix It? (Baltimore Ravens)"
+    ]
+   },
+   {
+    "tema": "detective",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Denver police detective accused of DUI hit-and-run was driving city-issued SUV, sheriff's report says (CBS News)",
+     "Denver Detective DUI Hit-and-Run in City SUV: What Happened (Hoodline)"
+    ]
+   },
+   {
+    "tema": "ollie gordon",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Underdog NFL Picks Sunday: Monangai, Ollie Gordon Higher (OddsShopper)",
+     "Dolphins 2026 Midseason Awards: From Ollie to Chop to Uche (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "dolphins qb",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "There's only one reasonable answer to the question of whether or not the Miami Dolphins should entertain adding QB Daniel Jones (Yahoo Sports)",
+     "Dolphins shouldn't even think about adding former Colts QB Daniel Jones (Phin Phanatic)"
+    ]
+   },
+   {
+    "tema": "max hurleman",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Kaden Wetjen scratched for Steelers vs. Eagles; Max Hurleman to serve as returner in NFL debut (TribLIVE.com)",
+     "Week 11 inactives for Steelers (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "hector herrera",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Héctor Herrera es arrestado por manejar bajo los efectos del alcohol, días antes de los Playoffs de la MLS (Telemundo)",
+     "¡Última hora! Reportan que Héctor Herrera fue arrestado en Estados Unidos; esto se sabe de su detención (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "is kenneth walker playing this week",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals (ESPN)",
+     "Chiefs-Cardinals Inactives: DT Peter Woods to miss third straight game (Arrowhead Pride)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "real valladolid",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Celta Fortuna - Valladolid en directo | Última hora de LALIGA Hypermotion en vivo hoy (MARCA)",
+     "Convocatoria del Celta Fortuna para recibir al Real Valladolid (Celta)"
+    ]
+   },
+   {
+    "tema": "atp ranking",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El imponente dominio de Alcaraz ante el Top 10 actual (ATP Tour)",
+     "Alcaraz emociona en las ATP Finals: \"Vivir esto juntos es maravilloso. Aquí estoy para lo que necesite\" (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "junta de castilla y león",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "fc argeș pitești - fcsb",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FCSB o surprinde pe FC Argeș! Improvizațiile neașteptate ale lui Laurențiu Reghecampf (Sport.ro)",
+     "FC Argeș - FCSB, în etapa #16 din Superliga » Comentăm la GSP Live Special (GSP)"
+    ]
+   },
+   {
+    "tema": "natalia figueroa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Las raíces separadas de Raphael (83 años) y Natalia Figueroa (87 años) están a casi 600 kilómetros en línea recta: desde un paseo marítimo de la Belle Époque hasta un enclave minero que fue cuna de artistas (Woman Madame Figaro)",
+     "Raphael, hospitalizado de urgencia tras cancelar un concierto en A Coruña (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "lexus",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk (NBC News)",
+     "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue (Fox Business)"
+    ]
+   },
+   {
+    "tema": "torino",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Il tennis italiano ha un problema (Punto de Break)",
+     "Binaghi \"Con le Finals superato uno stress test, manifestazione di valore assoluto\" (Il Sole 24 ORE)"
+    ]
+   },
+   {
+    "tema": "luis astolfi",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los criadores de caballo piden al próximo Gobierno más apoyo como ganaderos (El Confidencial)",
+     "Sevilla se rinde al jinete Luis Astolfi, amigo íntimo de la infanta Elena, 8 meses después de anunciar que padece ELA (HOLA)"
+    ]
+   },
+   {
+    "tema": "dani ceballos",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lista de convocados del Real Betis para El Gran Derbi (Real Betis Balompié - Web Oficial)",
+     "Dani Ceballos, uno más en la concentración del Betis antes del derbi ante el Sevilla (ABC)"
+    ]
+   },
+   {
+    "tema": "ranking atp",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "(1) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live (The Guardian)",
+     "Final Preview: Zverev vs. Alcaraz in Nitto ATP Finals championship blockbuster (ATP Tour)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "asignación universal por hijo",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Calendario Anses: cuándo cobro la AUH en noviembre 2026 si mi DNI termina en 6 (La Nación)",
+     "Respuestas a dudas previsionales (El Tribuno)"
+    ]
+   },
+   {
+    "tema": "barcelona - athletic club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "FC Barcelona - Athletic Club, en directo: partido de la Liga F Moeve, en vivo (SPORT)",
+     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
+    ]
+   },
+   {
+    "tema": "zaira nara",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Risas y unión familiar: el gesto de Wanda y Zaira Nara para acompañar a su padre Andrés en su nuevo proyecto (Infobae)",
+     "En fotos: Andrés Nara debutó en streaming y reunió a Wanda, Zaira y sus dos ex, Nora Colosimo y Alicia Barbasola (Ciudad Magazine)"
+    ]
+   },
+   {
+    "tema": "copa potrero",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "La Copa Potrero con acento santafesino (El Litoral)",
+     "De la Copa Potrero al Federal A: Brian Fernández tiene nuevo club y vuelve al fútbol profesional (Olé)"
+    ]
+   },
+   {
+    "tema": "carlos alcaraz",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Alexander Zverev, otra vez finalista de las ATP Finals: \"No creo que hayamos jugado mucho al tenis\" (ESPN Argentina)",
+     "Alcaraz-Zverev, la gran final del Masters (Página|12)"
+    ]
+   },
+   {
+    "tema": "atp finals",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "ATP Finals: Carlos Alcaraz to face Alexander Zverev for title after comeback against Ben Shelton (BBC)",
+     "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz (ATP Tour)"
+    ]
+   },
+   {
+    "tema": "zverev",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Zverev Erases Top 10 Doubts With Four ATP Finals Wins (Peradaban.id)",
+     "“One second of play, 30 seconds of wait. It’s impossible”: Mouratoglou says tennis cannot go on like this (Tennis Majors)"
+    ]
+   },
+   {
+    "tema": "nitto atp finals",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Daniil Medvedev defeats Flavio Cobolli in straight sets in the round-robin stage at the Nitto ATP finals 2026 in Turin (TNT Sports)",
+     "Licensable picture: Tennis 2026: Nitto ATP Finals: AREVALO PAVIC V ARRIBAGE OLIVETTI (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "olimpia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los impactantes números de un ex-Central al frente de Olimpia, que está a un paso de ser bicampeón (La Capital)",
+     "\"Glory Has No Price\": Olimpia Chases 49th Title Under A Phrase That Never Faded (The Asunción Times)"
+    ]
+   },
+   {
+    "tema": "clima rio gallegos",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T09:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en Río Gallegos, Santa Cruz: el pronóstico del tiempo para este domingo 22 noviembre de 2026 (Clarín)",
+     "Clima de este domingo 22 de noviembre en Río Gallegos (Tiempo Sur)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "anderlecht",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Anderlecht vs OH Leuven: Belgian Pro League stats & head-to-head (BBC)",
+     "Watch Anderlecht vs OH Leuven live today: Who is broadcasting the match on TV and via live stream? (Goal.com)"
+    ]
+   },
+   {
+    "tema": "liam hemsworth",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miley Cyrus’ Dating History: From Ex Liam Hemsworth to Husband Maxx Morando (AOL.com)",
+     "'That Dress..' Miley Cyrus Shared If She Really Took A Jab At Jennifer Lawrence For Kissing Ex Liam (BollywoodShaadis)"
+    ]
+   },
+   {
+    "tema": "héctor herrera",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¡Última hora! Reportan que Héctor Herrera fue arrestado en Estados Unidos; esto se sabe de su detención (Mediotiempo)",
+     "ÚLTIMO MINUTO: Héctor Herrera es arrestado en Texas por presuntamente conducir en estado de ebriedad (Récord)"
+    ]
+   },
+   {
+    "tema": "girona - eibar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Girona busca continuidad ante el Eibar (Mundo Deportivo)",
+     "Girona-Eibar: el Eibar ganó cuatro de los últimos cinco duelos (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "florian wirtz",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wirtz begeistert mit Zaubertor - selbst Hamann schwärmt (SPORT1)",
+     "Akrobatisches Tor von Florian Wirtz! FC Liverpool vermöbelt Manchester United bei Horror-Comeback von Ex-Bayern-Star (Yahoo Nachrichten)"
+    ]
+   },
+   {
+    "tema": "olympiacos",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Olympiacos vs Iraklis, en vivo: ¡La Hormiga está en la banca! (Claro Sports)",
+     "El delantero Armando González a seguir por el camino goleador (88.9 Noticias | Noticias en Vivo | Información Que Sirve)"
+    ]
+   },
+   {
+    "tema": "rennes",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "À Rennes, quelles sont les rues bloquées par de nouveaux travaux cette semaine ? (Ouest-France)",
+     "Réseaux électrique et d’eau potable, trambus… Les principaux travaux dans Rennes, cette semaine (maville.com)"
+    ]
+   },
+   {
+    "tema": "barcelona - athletic club",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Previa Barça – Athletic Club (Yahoo)",
+     "Ane Azkona y la segunda mejor defensa de la Liga F desafían al Barça (BilbaoHiria)"
+    ]
+   },
+   {
+    "tema": "carlos alcaraz",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡EN VIVO! Carlos Alcaraz vs. Alexander Zverev, por la final de las ATP Finals 2026 (ESPN México)",
+     "Alexander Zverev - Carlos Alcaraz en directo, la final de las ATP Finals en vivo | Tenis | Deportes (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "lions - buccaneers",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Buccaneers’ Jacob Parrish: Predicted Stats vs. Lions in Week 11 (BVM Sports)",
+     "Best Buccaneers Sportsbook Promos: Claim Over $1,700 for Buccaneers Odds (RotoWire)"
+    ]
+   }
+  ]
+ }
+}
