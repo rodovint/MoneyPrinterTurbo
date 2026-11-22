@@ -1,96 +1,262 @@
 [
  {
-  "titulo": "¡Barcelona SC gana 1-0 a Universidad Católica en Quito y sueña con la Libertadores 2027!",
-  "etiqueta": "HEXAGONAL FINAL",
-  "color": "#FFD100",
-  "audio": "audio/bsc-quito",
+  "titulo": "¡Enner Valencia campeón de la Copa Sudamericana con Boca Juniors! Boca 2-0 Atlético Mineiro",
+  "etiqueta": "COPA SUDAMERICANA",
+  "club": "boca",
+  "audio": "audio/23",
   "franja": [
-   "CATÓLICA 0-1 BARCELONA SC",
-   "AUTOGOL DE ANANGONÓ 55'",
-   "VAR ANULÓ GOL DE CATÓLICA AL FINAL",
-   "MIÉ 25/11: BSC VS. IDV EN CASA"
+   "BOCA 2-0 ATLÉTICO MINEIRO",
+   "FINAL EN BARRANQUILLA",
+   "GOLES: ASCACIBAR Y MERENTIEL",
+   "BOCA CORTA 18 AÑOS SIN TÍTULO INTERNACIONAL"
   ],
   "escenas": [
    {
-    "texto": "Barcelona ganó uno a cero en Quito a la Universidad Católica y el ídolo está más vivo que nunca.",
-    "foto": "img/alerta-2026-11-21/foto-4-dt-bsc-entrenamiento.jpg",
+    "texto": "Enner Valencia es campeón de la Copa Sudamericana con Boca Juniors.",
+    "foto": "img/2026-11-22/enner-boca-cara.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "¡EL ÍDOLO ESTÁ VIVO!",
-     "sobre": "CATÓLICA 0-1 BARCELONA SC"
+     "texto": "¡ENNER CAMPEÓN!",
+     "sobre": "BOCA 2-0 MINEIRO"
     },
     "transicion": "flash",
     "hinchada": true
    },
    {
-    "texto": "Un autogol de Anangonó al minuto cincuenta y cinco le dio el triunfo al equipo de Trobbiani.",
+    "texto": "Boca le ganó dos a cero al Atlético Mineiro en la final jugada en Barranquilla.",
     "voz": "andrea",
-    "destello": true,
     "grafico": {
      "tipo": "marcador",
      "equipos": [
       {
-       "nombre": "U. CATÓLICA",
-       "color": "#0B4EA2",
-       "goles": 0,
-       "escudo": "img/escudos/catolica.png"
+       "nombre": "BOCA JUNIORS",
+       "color": "#003DA5",
+       "escudo": "img/escudos/boca.png"
       },
       {
-       "nombre": "BARCELONA SC",
-       "color": "#FFD100",
-       "goles": 1,
-       "escudo": "img/escudos/barcelona.png"
+       "nombre": "ATLÉTICO MINEIRO",
+       "color": "#111111",
+       "escudo": "img/escudos/atletico-mineiro.png"
       }
      ],
-     "pie": "AUTOGOL DE ANANGONÓ 55' · HEXAGONAL FINAL F7"
+     "pie": "FINAL · BARRANQUILLA · 21/11"
     }
    },
    {
-    "texto": "Y al final, el VAR le anuló un gol a Católica.",
+    "texto": "Santiago Ascacibar abrió el marcador en el primer tiempo y Miguel Merentiel liquidó al inicio del complemento.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ASCACIBAR Y MERENTIEL",
+     "sobre": "LOS GOLES DE LA FINAL"
+    }
+   },
+   {
+    "texto": "Enner entró en el segundo tiempo y tuvo un mano a mano que le tapó el arquero Everson.",
+    "voz": "andrea",
+    "foto": "img/2026-11-22/enner-boca-cabra.jpg",
+    "movimiento": "paneo_izq",
+    "destello": true,
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡MANO A MANO!",
+     "sobre": "ENNER ENTRÓ AL 63'"
+    }
+   },
+   {
+    "texto": "Con este título, Boca cortó una sequía de dieciocho años sin coronas internacionales.",
+    "voz": "andrea",
+    "foto": "img/enner-boca-trofeo.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "18",
+     "texto": "AÑOS SIN TÍTULO INTERNACIONAL"
+    },
+    "tono": "celebracion"
+   },
+   {
+    "texto": "¿Hincha, Enner merece ser titular en Boca?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿TITULAR EN BOCA?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true,
+    "foto": "img/2026-11-22/enner-sonrisa.jpg",
+    "movimiento": "zoom_in"
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "¡Gonzalo Plata campeón del Brasileirão con Flamengo! El ecuatoriano fue titular",
+  "etiqueta": "BRASILEIRÃO",
+  "paleta": {
+   "fondo": "#E2001A",
+   "texto": "#000000"
+  },
+  "audio": "audio/24",
+  "franja": [
+   "FLAMENGO CAMPEÓN DEL BRASILEIRÃO 2026",
+   "CAMPEÓN A FALTA DE 2 FECHAS",
+   "GONZALO PLATA TITULAR: 57 MINUTOS",
+   "DÉCIMA LIGA DEL FLAMENGO"
+  ],
+  "escenas": [
+   {
+    "texto": "Gonzalo Plata es campeón de Brasil con el Flamengo.",
+    "foto": "img/2026-11-22/plata.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡PLATA CAMPEÓN!",
+     "sobre": "FLAMENGO CAMPEÓN DE BRASIL"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "El Flamengo aseguró el Brasileirão a falta de dos fechas, con el ecuatoriano como titular.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CAMPEÓN ANTICIPADO!",
+     "sobre": "A FALTA DE 2 FECHAS"
+    }
+   },
+   {
+    "texto": "Plata jugó cincuenta y siete minutos en el partido ante Palmeiras.",
+    "voz": "andrea",
+    "foto": "img/2026-11-22/plata-flamengo.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "57'",
+     "texto": "MINUTOS DE PLATA ANTE PALMEIRAS"
+    }
+   },
+   {
+    "texto": "Es la décima liga brasileña en la historia del Flamengo.",
+    "voz": "andrea",
+    "destello": true,
+    "foto": "img/plata-flamengo-festejo.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "10",
+     "texto": "LIGAS DEL FLAMENGO"
+    },
+    "tono": "celebracion"
+   },
+   {
+    "texto": "Un ecuatoriano más levantando trofeos en el fútbol grande de Sudamérica.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ORGULLO ECUATORIANO",
+     "sobre": "PLATA Y ENNER, CAMPEONES"
+    }
+   },
+   {
+    "texto": "¿Plata o Enner, quién tuvo el mejor fin de semana?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿PLATA O ENNER?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Ecuador vs Uganda 0-0 en el Mundial Sub-17: qué necesita Ecuador ante Corea del Sur para pasar primero",
+  "etiqueta": "MUNDIAL SUB-17",
+  "club": "ecuador",
+  "audio": "audio/29",
+  "franja": [
+   "ECUADOR 0-0 UGANDA",
+   "ECUADOR 4 PTS EN EL GRUPO B",
+   "PASAN 2 PRIMEROS + 8 MEJORES TERCEROS",
+   "MIÉ 25/11 07:30: ECUADOR VS. COREA DEL SUR"
+  ],
+  "escenas": [
+   {
+    "texto": "Ecuador empató cero a cero con Uganda y está a un paso de los dieciseisavos del Mundial Sub-17.",
+    "foto": "img/sub17-uganda-2026-11-22/tri14-resumen-0-0.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CON UN PIE ADENTRO!",
+     "sobre": "ECUADOR 0-0 UGANDA"
+    },
+    "transicion": "flash",
+    "credito": "Imágenes: DSports"
+   },
+   {
+    "texto": "La Mini-Tri suma cuatro puntos, y pasan los dos primeros y los ocho mejores terceros.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "4",
+     "texto": "PUNTOS DE LA MINI-TRI"
+    }
+   },
+   {
+    "texto": "Si el miércoles le gana a Corea del Sur, Ecuador termina primero del grupo.",
     "voz": "andrea",
     "destello": true,
     "grafico": {
      "tipo": "titular",
-     "texto": "¡GOL ANULADO POR EL VAR!",
-     "sobre": "LOS TRES PUNTOS SON AMARILLOS"
-    }
-   },
-   {
-    "texto": "Barcelona suma cincuenta y dos puntos, a dos de Católica, y el miércoles recibe a Independiente del Valle.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "BARCELONA SC",
-       "color": "#FFD100",
-       "escudo": "img/escudos/barcelona.png"
-      },
-      {
-       "nombre": "INDEPENDIENTE DEL VALLE",
-       "color": "#1A1A1A",
-       "escudo": "img/escudos/idv.png"
-      }
-     ],
-     "hora": "MIÉ 25/11",
-     "pie": "BSC 52 PTS · CATÓLICA 54"
-    }
-   },
-   {
-    "texto": "Si gana, el ídolo se mete con todo en la pelea por la Libertadores dos mil veintisiete.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¡RUMBO A LA LIBERTADORES 2027!",
-     "sobre": "MIÉRCOLES EN CASA"
+     "texto": "¡GANAR Y SER PRIMERO!",
+     "sobre": "MIÉ 25/11 · 07:30 · VS. COREA DEL SUR"
     },
     "hinchada": true
    },
    {
-    "texto": "¿Hincha torero, le ganan a Independiente el día miércoles y se meten a la Libertadores?",
+    "texto": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "voz": "andrea",
+    "dicho": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "8",
+     "a_texto": "PRIMEROS VS. TERCEROS",
+     "b": "12",
+     "b_texto": "PRIMEROS DE GRUPO"
+    }
+   },
+   {
+    "texto": "Con un empate sería segundo, y si pierde, depende de Uganda contra Nueva Caledonia.",
+    "voz": "andrea",
+    "foto": "img/sub17-uganda-2026-11-22/tri5-final.jpg",
+    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿NOS METEMOS?",
+     "texto": "EMPATE: 2.º · DERROTA: A ESPERAR",
+     "sobre": "SI COREA GANA HOY A NUEVA CALEDONIA"
+    },
+    "suspenso": true,
+    "credito": "Imágenes: DSports"
+   },
+   {
+    "texto": "¿La Mini-Tri le gana a Corea y se queda con el grupo?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LE GANAMOS A COREA?",
      "sobre": "TU OPINIÓN"
     },
     "suspenso": true
