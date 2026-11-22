@@ -125,3 +125,9 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 - Debe decir en qué segundo entra cada imagen (foto Commons, escudo, gráfico, dibujo, pizarra), cada efecto (destello, hinchada, suspenso, zoom, glitch), cada transición entre escenas (flash, barrido, zoom, glitch, rota), los textos/franja en pantalla y quién dice cada frase (Mui o Andrea).
 - Los segundos se estiman a ~2,6 palabras por segundo hasta que llegue el audio; con el audio de Mui se ajustan con los tiempos reales (inicio/fin) y, si cambian mucho, se avisa.
 - Va en el mismo mensaje de aprobación (debajo del guion) y en el .md del borrador.
+
+## Colores de las súper imposiciones según el club (Mui, 22/11)
+- Si la noticia es de UN club en particular, el reel se ambienta con SUS colores (cajas, letras de las cajas, franja y barra de progreso): en el JSON del reel pon `"club": "emelec"` (nombres en PALETAS de scripts/guineo/generar.py: emelec, barcelona, liga, idv, aucas, el nacional, deportivo cuenca, macara, delfin, orense, universidad catolica, mushuc runa, tecnico universitario, libertad, manta, vinotinto, ecuador, boca, atletico mineiro, real madrid, fc barcelona, argentina, brasil). Nunca un reel de Emelec con amarillo y negro (son los de Barcelona) ni al revés.
+- Club que no está en la lista: `"paleta": {"fondo": "#RRGGBB", "texto": "#RRGGBB"}` con sus dos colores principales (y agrégalo a PALETAS).
+- Noticia sin club (mundo, Tri en general, varios equipos, otros deportes): sin "club" ni "paleta"; el generador intercala los colores oficiales de Guineo: amarillo (reels impares) y verde guineo joven (reels pares).
+- Si la noticia enfrenta a dos clubes, usa los del protagonista de la noticia (el que ganó o del que se habla); si es una previa neutral, colores de Guineo.

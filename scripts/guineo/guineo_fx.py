@@ -26,6 +26,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 _spec = importlib.util.spec_from_file_location("g_fx", os.path.join(HERE, "generar.py"))
 g = importlib.util.module_from_spec(_spec); _spec.loader.exec_module(g)
 W, H, FPS, Y, BG, INK = g.W, g.H, g.FPS, g.Y, g.BG, g.INK
+YT, YC = BG, Y  # los fija generar.aplicar_paleta por reel
 ease = g.ease
 
 
@@ -98,7 +99,8 @@ def tone(im, mood, f=0):
 
 
 # ---------------------------------------------------------------- transiciones
-def fx_barrido(im, k, color=Y, side="out"):
+def fx_barrido(im, k, color=None, side="out"):
+    color = color or Y
     """Panel de color en diagonal que cubre la imagen (k=1 la cubre entera)."""
     if k <= 0:
         return im
@@ -159,7 +161,7 @@ def fx_glitch(im, k, seed=1):
     return Image.fromarray(out)
 
 
-def transition(im, kind, k, side, seed=0, color=Y):
+def transition(im, kind, k, side, seed=0, color=None):
     if kind == "barrido":
         return fx_barrido(im, k, color, side)
     if kind == "zoom":
@@ -173,7 +175,7 @@ def transition(im, kind, k, side, seed=0, color=Y):
     return im
 
 
-def apply_edges(src, dest, t_in=None, t_out=None, mood=None, frames=7, color=Y):
+def apply_edges(src, dest, t_in=None, t_out=None, mood=None, frames=7, color=None):
     """Repinta un plano: paleta y transiciones de entrada/salida (sin cambiar su duración)."""
     n = count_frames(src); p = writer(dest + ".tmp.mp4")
     for i, im in enumerate(stream(src)):
@@ -192,7 +194,8 @@ def _fmt(v, dec_sep=None):
     return s
 
 
-def numero_layer(valor, t, color=Y, size=300, dur_count=0.9):
+def numero_layer(valor, t, color=None, size=300, dur_count=0.9):
+    color = color or YC
     """Si el valor es un entero (con o sin puntos de miles) cuenta hacia arriba; si no, sus caracteres rebotan."""
     im = Image.new("RGBA", (W, int(size * 1.4)), (0, 0, 0, 0)); d = ImageDraw.Draw(im); f = g.A(size)
     plain = valor.replace(".", "")
@@ -224,7 +227,8 @@ BAND_Y = 1690
 
 def band_layer(t, ticker, logo=None, tag="GUINEO"):
     lay = Image.new("RGBA", (W, 100), (0, 0, 0, 0)); d = ImageDraw.Draw(lay)
-    d.rectangle([0, 0, W, 100], fill=(13, 20, 17, 235)); d.rectangle([0, 0, W, 6], fill=Y)
+    fondo = tuple(int(c * 0.28) for c in (YT if sum(Y) > 600 else Y))  # franja teñida con el color del reel
+    d.rectangle([0, 0, W, 100], fill=(*fondo, 240)); d.rectangle([0, 0, W, 6], fill=Y)
     f = g.A(46); seg = "   ·   ".join(ticker) + "   ·   "
     sw = d.textlength(seg, font=f); x0 = 200 - (t * 150) % sw
     while x0 < W:
@@ -233,7 +237,7 @@ def band_layer(t, ticker, logo=None, tag="GUINEO"):
     if logo is not None:
         lg = logo.resize((84, 84), Image.LANCZOS); lay.alpha_composite(lg, (53, 11))
     else:
-        d.text((95, 54), tag, font=g.A(40), fill=BG, anchor="mm")
+        d.text((95, 54), tag, font=g.A(40), fill=YT, anchor="mm")
     return lay
 
 
@@ -341,7 +345,7 @@ def render_sabias(dest, dur, dato, color, clip=None, caption="", marks=(), vo=No
     """Sello amarillo ¿SABÍAS QUE…? que gira al entrar y el dato que se escribe letra por letra."""
     n = round(dur * FPS); head = marca(tag); caps = _caps(caption, marks, vo or dur); cache = {}
     st = Image.new("RGBA", (760, 200), (0, 0, 0, 0)); d = ImageDraw.Draw(st)
-    d.rounded_rectangle([10, 10, 750, 190], 24, fill=Y, outline=BG, width=8); d.text((380, 100), "¿SABÍAS QUE…?", font=g.A(96), fill=BG, anchor="mm")
+    d.rounded_rectangle([10, 10, 750, 190], 24, fill=Y, outline=BG, width=8); d.text((380, 100), "¿SABÍAS QUE…?", font=g.A(96), fill=YT, anchor="mm")
     ft = g.A(78); lines = _text_block(dato, ft, W - 180); total_chars = sum(len(l) for l in lines)
     p = writer(dest)
     for fidx, bg in enumerate(fondo_iter(clip, n, color, 0.45)):

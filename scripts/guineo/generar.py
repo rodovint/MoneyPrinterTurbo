@@ -16,6 +16,66 @@ import pizarra  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 W, H, FPS = 1080, 1920, 30
 BG, INK, Y = (13, 20, 17), (248, 246, 238), (246, 201, 14)
+YT, YC = BG, Y  # YT: letra sobre las cajas de acento · YC: acento para letras sobre fondo oscuro
+
+# Colores de las súper imposiciones (Mui, 22/11): si la noticia es de un club se ambienta con SUS colores
+# (nunca con los de su rival); si no, se intercalan los oficiales de Guineo: amarillo y verde guineo joven.
+GUINEO_AMARILLO = {"fondo": "#F6C90E", "texto": "#0D1411"}
+GUINEO_VERDE = {"fondo": "#7DBA2F", "texto": "#0D1411"}
+PALETAS = {
+    "emelec": {"fondo": "#0047AB", "texto": "#C9CED4"},          # azul y plomo
+    "barcelona": {"fondo": "#FFD100", "texto": "#111111"},       # amarillo y negro
+    "liga": {"fondo": "#FFFFFF", "texto": "#C8102E"},            # blanco y rojo (LDU)
+    "ldu": {"fondo": "#FFFFFF", "texto": "#C8102E"},
+    "idv": {"fondo": "#1F6FC5", "texto": "#0A0A0A"},             # azul y negro (rayados)
+    "independiente del valle": {"fondo": "#1F6FC5", "texto": "#0A0A0A"},
+    "aucas": {"fondo": "#D71920", "texto": "#FFD200"},           # rojo y amarillo
+    "el nacional": {"fondo": "#D50032", "texto": "#FFFFFF"},
+    "deportivo cuenca": {"fondo": "#C8102E", "texto": "#FFFFFF"},
+    "macara": {"fondo": "#5BC2E7", "texto": "#0B2240"},          # celeste
+    "delfin": {"fondo": "#00529B", "texto": "#FFD100"},
+    "orense": {"fondo": "#1E8F3E", "texto": "#FFFFFF"},
+    "universidad catolica": {"fondo": "#003DA5", "texto": "#FFFFFF"},
+    "mushuc runa": {"fondo": "#E30613", "texto": "#FFFFFF"},
+    "tecnico universitario": {"fondo": "#8B1E2D", "texto": "#FFFFFF"},
+    "libertad": {"fondo": "#7A1F2B", "texto": "#FFFFFF"},
+    "manta": {"fondo": "#0072CE", "texto": "#FFFFFF"},
+    "vinotinto": {"fondo": "#6D1A36", "texto": "#FFFFFF"},
+    "ecuador": {"fondo": "#FFDD00", "texto": "#034EA2"},         # la Tri
+    "boca": {"fondo": "#003DA5", "texto": "#FDB913"},
+    "atletico mineiro": {"fondo": "#FFFFFF", "texto": "#111111"},
+    "real madrid": {"fondo": "#FFFFFF", "texto": "#2E2A7A"},
+    "fc barcelona": {"fondo": "#A50044", "texto": "#EDBB00"},
+    "argentina": {"fondo": "#75AADB", "texto": "#FFFFFF"},
+    "brasil": {"fondo": "#FFDF00", "texto": "#009C3B"},
+}
+
+
+def _lum(c):
+    r, g_, b = [v / 255 for v in c]
+    return 0.299 * r + 0.587 * g_ + 0.114 * b
+
+
+def aplicar_paleta(reel, idx):
+    """Fija Y (cajas), YT (letra en cajas) y YC (acento sobre oscuro) para este reel."""
+    global Y, YT, YC
+    pal = reel.get("paleta")
+    club = (reel.get("club") or "").strip().lower()
+    for a, b in (("á", "a"), ("é", "e"), ("í", "i"), ("ó", "o"), ("ú", "u")):
+        club = club.replace(a, b)
+    if not pal and club:
+        pal = PALETAS.get(club)
+        if not pal:
+            print(f"::warning::Club sin paleta: {club}; uso los colores de Guineo", flush=True)
+    if not pal:
+        pal = GUINEO_AMARILLO if idx % 2 == 1 else GUINEO_VERDE
+    Y, YT = rgb(pal["fondo"]), rgb(pal["texto"])
+    YC = Y if _lum(Y) >= _lum(YT) else YT  # sobre fondo oscuro va el más claro de los dos
+    if _lum(YC) < 0.35:
+        YC = INK
+    if _FX is not None:
+        _FX.Y, _FX.YT, _FX.YC = Y, YT, YC
+    return pal
 VOICE = "es-EC-AndreaNeural"
 VOCES = {"andrea": "es-EC-AndreaNeural", "luis": "es-EC-LuisNeural"}
 GAP = 0.08
@@ -167,7 +227,7 @@ def card(c):
         kf = B(40)
         kw = d.textlength(c["sobre"], font=kf) + 56
         d.rectangle([(W - kw) / 2, 110, (W + kw) / 2, 186], fill=Y)
-        d.text((W / 2, 148), c["sobre"], font=kf, fill=BG, anchor="mm")
+        d.text((W / 2, 148), c["sobre"], font=kf, fill=YT, anchor="mm")
         for sz in [190, 170, 150, 130, 112, 100, 90, 80, 70]:
             f, l = fit(d, c["texto"], 900, 4, [sz])
             if len(l) * sz * 1.16 <= 650 and all(d.textlength(x, font=f) <= 900 for x in l):
@@ -175,7 +235,7 @@ def card(c):
         titular(d, l, f, 215 + (660 - len(l) * f.size * 1.16) / 2, W // 2)
     elif kind == "cifra":
         f, l = fit(d, c["valor"], 920, 1, [430, 380, 320, 280, 240])
-        ctext(d, 60, l, f, Y, 1.0)
+        ctext(d, 60, l, f, YC, 1.0)
         f2, l2 = fit(d, c["texto"], 880, 3, [72, 64, 56, 50], B)
         ctext(d, 650 - (len(l2) - 1) * 28, l2, f2, INK, 1.1)
     elif kind == "marcador":
@@ -191,20 +251,20 @@ def card(c):
             d.rectangle([W - 300, y, W - 60, y + 280], fill=INK)
             d.text((W - 180, y + 140), str(e["goles"]), font=A(210), fill=BG, anchor="mm")
         f, l = fit(d, c["pie"], 900, 2, [52, 46, 40], B)
-        ctext(d, 710, l, f, Y)
+        ctext(d, 710, l, f, YC)
     elif kind == "cita":
         d.rectangle([60, 130, 76, 720], fill=Y)
         f, l = fit(d, c["texto"], 860, 3, [180, 160, 140, 120])
         titular(d, l, f, 130 + (450 - len(l) * f.size * 1.16) / 2, W // 2 + 15)
         f2, l2 = fit(d, c["autor"], 860, 2, [48, 42], B)
-        ctext(d, 610, l2, f2, Y, cx=W // 2 + 15)
+        ctext(d, 610, l2, f2, YC, cx=W // 2 + 15)
     elif kind == "duo":
         for i, (n, lb) in enumerate(((c["a"], c["a_texto"]), (c["b"], c["b_texto"]))):
             x0 = 60 + i * 490
             d.rectangle([x0, 90, x0 + 470, 620], fill=(30, 42, 36))
             d.rectangle([x0, 90, x0 + 470, 104], fill=Y)
             f, ls = fit(d, n, 420, 1, [260, 220, 180])
-            d.text((x0 + 235, 300), ls[0], font=f, fill=Y, anchor="mm")
+            d.text((x0 + 235, 300), ls[0], font=f, fill=YC, anchor="mm")
             f2, ls2 = fit(d, lb, 420, 2, [52, 46, 40], B)
             ctext(d, 490, ls2, f2, INK, cx=x0 + 235)
         f, l = fit(d, c["pie"], 900, 2, [56, 50, 44], B)
@@ -222,9 +282,9 @@ def card(c):
                 d.text((W / 2, y + 140), l[0], font=f, fill=INK, anchor="mm")
         w = d.textlength(c["hora"], font=A(84)) + 70
         d.rectangle([(W - w) / 2, 325, (W + w) / 2, 435], fill=Y)
-        d.text((W / 2, 380), c["hora"], font=A(84), fill=BG, anchor="mm")
+        d.text((W / 2, 380), c["hora"], font=A(84), fill=YT, anchor="mm")
         f, l = fit(d, c["pie"], 900, 2, [52, 46, 40], B)
-        ctext(d, 710, l, f, Y)
+        ctext(d, 710, l, f, YC)
     elif kind == "protagonista":
         d.rectangle([60, 110, W - 60, 760], fill=(*rgb(c["color"]), 235))
         d.rectangle([60, 110, W - 60, 124], fill=Y)
@@ -236,14 +296,14 @@ def card(c):
                 break
         titular(d, l, f, 245 + (330 - len(l) * f.size * 1.16) / 2, W // 2)
         f2, l2 = fit(d, c["dato"], 840, 2, [80, 70, 60, 50])
-        titular(d, l2, f2, 600 + (130 - len(l2) * f2.size * 1.16) / 2, W // 2, Y)
+        titular(d, l2, f2, 600 + (130 - len(l2) * f2.size * 1.16) / 2, W // 2, YC)
     elif kind == "escudo":
         pegar_escudo(im, c["escudo"], W / 2, 250, 380)
         if c.get("sobre"):
             kf = B(40)
             kw = d.textlength(c["sobre"], font=kf) + 56
             d.rectangle([(W - kw) / 2, 470, (W + kw) / 2, 546], fill=Y)
-            d.text((W / 2, 508), c["sobre"], font=kf, fill=BG, anchor="mm")
+            d.text((W / 2, 508), c["sobre"], font=kf, fill=YT, anchor="mm")
         f, l = fit(d, c["texto"], 900, 2, [130, 112, 96, 84])
         titular(d, l, f, 570, W // 2)
     elif kind == "cierre":
@@ -255,12 +315,12 @@ def card(c):
             im.alpha_composite(lg, ((W - 330) // 2, 185))
             d.rectangle([60, 545, W - 60, 805], fill=Y)
             f, l = fit(d, marca_txt, 880, 2, [120, 110, 96, 84])
-            titular(d, l, f, 675 - len(l) * f.size * 1.16 / 2, W // 2, BG)
+            titular(d, l, f, 675 - len(l) * f.size * 1.16 / 2, W // 2, YT)
         else:
             ctext(d, 170, [c["texto"]], fit(d, c["texto"], 900, 1, [120, 100, 84])[0], INK)
             d.rectangle([60, 360, W - 60, 660], fill=Y)
             f, l = fit(d, marca_txt, 880, 2, [120, 110, 96, 84])
-            titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, BG)
+            titular(d, l, f, 510 - len(l) * f.size * 1.16 / 2, W // 2, YT)
     else:
         raise ValueError(f"tipo de escena desconocido: {kind}")
     return im
@@ -272,7 +332,7 @@ def marca(tag):
     f = A(46)
     w = d.textlength(MARCA, font=f) + 48
     d.rectangle([60, 120, 60 + w, 200], fill=Y)
-    d.text((60 + w / 2, 160), MARCA, font=f, fill=BG, anchor="mm")
+    d.text((60 + w / 2, 160), MARCA, font=f, fill=YT, anchor="mm")
     d.text((60, 225), tag, font=B(34), fill=INK, anchor="lm", stroke_width=3, stroke_fill=BG)
     return im
 
@@ -554,6 +614,7 @@ def fx():
         sp = iu.spec_from_file_location("guineo_fx", os.path.join(os.path.dirname(os.path.abspath(__file__)), "guineo_fx.py"))
         _FX = iu.module_from_spec(sp)
         sp.loader.exec_module(_FX)
+        _FX.Y, _FX.YT, _FX.YC = Y, YT, YC
     return _FX
 
 
@@ -775,6 +836,7 @@ def hoja_contacto(video, dest, n=12):
 
 
 def generar_reel(reel, idx, salida, clips, work, lote):
+    aplicar_paleta(reel, idx)
     pref = os.path.join(work, f"r{idx}")
     vozes = voces_reel(reel, pref, lote)
     if vozes is None:
