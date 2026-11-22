@@ -1,0 +1,5 @@
+{"fecha": "2026-11-21T21:23-05:00", "nota": "rss-ultimo sigue en 17:54 (faltan corridas programadas 18:05-21:05; workflow activo, GitHub no las disparó). Sin datos nuevos; WebSearch sin titulares explosivos nuevos.", "temas": [
+ {"tema": "Técnico U. 2-0 Deportivo Cuenca", "señales": ["sin dato nuevo"], "volumen_EC": "10000+", "volumen_anterior": "10000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "La Liga (Real Madrid–Celta)", "señales": ["sin dato nuevo"], "volumen_EC": "2000+", "volumen_anterior": "2000+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Inter Miami vs Columbus Crew (MLS)", "señales": ["sin dato nuevo"], "volumen_EC": "500+", "volumen_anterior": "500+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false}
+]}
