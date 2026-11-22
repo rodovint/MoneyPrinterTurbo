@@ -1,0 +1,7 @@
+{"fecha": "2026-11-21T19:23-05:00", "nota": "rss-ultimo de 17:54 (faltan corridas 18:05 y 19:05).", "temas": [
+ {"tema": "Técnico U. 2-0 Deportivo Cuenca (hexagonal descenso F7)", "señales": ["EC 10000+ nuevo (posiciones...)"], "volumen_EC": "10000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "La Liga (Real Madrid–Celta, Vinícius, Mbappé)", "señales": ["EC 2000+ nuevo", "ES Vinícius 500+", "MX Mbappé 1000+"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Inter Miami vs Columbus Crew (MLS)", "señales": ["EC 500+ nuevo", "MX 2000+", "ES 1000+"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
+ {"tema": "Atlético Mineiro vs Boca Juniors", "señales": ["MX 10000+", "ausente en EC"], "volumen_EC": null, "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": false},
+ {"tema": "U. Católica vs Barcelona SC", "señales": ["salió del rss EC"], "volumen_EC": null, "volumen_anterior": "10000+", "estado": "EN DECLIVE", "brecha": "LOCAL", "avisado": false}
+]}

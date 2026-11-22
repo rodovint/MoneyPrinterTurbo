@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "¡Técnico Universitario le gana 2-0 a Deportivo Cuenca y sale del descenso!",
+    "etiqueta": "HEXAGONAL DESCENSO",
+    "color": "#C8102E",
+    "audio": "audio/tecnico-cuenca",
+    "franja": [
+      "TÉCNICO U. 2-0 D. CUENCA",
+      "DELGADO 53' · CÓRDOVA 90+2'",
+      "TÉCNICO 40 PTS, TERCERO",
+      "SÁB 29/11: MUSHUC RUNA VS. TÉCNICO"
+    ],
+    "escenas": [
+      {
+        "texto": "Técnico Universitario le ganó dos a cero al Cuenca y sale de la zona de descenso.",
+        "grafico": {"tipo": "titular", "texto": "¡EL RODILLO RESPIRA!", "sobre": "TÉCNICO U. 2-0 D. CUENCA"},
+        "transicion": "flash",
+        "hinchada": true
+      },
+      {
+        "texto": "En Bellavista, Bagner Delgado abrió el marcador al minuto cincuenta y tres.",
+        "voz": "andrea",
+        "destello": true,
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {"nombre": "TÉCNICO U.", "color": "#C8102E", "goles": 2, "escudo": "img/escudos/tecnico.png"},
+            {"nombre": "D. CUENCA", "color": "#B22222", "goles": 0, "escudo": "img/escudos/cuenca.png"}
+          ],
+          "pie": "DELGADO 53' · CÓRDOVA 90+2' · HEXAGONAL F7"
+        }
+      },
+      {
+        "texto": "Y en el descuento, Luis Córdova, que entró al ochenta y ocho, puso el dos a cero.",
+        "voz": "andrea",
+        "grafico": {"tipo": "titular", "texto": "¡GOLAZO EN EL DESCUENTO!", "sobre": "CÓRDOVA 90+2'"}
+      },
+      {
+        "texto": "Técnico llega a cuarenta puntos y queda tercero; Cuenca sigue líder con cuarenta y siete.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "partido",
+          "equipos": [
+            {"nombre": "MUSHUC RUNA", "color": "#1B5E20", "escudo": "img/escudos/mushuc.png"},
+            {"nombre": "TÉCNICO U.", "color": "#C8102E", "escudo": "img/escudos/tecnico.png"}
+          ],
+          "hora": "SÁB 29/11",
+          "pie": "TÉCNICO 40 PTS · CUENCA 47"
+        }
+      },
+      {
+        "texto": "¿Hincha, Técnico se salva o la pelea por no bajar se pone más dura?",
+        "grafico": {"tipo": "titular", "texto": "¿SE SALVA?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]
