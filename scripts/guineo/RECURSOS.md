@@ -131,3 +131,7 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 - Club que no está en la lista: `"paleta": {"fondo": "#RRGGBB", "texto": "#RRGGBB"}` con sus dos colores principales (y agrégalo a PALETAS).
 - Noticia sin club (mundo, Tri en general, varios equipos, otros deportes): sin "club" ni "paleta"; el generador intercala los colores oficiales de Guineo: amarillo (reels impares) y verde guineo joven (reels pares).
 - Si la noticia enfrenta a dos clubes, usa los del protagonista de la noticia (el que ganó o del que se habla); si es una previa neutral, colores de Guineo.
+
+## Recursos audiovisuales compartidos por Mui (regla, 22/11)
+- Toda foto, audio o video que comparta Mui se guarda en el git y se registra aquí, para que lo usen ella y los demás agentes.
+- `recursos/clips-comentarios/` — canal de clips virales + comentarios: 8 memes recortados (knuckles, audífonos, bailarín, grito/Vegeta, perro, ete Sech, Pepe el pollo en pantalla verde, primitos), 2 clips (Malambo, fuegos artificiales en Bolivia), tarjetas de comentarios, videos finales y el script `build.py`. Detalle en su README.md.
