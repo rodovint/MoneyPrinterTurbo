@@ -32,12 +32,14 @@
       {
        "nombre": "BOCA JUNIORS",
        "color": "#003DA5",
-       "escudo": "img/escudos/boca.png"
+       "escudo": "img/escudos/boca.png",
+       "goles": 2
       },
       {
        "nombre": "ATLÉTICO MINEIRO",
        "color": "#111111",
-       "escudo": "img/escudos/atletico-mineiro.png"
+       "escudo": "img/escudos/atletico-mineiro.png",
+       "goles": 0
       }
      ],
      "pie": "FINAL · BARRANQUILLA · 21/11"
@@ -236,7 +238,8 @@
      "a": "8",
      "a_texto": "PRIMEROS VS. TERCEROS",
      "b": "12",
-     "b_texto": "PRIMEROS DE GRUPO"
+     "b_texto": "PRIMEROS DE GRUPO",
+     "pie": "MUNDIAL SUB-17 2025 · MISMO FORMATO"
     }
    },
    {
