@@ -13,7 +13,7 @@
   "escenas": [
    {
     "texto": "Enner Valencia es campeón de la Copa Sudamericana con Boca Juniors.",
-    "foto": "img/2026-11-22/enner.jpg",
+    "foto": "img/2026-11-22/enner-boca-cara.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
@@ -55,8 +55,8 @@
    {
     "texto": "Enner entró en el segundo tiempo y tuvo un mano a mano que le tapó el arquero Everson.",
     "voz": "andrea",
-    "foto": "img/2026-11-22/enner.jpg",
-    "movimiento": "zoom_out",
+    "foto": "img/2026-11-22/enner-boca-cabra.jpg",
+    "movimiento": "paneo_izq",
     "destello": true,
     "grafico": {
      "tipo": "titular",
@@ -83,7 +83,9 @@
      "texto": "¿TITULAR EN BOCA?",
      "sobre": "TU OPINIÓN"
     },
-    "suspenso": true
+    "suspenso": true,
+    "foto": "img/2026-11-22/enner-sonrisa.jpg",
+    "movimiento": "zoom_in"
    },
    {
     "texto": "Comenta y síguenos en Guineo Comunicaciones.",
@@ -534,6 +536,92 @@
     "grafico": {
      "tipo": "titular",
      "texto": "¿EL MEJOR?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+    "grafico": {
+     "tipo": "cierre",
+     "texto": "COMENTA Y SÍGUENOS"
+    }
+   }
+  ]
+ },
+ {
+  "titulo": "Ecuador vs Uganda 0-0 en el Mundial Sub-17: qué necesita Ecuador ante Corea del Sur para pasar primero",
+  "etiqueta": "MUNDIAL SUB-17",
+  "club": "ecuador",
+  "audio": "audio/29",
+  "credito_imagenes": "Imágenes: DSports (enviadas por Mui)",
+  "franja": [
+   "ECUADOR 0-0 UGANDA",
+   "ECUADOR 4 PTS EN EL GRUPO B",
+   "PASAN 2 PRIMEROS + 8 MEJORES TERCEROS",
+   "MIÉ 25/11 07:30: ECUADOR VS. COREA DEL SUR"
+  ],
+  "escenas": [
+   {
+    "texto": "Ecuador empató cero a cero con Uganda y está a un paso de los dieciseisavos del Mundial Sub-17.",
+    "foto": "img/sub17-uganda-2026-11-22/tri14-resumen-0-0.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡CON UN PIE ADENTRO!",
+     "sobre": "ECUADOR 0-0 UGANDA"
+    },
+    "transicion": "flash"
+   },
+   {
+    "texto": "La Mini-Tri suma cuatro puntos, y pasan los dos primeros y los ocho mejores terceros.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "4",
+     "texto": "PUNTOS DE LA MINI-TRI"
+    }
+   },
+   {
+    "texto": "Si el miércoles le gana a Corea del Sur, Ecuador termina primero del grupo.",
+    "voz": "andrea",
+    "destello": true,
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¡GANAR Y SER PRIMERO!",
+     "sobre": "MIÉ 25/11 · 07:30 · VS. COREA DEL SUR"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "voz": "andrea",
+    "dicho": "En el Mundial pasado, con este formato, ocho de los doce primeros jugaron contra un tercero.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "8",
+     "a_texto": "PRIMEROS VS. TERCEROS",
+     "b": "12",
+     "b_texto": "PRIMEROS DE GRUPO"
+    }
+   },
+   {
+    "texto": "Con un empate sería segundo, y si pierde, depende de Uganda contra Nueva Caledonia.",
+    "voz": "andrea",
+    "foto": "img/sub17-uganda-2026-11-22/tri5-final.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "EMPATE: 2.º · DERROTA: A ESPERAR",
+     "sobre": "SI COREA GANA HOY A NUEVA CALEDONIA"
+    },
+    "suspenso": true
+   },
+   {
+    "texto": "¿La Mini-Tri le gana a Corea y se queda con el grupo?",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LE GANAMOS A COREA?",
      "sobre": "TU OPINIÓN"
     },
     "suspenso": true

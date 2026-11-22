@@ -1,0 +1,10 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "enner-boca-trofeo", "seed": 221, "referencias": [0], "prompt": "Vertical illustration: a shiny silver continental football trophy standing on the grass at the center of a night stadium, navy blue and golden yellow confetti falling, packed stands with fans waving plain navy and gold scarves, floodlights flaring, no people in the foreground, no faces."},
+    {"id": "plata-flamengo-festejo", "seed": 222, "referencias": [0], "prompt": "Vertical illustration: packed stadium stands at night seen from the pitch, thousands of fans in plain red and black striped shirts celebrating a league title, red flares and smoke, red and black confetti, a round black-and-white soccer ball resting on the grass in the foreground, floodlights, fans seen from far away, no visible faces."}
+  ]
+}
