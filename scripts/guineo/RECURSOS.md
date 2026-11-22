@@ -14,6 +14,7 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
   - **Entonación (regla de Mui, 17/11):** toda frase que cierra (afirmación o exclamación) debe terminar con el **tono hacia abajo**; solo las preguntas suben. `voz_clon.py` hace hasta 6 tomas y descarta las que no bajan al final. Escribe las frases para que cierren con punto (no con "!" ni puntos suspensivos).
   - **Final completo:** la última palabra no se puede cortar (ej. "la vuelta al mundo"). Si en la hoja de contacto o al escuchar se nota cortada, regenera esa frase.
   - Revisa siempre que el final de cada frase clonada se escuche entero y bajando antes de mandar el video a Mui.
+  - **Velocidad y volumen de la voz real de Mui (correcciones de Mui, 15/11):** si en su grabación hay palabras que no se entienden por la rapidez, bájala a 0,9 con `atempo=0.9` (no cambia el tono; no bajar de 0,85; si una palabra sigue sin entenderse, pedirle que regrabe solo esa frase). Su voz va unos 3 dB por encima de Andrea, con un poco de presencia (EQ +3 dB en 3 kHz y compresor suave), para que no se oiga más baja.
 - **Primer fotograma**: cara o acción + el texto del gancho, sin fundido (el generador ya pone el texto desde el fotograma 0). La primera frase dice quién hizo qué.
 - **Duración**: 25–35 s (5–7 frases cortas). El generador avisa si pasa de 36 s.
 - **Las noticias institucionales se cuentan a través de una persona.**
@@ -21,6 +22,8 @@ El generador es `scripts/guineo/generar.py` (lo corre la Action "Generar reels G
 - **Mezcla de recursos (regla de Mui, 18/11):** usa todos los recursos, no solo dibujos: foto real del protagonista (gancho y escena clave), escudos, gráficos, jugadas `tv`/`retro`, fotos de Commons de estadios, y 1 dibujo de Cloudflare como apoyo (ambiente, objetos).
 - **Nada de fotos ni videos de medios, agencias o transmisiones** salvo lo que Mui mande y apruebe (ver regla 4 de "Lecciones de las métricas").
 - Mui aprueba los guiones antes de producir y los videos antes de publicar.
+- **Datos de terceros:** citar la fuente original y quién lo difundió, en el cierre, la franja y la descripción (ej. "Datos: CIES Football Observatory · Impect · Vía @DanielNavasV"). Una cifra sin fuente oficial se dice con cuidado ("según las cuentas de su carrera"), nunca como récord oficial.
+- **Clips que manda Mui:** recortar a vertical quitando el botón flotante del iPhone, el contador de espectadores, el marcador del canal y su logo.
 - **Las correcciones de Mui son permanentes**: cuando corrija algo (pronunciación, escudos, estilo), anótalo aquí como regla en el mismo commit del arreglo, para que ningún agente lo repita. Antes de generar, repasa esta lista de reglas contra el JSON.
 
 ## Efectos automáticos del generador (guineo_fx)
