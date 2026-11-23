@@ -23,7 +23,9 @@
     },
     "transicion": "flash",
     "hinchada": true,
-    "foto": "img/2026-11-23/bsc-alvarez.jpg"
+    "foto": "img/2026-11-23/bsc-alvarez.jpg",
+    "inicio": 0.95,
+    "fin": 3.95
    },
    {
     "texto": "y tomó una decisión que lo cambia todo.",
@@ -35,7 +37,9 @@
      "sobre": "MIGUEL MONTALVO · PRESIDENTE"
     },
     "transicion": "zoom",
-    "suspenso": true
+    "suspenso": true,
+    "inicio": 4.15,
+    "fin": 6.25
    },
    {
     "texto": "Antonio Álvarez renunció en agosto",
@@ -46,7 +50,9 @@
     },
     "transicion": "barrido",
     "foto": "img/2026-11-23/bsc-alvarez.jpg",
-    "movimiento": "paneo_der"
+    "movimiento": "paneo_der",
+    "inicio": 7.3,
+    "fin": 9.1
    },
    {
     "texto": "y su periodo iba hasta el dos mil veintiocho.",
@@ -55,7 +61,9 @@
      "valor": "2028",
      "texto": "HASTA AQUÍ IBA SU PERIODO"
     },
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 9.1,
+    "fin": 11.65
    },
    {
     "texto": "¿Quién debe ser el próximo presidente? Te leo.",
@@ -67,7 +75,9 @@
      "sobre": "TU OPINIÓN"
     },
     "suspenso": true,
-    "transicion": "rota"
+    "transicion": "rota",
+    "inicio": 12.95,
+    "fin": 16.45
    },
    {
     "texto": "Como contó Fútbol 17: se aprobó todo, y habrá elecciones anticipadas.",
@@ -78,7 +88,9 @@
     },
     "destello": true,
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "inicio": 17.35,
+    "fin": 21.8
    },
    {
     "texto": "La asamblea será el sábado veintiséis de diciembre en el Monumental.",
@@ -89,7 +101,9 @@
      "texto": "SÁBADO 26 DE DICIEMBRE · 08:30",
      "sobre": "ASAMBLEA DE ELECCIONES"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "inicio": 22.25,
+    "fin": 29.55
    },
    {
     "texto": "Y todo empezó con el directorio de hoy.",
@@ -100,7 +114,9 @@
      "texto": "TODO EMPEZÓ HOY",
      "sobre": "BARCELONA SC"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 30.55,
+    "fin": 32.6
    }
   ]
  }

@@ -6,3 +6,4 @@ Fotos: no hay foto libre de Antonio Álvarez ni de Miguel Montalvo → gancho co
 Colores: "club": "barcelona". Dibujo: bsc-urna.png (urna de votación con cintas amarillas y negras).
 Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Fotos de Mui (23/11): bsc-alvarez.jpg (Antonio Álvarez, confirmado por Mui) → gancho y escena de la renuncia; bsc-montalvo.jpg (Miguel Montalvo, confirmado por Mui; se nombra en pantalla) → escena 2. Escudo de Barcelona pasa a quedar solo en la franja/colores.
+- Audio de Mui (Bsc_elecciones.m4a, 34,9 s) → lotes/audio/35.m4a con inicio/fin por frase (L3/L4 separadas en 9,1 s; se ignora un ruido en 0–0,76 s).
