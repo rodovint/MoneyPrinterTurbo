@@ -23,5 +23,5 @@
 [Mui] Orense perdía tres a cero en Machala
 [Mui] y casi hace lo imposible.
 [Mui] ¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.
-[Mui] Ahora va a Delfín, y no puede volver a perder tres a cero.
+[Mui] Ahora Orense juega contra Delfín, y no puede volver a perder tres a cero.
 (Andrea dice: "Mushuc Runa hizo tres antes del descanso." / "Mena descontó en el añadido" / "y Agustín Herrera al sesenta y cinco." / "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.")

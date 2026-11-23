@@ -1,86 +1,366 @@
 [
-  {
-    "titulo": "Liga de Quito vs Aucas 0-1: ¡Aucas gana el Superclásico en la Casa Blanca y complica a Liga!",
-    "etiqueta": "LIGAPRO",
-    "club": "aucas",
-    "franja": [
-      "LIGA DE QUITO 0-1 AUCAS",
-      "FECHA 7 · PRIMER HEXAGONAL",
-      "AUCAS 57 PTS · LIGA 54 PTS",
-      "ESTADIO RODRIGO PAZ DELGADO"
-    ],
-    "escenas": [
+ {
+  "titulo": "Instituto vs Huracán 2-1: el récord de Jordy Caicedo que ningún ecuatoriano tenía en Argentina",
+  "etiqueta": "LEGIÓN TRICOLOR",
+  "paleta": {
+   "fondo": "#E2001A",
+   "texto": "#FFFFFF"
+  },
+  "audio": "audio/32",
+  "prueba_voz": "Mui",
+  "material_terceros": true,
+  "franja": [
+   "JORDY CAICEDO · HURACÁN",
+   "OCTAVOS DEL CLAUSURA 2026",
+   "ESTADIO MARIO ALBERTO KEMPES",
+   "DATOS: EL COMERCIO · NOTICIAS ARGENTINAS"
+  ],
+  "escenas": [
+   {
+    "texto": "Jordy Caicedo cabeceó en Córdoba",
+    "video": "videos/jordy-festejo.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JORDY ENTRÓ AL LIBRO",
+     "sobre": "HURACÁN"
+    },
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+   },
+   {
+    "texto": "y entró a un libro",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "que ningún ecuatoriano había tocado.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "NINGÚN ECUATORIANO",
+     "sobre": "EN ARGENTINA"
+    },
+    "transicion": "barrido",
+    "suspenso": true
+   },
+   {
+    "texto": "Huracán perdía dos a cero con Instituto",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "0-2",
+     "texto": "HURACÁN PERDÍA CON INSTITUTO"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "y él descontó al sesenta y cinco.",
+    "video": "videos/jordy-gol.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "65' · DE CABEZA",
+     "sobre": "JORDY CAICEDO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+   },
+   {
+    "texto": "¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿NUEVE DE LA TRI?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_out"
+   },
+   {
+    "texto": "Quince goles en Argentina en una temporada: récord ecuatoriano.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "15",
+     "texto": "GOLES EN ARGENTINA · RÉCORD ECUATORIANO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Antes era Jaime Ayoví, con nueve.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "15",
+     "a_texto": "JORDY CAICEDO 2026",
+     "b": "9",
+     "b_texto": "JAIME AYOVÍ 2014",
+     "pie": "GOLES DE UN ECUATORIANO EN UNA TEMPORADA EN ARGENTINA"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Huracán se fue, pero el libro dice Jordy Caicedo.",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JORDY CAICEDO",
+     "sobre": "EL LIBRO DICE"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Vancouver Whitecaps vs Real Salt Lake 2-0: el salto de Bruno Caicedo en los playoffs de la MLS",
+  "etiqueta": "LEGIÓN TRICOLOR",
+  "audio": "audio/33",
+  "prueba_voz": "Mui+Andrea",
+  "material_terceros": true,
+  "franja": [
+   "BRUNO CAICEDO · VANCOUVER",
+   "PLAYOFFS MLS · JUEGO 1 DE 3",
+   "BC PLACE · VANCOUVER",
+   "DATOS: KSL SPORTS"
+  ],
+  "escenas": [
+   {
+    "texto": "Bruno Caicedo saltó en Vancouver",
+    "foto": "img/2026-11-23/bruno-pulgares.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "BRUNO SALTÓ",
+     "sobre": "PLAYOFFS MLS"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y dejó a Real Salt Lake contra las cuerdas.",
+    "foto": "img/2026-11-23/bruno-puno.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Juego uno de playoffs:",
+    "voz": "andrea",
+    "foto": "img/bruno-bcplace.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JUEGO 1 DE 3",
+     "sobre": "BC PLACE"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Vancouver ya ganaba uno a cero.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "1-0",
+     "texto": "VANCOUVER GANABA"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿Bruno merece la Tri? Te leo, y sigue a Guineo.",
+    "foto": "img/2026-11-23/bruno-tribuna.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿MERECE LA TRI?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Al cincuenta y cinco,",
+    "voz": "andrea",
+    "video": "videos/bruno-gol.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "55'",
+     "sobre": "BRUNO CAICEDO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión TSN (enviadas por Mui)"
+   },
+   {
+    "texto": "cabezazo por encima del arquero.",
+    "voz": "andrea",
+    "video": "videos/bruno-festejo.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE CABEZA",
+     "sobre": "BRUNO CAICEDO"
+    },
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión TSN (enviadas por Mui)"
+   },
+   {
+    "texto": "Dos a cero, y Vancouver manda en la serie.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2-0",
+     "texto": "VANCOUVER GANA 1-0 LA SERIE"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "El viernes, en Utah, Bruno puede volver a saltar.",
+    "foto": "img/2026-11-23/bruno-pulgares.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "VIERNES · JUEGO 2",
+     "sobre": "EN UTAH"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Orense vs Mushuc Runa 2-3: la reacción en Machala que casi lo cambia todo",
+  "etiqueta": "LIGAPRO · DESCENSO",
+  "club": "orense",
+  "audio": "audio/34",
+  "prueba_voz": "Mui+Andrea",
+  "franja": [
+   "ORENSE vs MUSHUC RUNA",
+   "HEXAGONAL DEL DESCENSO · FECHA 7",
+   "ESTADIO 9 DE MAYO · MACHALA",
+   "DATOS: EL DIARIO · MACHALA MÓVIL"
+  ],
+  "escenas": [
+   {
+    "texto": "Orense perdía tres a cero en Machala",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PERDÍA 3-0 EN CASA",
+     "sobre": "ORENSE"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y casi hace lo imposible.",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/orense.png",
+     "sobre": "ESTADIO 9 DE MAYO",
+     "texto": "¿LO IMPOSIBLE?"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Mushuc Runa hizo tres antes del descanso.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/mushuc.png",
+     "sobre": "18' · 26' · 41'",
+     "texto": "TRES GOLES EN 23 MINUTOS"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Mena descontó en el añadido",
+    "voz": "andrea",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MENA 45+4'",
+     "sobre": "ORENSE REACCIONA"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "y Agustín Herrera al sesenta y cinco.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "65'",
+     "texto": "HERRERA DE CABEZA"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE SALVA ORENSE?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
       {
-        "texto": "Aucas le ganó uno a cero a Liga de Quito en la Casa Blanca.",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¡AUCAS GANA EL CLÁSICO!",
-          "sobre": "LIGA 0-1 AUCAS"
-        },
-        "transicion": "flash",
-        "hinchada": true,
-        "voz": "mui"
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "goles": 2,
+       "escudo": "img/escudos/orense.png"
       },
       {
-        "texto": "Fue en el estadio Rodrigo Paz Delgado, por la fecha siete del hexagonal.",
-        "voz": "andrea",
-        "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {
-              "nombre": "LIGA DE QUITO",
-              "color": "#0B1F4B",
-              "goles": 0,
-              "escudo": "img/escudos/liga.png"
-            },
-            {
-              "nombre": "AUCAS",
-              "color": "#FFD100",
-              "goles": 1,
-              "escudo": "img/escudos/aucas.png"
-            }
-          ],
-          "pie": "SUPERCLÁSICO CAPITALINO · FECHA 7"
-        },
-        "destello": true
-      },
-      {
-        "texto": "Aucas llega a cincuenta y siete puntos y se mete en la pelea por la Libertadores.",
-        "voz": "andrea",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "57",
-          "texto": "PUNTOS DE AUCAS"
-        }
-      },
-      {
-        "texto": "Liga se queda en cincuenta y cuatro y la presión cae sobre Gustavo Álvarez.",
-        "voz": "andrea",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "54",
-          "texto": "PUNTOS DE LIGA"
-        },
-        "suspenso": true
-      },
-      {
-        "texto": "¿Hincha, Liga todavía llega a la Libertadores?",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿LLEGA LIGA?",
-          "sobre": "TU OPINIÓN"
-        },
-        "suspenso": true,
-        "voz": "mui"
-      },
-      {
-        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-        "grafico": {
-          "tipo": "cierre",
-          "texto": "COMENTA Y SÍGUENOS"
-        },
-        "voz": "mui"
+       "nombre": "MUSHUC RUNA",
+       "color": "#E30613",
+       "goles": 3,
+       "escudo": "img/escudos/mushuc.png"
       }
-    ]
-  }
+     ],
+     "pie": "ORENSE 39 · DELFÍN 39 · POR GOL DIFERENCIA"
+    },
+    "destello": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Ahora Orense juega contra Delfín, y no puede volver a perder tres a cero.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "DELFÍN",
+       "color": "#0B4EA2",
+       "escudo": "img/escudos/delfin.png"
+      },
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "escudo": "img/escudos/orense.png"
+      }
+     ],
+     "hora": "FECHA 8",
+     "pie": "DUELO DIRECTO POR LA PERMANENCIA"
+    },
+    "transicion": "barrido"
+   }
+  ]
+ }
 ]
