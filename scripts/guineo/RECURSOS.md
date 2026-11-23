@@ -138,3 +138,7 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 ## Recursos audiovisuales compartidos por Mui (regla, 22/11)
 - Toda foto, audio o video que comparta Mui se guarda en el git y se registra aquí, para que lo usen ella y los demás agentes.
 - `recursos/clips-comentarios/` — canal de clips virales + comentarios: 8 memes recortados (knuckles, audífonos, bailarín, grito/Vegeta, perro, ete Sech, Pepe el pollo en pantalla verde, primitos), 2 clips (Malambo, fuegos artificiales en Bolivia), tarjetas de comentarios, videos finales y el script `build.py`. Detalle en su README.md.
+## Personajes del entorno del deporte (Mui, 22/11)
+- Además de jugadores y equipos, los agentes vigilan a periodistas deportivos, directivos y presidentes de clubes, dirigentes, árbitros, padres o familiares de jugadores, hinchas e influencers del fútbol. Si una frase, pelea, publicación o video de alguno genera interacciones y sube rápido como tendencia, entra como posible noticia o reel (marcado con 🗣️).
+- Se verifica qué dijo o hizo en una fuente fiable (nunca frases sin confirmar). No se descarga su video o publicación: se cuenta con gráfico "cita", foto_commons si es figura pública con foto libre, o dibujo sin cara realista.
+- Con personas privadas (hinchas, padres): respeto, sin burlas, sin datos personales y sin exponer a menores; si es delicado, Mui decide antes.
