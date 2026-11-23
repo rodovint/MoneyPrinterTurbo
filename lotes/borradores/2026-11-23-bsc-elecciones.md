@@ -16,3 +16,4 @@ Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Mui: 'cambia este por la anterior de Mario Mendoza' → interpretado como usar la captura del tuit de Fútbol 17 (la fuente citada) en lugar de la de Mario Mendoza; va en la escena 'Como contó Fútbol 17'. La frase de la asamblea vuelve al titular de la fecha sobre el estadio.
 - Entregada versión con capturas (Release reels-20261123-2205-83, 26 s).
 - 2.º aviso de Mui (17:09, misma zona): el corte del silencio dejó 'sábado' pegado a 'veintiséis' y además la frase estaba partida en 2 escenas (barrido + whoosh a mitad de frase). Arreglo: pausa natural de 0,3 s con fundidos (audio/35.wav) y la frase 7 vuelve a ser UNA escena.
+- Entregada versión sin corte en la frase de la asamblea (Release reels-20261123-2226-84, 26 s).
