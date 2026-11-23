@@ -29,7 +29,7 @@
           "equipos": [
             {
               "nombre": "LIGA DE QUITO",
-              "color": "#FFFFFF",
+              "color": "#0B1F4B",
               "goles": 0,
               "escudo": "img/escudos/liga.png"
             },
