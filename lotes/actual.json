@@ -95,7 +95,7 @@
     "destello": true
    },
    {
-    "texto": "La asamblea será el sábado",
+    "texto": "La asamblea será el sábado veintiséis de diciembre en el Monumental.",
     "foto_commons": "Estadio BSC.jpg",
     "movimiento": "paneo_der",
     "grafico": {
@@ -105,20 +105,7 @@
     },
     "transicion": "barrido",
     "inicio": 22.25,
-    "fin": 24.15
-   },
-   {
-    "texto": "veintiséis de diciembre en el Monumental.",
-    "foto_commons": "Estadio BSC.jpg",
-    "movimiento": "paneo_der",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "SÁBADO 26 DE DICIEMBRE · 08:30",
-     "sobre": "ASAMBLEA DE ELECCIONES"
-    },
-    "transicion": "zoom",
-    "inicio": 24.15,
-    "fin": 27.95
+    "fin": 28.1
    },
    {
     "texto": "Y todo empezó con el directorio de hoy.",
@@ -129,8 +116,8 @@
      "sobre": "BARCELONA SC"
     },
     "transicion": "zoom",
-    "inicio": 28.95,
-    "fin": 31.0,
+    "inicio": 29.1,
+    "fin": 31.15,
     "foto": "img/2026-11-23/bsc-alvarez.jpg"
    }
   ]
