@@ -11,3 +11,4 @@ Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Entregado ~16:52 (Release reels-20261123-2148-79). Queda un defecto: en la cita, el autor 'FÚTBOL 17 · @FUTBOL17_EC' se monta sobre la última línea (el gráfico cita usa letra muy grande con textos cortos). Se avisó a Mui; arreglo posible: gráfico titular con sobre = autor.
 - Mui pidió corregir 'rápido': cita de Fútbol 17 pasa a gráfico titular (autor arriba, sin encimarse). El error de audio que menciona Mui está pendiente de que diga cuál es.
 - Error de audio señalado por Mui (video de pantalla, 0:17–0:24): en la frase 7 había 1,9 s de silencio total entre 'La asamblea será el sábado' y 'veintiséis de diciembre…' (24,0–25,8 s). Se quitó (audio/35.wav) y se corrieron los tiempos.
+- Entregada versión corregida (Release reels-20261123-2158-81, 26 s): cita como titular sin encimarse + sin el silencio de 1,9 s en la frase 7.
