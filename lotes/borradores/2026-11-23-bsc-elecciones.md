@@ -14,3 +14,4 @@ Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Entregada versión corregida (Release reels-20261123-2158-81, 26 s): cita como titular sin encimarse + sin el silencio de 1,9 s en la frase 7.
 - Mui pidió meter las capturas: convocatoria oficial (escena '2028', muestra el periodo 2024-2028) y tuit de Mario Mendoza (primera mitad de la frase de la asamblea). ~4,4 s de capturas con crédito en pantalla.
 - Mui: 'cambia este por la anterior de Mario Mendoza' → interpretado como usar la captura del tuit de Fútbol 17 (la fuente citada) en lugar de la de Mario Mendoza; va en la escena 'Como contó Fútbol 17'. La frase de la asamblea vuelve al titular de la fecha sobre el estadio.
+- Entregada versión con capturas (Release reels-20261123-2205-83, 26 s).
