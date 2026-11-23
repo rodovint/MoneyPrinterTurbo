@@ -1,0 +1,557 @@
+{
+ "fecha": "2026-11-22T19:05-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "cuba",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "He fled Cuba to avoid US bombs. Baseball gave him a way out (USA Today)",
+     "Cuban baseball player flees to Brazil, dreams of MLB career (USA Today)"
+    ]
+   },
+   {
+    "tema": "posiciones de liga de quito contra aucas",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": []
+   },
+   {
+    "tema": "guadalajara - cruz azul",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Quiénes son los convocados de Chivas para buscar el liderato del AP26 ante Cruz Azul? (Chivas)",
+     "Diego no pierde la fe en el Rebaño (Yahoo)"
+    ]
+   },
+   {
+    "tema": "posiciones de colo-colo contra u. católica",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Universidad Católica visita el Monumental obligada a quedarse con los tres puntos (ESPN Ecuador)",
+     "COLO-COLO PRESENTÓ SU LISTA DE CITADOS PARA ENFRENTAR A UNIVERSIDAD CATÓLICA (OneFootball)"
+    ]
+   },
+   {
+    "tema": "ecuavisa en vivo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": []
+   },
+   {
+    "tema": "ecuavisa play",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universe 2026: Así lucieron las candidatas latinas en el desfile de Traje Típico (Telemundo)",
+     "¿Cómo ver en YouTube en vivo el desfile de traje típico de Miss Universo? (El Universo)"
+    ]
+   },
+   {
+    "tema": "debate alcalde quito",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Debates por las alcaldías de Quito y Guayaquil: ¿a qué hora, dónde verlos y cómo serán? (Teleamazonas)",
+     "Los 10 candidatos a la Alcaldía de Quito explican sus propuestas en video (El Comercio)"
+    ]
+   },
+   {
+    "tema": "bragantino - vasco da gama",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ao vivo: Bragantino x Vasco | Rodada 36 | Campeonato Brasileiro (ge)",
+     "Mancini lamenta derrota do Bragantino e projeta decisão contra o Vasco (VAVEL.com)"
+    ]
+   },
+   {
+    "tema": "posiciones de getafe cf contra atlético de madrid",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Getafe 0-3 Atlético (Nov 22, 2026) Game Analysis (ESPN)",
+     "Getafe vs. Atletico Madrid - Game Highlights (ESPN)"
+    ]
+   },
+   {
+    "tema": "liga",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LDU anuncia la desvinculacion de un futbolista que habia llegado para el segundo semestre (futbolecuador.com)",
+     "Liga de Quito anuncia el fin del vínculo contractual con José Carabalí (Primicias)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "croix bethune",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Croix Bethune manifested a career year. Now comes a title shot against her former club (The New York Times)",
+     "Current's Croix Bethune focused on being 'me. M.E. -- Most Essential, version of yourself' ahead of NWSL final (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "pedro pascal",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'Women were screaming': Pedro Pascal dines at SF's historic Tosca Cafe (SFGATE)",
+     "Avengers: Doomsday Star Pedro Pascal Reveals Story Behind His And Robert Downey Jr.'s Viral Halloween Costumes (IMDb)"
+    ]
+   },
+   {
+    "tema": "marvel avengers doomsday",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Avengers: Doomsday New Video Sees MCU’s Doctor Doom Take Over an Unexpected Location (Yahoo)",
+     "Chris Evans, Anthony Mackie & Simu Liu Kick Off ‘Avengers: Doomsday’ Global Press Tour at F1’s Las Vegas Grand Prix (Just Jared)"
+    ]
+   },
+   {
+    "tema": "bill hader",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Cat in the Hat’s latest trick is a reported $70 million worldwide (Digg)",
+     "The Cat in the Hat UK Premiere Interviews: Bill Hader, Xochitl Gomez & more (IMDb)"
+    ]
+   },
+   {
+    "tema": "theo johnson",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "disney discontinues hulu standalone app",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Disney+ and Hulu App Merger Slated to Be Completed in December (Variety)",
+     "Say Goodbye to a Major Streaming Service as Disney Quietly Confirms Phaseout (Comic Book Resources)"
+    ]
+   },
+   {
+    "tema": "jets score",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks (ESPN)",
+     "NFL draft order update: Titans control destiny for No. 1 pick (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "josh holloway",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sandra Bullock Shares Rare Photos with Her 2 Kids from Trip to Disneyland (People.com)",
+     "Sandra Bullock Shares Rare Photos of 2 Teenage Kids During Magical Disneyland Trip (E! News)"
+    ]
+   },
+   {
+    "tema": "jets schedule",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jets quarter-mark report card: Winnipeg still searching for identity (Sportsnet.ca)",
+     "Winnipeg Jets: Quarterly Report (Arctic Ice Hockey)"
+    ]
+   },
+   {
+    "tema": "wage",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage (CNBC)",
+     "I’m a Google worker making $323,000 a year – but living on a minimum wage budget (CNBC)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "manos limpias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Supremo “rehabilitó” a Manos Limpias un mes antes de que se lanzara contra la familia de Sánchez (elDiario.es)",
+     "El puñal de Puigdemont (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "cuando es el miss universo 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universe 2026: así será la cobertura especial de Telemundo (Telemundo)",
+     "Miss Universo 2026: cuándo y cómo ver el concurso en vivo (Telemundo Chicago)"
+    ]
+   },
+   {
+    "tema": "borja iglesias",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Borja Iglesias (33 años), sobre la vivienda: \"Mis amigos que quieren irse con su pareja no encuentran pisos asequibles. Cuesta mucho tener un sitio digno para vivir\" (Heraldo de Aragón)",
+     "Borja Iglesias (33 años) denuncia el problema de la vivienda en España: \"Cuesta mucho encontrar un sitio asequible y digno para vivir\" (SPORT)"
+    ]
+   },
+   {
+    "tema": "barajas",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Caos en Barajas: una avería del tren satélite en la Terminal 4 provoca largas colas de viajeros (El Mundo)",
+     "Restablecido el servicio del tren que comunica la T4 de Barajas con su satélite (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "entrevista a pedro sánchez",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente (EL PAÍS)",
+     "Sánchez acusa a la oposición de \"deshumanizarle\", tacha a Feijóo de \"persona de otra época\" y vaticina su victoria: \"Mis datos tienen muy buena pinta\" (LaSexta)"
+    ]
+   },
+   {
+    "tema": "el escandalo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El ministro de Educación de Corea del Sur dimite tras el escándalo por la copia con IA en exámenes (La Vanguardia)",
+     "Recompensa de miles de euros para los chivatos: Corea del Sur ofrece 68.000 € por denunciar trampas con IA en la Selectividad (20 Minutos)"
+    ]
+   },
+   {
+    "tema": "heat - thunder",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T14:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: NBA: Oklahoma City Thunder at Miami Heat (Reuters Connect)",
+     "OKC’s Shai Gilgeous-Alexander, Miami’s Giannis Antetokounmpo both out of Thunder-Heat matchup (NBA.com)"
+    ]
+   },
+   {
+    "tema": "raquel bollo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Manuel Cortés se muestra rotundo tras el reencuentro de Raquel Bollo y Belén Esteban (Canarias7)",
+     "Manuel Cortés, sobre la posible reconciliación de su madre, Raquel Bollo, con Belén Esteban en 'GH VIP': \"Es cierto que pasaron cosas entre ellas. Pero creo que es más del pasado que actual\" (Semana)"
+    ]
+   },
+   {
+    "tema": "charlize theron",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T14:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "2026 Governors Awards Menswear (Red Carpet Fashion Awards)",
+     "Glenn Close cries! John Malkovich weeps! But it’s Nathan Fielder everyone wants to talk to at the honorary Oscars (The Guardian)"
+    ]
+   },
+   {
+    "tema": "river",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T14:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bogachiel, Calawah Steelhead And Naselle, Willapa Winter-runs, Salmon To Open Nov. 23 - (Northwest Sportsman Magazine)",
+     "Salmon fishing to reopen on Naselle, Willapa rivers (Chinook Observer)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "instituto",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "A qué hora juega Instituto vs. Huracán y cómo ver hoy EN VIVO el Torneo Clausura (Olé)",
+     "Instituto de Córdoba vs. Huracán, minuto a minuto (Página|12)"
+    ]
+   },
+   {
+    "tema": "cruces liga argentina",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Agenda de los Cuartos de Final (Liga Profesional de Fútbol)",
+     "Torneo Clausura 2026: los clasificados a cuartos de final (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "play off",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Browns Track AFC North Rivals in Crucial Week 11 NFL Games (cwibc.co.id)",
+     "Jeeno Thitikul wins LPGA season finale for 3rd straight year and picks up $4 million prize, the richest in women's golf (Eagle-Tribune)"
+    ]
+   },
+   {
+    "tema": "gimnasia y tiro de salta - tristán suárez",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gimnasia y Tiro vs Tristán Suárez, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV (TN)",
+     "Desde las 21, el Albo quiere dar el primer paso a semifinales ante Tristán Suárez (Nuevo Diario de Salta)"
+    ]
+   },
+   {
+    "tema": "partido hoy",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Copa Sudamericana: Boca jugó una final perfecta, le hizo precio al Atlético Mineiro y gritó campeón en Barranquilla (Clarin.com)",
+     "“El verdadero Rey”: el dardo de Boca a Independiente tras alcanzar los 19 títulos internacionales (Infobae)"
+    ]
+   },
+   {
+    "tema": "clausura 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Loyola, Gimnasia y El Pozo, los grandes campeones del Clausura (El Litoral)",
+     "Gimnasia y Esgrima es el campeón de Plata de la Senior (LT10)"
+    ]
+   },
+   {
+    "tema": "sarmiento de la banda",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sarmiento de La Banda vs. Cipolletti, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE (TyC Sports)",
+     "Sarmiento se juega una parada clave ante Cipolletti por las semifinales del Federal A (Diario Panorama)"
+    ]
+   },
+   {
+    "tema": "vasco da gama",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "RB Bragantino vs. Vasco da Gama por el Brasileirao Serie A 2026: día, hora y cómo seguir online (La Nación)",
+     "Pronóstico Bragantino vs Vasco da Gama: ambos equipos marcan (Gainblers)"
+    ]
+   },
+   {
+    "tema": "chicago fire - charlotte fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chicago Fire vs Charlotte FC: Lineups, Prediction, Odds & Bet Builder Tip (WhoScored.com)",
+     "Fire host surging Charlotte in MLS Cup playoff opener (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "tiver",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Os dois votos do PL que Rogério Marinho já considera perdidos na disputa pela presidência do Senado (O GLOBO)",
+     "Análise: Eleição no Senado pode colocar liderança de Alcolumbre à prova (CNN Brasil)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "carlos rodríguez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Charly Rodríguez rompe el silencio: así se enteró que no iría al Mundial y lo que significó ganar la Décima (Mediotiempo)",
+     "Iván Alonso vio el futuro: la profecía del directivo de Cruz Azul que hizo llorar a Charly Rodríguez (Juanfutbol)"
+    ]
+   },
+   {
+    "tema": "carlos rodolfo rotondi",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rotondi analizó dejar Cruz Azul tras penal vs. América (ESPN México)",
+     "Rotondi revela que dudó de seguir en Cruz Azul tras errores en 2024 (UNANIMO Deportes)"
+    ]
+   },
+   {
+    "tema": "josé paradela",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cruz Azul blindó a José Paradela: el quiroguense es intransferible (La Trocha)",
+     "Cruz Azul recupera a tres futbolistas clave para el cierre del torneo ante Chivas (TV Azteca)"
+    ]
+   },
+   {
+    "tema": "cruz",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ (The Washington Post)",
+     "Cornyn calls Cruz ‘fragile thing’ amid Texas judgeship dispute (The Hill)"
+    ]
+   },
+   {
+    "tema": "tala rangel",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Tala’ Rangel se emociona frente a pequeños futbolistas (AS México)",
+     "Tala Rangel llora al recordar su pasado y un niño lo consuela (VIDEO) (Excélsior)"
+    ]
+   },
+   {
+    "tema": "tom holland",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tom Holland and Zendaya pay in cash for £8.25million London mansion (Daily Mail)",
+     "Tom Holland and Zendaya Reportedly Buy London Mansion (Mansion Global)"
+    ]
+   },
+   {
+    "tema": "partidos hoy en vivo",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "León elimina a Santos con zarpazo de Ismael Díaz (ESPN México)",
+     "León rompe las esperanzas de Santos y los deja sin Liguilla en el último segundo (Telemundo)"
+    ]
+   },
+   {
+    "tema": "bulls - nuggets",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Can the Bulls Handle Jokić Without Powell? Nuggets vs Bulls LIVE Pregame (BVM Sports)",
+     "Denver Nuggets Injury Report: Every Status vs. Chicago Bulls (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "partidos de hoy",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NFL: Quiniela de ESPN para la Semana 11 de la temporada 2026 (ESPN México)",
+     "NFL: Razones para ver los partidos de la Semana 11 (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "fernando gonzález",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere Luis Fernando González Achem, dos veces alcalde de Lerdo (MILENIO)",
+     "Lamenta Susy Torrecillas fallecimiento de Luis Fernando González Achem (El Sol de México)"
+    ]
+   }
+  ]
+ }
+}
