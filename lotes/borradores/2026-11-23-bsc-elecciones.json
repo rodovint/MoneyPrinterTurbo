@@ -1,0 +1,104 @@
+[
+ {
+  "titulo": "Barcelona SC tendrá elecciones anticipadas: lo que decidió el directorio",
+  "etiqueta": "BARCELONA SC",
+  "club": "barcelona",
+  "audio": "audio/35",
+  "prueba_voz": "Mui",
+  "invitacion_hablada": false,
+  "franja": [
+   "BARCELONA SC · ELECCIONES ANTICIPADAS",
+   "ASAMBLEA: SÁBADO 26 DE DICIEMBRE · 08:30",
+   "ESTADIO MONUMENTAL BANCO PICHINCHA",
+   "VÍA @FUTBOL17_EC · PRIMICIAS"
+  ],
+  "escenas": [
+   {
+    "texto": "El directorio de Barcelona se reunió hoy",
+    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿QUÉ DECIDIÓ EL DIRECTORIO?",
+     "sobre": "BARCELONA SC"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y tomó una decisión que lo cambia todo.",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/barcelona.png",
+     "sobre": "SESIÓN EXTRAORDINARIA",
+     "texto": "LO CAMBIA TODO"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Antonio Álvarez renunció en agosto",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "RENUNCIÓ EN AGOSTO",
+     "sobre": "ANTONIO ÁLVAREZ"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "y su periodo iba hasta el dos mil veintiocho.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2028",
+     "texto": "HASTA AQUÍ IBA SU PERIODO"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿Quién debe ser el próximo presidente? Te leo.",
+    "foto": "img/bsc-urna.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿QUIÉN DEBE SER EL PRESIDENTE?",
+     "sobre": "TU OPINIÓN"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Como contó Fútbol 17: se aprobó todo, y habrá elecciones anticipadas.",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "“QUEDÓ APROBADO TODO: EL CLUB TENDRÁ ELECCIONES”",
+     "autor": "FÚTBOL 17 · @FUTBOL17_EC"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "La asamblea será el sábado veintiséis de diciembre en el Monumental.",
+    "foto_commons": "Estadio BSC.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "SÁBADO 26 DE DICIEMBRE · 08:30",
+     "sobre": "ASAMBLEA DE ELECCIONES"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Y todo empezó con el directorio de hoy.",
+    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "TODO EMPEZÓ HOY",
+     "sobre": "BARCELONA SC"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ }
+]

@@ -1,0 +1,9 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "bsc-urna", "seed": 261, "referencias": [0], "prompt": "Vertical illustration: a transparent ballot box on a table in the middle of an empty football stadium pitch at night, folded white ballot papers inside, yellow and black ribbons tied around the box, floodlights, empty yellow seats in the stands, dramatic atmosphere, no people."}
+  ]
+}

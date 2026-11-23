@@ -1,0 +1,7 @@
+# Pedido de Mui 23/11 16:27 · 🔥🗣️ Barcelona SC: elecciones anticipadas → audio/35
+Prueba voz: Mui (graba todo) · Invitación hablada: NO (para equilibrar la prueba: 2 reels sin y 2 con)
+Tendencia: búsqueda "Barcelona Elecciones" en X (capturas de Mui: Mario Mendoza, WQ Radio, Fútbol 17 · 1,3 k vistas en 45 min)
+Fuentes: Fútbol 17 (@Futbol17_ec, X, 23/11: "Quedó aprobado todo, por lo tanto el club tendrá elecciones. Próximo sábado 26 diciembre será la primera asamblea de elecciones 08:30 estadio Monumental") · Convocatoria oficial BSC a la Sesión Extraordinaria 08-2026 (lunes 23/11 14h00; punto 6: Asamblea General de Elecciones sábado 26/12/2026 08h30) · Primicias 23/11 16:09 (aprobado; asamblea 26/12 08:30 en el estadio Banco Pichincha; Antonio Álvarez renunció, anunciado el 5/8/2026; el periodo iba hasta 2028; Montalvo asumió la presidencia) · El Futbolero 20/11 (Jorge Reinoso, exrepresentante legal, dice que la convocatoria está "mal hecha" porque la firma Montalvo como subrogante y no como vicepresidente — NO va en el guion).
+Fotos: no hay foto libre de Antonio Álvarez ni de Miguel Montalvo → gancho con Commons "Estadio Monumental Isidro Romero Carbo.jpg"; pedir a Mui foto de Álvarez o Montalvo si tiene. Commons "Estadio BSC.jpg". Escudo barcelona.png.
+Colores: "club": "barcelona". Dibujo: bsc-urna.png (urna de votación con cintas amarillas y negras).
+Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
