@@ -1,0 +1,10 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "jordy-cabezazo", "seed": 231, "referencias": [0], "prompt": "Vertical illustration, low angle from behind: a football striker in a plain dark shirt with red trim leaping high to head a white soccer ball towards the goal at night, floodlights glaring, defenders in plain white and red striped shirts jumping too, packed stands blurred behind, no faces visible."},
+    {"id": "bruno-bcplace", "seed": 232, "referencias": [0], "prompt": "Vertical illustration: a huge modern indoor football stadium with a closed white roof at night, packed stands with fans in navy blue and white waving plain scarves, playoff atmosphere, smoke and floodlights, seen from high in the stands, a white soccer ball on the centre spot."}
+  ]
+}

@@ -1,17 +1,20 @@
-# Frases que graba Mui — mañana 22/11/2026
+# Frases que graba Mui — mañana 23/11/2026
 (Un audio por reel, en orden, pausa corta entre frases, tono hacia abajo al cerrar; solo la pregunta sube.)
 
-01 · Enner Valencia campeón de la Sudamericana con Boca → audio/23
-[Mui] Enner Valencia es campeón de la Copa Sudamericana con Boca Juniors.
-[Mui] ¿Hincha, Enner merece ser titular en Boca?
-[Mui] Comenta y síguenos en Guineo Comunicaciones.
+01 · Instituto vs Huracán 2-1 · Jordy Caicedo → audio/32 (Prueba voz: Mui — graba TODAS)
+[Mui] Jordy Caicedo cabeceó en Córdoba
+[Mui] y entró a un libro
+[Mui] que ningún ecuatoriano había tocado.
+[Mui] Huracán perdía dos a cero con Instituto
+[Mui] y él descontó al sesenta y cinco.
+[Mui] ¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.
+[Mui] Quince goles en Argentina en una temporada: récord ecuatoriano.
+[Mui] Antes era Jaime Ayoví, con nueve.
+[Mui] Huracán se fue, pero el libro dice Jordy Caicedo.
 
-02 · Gonzalo Plata campeón del Brasileirão con Flamengo → audio/24
-[Mui] Gonzalo Plata es campeón de Brasil con el Flamengo.
-[Mui] ¿Plata o Enner, quién tuvo el mejor fin de semana?
-[Mui] Comenta y síguenos en Guineo Comunicaciones.
-
-07 · Mundial Sub-17: Ecuador 0-0 Uganda → audio/29 (pendiente de tu OK al guion)
-[Mui] Ecuador empató cero a cero con Uganda y está a un paso de los dieciseisavos del Mundial Sub-17.
-[Mui] ¿La Mini-Tri le gana a Corea y se queda con el grupo?
-[Mui] Comenta y síguenos en Guineo Comunicaciones.
+02 · Vancouver Whitecaps vs Real Salt Lake 2-0 · Bruno Caicedo → audio/33 (Prueba voz: Mui+Andrea — Mui graba 4)
+[Mui] Bruno Caicedo saltó en Vancouver
+[Mui] y dejó a Real Salt Lake contra las cuerdas.
+[Mui] ¿Bruno merece la Tri? Te leo, y sigue a Guineo.
+[Mui] El viernes, en Utah, Bruno puede volver a saltar.
+(Andrea dice: "Juego uno de playoffs:" / "su centro terminó en el gol de Ocampo." / "Al cincuenta y cinco," / "cabezazo por encima del arquero." / "Dos a cero, y Vancouver manda en la serie.")

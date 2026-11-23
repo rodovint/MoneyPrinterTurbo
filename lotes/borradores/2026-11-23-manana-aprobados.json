@@ -1,0 +1,239 @@
+[
+ {
+  "titulo": "Instituto vs Huracán 2-1: el récord de Jordy Caicedo que ningún ecuatoriano tenía en Argentina",
+  "etiqueta": "LEGIÓN TRICOLOR",
+  "paleta": {
+   "fondo": "#E2001A",
+   "texto": "#FFFFFF"
+  },
+  "audio": "audio/32",
+  "prueba_voz": "Mui",
+  "material_terceros": true,
+  "franja": [
+   "JORDY CAICEDO · HURACÁN",
+   "OCTAVOS DEL CLAUSURA 2026",
+   "ESTADIO MARIO ALBERTO KEMPES",
+   "DATOS: EL COMERCIO · NOTICIAS ARGENTINAS"
+  ],
+  "escenas": [
+   {
+    "texto": "Jordy Caicedo cabeceó en Córdoba",
+    "video": "videos/jordy-festejo.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JORDY ENTRÓ AL LIBRO",
+     "sobre": "HURACÁN"
+    },
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+   },
+   {
+    "texto": "y entró a un libro",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "que ningún ecuatoriano había tocado.",
+    "foto": "img/jordy-cabezazo.png",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "barrido",
+    "suspenso": true
+   },
+   {
+    "texto": "Huracán perdía dos a cero con Instituto",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "0-2",
+     "texto": "HURACÁN PERDÍA CON INSTITUTO"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "y él descontó al sesenta y cinco.",
+    "video": "videos/jordy-gol.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "65' · DE CABEZA",
+     "sobre": "JORDY CAICEDO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+   },
+   {
+    "texto": "¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.",
+    "foto": "img/jordy-cabezazo.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿NUEVE DE LA TRI?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Quince goles en Argentina en una temporada: récord ecuatoriano.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "15",
+     "texto": "GOLES EN ARGENTINA · RÉCORD ECUATORIANO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Antes era Jaime Ayoví, con nueve.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "15",
+     "a_texto": "JORDY CAICEDO 2026",
+     "b": "9",
+     "b_texto": "JAIME AYOVÍ 2014",
+     "pie": "GOLES DE UN ECUATORIANO EN UNA TEMPORADA EN ARGENTINA"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Huracán se fue, pero el libro dice Jordy Caicedo.",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JORDY CAICEDO",
+     "sobre": "EL LIBRO DICE"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Vancouver Whitecaps vs Real Salt Lake 2-0: el salto de Bruno Caicedo en los playoffs de la MLS",
+  "etiqueta": "LEGIÓN TRICOLOR",
+  "audio": "audio/33",
+  "prueba_voz": "Mui+Andrea",
+  "material_terceros": true,
+  "franja": [
+   "BRUNO CAICEDO · VANCOUVER",
+   "PLAYOFFS MLS · JUEGO 1 DE 3",
+   "BC PLACE · VANCOUVER",
+   "DATOS: KSL SPORTS"
+  ],
+  "escenas": [
+   {
+    "texto": "Bruno Caicedo saltó en Vancouver",
+    "foto": "img/2026-11-23/bruno-pulgares.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "BRUNO SALTÓ",
+     "sobre": "PLAYOFFS MLS"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y dejó a Real Salt Lake contra las cuerdas.",
+    "foto": "img/2026-11-23/bruno-puno.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Juego uno de playoffs:",
+    "voz": "andrea",
+    "foto": "img/bruno-bcplace.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JUEGO 1 DE 3",
+     "sobre": "BC PLACE"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "su centro terminó en el gol de Ocampo.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "1-0",
+     "texto": "CENTRO DE BRUNO · GOL DE ÉDIER OCAMPO"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿Bruno merece la Tri? Te leo, y sigue a Guineo.",
+    "foto": "img/2026-11-23/bruno-tribuna.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿MERECE LA TRI?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Al cincuenta y cinco,",
+    "voz": "andrea",
+    "video": "videos/bruno-gol.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "55'",
+     "sobre": "BRUNO CAICEDO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión TSN (enviadas por Mui)"
+   },
+   {
+    "texto": "cabezazo por encima del arquero.",
+    "voz": "andrea",
+    "video": "videos/bruno-festejo.mp4",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE CABEZA",
+     "sobre": "BRUNO CAICEDO"
+    },
+    "transicion": "flash",
+    "hinchada": true,
+    "credito": "Imágenes: transmisión TSN (enviadas por Mui)"
+   },
+   {
+    "texto": "Dos a cero, y Vancouver manda en la serie.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2-0",
+     "texto": "VANCOUVER GANA 1-0 LA SERIE"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "El viernes, en Utah, Bruno puede volver a saltar.",
+    "foto": "img/2026-11-23/bruno-pulgares.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "VIERNES · JUEGO 2",
+     "sobre": "EN UTAH"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ }
+]
