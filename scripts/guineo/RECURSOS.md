@@ -165,5 +165,5 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 - Primero la palabra clave, dentro de los primeros ~40 caracteres (lo que se ve en el celular): nombres completos ("Enner Valencia", "Barcelona SC vs Universidad Católica"), el torneo o el evento, y si existen, las búsquedas en alza de explore-ultimo.json tal cual.
 - Después el gancho: intriga concreta sin revelar el desenlace (minuto, gesto, frase, decisión, "lo que nadie vio", "la reacción de…", "por qué…"). Debe ser verdad: nada de clickbait falso que el video no cumpla.
 - Máximo 70 caracteres antes de #Shorts; sin MAYÚSCULAS completas; 1 emoji como máximo (al final del gancho).
-- Ejemplos: "Barcelona SC vs Universidad Católica: lo que pasó en el minuto 89 ⏱️ #Shorts" · "Enner Valencia en la final de la Sudamericana: su reacción lo dijo todo #Shorts" · "Ecuador vs Uganda: el detalle que preocupa a Beccacece #Shorts".
+- Ejemplos: "Barcelona SC vs Universidad Católica: lo que pasó en el minuto 89 ⏱️ #Shorts" · "Enner Valencia en la final de la Sudamericana: su reacción lo dijo todo #Shorts" · "Ecuador vs Uganda: el detalle que nadie vio en el 0-0 #Shorts".
 - En el txt de publicación, proponer 2 títulos por video (A y B) para que Mui elija o pruebe.
