@@ -152,3 +152,10 @@ Diagnóstico: 39–53 % "se quedaron" (hay que pasar de 60 % para salir del rang
 5. PRUEBA DE VOZ (lote del 23/11 y siguientes hasta tener datos): la mitad de los reels con TODAS las frases grabadas por Mui (sin Andrea) y la otra mitad con Andrea en los datos. Marca cada reel en el borrador con "Prueba voz: Mui" o "Prueba voz: Mui+Andrea" y repítelo en textos-*.txt para comparar después.
 6. PRIORIDAD a "X vs Y" con el RESULTADO en el título, publicado lo antes posible después del partido (formato del mejor video: Ecuador vs Uganda 0-0, 1,1 K y 53 %).
 7. INVITAR AL CANAL sin cortar el video: el generador pone siempre "@GUINEOCOMUNICACIONES" en la franja; en textos-*.txt agrega por video: "Comentario fijado:" (la pregunta + invitación a seguir el canal) y "Video relacionado sugerido:" (un video previo de Guineo del mismo tema o equipo, para enlazarlo en YouTube) y, cuando se pueda, series ("Parte 1 de 2", "mañana te cuento…").
+
+## Gancho sin revelar la noticia (Mui, 22/11) — TIENE PRIORIDAD sobre "la primera frase dice quién hizo qué"
+- SIEMPRE gancho, pero NUNCA se revela toda la noticia al inicio, sea partido, suceso, frase polémica o desenlace de un meme: se dice DE QUÉ trata y QUIÉN está, no CÓMO termina. Algo sutil que abra una pregunta o una tensión para que se queden hasta el final.
+- La primera frase presenta al protagonista y la tensión ("Barcelona se jugaba la Libertadores… y todo se definió en un minuto."), no el resultado ("Barcelona ganó 1-0 y va a la Libertadores").
+- El dato clave (marcador, gol, récord, la frase exacta, el remate del meme) se revela entre el 60 % y el 70 % del video; después solo queda el remate que enlaza con el inicio (bucle).
+- Textos en pantalla, franja y gráficos tampoco lo adelantan: el marcador/cifra/cita aparece recién en la escena de la revelación.
+- Títulos: nombres y "X vs Y" para la búsqueda, con el desenlace como intriga ("Barcelona SC vs Universidad Católica: lo que pasó en el minuto 89"). Solo va el marcador en el título si el resultado mismo ES lo que la gente busca (final de torneo, resultado de la Tri); aun así el video lo revela tarde. La portada tampoco lo revela.
