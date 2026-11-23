@@ -15,7 +15,6 @@
   "escenas": [
    {
     "texto": "El directorio de Barcelona se reunió hoy",
-    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
@@ -23,15 +22,17 @@
      "sobre": "BARCELONA SC"
     },
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "foto": "img/2026-11-23/bsc-alvarez.jpg"
    },
    {
     "texto": "y tomó una decisión que lo cambia todo.",
+    "foto": "img/2026-11-23/bsc-directivo-2.jpg",
+    "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "escudo",
-     "escudo": "img/escudos/barcelona.png",
-     "sobre": "SESIÓN EXTRAORDINARIA",
-     "texto": "LO CAMBIA TODO"
+     "tipo": "titular",
+     "texto": "LO CAMBIA TODO",
+     "sobre": "SESIÓN EXTRAORDINARIA"
     },
     "transicion": "zoom",
     "suspenso": true
@@ -43,7 +44,9 @@
      "texto": "RENUNCIÓ EN AGOSTO",
      "sobre": "ANTONIO ÁLVAREZ"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "foto": "img/2026-11-23/bsc-alvarez.jpg",
+    "movimiento": "paneo_der"
    },
    {
     "texto": "y su periodo iba hasta el dos mil veintiocho.",
