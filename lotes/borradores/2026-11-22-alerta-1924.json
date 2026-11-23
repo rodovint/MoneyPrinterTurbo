@@ -1,0 +1,55 @@
+[
+  {
+    "titulo": "Liga de Quito vs Aucas 0-1: ¡Aucas gana el Superclásico en la Casa Blanca y complica a Liga!",
+    "etiqueta": "LIGAPRO",
+    "club": "aucas",
+    "audio": "audio/31",
+    "franja": [
+      "LIGA DE QUITO 0-1 AUCAS",
+      "FECHA 7 · PRIMER HEXAGONAL",
+      "AUCAS 57 PTS · LIGA 54 PTS",
+      "ESTADIO RODRIGO PAZ DELGADO"
+    ],
+    "escenas": [
+      {
+        "texto": "Aucas le ganó uno a cero a Liga de Quito en la Casa Blanca.",
+        "grafico": {"tipo": "titular", "texto": "¡AUCAS GANA EL CLÁSICO!", "sobre": "LIGA 0-1 AUCAS"},
+        "transicion": "flash",
+        "hinchada": true
+      },
+      {
+        "texto": "Fue en el estadio Rodrigo Paz Delgado, por la fecha siete del hexagonal.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {"nombre": "LIGA DE QUITO", "color": "#FFFFFF", "goles": 0, "escudo": "img/escudos/liga.png"},
+            {"nombre": "AUCAS", "color": "#FFD100", "goles": 1, "escudo": "img/escudos/aucas.png"}
+          ],
+          "pie": "SUPERCLÁSICO CAPITALINO · FECHA 7"
+        },
+        "destello": true
+      },
+      {
+        "texto": "Aucas llega a cincuenta y siete puntos y se mete en la pelea por la Libertadores.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "57", "texto": "PUNTOS DE AUCAS"}
+      },
+      {
+        "texto": "Liga se queda en cincuenta y cuatro y la presión cae sobre Gustavo Álvarez.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "54", "texto": "PUNTOS DE LIGA"},
+        "suspenso": true
+      },
+      {
+        "texto": "¿Hincha, Liga todavía llega a la Libertadores?",
+        "grafico": {"tipo": "titular", "texto": "¿LLEGA LIGA?", "sobre": "TU OPINIÓN"},
+        "suspenso": true
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {"tipo": "cierre", "texto": "COMENTA Y SÍGUENOS"}
+      }
+    ]
+  }
+]

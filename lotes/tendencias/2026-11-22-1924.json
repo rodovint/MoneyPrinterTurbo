@@ -1,0 +1,6 @@
+{"fecha": "2026-11-22T19:24-05:00", "nota": "rss 19:05 vs 17:46. Liga-Aucas nuevo 5000+ → alerta.", "temas": [
+ {"tema": "Liga de Quito vs Aucas (0-1)", "señales": ["nuevo 5000+", "liga 1000+ nuevo"], "volumen_EC": "5000+", "volumen_anterior": null, "estado": "EXPLOSIVO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Getafe vs Atlético de Madrid (0-3)", "señales": ["2000+ → 5000+"], "volumen_EC": "5000+", "volumen_anterior": "2000+", "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Colo-Colo vs U. Católica", "señales": ["nuevo 1000+"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
+ {"tema": "Chivas vs Cruz Azul", "señales": ["nuevo 200+ EC"], "volumen_EC": "200+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false}
+]}
