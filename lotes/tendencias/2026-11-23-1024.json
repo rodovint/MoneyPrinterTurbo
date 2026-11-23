@@ -1,0 +1,3 @@
+{"fecha": "2026-11-23T10:24-05:00", "nota": "rss-ultimo sigue en 02:23 (la Action de tendencias no corre desde 02:22; GitHub no disparó los cron de 6:05 a 10:05). WebSearch sin novedad deportiva explosiva nueva. Sin señal.", "temas": [
+ {"tema": "Instituto vs Huracán (Jordy Caicedo, 17 goles)", "señales": ["dato de 02:23", "ya cubierto en lote de la mañana"], "volumen_EC": "2000+", "volumen_anterior": "2000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
