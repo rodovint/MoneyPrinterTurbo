@@ -60,9 +60,7 @@
     "texto": "y él descontó al sesenta y cinco.",
     "video": "videos/jordy-gol.mp4",
     "grafico": {
-     "tipo": "titular",
-     "texto": "65' · DE CABEZA",
-     "sobre": "JORDY CAICEDO"
+     "tipo": "ninguno"
     },
     "destello": true,
     "transicion": "flash",
@@ -90,7 +88,9 @@
     },
     "destello": true,
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_out"
    },
    {
     "texto": "Antes era Jaime Ayoví, con nueve.",
@@ -102,7 +102,9 @@
      "b_texto": "JAIME AYOVÍ 2014",
      "pie": "GOLES DE UN ECUATORIANO EN UNA TEMPORADA EN ARGENTINA"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "paneo_izq"
    },
    {
     "texto": "Huracán se fue, pero el libro dice Jordy Caicedo.",
