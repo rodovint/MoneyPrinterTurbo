@@ -12,3 +12,4 @@ Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Mui pidió corregir 'rápido': cita de Fútbol 17 pasa a gráfico titular (autor arriba, sin encimarse). El error de audio que menciona Mui está pendiente de que diga cuál es.
 - Error de audio señalado por Mui (video de pantalla, 0:17–0:24): en la frase 7 había 1,9 s de silencio total entre 'La asamblea será el sábado' y 'veintiséis de diciembre…' (24,0–25,8 s). Se quitó (audio/35.wav) y se corrieron los tiempos.
 - Entregada versión corregida (Release reels-20261123-2158-81, 26 s): cita como titular sin encimarse + sin el silencio de 1,9 s en la frase 7.
+- Mui pidió meter las capturas: convocatoria oficial (escena '2028', muestra el periodo 2024-2028) y tuit de Mario Mendoza (primera mitad de la frase de la asamblea). ~4,4 s de capturas con crédito en pantalla.

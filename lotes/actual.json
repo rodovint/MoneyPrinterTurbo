@@ -57,13 +57,14 @@
    {
     "texto": "y su periodo iba hasta el dos mil veintiocho.",
     "grafico": {
-     "tipo": "cifra",
-     "valor": "2028",
-     "texto": "HASTA AQUÍ IBA SU PERIODO"
+     "tipo": "ninguno"
     },
     "transicion": "glitch",
     "inicio": 9.1,
-    "fin": 11.65
+    "fin": 11.65,
+    "foto": "img/2026-11-23/bsc-convocatoria.jpg",
+    "movimiento": "zoom_in",
+    "credito": "Documento: convocatoria oficial de Barcelona SC (captura enviada por Mui)"
    },
    {
     "texto": "¿Quién debe ser el próximo presidente? Te leo.",
@@ -93,7 +94,19 @@
     "fin": 21.8
    },
    {
-    "texto": "La asamblea será el sábado veintiséis de diciembre en el Monumental.",
+    "texto": "La asamblea será el sábado",
+    "inicio": 22.25,
+    "fin": 24.15,
+    "foto": "img/2026-11-23/bsc-tweet-mendoza.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "barrido",
+    "credito": "Captura: Mario Mendoza en X (enviada por Mui)"
+   },
+   {
+    "texto": "veintiséis de diciembre en el Monumental.",
     "foto_commons": "Estadio BSC.jpg",
     "movimiento": "paneo_der",
     "grafico": {
@@ -101,8 +114,8 @@
      "texto": "SÁBADO 26 DE DICIEMBRE · 08:30",
      "sobre": "ASAMBLEA DE ELECCIONES"
     },
-    "transicion": "barrido",
-    "inicio": 22.25,
+    "transicion": "flash",
+    "inicio": 24.15,
     "fin": 27.95
    },
    {
