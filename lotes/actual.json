@@ -103,7 +103,7 @@
     },
     "transicion": "barrido",
     "inicio": 22.25,
-    "fin": 29.55
+    "fin": 27.95
    },
    {
     "texto": "Y todo empezó con el directorio de hoy.",
@@ -114,8 +114,8 @@
      "sobre": "BARCELONA SC"
     },
     "transicion": "zoom",
-    "inicio": 30.55,
-    "fin": 32.6,
+    "inicio": 28.95,
+    "fin": 31.0,
     "foto": "img/2026-11-23/bsc-alvarez.jpg"
    }
   ]
