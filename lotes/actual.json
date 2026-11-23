@@ -83,7 +83,7 @@
     "texto": "Como contó Fútbol 17: se aprobó todo, y habrá elecciones anticipadas.",
     "grafico": {
      "tipo": "cita",
-     "texto": "“QUEDÓ APROBADO TODO: EL CLUB TENDRÁ ELECCIONES”",
+     "texto": "“QUEDÓ APROBADO TODO”",
      "autor": "FÚTBOL 17 · @FUTBOL17_EC"
     },
     "destello": true,
@@ -107,7 +107,6 @@
    },
    {
     "texto": "Y todo empezó con el directorio de hoy.",
-    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
@@ -116,7 +115,8 @@
     },
     "transicion": "zoom",
     "inicio": 30.55,
-    "fin": 32.6
+    "fin": 32.6,
+    "foto": "img/2026-11-23/bsc-alvarez.jpg"
    }
   ]
  }
