@@ -142,3 +142,13 @@ Coordenadas 0–100: `x` izquierda→derecha, `y` desde la línea de gol (0, arr
 - Además de jugadores y equipos, los agentes vigilan a periodistas deportivos, directivos y presidentes de clubes, dirigentes, árbitros, padres o familiares de jugadores, hinchas e influencers del fútbol. Si una frase, pelea, publicación o video de alguno genera interacciones y sube rápido como tendencia, entra como posible noticia o reel (marcado con 🗣️).
 - Se verifica qué dijo o hizo en una fuente fiable (nunca frases sin confirmar). No se descarga su video o publicación: se cuenta con gráfico "cita", foto_commons si es figura pública con foto libre, o dibujo sin cara realista.
 - Con personas privadas (hinchas, padres): respeto, sin burlas, sin datos personales y sin exponer a menores; si es delicado, Mui decide antes.
+
+## Retención de Shorts (métricas de YouTube 22/11 · Mui aprobó probar)
+Diagnóstico: 39–53 % "se quedaron" (hay que pasar de 60 % para salir del rango 550–980 vistas); caída fuerte entre 0:04 y 0:10; caída de golpe en el cierre "Comenta y síguenos". Desde el 23/11:
+1. DURACIÓN 20–25 s, 4–5 frases (reemplaza la regla anterior de 25–35 s y 5–7 frases).
+2. FOTOGRAMA 0 CON MOVIMIENTO: foto del protagonista con zoom ya en marcha y la frase más fuerte sonando desde el primer cuadro. Nunca un cartel de título solo de texto. La portada se elige aparte.
+3. DEL SEGUNDO 3 AL 10: un cambio visual cada ~2 s (escenas cortas, zoom, cifra que salta, escudo) para frenar la caída.
+4. SIN CIERRE "Comenta y síguenos": se elimina esa frase y la escena de cierre al final. La pregunta al hincha va a MITAD del video, pegada a una invitación de ~3 s con algo concreto (ej.: "¿Para ti fue penal? Te leo, y si quieres el fútbol ecuatoriano contado así, sigue a Guineo."). La ÚLTIMA frase debe enlazar con la primera para que el video se repita en bucle.
+5. PRUEBA DE VOZ (lote del 23/11 y siguientes hasta tener datos): la mitad de los reels con TODAS las frases grabadas por Mui (sin Andrea) y la otra mitad con Andrea en los datos. Marca cada reel en el borrador con "Prueba voz: Mui" o "Prueba voz: Mui+Andrea" y repítelo en textos-*.txt para comparar después.
+6. PRIORIDAD a "X vs Y" con el RESULTADO en el título, publicado lo antes posible después del partido (formato del mejor video: Ecuador vs Uganda 0-0, 1,1 K y 53 %).
+7. INVITAR AL CANAL sin cortar el video: el generador pone siempre "@GUINEOCOMUNICACIONES" en la franja; en textos-*.txt agrega por video: "Comentario fijado:" (la pregunta + invitación a seguir el canal) y "Video relacionado sugerido:" (un video previo de Guineo del mismo tema o equipo, para enlazarlo en YouTube) y, cuando se pueda, series ("Parte 1 de 2", "mañana te cuento…").

@@ -849,6 +849,8 @@ def generar_reel(reel, idx, salida, clips, work, lote):
     random.shuffle(orden)
     franja = reel.get("franja") or [reel.get("titulo", "").upper(), reel.get("etiqueta", "")]
     franja = [x for x in franja if x]
+    if not any("@" in x for x in franja):
+        franja.append("@GUINEOCOMUNICACIONES")  # handle siempre visible (Mui, 22/11)
     trans = ["barrido", "zoom", "glitch", "barrido", "flash", "zoom"]
     n_esc = len(vozes)
     for i, (esc, (wav, dur, marcas)) in enumerate(zip(reel["escenas"], vozes)):
