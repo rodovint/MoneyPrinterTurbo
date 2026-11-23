@@ -39,10 +39,10 @@
    },
    {
     "texto": "que ningún ecuatoriano había tocado.",
-    "foto": "img/jordy-cabezazo.png",
-    "movimiento": "paneo_der",
     "grafico": {
-     "tipo": "ninguno"
+     "tipo": "titular",
+     "texto": "NINGÚN ECUATORIANO",
+     "sobre": "EN ARGENTINA"
     },
     "transicion": "barrido",
     "suspenso": true
@@ -71,15 +71,15 @@
    },
    {
     "texto": "¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.",
-    "foto": "img/jordy-cabezazo.png",
-    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
      "texto": "¿NUEVE DE LA TRI?",
      "sobre": "TE LEO"
     },
     "suspenso": true,
-    "transicion": "rota"
+    "transicion": "rota",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_out"
    },
    {
     "texto": "Quince goles en Argentina en una temporada: récord ecuatoriano.",
@@ -263,10 +263,11 @@
    },
    {
     "texto": "y casi hace lo imposible.",
-    "foto": "img/orense-9demayo.png",
-    "movimiento": "paneo_izq",
     "grafico": {
-     "tipo": "ninguno"
+     "tipo": "escudo",
+     "escudo": "img/escudos/orense.png",
+     "sobre": "ESTADIO 9 DE MAYO",
+     "texto": "¿LO IMPOSIBLE?"
     },
     "transicion": "zoom",
     "suspenso": true
@@ -307,8 +308,6 @@
    },
    {
     "texto": "¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.",
-    "foto": "img/orense-9demayo.png",
-    "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
      "texto": "¿SE SALVA ORENSE?",
