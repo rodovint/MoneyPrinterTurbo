@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-23T17:36-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "internacional - vitória",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória (GZH)",
+     "Internacional x Vitória: horário e onde assistir ao jogo pelo Brasileirão 2026 (Terra)"
+    ]
+   },
+   {
+    "tema": "primicias",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T13:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "fiorentina",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Monza-Fiorentina 3-0, doppietta per Varela (Lega Serie A)",
+     "CALCIO Serie A- Le Pagelle viola di Firenze Viola Supersport per Monza-Fiorentina (FirenzeViolaSuperSport Live)"
+    ]
+   },
+   {
+    "tema": "brentford - everton",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Premier League - Brentford v Everton (Reuters Connect)",
+     "Brentford brush aside Everton with easy 4-0 rout (www.essexcountynews.co.uk)"
+    ]
+   },
+   {
+    "tema": "levante - elche c. f.",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Levante - Elche, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido de La Liga (El Español)",
+     "Requena agua el golazo de Revivo (Diario AS)"
+    ]
+   },
+   {
+    "tema": "monza - fiorentina",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "✅ Official Monza-Fiorentina XIs | Njie, Ndour, Thiam and Zeballos decisions (Yahoo Sports)",
+     "Licensable picture: SOCCER - Serie A - AC Monza vs. ACF Fiorentina (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "champions",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T10:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Medical Report: Endrick (Real Madrid CF | Web Oficial)",
+     "Endrick’s 2026 could be over in light of latest injury (RomaPress)"
+    ]
+   },
+   {
+    "tema": "fluminense - mirassol",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Guanaes lamenta queda do Mirassol no 2º tempo contra o Fluminense: \"Paramos de jogar\" (ge)",
+     "Quem cai e quem vai à Libertadores? Veja as projeções matemáticas do Brasileirão (GPS Brasília Portal de Notícias do DF)"
+    ]
+   },
+   {
+    "tema": "avengers doomsday",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T08:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is Peggy Carter in Avengers: Doomsday? Yes, Hayley Atwell appears in the final trailer (Nacionale)",
+     "Doctor Doom Commands the Shadows in Chilling New ‘Avengers: Doomsday’ Look (IMDb)"
+    ]
+   },
+   {
+    "tema": "al-shamal - al-ahli saudi",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T08:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Al Shamal vs Al Ahli Preview & Prediction | 2026-27 AFC Champions League Elite | League Stage (The Stats Zone)",
+     "Riyad Mahrez reveals his feelings after downing Al-Ahli, with emotional message to the fans (Goal.com)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "gavin newsom",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump uses DOJ speech to attack Newsom, a potential 2028 contender (The Washington Post)",
+     "Live updates: Trump delivers remarks at DOJ on Gov. Newsom commuting death sentences in California (NBC News)"
+    ]
+   },
+   {
+    "tema": "washington vs byu",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "No. 21 BYU faces Washington in Southwest Maui Invitational (BYU Athletics)",
+     "Washington vs BYU live updates: Score, highlights, predictions, analysis (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "russia",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates (The New York Times)",
+     "Russia’s war dead: the hidden toll of the Ukraine conflict (The Guardian)"
+    ]
+   },
+   {
+    "tema": "internacional vs vitória",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Internacional x Vitória: onde assistir ao vivo, horário e escalações (ge)",
+     "Beira-Rio deve receber 40 mil torcedores em partida decisiva para o Inter (Portal Somos Colorados)"
+    ]
+   },
+   {
+    "tema": "nevada basketball",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nevada basketball versus San Francisco: Three keys to victory and a prediction (Nevada Sports Net)",
+     "San Francisco vs Nevada Prediction, Picks & Odds | 23 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "is there a full moon tonight",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky (Forbes)",
+     "This week’s Beaver Supermoon to bring king tides to Boston. Here’s how to catch a great lunar view. (The Boston Globe)"
+    ]
+   },
+   {
+    "tema": "tom holland",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tom Holland’s Spider-Man Is Back in New Marvel Release as Avengers: Doomsday Trailer Debuts (Yahoo)",
+     "Rosario Dawson Back as Night Nurse in Spider-Man Brand New Day Re-Release (Variety)"
+    ]
+   },
+   {
+    "tema": "grayson chrisley",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Judge allows access to Grayson Chrisley’s medical records in 2022 crash lawsuit (WSB-TV)",
+     "Judge Rules Against Todd Chrisley in Battle Over Son Grayson’s Drug Test Records After Car Crash (Yahoo)"
+    ]
+   },
+   {
+    "tema": "michelle randolph",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust (The Guardian)",
+     "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’ (Yahoo)"
+    ]
+   },
+   {
+    "tema": "wwe raw",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Raw preview, Nov. 23, 2026: How will Roman Reigns and The Bloodline react to The 946 getting the WarGames advantage? (WWE)",
+     "Roman Reigns Returns on WWE Raw Tonight, Which Starts Two Hours Early (Yahoo Sports)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "marlowe",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Beyond Nvidia: Convoy co-founder and former Microsoft leader raise $277M to rethink AI infrastructure (GeekWire)",
+     "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "testaferro",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sánchez no supera su obsesión con ‘El Inda’: le calumnia llamándole «testaferro del PP» (OkDiario)",
+     "El testaferro de los tres millones: no trabaja ni... (Panamericana TV)"
+    ]
+   },
+   {
+    "tema": "invitados hormiguero hoy",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jordi Wild, invitado de esta noche en El Hormiguero (Antena 3)",
+     "Estos son hoy los invitados de 'El hormiguero', y toda esta semana, en Antena 3 (del 23 al 25 de noviembre de 2026) (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "lemar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aprobados y suspensos del Elche: Revivo y Lemar se topan con la maldición del Ciutat (Diario AS)",
+     "Lemar, sustituido tras entrar en el descanso: ¿posible lesión? (Jornada Perfecta)"
+    ]
+   },
+   {
+    "tema": "elche vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Apuestas Elche vs Atlético de Madrid: previa y cuotas (Bwin)",
+     "Entradas para Elche vs. Atlético por La Liga 2026: Cómo comprar y precios para el partido (Sporting News)"
+    ]
+   },
+   {
+    "tema": "burgos club de fútbol",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Joseba Etxeberría: \"Jugando así vamos a sacar muchos puntos\" (Albacete Balompie)",
+     "Burgos 1 - Albacete 0: resumen, goles y resultado (Diario AS)"
+    ]
+   },
+   {
+    "tema": "wild",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Canadiens coach St. Louis: 'Harsh thing to say' Larkin 'quit' on Red Wings (ESPN)",
+     "Larkin’s hidden desire to join Canadiens key to completing trade with Red Wings (Sportsnet.ca)"
+    ]
+   },
+   {
+    "tema": "pablo escobar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Operación Beautiful: El Pablo Escobar sueco y Costiña, en la Audiencia (Narcodiario)",
+     "Colombia aplicará por primera vez la eutanasia química a 10 hipopótamos en un periodo de cuatro meses (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "nogueras",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Junts relativiza los sondeos y apela al “voto útil” para Catalunya (La Vanguardia)",
+     "Junts recupera el espíritu de Convergència con Jordi Pujol y Artur Mas para remontar las encuestas del 29-N (El Mundo)"
+    ]
+   },
+   {
+    "tema": "gabriel rufian",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Antoni Bassas' analysis: 'The 'influencer' Rufián, star of the campaign in Catalonia' (Diari ARA)",
+     "The ‘Rufi phenomenon’: “I want his poster to hang it in my room” (Diari ARA)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "botafogo - são paulo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SÃO PAULO TEM APENAS UMA VITÓRIA NOS ÚLTIMOS DEZ DUELOS COM O BOTAFOGO! O retrospecto recente reúne uma vitória do Tricolor, seis empates e três derrotas, com nove gols marcados e 11 sofridos. O São Paulo volta a enfrentar o adversário (Instagram)",
+     "São Paulo escalado: Saiba o time para enfrentar o Botafogo (Portal ABC do ABC)"
+    ]
+   },
+   {
+    "tema": "internacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Ruta de las Estrellas en el Valle de Punilla recibió distinción internacional (Comercio y Justicia)",
+     "Berazategui realizará una jornada por el Día Internacional de la Eliminación de la Violencia contra la Mujer (ahoraonline)"
+    ]
+   },
+   {
+    "tema": "s&p 500",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "COMMENTARY: Morning Bid: Wall Street reprieve or recovery? (Reuters)",
+     "US futures climb and world shares are mixed as big tech stocks fall in Asia (Gulf Coast News and Weather)"
+    ]
+   },
+   {
+    "tema": "barco",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Antes y después: así quedaron los barcos rusos atacados por Ucrania en el puerto libio de Benghasi (Infobae)",
+     "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky (BBC)"
+    ]
+   },
+   {
+    "tema": "todo noticias",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Lloro todos los días”: uno de los acróbatas argentinos que fue detenido por ICE habló antes de una audiencia clave (Infobae)",
+     "Los acróbatas cordobeses detenidos por ICE enfrentan audiencias claves tras dos semanas presos (Cadena 3 Argentina)"
+    ]
+   },
+   {
+    "tema": "sancor",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tres empresas presentaron sus propuestas para reactivar plantas de una láctea quebrada (Clarin.com)",
+     "Quiebra de SanCor: tres empresas quieren producir en sus plantas mientras se define quién se queda con la histórica láctea (Infobae)"
+    ]
+   },
+   {
+    "tema": "gran hermano",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“Eso no se hace”: la actitud de un participante de Gran Hermano Uruguay que generó repudio en las redes (Infobae)",
+     "Fuerte polémica entre Tai y Juan Martín en GH Uruguay: \"no es no\" (laubfal)"
+    ]
+   },
+   {
+    "tema": "internacional - vitória",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Internacional x Vitória: onde assistir ao vivo, horário e escalações (ge)",
+     "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória (GZH)"
+    ]
+   },
+   {
+    "tema": "recesion",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T13:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Víctor Hugo Morales: “Es una economía criminal que está hambreando al pueblo argentino” (Página|12)",
+     "INDEC: a qué hora se conoce el dato que podría confirmar la recesión en Argentina (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "edwuin cetré",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El pedido que le hicieron los vecinos a Edwin Cetré antes de la final de la Libertadores (Olé)",
+     "Edwuin Cetré palpitó la final de la Copa Libertadores: “En La Plata son todos del Pincha” (Diario El Día de La Plata)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "botafogo - são paulo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SÃO PAULO TEM APENAS UMA VITÓRIA NOS ÚLTIMOS DEZ DUELOS COM O BOTAFOGO! O retrospecto recente reúne uma vitória do Tricolor, seis empates e três derrotas, com nove gols marcados e 11 sofridos. O São Paulo volta a enfrentar o adversário (Instagram)",
+     "São Paulo escalado: Saiba o time para enfrentar o Botafogo (Portal ABC do ABC)"
+    ]
+   },
+   {
+    "tema": "internacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Se realizó las XXVIII jornada internacional de derecho procesal en la facultad de derecho de la UNAM (emsavalles.com)",
+     "Asegura secretario de Cultura que FIP 2026 es el que ha tenido más artistas locales y descarta desorganización (El Popular, periodismo con causa)"
+    ]
+   },
+   {
+    "tema": "internacional vs vitoria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "📋 Inter y Vitória anuncian sus onces en un duelo directo por la permanencia (Yahoo)",
+     "Internacional vs. Vitória por el Brasileirao Serie A 2026: día, hora y cómo seguir online (La Nación)"
+    ]
+   },
+   {
+    "tema": "tayikistán",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push (Reuters)",
+     "Tajikistan moves to leave ICC amid US push against court (Al Jazeera)"
+    ]
+   },
+   {
+    "tema": "mette-marit de noruega",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Noruega intenta blindar a la reina Mette-Marit ante la Comisión Epstein: todos los detalles de un silencio que está en duda (HOLA)",
+     "María José Gómez y Verdú, experta en protocolo: \"La recomendación del primer ministro noruego de que Mette-Marit evite la investigación del Caso Epstein corre el riesgo de proyectar excepcionalidad\" (Semana)"
+    ]
+   },
+   {
+    "tema": "internacional - vitória",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória (GZH)",
+     "Internacional x Vitória: horário e onde assistir ao jogo pelo Brasileirão 2026 (Terra)"
+    ]
+   },
+   {
+    "tema": "fósil",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "«Realidad fósil», una exposición de Gloria Reguero y Concha Gay en Espacio Abierto (tam-tam press)",
+     "Un fósil de hace 324 millones de años resulta ser un extraño insecto de 24 patas. El problema es que 24 son muchas patas (National Geographic España)"
+    ]
+   },
+   {
+    "tema": "clima morelia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "#Clima || Morelia tendrá un lunes soleado con temperaturas de hasta 25°C (Grupo Marmor)",
+     "Morelia pasará de los 25 a los 14 grados: así cambiará la temperatura este lunes (MiMorelia.com)"
+    ]
+   },
+   {
+    "tema": "santos vs gremio",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T13:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Santos v Grêmio: where to watch live and team line-ups (OneFootball)",
+     "Santos to field quartet of Neymar, Coutinho, Gabigol and Cebolinha (OneFootball)"
+    ]
+   },
+   {
+    "tema": "almeria fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T13:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Watch AD Ceuta vs UD Almería B (Fubo)",
+     "Ceuta's uphill battle: Conceding first in 12 of 14 matches (BeSoccer Livescore)"
+    ]
+   }
+  ]
+ }
+}

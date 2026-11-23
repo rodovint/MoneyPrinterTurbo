@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-23T17:29-05:00",
+ "fecha": "2026-11-23T17:36-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
@@ -11,7 +11,7 @@
     "deporte_probable": false,
     "titulares": [
      "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória (GZH)",
-     "Raio-X: Inter recebe o Vitória pela 36ª rodada do Brasileirão (Sport Club Internacional)"
+     "Internacional x Vitória: horário e onde assistir ao jogo pelo Brasileirão 2026 (Terra)"
     ]
    },
    {
@@ -113,9 +113,20 @@
   ],
   "US": [
    {
-    "tema": "byu basketball",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "tema": "gavin newsom",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump uses DOJ speech to attack Newsom, a potential 2028 contender (The Washington Post)",
+     "Live updates: Trump delivers remarks at DOJ on Gov. Newsom commuting death sentences in California (NBC News)"
+    ]
+   },
+   {
+    "tema": "washington vs byu",
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-23T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -136,8 +147,8 @@
    },
    {
     "tema": "internacional vs vitória",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-23T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -150,10 +161,21 @@
     "volumen": "200+",
     "volumen_min": 200,
     "desde": "2026-11-23T14:10:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
      "Nevada basketball versus San Francisco: Three keys to victory and a prediction (Nevada Sports Net)",
-     "Acrisure Series continues as Wolf Pack take on San Francisco in Tahoe (KOLO | 8 News Now)"
+     "San Francisco vs Nevada Prediction, Picks & Odds | 23 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "is there a full moon tonight",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-23T13:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky (Forbes)",
+     "This week’s Beaver Supermoon to bring king tides to Boston. Here’s how to catch a great lunar view. (The Boston Globe)"
     ]
    },
    {
@@ -165,17 +187,6 @@
     "titulares": [
      "Tom Holland’s Spider-Man Is Back in New Marvel Release as Avengers: Doomsday Trailer Debuts (Yahoo)",
      "Rosario Dawson Back as Night Nurse in Spider-Man Brand New Day Re-Release (Variety)"
-    ]
-   },
-   {
-    "tema": "is there a full moon tonight",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-23T13:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky (Forbes)",
-     "This week’s Beaver Supermoon to bring king tides to Boston. Here’s how to catch a great lunar view. (The Boston Globe)"
     ]
    },
    {
@@ -198,17 +209,6 @@
     "titulares": [
      "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust (The Guardian)",
      "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’ (Yahoo)"
-    ]
-   },
-   {
-    "tema": "manny manuel",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-23T13:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Arrestan a Manny Manuel por conducir en estado de embriaguez (El Nuevo Día)",
-     "Arrestan en Salinas a Manny Manuel por conducir en alegado estado de embriaguez (Primera Hora)"
     ]
    },
    {
@@ -265,7 +265,7 @@
     "deporte_probable": false,
     "titulares": [
      "Aprobados y suspensos del Elche: Revivo y Lemar se topan con la maldición del Ciutat (Diario AS)",
-     "Lemar es sustituido tras ingresar en el descanso (FútbolFantasy)"
+     "Lemar, sustituido tras entrar en el descanso: ¿posible lesión? (Jornada Perfecta)"
     ]
    },
    {
@@ -275,7 +275,7 @@
     "desde": "2026-11-23T14:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Apuestas Elche vs Atlético de Madrid: previa y cuotas (bwin)",
+     "Apuestas Elche vs Atlético de Madrid: previa y cuotas (Bwin)",
      "Entradas para Elche vs. Atlético por La Liga 2026: Cómo comprar y precios para el partido (Sporting News)"
     ]
    },
@@ -336,6 +336,39 @@
    }
   ],
   "AR": [
+   {
+    "tema": "botafogo - são paulo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SÃO PAULO TEM APENAS UMA VITÓRIA NOS ÚLTIMOS DEZ DUELOS COM O BOTAFOGO! O retrospecto recente reúne uma vitória do Tricolor, seis empates e três derrotas, com nove gols marcados e 11 sofridos. O São Paulo volta a enfrentar o adversário (Instagram)",
+     "São Paulo escalado: Saiba o time para enfrentar o Botafogo (Portal ABC do ABC)"
+    ]
+   },
+   {
+    "tema": "internacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Ruta de las Estrellas en el Valle de Punilla recibió distinción internacional (Comercio y Justicia)",
+     "Berazategui realizará una jornada por el Día Internacional de la Eliminación de la Violencia contra la Mujer (ahoraonline)"
+    ]
+   },
+   {
+    "tema": "s&p 500",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "COMMENTARY: Morning Bid: Wall Street reprieve or recovery? (Reuters)",
+     "US futures climb and world shares are mixed as big tech stocks fall in Asia (Gulf Coast News and Weather)"
+    ]
+   },
    {
     "tema": "barco",
     "volumen": "500+",
@@ -412,42 +445,31 @@
      "El pedido que le hicieron los vecinos a Edwin Cetré antes de la final de la Libertadores (Olé)",
      "Edwuin Cetré palpitó la final de la Copa Libertadores: “En La Plata son todos del Pincha” (Diario El Día de La Plata)"
     ]
-   },
-   {
-    "tema": "comercio",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-23T13:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Cómo está el comercio en Bahía: las calles con más locales, las vacantes y las liquidaciones (La Nueva Provincia)",
-     "El comercio de A Coruña, dividido ante el 'Black Friday': 'Para las pequeñas economías no es muy viable' (La Opinión A Coruña)"
-    ]
-   },
-   {
-    "tema": "reino unido",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-23T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sustancia tóxica en Manchester: el fantasma de la guerra híbrida golpea al Reino Unido (Clarin.com)",
-     "Caos en un concierto en Manchester por la posible presencia de gas lacrimógeno (CNN en Español)"
-    ]
-   },
-   {
-    "tema": "final libertadores",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-23T13:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Así luce el Centenario antes de la final de la Libertadores entre Estudiantes y Palmeiras :: Olé - ole.com.ar (Olé)",
-     "A 9 días de la gran final se agotan los hospedajes y los hinchas cuentan las horas para viajar a Montevideo (Diario Hoy En la noticia)"
-    ]
    }
   ],
   "MX": [
+   {
+    "tema": "botafogo - são paulo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SÃO PAULO TEM APENAS UMA VITÓRIA NOS ÚLTIMOS DEZ DUELOS COM O BOTAFOGO! O retrospecto recente reúne uma vitória do Tricolor, seis empates e três derrotas, com nove gols marcados e 11 sofridos. O São Paulo volta a enfrentar o adversário (Instagram)",
+     "São Paulo escalado: Saiba o time para enfrentar o Botafogo (Portal ABC do ABC)"
+    ]
+   },
+   {
+    "tema": "internacional",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T14:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Se realizó las XXVIII jornada internacional de derecho procesal en la facultad de derecho de la UNAM (emsavalles.com)",
+     "Asegura secretario de Cultura que FIP 2026 es el que ha tenido más artistas locales y descarta desorganización (El Popular, periodismo con causa)"
+    ]
+   },
    {
     "tema": "internacional vs vitoria",
     "volumen": "100+",
@@ -455,14 +477,14 @@
     "desde": "2026-11-23T14:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Internacional vs Vitória: Brazilian Serie A stats & head-to-head (BBC)",
-     "Internacional vs Vitória Prediction, Betting Tips, Lineups & Odds | 23 Nov 2026 (Sportsgambler)"
+     "📋 Inter y Vitória anuncian sus onces en un duelo directo por la permanencia (Yahoo)",
+     "Internacional vs. Vitória por el Brasileirao Serie A 2026: día, hora y cómo seguir online (La Nación)"
     ]
    },
    {
     "tema": "tayikistán",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-23T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -489,18 +511,7 @@
     "deporte_probable": false,
     "titulares": [
      "Eduardo Baptista surpreende e escala novidade no meio-campo do Inter; veja o time para encarar o Vitória (GZH)",
-     "Raio-X: Inter recebe o Vitória pela 36ª rodada do Brasileirão (Sport Club Internacional)"
-    ]
-   },
-   {
-    "tema": "clima morelia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-23T14:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "#Clima || Morelia tendrá un lunes soleado con temperaturas de hasta 25°C (Grupo Marmor)",
-     "Morelia pasará de los 25 a los 14 grados: así cambiará la temperatura este lunes (MiMorelia.com)"
+     "Internacional x Vitória: horário e onde assistir ao jogo pelo Brasileirão 2026 (Terra)"
     ]
    },
    {
@@ -512,6 +523,17 @@
     "titulares": [
      "«Realidad fósil», una exposición de Gloria Reguero y Concha Gay en Espacio Abierto (tam-tam press)",
      "Un fósil de hace 324 millones de años resulta ser un extraño insecto de 24 patas. El problema es que 24 son muchas patas (National Geographic España)"
+    ]
+   },
+   {
+    "tema": "clima morelia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T14:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "#Clima || Morelia tendrá un lunes soleado con temperaturas de hasta 25°C (Grupo Marmor)",
+     "Morelia pasará de los 25 a los 14 grados: así cambiará la temperatura este lunes (MiMorelia.com)"
     ]
    },
    {
@@ -534,28 +556,6 @@
     "titulares": [
      "Watch AD Ceuta vs UD Almería B (Fubo)",
      "Ceuta's uphill battle: Conceding first in 12 of 14 matches (BeSoccer Livescore)"
-    ]
-   },
-   {
-    "tema": "día de acción de gracias",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-23T13:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Dos tormentas amenazan los planes para el Día de Acción de Gracias de costa a costa en EE.UU. (CNN en Español)",
-     "Mal tiempo en camino para Thanksgiving: tormentas, frío y nevadas podrían retrasar vuelos y carreteras; revisa aquí si te afectará (Univision)"
-    ]
-   },
-   {
-    "tema": "selección de fútbol sub-17 de españa",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-23T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "España gana 15-0 en su segundo partido en Mundial Sub 17 (ESPN México)",
-     "España consiguió en el Mundial Sub 17 la mayor goleada en toda la historia del fútbol nacional (Yahoo)"
     ]
    }
   ]
