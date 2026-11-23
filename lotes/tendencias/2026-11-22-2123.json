@@ -1,0 +1,5 @@
+{"fecha": "2026-11-22T21:23-05:00", "nota": "rss-ultimo sigue en 19:05 (sin datos nuevos). WebSearch sin novedad nueva; Liga-Aucas ya avisado 19:24. Sin señal.", "temas": [
+ {"tema": "Liga de Quito vs Aucas (0-1)", "señales": ["sin dato nuevo"], "volumen_EC": "5000+", "volumen_anterior": "5000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Getafe vs Atlético de Madrid (0-3)", "señales": ["sin dato nuevo"], "volumen_EC": "5000+", "volumen_anterior": "5000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "Colo-Colo vs U. Católica", "señales": ["sin dato nuevo"], "volumen_EC": "1000+", "volumen_anterior": "1000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
