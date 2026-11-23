@@ -18,3 +18,10 @@
 [Mui] ¿Bruno merece la Tri? Te leo, y sigue a Guineo.
 [Mui] El viernes, en Utah, Bruno puede volver a saltar.
 (Andrea dice: "Juego uno de playoffs:" / "su centro terminó en el gol de Ocampo." / "Al cincuenta y cinco," / "cabezazo por encima del arquero." / "Dos a cero, y Vancouver manda en la serie.")
+
+03 · Orense vs Mushuc Runa 2-3 → audio/34 (Prueba voz: Mui+Andrea — Mui graba 4)
+[Mui] Orense perdía tres a cero en Machala
+[Mui] y casi hace lo imposible.
+[Mui] ¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.
+[Mui] Ahora va a Delfín, y no puede volver a perder tres a cero.
+(Andrea dice: "Mushuc Runa hizo tres antes del descanso." / "Mena descontó en el añadido" / "y Agustín Herrera al sesenta y cinco." / "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.")

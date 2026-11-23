@@ -1,0 +1,9 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "orense-9demayo", "seed": 233, "referencias": [0], "prompt": "Vertical illustration: a tropical city football stadium at night with open concrete stands, fans seen from behind wearing plain green shirts waving plain green flags, palm trees beyond the stands, floodlights, tense atmosphere, green pitch below."}
+  ]
+}

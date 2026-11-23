@@ -235,5 +235,133 @@
     "transicion": "zoom"
    }
   ]
+ },
+ {
+  "titulo": "Orense vs Mushuc Runa 2-3: la reacción en Machala que casi lo cambia todo",
+  "etiqueta": "LIGAPRO · DESCENSO",
+  "club": "orense",
+  "audio": "audio/34",
+  "prueba_voz": "Mui+Andrea",
+  "franja": [
+   "ORENSE vs MUSHUC RUNA",
+   "HEXAGONAL DEL DESCENSO · FECHA 7",
+   "ESTADIO 9 DE MAYO · MACHALA",
+   "DATOS: EL DIARIO · MACHALA MÓVIL"
+  ],
+  "escenas": [
+   {
+    "texto": "Orense perdía tres a cero en Machala",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PERDÍA 3-0 EN CASA",
+     "sobre": "ORENSE"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y casi hace lo imposible.",
+    "foto": "img/orense-9demayo.png",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Mushuc Runa hizo tres antes del descanso.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/mushuc.png",
+     "sobre": "18' · 26' · 41'",
+     "texto": "TRES GOLES EN 23 MINUTOS"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Mena descontó en el añadido",
+    "voz": "andrea",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MENA 45+4'",
+     "sobre": "ORENSE REACCIONA"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "y Agustín Herrera al sesenta y cinco.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "65'",
+     "texto": "HERRERA DE CABEZA"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.",
+    "foto": "img/orense-9demayo.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE SALVA ORENSE?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "goles": 2,
+       "escudo": "img/escudos/orense.png"
+      },
+      {
+       "nombre": "MUSHUC RUNA",
+       "color": "#E30613",
+       "goles": 3,
+       "escudo": "img/escudos/mushuc.png"
+      }
+     ],
+     "pie": "ORENSE 39 · DELFÍN 39 · POR GOL DIFERENCIA"
+    },
+    "destello": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Ahora va a Delfín, y no puede volver a perder tres a cero.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "DELFÍN",
+       "color": "#0B4EA2",
+       "escudo": "img/escudos/delfin.png"
+      },
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "escudo": "img/escudos/orense.png"
+      }
+     ],
+     "hora": "FECHA 8",
+     "pie": "DUELO DIRECTO POR LA PERMANENCIA"
+    },
+    "transicion": "barrido"
+   }
+  ]
  }
 ]
