@@ -1,0 +1,566 @@
+[
+ {
+  "titulo": "Instituto vs Huracán 2-1: el récord de Jordy Caicedo que ningún ecuatoriano tenía en Argentina",
+  "etiqueta": "LEGIÓN TRICOLOR",
+  "paleta": {
+   "fondo": "#E2001A",
+   "texto": "#FFFFFF"
+  },
+  "audio": "audio/32",
+  "prueba_voz": "Mui",
+  "franja": [
+   "JORDY CAICEDO · HURACÁN",
+   "OCTAVOS DEL CLAUSURA 2026",
+   "ESTADIO MARIO ALBERTO KEMPES",
+   "DATOS: EL COMERCIO · NOTICIAS ARGENTINAS"
+  ],
+  "escenas": [
+   {
+    "texto": "Jordy Caicedo cabeceó en Córdoba",
+    "foto": "img/2026-11-23/jordy.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "JORDY ENTRÓ AL LIBRO",
+     "sobre": "HURACÁN"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y entró a un libro que ningún ecuatoriano había tocado.",
+    "foto": "img/2026-11-23/jordy.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Huracán perdía dos a cero con Instituto",
+    "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PERDÍA 2-0",
+     "sobre": "INSTITUTO vs HURACÁN"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "y él descontó al sesenta y cinco.",
+    "foto": "img/jordy-cabezazo.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "65'",
+     "texto": "GOL DE CABEZA"
+    },
+    "transicion": "glitch",
+    "destello": true
+   },
+   {
+    "texto": "¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.",
+    "foto": "img/2026-11-23/jordy.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿NUEVE DE LA TRI?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Quince goles en Argentina en una temporada: récord ecuatoriano.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "15",
+     "texto": "GOLES EN ARGENTINA · RÉCORD ECUATORIANO"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Antes era Jaime Ayoví, con nueve.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "15",
+     "a_texto": "JORDY CAICEDO 2026",
+     "b": "9",
+     "b_texto": "JAIME AYOVÍ 2014",
+     "pie": "GOLES DE UN ECUATORIANO EN UNA TEMPORADA EN ARGENTINA"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Huracán se fue, pero el libro dice Jordy Caicedo.",
+    "foto": "img/2026-11-23/jordy.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Orense vs Mushuc Runa 2-3: la reacción en Machala que casi lo cambia todo",
+  "etiqueta": "LIGAPRO · DESCENSO",
+  "club": "orense",
+  "audio": "audio/33",
+  "prueba_voz": "Mui+Andrea",
+  "franja": [
+   "ORENSE vs MUSHUC RUNA",
+   "HEXAGONAL DEL DESCENSO · FECHA 7",
+   "ESTADIO 9 DE MAYO · MACHALA",
+   "DATOS: EL DIARIO · MACHALA MÓVIL"
+  ],
+  "escenas": [
+   {
+    "texto": "Orense perdía tres a cero en Machala",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PERDÍA 3-0 EN CASA",
+     "sobre": "ORENSE"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y casi hace lo imposible.",
+    "foto": "img/orense-9demayo.png",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Mushuc Runa hizo tres antes del descanso.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/mushuc.png",
+     "sobre": "18' · 26' · 41'",
+     "texto": "TRES GOLES EN 23 MINUTOS"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Mena descontó en el añadido",
+    "voz": "andrea",
+    "foto": "img/2026-11-23/mena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MENA 45+4'",
+     "sobre": "ORENSE REACCIONA"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "y Agustín Herrera al sesenta y cinco.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "65'",
+     "texto": "HERRERA DE CABEZA"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.",
+    "foto": "img/orense-9demayo.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿SE SALVA ORENSE?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "goles": 2,
+       "escudo": "img/escudos/orense.png"
+      },
+      {
+       "nombre": "MUSHUC RUNA",
+       "color": "#E30613",
+       "goles": 3,
+       "escudo": "img/escudos/mushuc.png"
+      }
+     ],
+     "pie": "ORENSE 39 · DELFÍN 39 · POR GOL DIFERENCIA"
+    },
+    "destello": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Ahora va a Delfín, y no puede volver a perder tres a cero.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "DELFÍN",
+       "color": "#0B4EA2",
+       "escudo": "img/escudos/delfin.png"
+      },
+      {
+       "nombre": "ORENSE",
+       "color": "#1E8A4C",
+       "escudo": "img/escudos/orense.png"
+      }
+     ],
+     "hora": "FECHA 8",
+     "pie": "DUELO DIRECTO POR LA PERMANENCIA"
+    },
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Atalanta vs Inter 4-4: el hat-trick de Pio Esposito que se quedó sin premio",
+  "etiqueta": "SERIE A",
+  "audio": "audio/34",
+  "prueba_voz": "Mui",
+  "franja": [
+   "ATALANTA vs INTER",
+   "SERIE A · JORNADA 12",
+   "HAT-TRICK DE PIO ESPOSITO",
+   "DATOS: FLASHSCORE"
+  ],
+  "escenas": [
+   {
+    "texto": "Pio Esposito le hizo tres a la Atalanta",
+    "foto": "img/2026-11-23/esposito.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "TRES GOLES Y…",
+     "sobre": "PIO ESPOSITO"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y no le alcanzó para ganar.",
+    "foto": "img/2026-11-23/esposito.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Inter ganaba cuatro a dos",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2-4",
+     "texto": "INTER GANABA EN BÉRGAMO"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "y el partido se moría.",
+    "foto": "img/atalanta-reloj.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "glitch",
+    "suspenso": true
+   },
+   {
+    "texto": "¿Para ti fue el partido del año? Te leo, y sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿PARTIDO DEL AÑO?",
+     "sobre": "TE LEO"
+    },
+    "transicion": "rota"
+   },
+   {
+    "texto": "De Ketelaere hizo el tres a cuatro",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "3-4",
+     "texto": "DE KETELAERE · 81'"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y Kessié, de penal al noventa y uno, el cuatro a cuatro.",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ATALANTA",
+       "color": "#1A3C8C",
+       "goles": 4
+      },
+      {
+       "nombre": "INTER",
+       "color": "#0A3C7D",
+       "goles": 4
+      }
+     ],
+     "pie": "KESSIÉ DE PENAL · 90+1'"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Ocho goles, y el hat-trick de Esposito se quedó sin premio.",
+    "foto": "img/2026-11-23/esposito.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Gustavo Álvarez tras Liga de Quito vs Aucas: la frase sobre quién tiene la culpa",
+  "etiqueta": "LIGAPRO",
+  "club": "liga",
+  "audio": "audio/35",
+  "prueba_voz": "Mui+Andrea",
+  "franja": [
+   "GUSTAVO ÁLVAREZ · DT DE LIGA",
+   "LIGA 54 PTS · QUINTO",
+   "QUEDAN MACARÁ, IDV Y CATÓLICA",
+   "DATOS: EL UNIVERSO · EL FUTBOLERO"
+  ],
+  "escenas": [
+   {
+    "texto": "Gustavo Álvarez perdió el clásico con Aucas",
+    "foto": "img/2026-11-23/alvarez.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿DE QUIÉN ES LA CULPA?",
+     "sobre": "GUSTAVO ÁLVAREZ"
+    },
+    "transicion": "flash"
+   },
+   {
+    "texto": "y salió a decir quién tiene la culpa.",
+    "foto": "img/2026-11-23/alvarez.jpg",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Liga cayó uno a cero en casa",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "LIGA DE QUITO",
+       "color": "#FFFFFF",
+       "goles": 0,
+       "escudo": "img/escudos/liga.png"
+      },
+      {
+       "nombre": "AUCAS",
+       "color": "#FFD100",
+       "goles": 1,
+       "escudo": "img/escudos/aucas.png"
+      }
+     ],
+     "pie": "ESTADIO RODRIGO PAZ DELGADO"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "y quedó quinta, tres puntos debajo de Aucas.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "54",
+     "texto": "PUNTOS · QUINTO, A 3 DE AUCAS"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿Álvarez debe seguir en Liga? Te leo, y sigue a Guineo.",
+    "foto": "img/liga-banca.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿DEBE SEGUIR?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Su respuesta: el primer responsable soy yo.",
+    "voz": "andrea",
+    "foto": "img/2026-11-23/alvarez.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "“EL PRIMER RESPONSABLE SOY YO”",
+     "autor": "GUSTAVO ÁLVAREZ · DT DE LIGA"
+    },
+    "destello": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Y defendió los días libres.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "“NO FUERON EXCESIVOS”",
+     "sobre": "LOS DÍAS LIBRES"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Le quedan nueve puntos, y la culpa, ya dijo de quién es.",
+    "foto": "img/2026-11-23/alvarez.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "QUEDAN 9 PUNTOS",
+     "sobre": "MACARÁ · IDV · CATÓLICA"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Getafe vs Atlético de Madrid 0-3: el minuto 91 que cerró la noche",
+  "etiqueta": "LALIGA",
+  "paleta": {
+   "fondo": "#CB3524",
+   "texto": "#FFFFFF"
+  },
+  "audio": "audio/36",
+  "prueba_voz": "Mui",
+  "franja": [
+   "GETAFE vs ATLÉTICO DE MADRID",
+   "LALIGA · JORNADA 13",
+   "ROJA A DJENÉ · VAR",
+   "DATOS: EFE VÍA INFOBAE"
+  ],
+  "escenas": [
+   {
+    "texto": "El Atlético de Madrid visitó a Getafe",
+    "foto": "img/2026-11-23/baena.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "A LOS 10 MINUTOS…",
+     "sobre": "ATLÉTICO DE MADRID"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "y a los diez minutos ya mandaba.",
+    "foto": "img/2026-11-23/baena.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Baena al diez",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "10'",
+     "texto": "ÁLEX BAENA"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "y Cardoso al treinta.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "30'",
+     "texto": "CARDOSO"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "¿El Atlético pelea LaLiga? Te leo, y sigue a Guineo.",
+    "foto": "img/atleti-tribuna.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿PELEA LALIGA?",
+     "sobre": "TE LEO"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "En el noventa y uno, Djené vio la roja tras el VAR",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "ROJA A DJENÉ · 91'",
+     "sobre": "VAR"
+    },
+    "destello": true,
+    "transicion": "flash",
+    "suspenso": true
+   },
+   {
+    "texto": "y Grimaldo cerró de penal el tres a cero.",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "GETAFE",
+       "color": "#0B4EA2",
+       "goles": 0
+      },
+      {
+       "nombre": "ATLÉTICO",
+       "color": "#CB3524",
+       "goles": 3
+      }
+     ],
+     "pie": "GRIMALDO DE PENAL · 92'"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Tres goles, una roja, y todo empezó en el minuto diez.",
+    "foto": "img/2026-11-23/baena.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ }
+]
