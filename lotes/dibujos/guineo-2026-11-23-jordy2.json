@@ -1,0 +1,9 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080, "alto": 1920,
+  "escenas": [
+    {"id": "jordy-cabezazo", "seed": 241, "referencias": [0], "prompt": "Vertical illustration seen from behind the striker: a football player in a plain black shirt jumps high and strikes a white soccer ball with his FOREHEAD, both arms down at his sides, hands far away from the ball, the ball flying off his head towards a goal net under floodlights at night, blurred packed stands, only his back and the back of his head visible, nobody else in the frame."}
+  ]
+}
