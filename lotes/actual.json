@@ -1,90 +1,86 @@
 [
- {
-  "titulo": "Ecuador vs Uganda 0-0 en el Mundial Sub-17: qué necesita Ecuador ante Corea del Sur para pasar primero",
-  "etiqueta": "MUNDIAL SUB-17",
-  "club": "ecuador",
-  "audio": "audio/29",
-  "franja": [
-   "ECUADOR 0-0 UGANDA",
-   "ECUADOR 4 PTS EN EL GRUPO B",
-   "PASAN 2 PRIMEROS + 8 MEJORES TERCEROS",
-   "MIÉ 25/11 07:30: ECUADOR VS. COREA DEL SUR"
-  ],
-  "escenas": [
-   {
-    "texto": "Ecuador empató cero a cero con Uganda y está a un paso de los dieciseisavos del Mundial Sub-17.",
-    "foto": "img/sub17-uganda-2026-11-22/tri14-resumen-0-0.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¡CON UN PIE ADENTRO!",
-     "sobre": "ECUADOR 0-0 UGANDA"
-    },
-    "transicion": "flash",
-    "credito": "Imágenes: DSports"
-   },
-   {
-    "texto": "La Mini-Tri suma cuatro puntos, y pasan los dos primeros y los ocho mejores terceros.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "4",
-     "texto": "PUNTOS DE LA MINI-TRI"
-    }
-   },
-   {
-    "texto": "Si el miércoles le gana a Corea del Sur, Ecuador termina primero del grupo.",
-    "voz": "andrea",
-    "destello": true,
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¡GANAR Y SER PRIMERO!",
-     "sobre": "MIÉ 25/11 · 07:30 · VS. COREA DEL SUR"
-    },
-    "hinchada": true
-   },
-   {
-    "texto": "En el Mundial pasado, ocho de los doce primeros jugaron contra un tercero.",
-    "voz": "andrea",
-    "dicho": "En el Mundial pasado, ocho de los doce primeros jugaron contra un tercero.",
-    "grafico": {
-     "tipo": "duo",
-     "a": "8",
-     "a_texto": "PRIMEROS VS. TERCEROS",
-     "b": "12",
-     "b_texto": "PRIMEROS DE GRUPO",
-     "pie": "MUNDIAL SUB-17 2025 · MISMO FORMATO"
-    }
-   },
-   {
-    "texto": "Con empate sería segundo, y si pierde, depende de Uganda y Nueva Caledonia.",
-    "voz": "andrea",
-    "foto": "img/sub17-uganda-2026-11-22/tri5-final.jpg",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "EMPATE: SEGUNDO · DERROTA: A ESPERAR",
-     "sobre": "SI COREA GANA HOY A NUEVA CALEDONIA"
-    },
-    "suspenso": true,
-    "credito": "Imágenes: DSports"
-   },
-   {
-    "texto": "¿La Mini-Tri le gana a Corea y se queda con el grupo?",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿LE GANAMOS A COREA?",
-     "sobre": "TU OPINIÓN"
-    },
-    "suspenso": true
-   },
-   {
-    "texto": "Comenta y síguenos en Guineo Comunicaciones.",
-    "grafico": {
-     "tipo": "cierre",
-     "texto": "COMENTA Y SÍGUENOS"
-    }
-   }
-  ]
- }
+  {
+    "titulo": "Liga de Quito vs Aucas 0-1: ¡Aucas gana el Superclásico en la Casa Blanca y complica a Liga!",
+    "etiqueta": "LIGAPRO",
+    "club": "aucas",
+    "franja": [
+      "LIGA DE QUITO 0-1 AUCAS",
+      "FECHA 7 · PRIMER HEXAGONAL",
+      "AUCAS 57 PTS · LIGA 54 PTS",
+      "ESTADIO RODRIGO PAZ DELGADO"
+    ],
+    "escenas": [
+      {
+        "texto": "Aucas le ganó uno a cero a Liga de Quito en la Casa Blanca.",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¡AUCAS GANA EL CLÁSICO!",
+          "sobre": "LIGA 0-1 AUCAS"
+        },
+        "transicion": "flash",
+        "hinchada": true,
+        "voz": "mui"
+      },
+      {
+        "texto": "Fue en el estadio Rodrigo Paz Delgado, por la fecha siete del hexagonal.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {
+              "nombre": "LIGA DE QUITO",
+              "color": "#FFFFFF",
+              "goles": 0,
+              "escudo": "img/escudos/liga.png"
+            },
+            {
+              "nombre": "AUCAS",
+              "color": "#FFD100",
+              "goles": 1,
+              "escudo": "img/escudos/aucas.png"
+            }
+          ],
+          "pie": "SUPERCLÁSICO CAPITALINO · FECHA 7"
+        },
+        "destello": true
+      },
+      {
+        "texto": "Aucas llega a cincuenta y siete puntos y se mete en la pelea por la Libertadores.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "57",
+          "texto": "PUNTOS DE AUCAS"
+        }
+      },
+      {
+        "texto": "Liga se queda en cincuenta y cuatro y la presión cae sobre Gustavo Álvarez.",
+        "voz": "andrea",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "54",
+          "texto": "PUNTOS DE LIGA"
+        },
+        "suspenso": true
+      },
+      {
+        "texto": "¿Hincha, Liga todavía llega a la Libertadores?",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "¿LLEGA LIGA?",
+          "sobre": "TU OPINIÓN"
+        },
+        "suspenso": true,
+        "voz": "mui"
+      },
+      {
+        "texto": "Comenta y síguenos en Guineo Comunicaciones.",
+        "grafico": {
+          "tipo": "cierre",
+          "texto": "COMENTA Y SÍGUENOS"
+        },
+        "voz": "mui"
+      }
+    ]
+  }
 ]
