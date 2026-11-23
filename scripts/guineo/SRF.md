@@ -73,3 +73,4 @@ Actúa como director creativo, guionista y editor audiovisual de fútbol digital
 ## Secciones (Mui, 21/11)
 - La intro oficial (srf_intro_tv.py + escudo) NO menciona secciones: nada de "villano / winner / caballero" fijo en la intro ni en ningún gráfico permanente.
 - Las secciones no son bloques fijos: nacen de las noticias de cada episodio (villano, winner, caballero u otras nuevas) y se crean, cambian o crecen según lo que haya. Si una semana no hay caballero, no hay caballero.
+- Titulares (Mui, 23/11): en CADA episodio los titulares llevan SIEMPRE algo de Barcelona SC, Emelec, Liga de Quito e IDV (aunque sea una noticia menor: dirigencia, lesión, próximo partido, hinchada), además de lo más importante del resto.

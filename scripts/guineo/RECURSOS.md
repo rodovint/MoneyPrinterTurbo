@@ -167,3 +167,6 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 - Máximo 70 caracteres antes de #Shorts; sin MAYÚSCULAS completas; 1 emoji como máximo (al final del gancho).
 - Ejemplos: "Barcelona SC vs Universidad Católica: lo que pasó en el minuto 89 ⏱️ #Shorts" · "Enner Valencia en la final de la Sudamericana: su reacción lo dijo todo #Shorts" · "Ecuador vs Uganda: el detalle que nadie vio en el 0-0 #Shorts".
 - En el txt de publicación, proponer 2 títulos por video (A y B) para que Mui elija o pruebe.
+
+## Los cuatro grandes en los titulares del SRF (Mui, 23/11)
+- En los titulares del Súper Resumen Futbolero va SIEMPRE algo de Barcelona SC, Emelec, Liga de Quito e IDV, sin revelar el desenlace (regla del gancho). Ver scripts/guineo/SRF.md.

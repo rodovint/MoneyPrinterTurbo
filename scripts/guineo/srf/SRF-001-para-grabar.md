@@ -8,7 +8,8 @@
 - La invitación al canal va a mitad del video (A4), no al final.
 - Memes máx. 2–3 s con crédito. Ninguna grosería.
 - Colores: textos SRF en verde, dorado y crema. En cada bloque de club, los colores del club (paletas de RECURSOS.md).
-- Datos verificados por los agentes de Guineo entre el 21 y el 23/11: fuentes en lotes/borradores/.
+- Datos verificados por los agentes de Guineo entre el 21 y el 23/11 (fuentes en lotes/borradores/) + Emelec: convocatoria del 18/11 (Extra).
+- Titulares: SIEMPRE algo de Barcelona SC, Emelec, Liga e IDV (Mui, 23/11).
 
 ## Convenciones
 **VISUAL**
@@ -47,14 +48,15 @@
 | 0:26–0:29 | MEME "Tuca saca tu cañón" (2,5 s, crédito) | — | ESTÁTICA entrada/salida | audio del meme |
 | 0:29–0:38 | Escudo SRF grande | "SÚPER RESUMEN FUTBOLERO · EP. 1" | ZOOM-IN + boom | frase 4 |
 
-## 2 · TITULARES SIN SPOILER (0:38–1:15)
+## 2 · TITULARES SIN SPOILER (0:38–1:30) — siempre BSC, Emelec, Liga e IDV
 | Tiempo | VISUAL | TEXTO | EFECTO / TRANSICIÓN | VOZ (A2) |
 |---|---|---|---|---|
-| 0:38–0:45 | DIB estadio de noche | **1 · LA FINAL EN BARRANQUILLA** | GLITCH · "1" con boom | frase 1 |
-| 0:45–0:52 | ESC Liga + ESC Aucas (sin marcador) | **2 · EL SUPERCLÁSICO** | BARRIDO | frase 2 |
-| 0:52–0:59 | FC/DIB estadio 9 de Mayo | **3 · MACHALA SIN AIRE** | BARRIDO | frase 3 |
-| 0:59–1:07 | DIB botín y balón | **4 · UN RÉCORD DE 2014** | ZOOM-IN | frase 4 |
-| 1:07–1:15 | ESC Flamengo | **5 · OTRA COPA ECUATORIANA** | BARRIDO | frase 5 |
+| 0:38–0:45 | DIB estadio de noche · colores Boca | **1 · LA FINAL EN BARRANQUILLA** | GLITCH · "1" con boom | frase 1 |
+| 0:45–0:52 | ESC Barcelona SC · colores BSC | **2 · EL ÍDOLO EN QUITO** | BARRIDO | frase 2 |
+| 0:52–0:59 | ESC Liga + ESC Aucas (sin marcador) · colores Liga | **3 · EL SUPERCLÁSICO** | BARRIDO | frase 3 |
+| 0:59–1:06 | ESC IDV · colores IDV | **4 · EL CAMPEÓN** | BARRIDO | frase 4 |
+| 1:06–1:14 | ESC Emelec · colores Emelec (azul y plomo) | **5 · EMELEC Y SUS SOCIOS** | ZOOM-IN | frase 5 |
+| 1:14–1:30 | Mosaico rápido: estadio 9 de Mayo / botín / ESC Flamengo | **Y ADEMÁS…** | 3 cortes con whoosh | frase 6 |
 
 ## 3 · BLOQUE 1 · LA FINAL DE LA SUDAMERICANA (1:15–2:50) · colores Boca
 | Tiempo | VISUAL | TEXTO | EFECTO / TRANSICIÓN | VOZ (A3) |
@@ -72,6 +74,7 @@
 | Tiempo | VISUAL | TEXTO | EFECTO / TRANSICIÓN | VOZ (A4) |
 |---|---|---|---|---|
 | 2:50–3:05 | ESC IDV + DIB trofeo · colores IDV | "CAMPEÓN 2026" | FLASH · confeti | frases 1–2 |
+| 2:58–3:05 | ESC Emelec + DIB asamblea (sillas, Capwell) · colores Emelec | "4 DE DICIEMBRE · CAPWELL" | BARRIDO | frases 2b–2c |
 | 3:05–3:20 | GRAF duo Católica vs Barcelona SC · colores BSC | "QUITO · SÁBADO" | BARRIDO | frases 3–4 |
 | 3:20–3:30 | GRAF marcador U. Católica 0-1 Barcelona SC + "VAR" | "AUTOGOL · 55'" | destello · REVELACIÓN | frase 5 |
 | 3:30–3:45 | GRAF duo Liga vs Aucas · colores Aucas | "SUPERCLÁSICO · CASA BLANCA" | GLITCH | frases 6–7 |
@@ -134,10 +137,11 @@ Las secciones de esta semana son tres: **La locura del finde**, **El mano a mano
 
 ### A2 · Titulares
 1. Uno: Boca y Atlético Mineiro se jugaron la Sudamericana… con un ecuatoriano esperando en el banco.
-2. Dos: el Superclásico de Quito se definió en el minuto ochenta y cuatro.
-3. Tres: en Machala hubo cinco goles y una tabla del descenso que quema.
-4. Cuatro: un récord ecuatoriano en Argentina que duró doce años… se acaba de romper.
-5. Y cinco: en Brasil también se celebra con acento ecuatoriano.
+2. Dos: Barcelona fue a Quito por puntos de Libertadores… y todo se decidió con el VAR.
+3. Tres: el Superclásico de Quito se definió en el minuto ochenta y cuatro.
+4. Cuatro: Independiente del Valle ya tiene el trofeo en la mano… y el miércoles visita al Ídolo.
+5. Cinco: Emelec llamó a sus socios para una decisión que puede cambiar su historia.
+6. Y además: cinco goles en Machala, un récord ecuatoriano de doce años que se rompió, y otra copa con acento ecuatoriano en Brasil.
 
 ### A3 · La final de la Sudamericana
 1. Sábado en la noche, Barranquilla, estadio Metropolitano.
@@ -154,6 +158,8 @@ Las secciones de esta semana son tres: **La locura del finde**, **El mano a mano
 ### A4 · LigaPro en feriado
 1. Feriado largo, y la LigaPro no se fue de vacaciones.
 2. Independiente del Valle ya recibió su trofeo de campeón 2026: fue el viernes, frente a Macará.
+2b. En Guayaquil, Emelec convocó a sus socios para el cuatro de diciembre, en el Capwell.
+2c. ¿Para qué? Para ver las cuentas del club… y decidir si Emelec se convierte en sociedad anónima. (pausa) Una decisión que puede cambiar su historia.
 3. El sábado, Barcelona fue a Quito a jugar contra Universidad Católica.
 4. Partido cerrado, de esos que se definen en un detalle.
 5. Y el detalle llegó al cincuenta y cinco: autogol, el VAR lo validó, y Barcelona ganó uno a cero.
