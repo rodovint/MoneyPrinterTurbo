@@ -17,7 +17,7 @@
 [Mui] y dejó a Real Salt Lake contra las cuerdas.
 [Mui] ¿Bruno merece la Tri? Te leo, y sigue a Guineo.
 [Mui] El viernes, en Utah, Bruno puede volver a saltar.
-(Andrea dice: "Juego uno de playoffs:" / "su centro terminó en el gol de Ocampo." / "Al cincuenta y cinco," / "cabezazo por encima del arquero." / "Dos a cero, y Vancouver manda en la serie.")
+(Andrea dice: "Juego uno de playoffs:" / "Vancouver ya ganaba uno a cero." / "Al cincuenta y cinco," / "cabezazo por encima del arquero." / "Dos a cero, y Vancouver manda en la serie.")
 
 03 · Orense vs Mushuc Runa 2-3 → audio/34 (Prueba voz: Mui+Andrea — Mui graba 4)
 [Mui] Orense perdía tres a cero en Machala

@@ -165,12 +165,12 @@
     "transicion": "barrido"
    },
    {
-    "texto": "su centro terminó en el gol de Ocampo.",
+    "texto": "Vancouver ya ganaba uno a cero.",
     "voz": "andrea",
     "grafico": {
      "tipo": "cifra",
      "valor": "1-0",
-     "texto": "CENTRO DE BRUNO · GOL DE ÉDIER OCAMPO"
+     "texto": "VANCOUVER GANABA"
     },
     "transicion": "glitch"
    },
