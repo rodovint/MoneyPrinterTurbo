@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-23T02:23-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "querétaro - necaxa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T19:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cómo queda la tabla de Liga MX antes del último partido entre Querétaro y Necaxa (365Scores)",
+     "Querétaro pone fin a un Apertura 2026 donde llegó a ser 3º de la tabla general (Excélsior)"
+    ]
+   },
+   {
+    "tema": "warriors - celtics",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "What we learned as Brandin Podziemski, Warriors outlast Celtics to end skid (Yahoo Sports)",
+     "Jayson Tatum tallies 27 points against the Warriors (NBA.com)"
+    ]
+   },
+   {
+    "tema": "chicago fire - charlotte fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Robert Lewandowski scores but Chicago Fire fall in MLS Playoffs (Sofascore)",
+     "Charlotte FC Beats Chicago Fire 2-1 With Late Biel Winner (cwibc.co.id)"
+    ]
+   },
+   {
+    "tema": "instituto - huracán",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jordy Caicedo cierra la temporada con 17 goles y un récord histórico en Argentina (El Comercio)",
+     "Instituto y Huracán se miden en Córdoba por un cupo en cuartos del Clausura 2026 (Futbolred)"
+    ]
+   },
+   {
+    "tema": "posiciones de bragantino contra vasco da gama",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "📋 Bragantino and Vasco name teams for Libertadores spot showdown (Yahoo Sports)",
+     "Mirando a Libertadores, Vasco treina antes de duelo com o Red Bull Bragantino (OneFootball)"
+    ]
+   },
+   {
+    "tema": "josé carabalí",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "José Carabalí se despide de Liga de Quito tras jugar 18 partidos en la LigaPro (Primicias)",
+     "José Carabalí se habría despedido de Liga de Quito y apunta al fútbol peruano (El Futbolero Ecuador)"
+    ]
+   },
+   {
+    "tema": "cne",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Debates electorales: candidatos a las alcaldías de Rumiñahui, Quevedo, Durán y Otavalo presentaron sus propuestas la noche de este sábado (El Universo)",
+     "Debate por la prefectura de Pichincha: el enfrentamiento entre correísmo y noboísmo domina (La República EC)"
+    ]
+   },
+   {
+    "tema": "cuba",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "He fled Cuba to avoid US bombs. Baseball gave him a way out (USA Today)",
+     "Fleeing Hardship in Cuba, a Young Ballplayer Is Rebuilding His Life in Brazil With MLB in His Sights (EssentiallySports)"
+    ]
+   },
+   {
+    "tema": "posiciones de liga de quito contra aucas",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-22T15:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "'Papá' supera a LDU en Casa Blanca y acaricia un cupo para la Libertadores 2027 (El Telégrafo (por eliminar))",
+     "“El objetivo es el tercer cupo a la Libertadores”: Norberto Araujo, DT de Aucas, tras vencer a Liga de Quito (El Universo)"
+    ]
+   },
+   {
+    "tema": "guadalajara - cruz azul",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡Chivas now know their AP26 quarter-final opponents! (Yahoo Sports)",
+     "Licensable picture: Liga MX - Guadalajara v Cruz Azul (Reuters Connect)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "iowa",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T23:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "US Army intends to detonate bomb-making material in Iowa on Wednesday despite a court pause. Here’s what we know (CNN)",
+     "UPDATE: Army says lead azide detonation will take place Wednesday (KCRG)"
+    ]
+   },
+   {
+    "tema": "og anunoby",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T23:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Game Preview: Knicks vs Trail Blazers, November 21, 2026 (Posting and Toasting)",
+     "Injury Notes: Knicks, Hawks, Mathurin, Murray-Boyles (Hoops Rumors)"
+    ]
+   },
+   {
+    "tema": "elon musk net worth",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elon Musk's Net Worth Takes a $64 Billion Hit in a Day as Tesla and SpaceX Falter Amid AI Bubble Risks (Benzinga)",
+     "World’s five richest lose $146B as Nasdaq falls 5.3% (Billionaires.Africa)"
+    ]
+   },
+   {
+    "tema": "la noire",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T22:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Rockstar Games' next game revealed as GTA 6 ending confirms long-standing theory (GAMINGbible)",
+     "Rockstar Australia is reportedly working on a sequel to LA Noire. (GameGPU)"
+    ]
+   },
+   {
+    "tema": "last mission of chapter 1 gta 6",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 beginner’s guide: Essential tips and hidden mechanics (Red Bull)",
+     "GTA 6 guides and walkthroughs (Polygon.com)"
+    ]
+   },
+   {
+    "tema": "spacex",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T22:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business. (Yahoo Finance)",
+     "Is SpaceX-Tesla Merger Imminent? (Puck)"
+    ]
+   },
+   {
+    "tema": "ben wang",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T22:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office (The New York Times)",
+     "‘Hunger Games’ Prequel Snags $120 Million in Domestic Debut (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "enrique peña nieto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T22:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Vicente Fox, Felipe Calderón y Enrique Peña Nieto, los presidentes más viajeros de México (PolíticoMX)",
+     "La caída del Chapo Isidro afianza la ofensiva de Sheinbaum contra los cárteles en México (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "ign gta 6 map",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit (IGN)",
+     "Grand Theft Auto 6 Has Beautiful Tribute (OpenCritic)"
+    ]
+   },
+   {
+    "tema": "gta 6 chapter 2 mission list",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6: A guide to every mission and chapter (Red Bull)",
+     "Here's every GTA 6 mission and chapter (PC Gamer)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "sindicato de estudiantes",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T23:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El feminismo reivindica el fin de la violencia machista por toda España: horarios y puntos de partida para las movilizaciones del 25N (EL PAÍS)",
+     "Este 25N: Feministas antifascistas contra la violencia machista. ¡TODAS A LAS CALLES! (Sindicato de Estudiantes)"
+    ]
+   },
+   {
+    "tema": "inde navarrette",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T23:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Obsession’ Breakout Inde Navarrette to Receive Spotlight Tribute at Gotham Film Awards (Exclusive) (The Hollywood Reporter)",
+     "I Thought Inde Navarrette Was A Shoe-In For The Oscars. Then I Saw Her Biggest Competition (Cinemablend)"
+    ]
+   },
+   {
+    "tema": "cultural leonesa - zamora",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Debut esperanzador de Fernando Estévez en el banquillo de la Cultu (MARCA)",
+     "El Zamora CF se sigue hundiendo (Cadena SER)"
+    ]
+   },
+   {
+    "tema": "nico paz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sin noticias de Nico Paz en el Real Madrid (Diario AS)",
+     "\"El nuevo 10 de Argentina no puede estar en el Como y no gastarte 80 millones de él\" (MARCA)"
+    ]
+   },
+   {
+    "tema": "habitación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Delfina alquila una habitación para su familia monoparental: «Cuando digo que es para mí y mi hijo, automáticamente dicen que no» (La Voz de Galicia)",
+     "Alquilar una habitación en Huelva cuesta de media lo mismo que en Sevilla (Huelva Información)"
+    ]
+   },
+   {
+    "tema": "buddy hield",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T22:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Buddy Hield is on fire right now! (NBA.com)",
+     "Buddy Hield goes off for season-high 33 points (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "mansión",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T22:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El enigma del palacio de Cuqui Fierro, la casa fantasma en la que vivió una de las mujeres más extravagantes de España (EL PAÍS)",
+     "Zendaya y Tom Holland compran su primera mansión como matrimonio por 8,2 millones en una zona residencial de Londres (El Mundo)"
+    ]
+   },
+   {
+    "tema": "tiempo bilbao",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ambiente soleado, viento sur y máximas de 16 grados este lunes en Euskadi (Europa Press)",
+     "Debabarrena arranca la semana con sol antes de dar paso a la lluvia y al frío desde el martes (Ei! Berriak)"
+    ]
+   },
+   {
+    "tema": "palma",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T22:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Buscan a un hombre de 37 años desaparecido en Palma desde hace una semana (Ultima Hora)",
+     "Buscan a Alejandro, un hombre de 37 años desaparecido en Palma a mediados de noviembre (Crónica Balear)"
+    ]
+   },
+   {
+    "tema": "pedro sánchez",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-22T22:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pedro Sánchez, un \"flipado\" en Salvados: la tila que sí le hizo efecto (El Mundo)",
+     "Sánchez saca los pasos prohibidos del PSOE (EL PAÍS)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "giuliano cerato",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T19:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Qué se sabe de las lesiones de Luna y Lázaro y por qué Cerato se pierde el cruce de Instituto con River (La Voz del Interior)",
+     "La lesión de Alex Luna en Instituto (eldoce)"
+    ]
+   },
+   {
+    "tema": "sorteo quini 6",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 22 de noviembre (TyC Sports)",
+     "Quini 6: resultados y los números ganadores del sorteo 3.428 del domingo 22 de noviembre (La Voz del Interior)"
+    ]
+   },
+   {
+    "tema": "fiesta nacional del sol",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "San Luis promociona su turismo en la Fiesta Nacional del Sol, en San Juan (Agencia de Noticias San Luis)",
+     "EN VIVO, ¡noche récord en la FNS 2026!: más de 100.000 arribaron a Pocito para la noche de cuarteto (Tiempo de San Juan)"
+    ]
+   },
+   {
+    "tema": "valentina salezzi",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Casamiento de Valentina Salezzi: los looks de los famosos (Ciudad Magazine)",
+     "Con Moria Casán como invitada especial, se casó la influencer Valentina Salezzi (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "casa",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una pareja compró la casa de sus sueños pero encontró 25 serpientes escondidas y vive una pesadilla (La Nación)",
+     "Vendieron su casa después de los 50, se mudaron a un motorhome y recorrieron 30 estados de EE.UU. en 4 años (TN)"
+    ]
+   },
+   {
+    "tema": "mario massaccesi",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mario Massaccesi reveló en Almorzando con Juana qué hay detrás de su particular búsqueda del silencio (eltrecetv)",
+     "Mario Massaccesi reveló por qué necesita escapar del ruido y encontrar silencio en sus viajes (eltrecetv)"
+    ]
+   },
+   {
+    "tema": "niebla",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alerta ante nieblas persistentes en la meseta para empezar la semana en Castilla y León (La Razón)",
+     "La densa niebla representa un peligro para la seguridad en la Carretera Nacional 6. (Vietnam.vn)"
+    ]
+   },
+   {
+    "tema": "nazareno casero",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nazareno Casero habló de los rumores de romance con Marta Fort: “Es una de las más lindas” (Ciudad Magazine)",
+     "¿Alfredo Casero se presentará al casting de Marta Fort? El inesperado coqueteo que despertó rumores de romance (Net tv | Aire Fresco)"
+    ]
+   },
+   {
+    "tema": "china ansa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "MasterChef Celebrity: cuadernos de primaria, lágrimas y platos de la infancia en el capítulo 38 (Telefe)",
+     "El conmovedor relato de Lizy Tagliani sobre su padre biológico que emocionó en MasterChef Celebrity (A24.com)"
+    ]
+   },
+   {
+    "tema": "ricardo fort",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-22T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El video de Pablo Migliore y Marta Fort, muy cerca en Tropitango: el sugestivo gesto que generó revuelo (Infobae)",
+     "El polémico gesto de Pablo Migliore que provocó rumores de romance con Marta Fort (Exitoina)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "temperatura monterrey",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T23:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lluvias de hasta 70 mm y fuertes rachas, así afecta el frente frío 8 y su aire ártico a México, este domingo 22 (Meteored México)",
+     "Azotará frío a Nuevo León (El Norte)"
+    ]
+   },
+   {
+    "tema": "clima monterrey",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Cómo estará el clima en Monterrey este 23 de noviembre? (Infobae)",
+     "Clima Monterrey MAÑANA 23 de noviembre | ¿Vuelve el frío? (Telediario)"
+    ]
+   },
+   {
+    "tema": "nayib bukele",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miles de personas marchan en Haití para agradecer a Nayib Bukele por envío de tropas (DW.com)",
+     "Nayib Bukele le prometió a Haití un \"triunfo\". ¿Están cumpliendo sus fuerzas? (Yahoo)"
+    ]
+   },
+   {
+    "tema": "pronostico del tiempo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¡Última semana de noviembre! Este será el pronóstico para Coahuila y Durango (MILENIO)",
+     "Mañana fría y tarde fresca en Durango capital: así estará el clima HOY domingo 22 de noviembre (El Siglo de Durango)"
+    ]
+   },
+   {
+    "tema": "pronostico del tiempo monterrey",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T23:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Domingo de cambios en Monterrey: ingresará frente frío con lluvias por la noche (MILENIO)",
+     "Clima en Monterrey hoy: el pronóstico para el domingo 22 de noviembre de 2026 (El Informador)"
+    ]
+   },
+   {
+    "tema": "elon musk",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-22T22:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts' (Business Insider)",
+     "Elon Musk Says SpaceX Is Assuming Zero Sales To OpenAI And Adds “Something Is Wrong With Their Products” If They’re Not Seeing “Super Fast” Demand Growth (Wccftech)"
+    ]
+   },
+   {
+    "tema": "loteria nacional sorteo zodiaco 1769",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T22:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Resultados Lotería Nacional Sorteo Zodiaco 1769: premios y números ganadores del domingo 22 de noviembre 2026 (MARCA)",
+     "Sorteo Zodiaco 1768: resultados y premios de Lotería Nacional del domingo 15 de noviembre (El Comercio Perú)"
+    ]
+   },
+   {
+    "tema": "donald trump",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-22T22:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump defiende haber llamado “amigo” a Putin y dice estar cerca de un acuerdo con México (Telemundo)",
+     "Diplomacia personalizada de Trump llega a sus límites con una cumbre a tres bandas (Forbes México)"
+    ]
+   },
+   {
+    "tema": "posiciones de chicago fire fc contra charlotte fc",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-22T21:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Charlotte edges Fire 2-1 in first-round opener (CBS News)",
+     "Matchday | Chicago Fire FC Opens 2026 MLS Cup Playoffs Against Charlotte FC (Chicago Fire)"
+    ]
+   },
+   {
+    "tema": "la granja vip cómo votar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-22T21:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   }
+  ]
+ }
+}
