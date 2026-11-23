@@ -82,9 +82,9 @@
    {
     "texto": "Como contó Fútbol 17: se aprobó todo, y habrá elecciones anticipadas.",
     "grafico": {
-     "tipo": "cita",
+     "tipo": "titular",
      "texto": "“QUEDÓ APROBADO TODO”",
-     "autor": "FÚTBOL 17 · @FUTBOL17_EC"
+     "sobre": "FÚTBOL 17 · @FUTBOL17_EC"
     },
     "destello": true,
     "transicion": "flash",

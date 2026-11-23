@@ -9,3 +9,4 @@ Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
 - Audio de Mui (Bsc_elecciones.m4a, 34,9 s) → lotes/audio/35.m4a con inicio/fin por frase (L3/L4 separadas en 9,1 s; se ignora un ruido en 0–0,76 s).
 - Revisión técnica: la cita de Fútbol 17 se encimaba con el autor → texto acortado a “QUEDÓ APROBADO TODO”; la foto Commons del Monumental falló (KeyError) → la última escena usa la foto de Álvarez (cierra el bucle con el gancho).
 - Entregado ~16:52 (Release reels-20261123-2148-79). Queda un defecto: en la cita, el autor 'FÚTBOL 17 · @FUTBOL17_EC' se monta sobre la última línea (el gráfico cita usa letra muy grande con textos cortos). Se avisó a Mui; arreglo posible: gráfico titular con sobre = autor.
+- Mui pidió corregir 'rápido': cita de Fútbol 17 pasa a gráfico titular (autor arriba, sin encimarse). El error de audio que menciona Mui está pendiente de que diga cuál es.
