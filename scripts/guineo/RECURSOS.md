@@ -170,3 +170,11 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 
 ## Los cuatro grandes en los titulares del SRF (Mui, 23/11)
 - En los titulares del Súper Resumen Futbolero va SIEMPRE algo de Barcelona SC, Emelec, Liga de Quito e IDV, sin revelar el desenlace (regla del gancho). Ver scripts/guineo/SRF.md.
+
+## Formatos de conexión: historias y tops (Mui, 23/11 · idea de un experto en redes y deportes)
+- En la ronda de la mañana, además de las noticias, el agente propone 1–2 piezas de FORMATO ligadas a lo que está dando vueltas en redes:
+  - 🏆 TOP 5 (momentos épicos, goles imposibles, remontadas, ecuatorianos en finales, etc.). El n.º 1 se revela al final.
+  - 📖 HISTORIA de un deportista nuestro (superación, la vida de…, "el día que…"), contada como historia de una persona: gancho de la persona antes que el logro.
+  - Versión en español de un TOP 5 de un creador inglés que esté pegando: se toma la IDEA y la lista, se investiga por cuenta propia, se escribe un guion propio con enfoque ecuatoriano/latino cuando se pueda, y se menciona la inspiración en la descripción ("Inspirado en el top de @canal"). Nunca se copia su guion palabra por palabra ni su video.
+- Duración: Shorts de 45–60 s (versiones largas de 3–5 min solo si Mui lo pide). Mismas reglas de gancho sin revelar, colores por club, guion de edición y título SEO + gancho.
+- COPYRIGHT: "pocos segundos" NO evita reclamos (Content ID detecta 2–3 s). La base del video es material propio (voz de Mui, foto_commons, escudos, pizarra, dibujos, cifras); clips reales solo si Mui los manda, máx. 2–3 s, con voz encima y crédito. Nunca descargados por el agente.
