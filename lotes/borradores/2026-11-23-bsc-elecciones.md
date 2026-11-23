@@ -5,4 +5,4 @@ Fuentes: Fútbol 17 (@Futbol17_ec, X, 23/11: "Quedó aprobado todo, por lo tanto
 Fotos: no hay foto libre de Antonio Álvarez ni de Miguel Montalvo → gancho con Commons "Estadio Monumental Isidro Romero Carbo.jpg"; pedir a Mui foto de Álvarez o Montalvo si tiene. Commons "Estadio BSC.jpg". Escudo barcelona.png.
 Colores: "club": "barcelona". Dibujo: bsc-urna.png (urna de votación con cintas amarillas y negras).
 Cita de Fútbol 17 como gráfico "cita" (no se reutiliza su publicación).
-- Fotos de Mui (23/11): bsc-alvarez.jpg (Antonio Álvarez, según Mui) → gancho y escena de la renuncia; bsc-directivo-2.jpg (por confirmar quién es; se usa sin nombre) → escena 2. Escudo de Barcelona pasa a quedar solo en la franja/colores.
+- Fotos de Mui (23/11): bsc-alvarez.jpg (Antonio Álvarez, confirmado por Mui) → gancho y escena de la renuncia; bsc-montalvo.jpg (Miguel Montalvo, confirmado por Mui; se nombra en pantalla) → escena 2. Escudo de Barcelona pasa a quedar solo en la franja/colores.
