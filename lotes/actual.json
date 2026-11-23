@@ -26,7 +26,9 @@
     },
     "transicion": "flash",
     "hinchada": true,
-    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)",
+    "inicio": 0.16,
+    "fin": 2.49
    },
    {
     "texto": "y entró a un libro",
@@ -35,7 +37,9 @@
     "grafico": {
      "tipo": "ninguno"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 2.99,
+    "fin": 4.5
    },
    {
     "texto": "que ningún ecuatoriano había tocado.",
@@ -45,7 +49,9 @@
      "sobre": "EN ARGENTINA"
     },
     "transicion": "barrido",
-    "suspenso": true
+    "suspenso": true,
+    "inicio": 4.83,
+    "fin": 7.17
    },
    {
     "texto": "Huracán perdía dos a cero con Instituto",
@@ -54,7 +60,9 @@
      "valor": "0-2",
      "texto": "HURACÁN PERDÍA CON INSTITUTO"
     },
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 8.06,
+    "fin": 10.38
    },
    {
     "texto": "y él descontó al sesenta y cinco.",
@@ -65,19 +73,23 @@
     "destello": true,
     "transicion": "flash",
     "hinchada": true,
-    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)"
+    "credito": "Imágenes: transmisión vía Ecuador Corporación (enviadas por Mui)",
+    "inicio": 11.02,
+    "fin": 13.38
    },
    {
-    "texto": "¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.",
+    "texto": "¿Lo quieres de nueve en la Tri?",
     "grafico": {
      "tipo": "titular",
      "texto": "¿NUEVE DE LA TRI?",
-     "sobre": "TE LEO"
+     "sobre": "TU OPINIÓN"
     },
     "suspenso": true,
     "transicion": "rota",
     "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
-    "movimiento": "zoom_out"
+    "movimiento": "zoom_out",
+    "inicio": 14.29,
+    "fin": 15.76
    },
    {
     "texto": "Quince goles en Argentina en una temporada: récord ecuatoriano.",
@@ -90,7 +102,9 @@
     "transicion": "flash",
     "hinchada": true,
     "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
-    "movimiento": "zoom_out"
+    "movimiento": "zoom_out",
+    "inicio": 19.93,
+    "fin": 23.58
    },
    {
     "texto": "Antes era Jaime Ayoví, con nueve.",
@@ -104,7 +118,9 @@
     },
     "transicion": "barrido",
     "foto_commons": "Estadio Mario Alberto Kempes 2011-06-26.jpg",
-    "movimiento": "paneo_izq"
+    "movimiento": "paneo_izq",
+    "inicio": 24.52,
+    "fin": 26.59
    },
    {
     "texto": "Huracán se fue, pero el libro dice Jordy Caicedo.",
@@ -115,7 +131,9 @@
      "texto": "JORDY CAICEDO",
      "sobre": "EL LIBRO DICE"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 26.91,
+    "fin": 30.42
    }
   ]
  }
