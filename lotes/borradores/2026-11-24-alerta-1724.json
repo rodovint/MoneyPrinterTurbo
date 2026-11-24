@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Al Nassr vs Al Sadd: la noche loca de Cristiano Ronaldo camino a los 1000",
+    "etiqueta": "CHAMPIONS DE ASIA",
+    "paleta": {"fondo": "#FFD100", "texto": "#0033A0"},
+    "audio": "audio/45",
+    "franja": [
+      "AL NASSR VS AL SADD",
+      "CHAMPIONS DE ASIA ELITE · FECHA 5",
+      "ALAWWAL PARK · RIAD",
+      "DATOS: ESPN"
+    ],
+    "escenas": [
+      {
+        "texto": "Cristiano Ronaldo va camino a los mil goles, y esta noche le pasó de todo.",
+        "foto_commons": "Cristiano Ronaldo 2018.jpg",
+        "movimiento": "zoom_in",
+        "grafico": {"tipo": "titular", "texto": "CR7 Y UNA NOCHE LOCA", "sobre": "AL NASSR VS AL SADD"},
+        "transicion": "flash"
+      },
+      {
+        "texto": "Penal al minuto once ante Al Sadd, y luego el VAR le anuló otro.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "11'", "texto": "PENAL · LUEGO EL VAR ANULA OTRO", "animar": false},
+        "transicion": "glitch"
+      },
+      {
+        "texto": "¿Llega a los mil esta temporada? Te leo, y sigue a Guineo.",
+        "foto": "img/cr7-estadio-noche.png",
+        "movimiento": "paneo_der",
+        "grafico": {"tipo": "titular", "texto": "¿LLEGA A LOS 1000?", "sobre": "TE LEO"},
+        "hinchada": true
+      },
+      {
+        "texto": "Ese penal fue su gol novecientos ochenta y siete, y João Félix sentenció el dos a uno.",
+        "dicho": "Ese penal fue su gol novecientos ochenta y siete, y Yoáo Félix sentenció el dos a uno.",
+        "voz": "andrea",
+        "grafico": {"tipo": "cifra", "valor": "987", "texto": "GOLES DE CRISTIANO (CONTEO ESPN)"},
+        "suspenso": true,
+        "destello": true
+      },
+      {
+        "texto": "Le faltan trece, y la cuenta de Cristiano no para.",
+        "foto_commons": "Cristiano Ronaldo 2018.jpg",
+        "movimiento": "zoom_out",
+        "grafico": {"tipo": "cifra", "valor": "13", "texto": "PARA LOS 1000"}
+      }
+    ]
+  }
+]
