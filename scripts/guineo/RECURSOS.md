@@ -192,3 +192,8 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
 3. Un MOMENTO DE CINE distinto en cada video, en la escena clave (la revelación). Rotar, sin repetir el mismo en dos videos seguidos del día: suspenso (silencio + golpe), cámara lenta + desaturado, zoom dramático con latido, glitch/corte de señal, flash + hinchada, congelado tipo "fotograma de película", cuenta regresiva, disco rayado y freno.
 4. EFECTOS DE SONIDO acompañando cada cambio importante (whoosh, golpe, redoble, campana, disco rayado, latido, silencio antes de la revelación).
 - El guion de edición debe marcar cuál es el dibujo, la animación y el momento de cine de ese video. Fotos de Commons y material de Mui SUMAN, no reemplazan estos recursos.
+
+## Guineo Animación (Mui, 23/11)
+- Cortos de anécdotas/historias de fútbol (libros de Mui) en ESTILO PLASTILINA (claymation): figuras de plastilina con textura de huellas, maquetas de estadio, luz de estudio, look stop-motion. Referencia: scripts/guineo/animacion/ref-plastilina.png (usarla como "referencias" en el JSON de dibujos).
+- Dibujos de Cloudflare: sin caras reconocibles de personas reales, sin texto ni escudos en la imagen. Las anécdotas se cuentan con palabras propias (nunca se copia el texto del libro) y se cita el libro en la descripción.
+- Cada ilustración se anima (paneo, zoom, capas, lluvia/partículas, parpadeos) + SFX + voz de Mui; momento de cine en la revelación. Guion técnico a Mui antes de producir.
