@@ -1,0 +1,75 @@
+{
+  "modelo": "9b",
+  "referencias": [
+    "scripts/guineo/animacion/ref-plastilina.png"
+  ],
+  "estilo": "Claymation style matching reference image 0: plasticine figures with fingerprint texture, miniature stadium set, soft studio lighting, stop-motion look. No text, no letters, no numbers, no logos, no crests anywhere. No recognizable real people.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "estadio",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Night view of a miniature 1950s stadium in heavy rain, old floodlights glowing, wet muddy pitch, crowd of tiny plasticine fans in coats under umbrellas."
+    },
+    {
+      "id": "equipos",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Two plasticine football teams lined up on a muddy pitch in the rain, one team in red shirts and white shorts, the other in yellow shirts and blue shorts, 1950s style kits, seen from a low angle."
+    },
+    {
+      "id": "cabezazo",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A plasticine footballer in a red shirt leaping to head a brown leather 1950s ball toward the goal, goalkeeper diving, mud splashing, rain drops, dramatic action."
+    },
+    {
+      "id": "barrida",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A plasticine player in yellow sliding into a tackle against a player in red, big splash of mud flying, both seen from the side, rain."
+    },
+    {
+      "id": "arbitro",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A plasticine referee in an all-black 1950s kit blowing a whistle with arms raised while plasticine policemen in dark uniforms run onto the muddy pitch, players shoving in the background."
+    },
+    {
+      "id": "marcador",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Close-up of an old wooden manually-operated scoreboard on a miniature stadium wall in the rain, blank number panels, floodlight glow."
+    },
+    {
+      "id": "vestuario",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A miniature 1950s locker room made of plasticine, wooden benches, hanging red shirts, a single bare light bulb on the ceiling, tense dark atmosphere."
+    },
+    {
+      "id": "final",
+      "seed": 54,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A lonely plasticine referee in black walking away seen from behind on an empty muddy pitch at night under the rain, floodlights, melancholic."
+    }
+  ]
+}
