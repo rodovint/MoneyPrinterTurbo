@@ -184,3 +184,11 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 
 ## Memes y sonidos en videos (Mui, 23/11)
 - SRF y videos largos: imagen relacionada con cada noticia + un meme (video o imagen) relacionado entre noticia y noticia + efectos de sonido. Antes de producir, guion técnico a Mui con memes, imágenes, efectos y sonidos segundo a segundo (ver scripts/guineo/SRF.md).
+
+## Recursos propios en CADA corto (Mui, 23/11) — no depender solo de lo que manda Mui
+Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de texto; el reel de Enner (el del suspenso de película) funcionó porque tenía un momento distinto. Desde ahora, cada corto lleva SÍ O SÍ:
+1. Al menos 1 DIBUJO de Cloudflare relacionado con la escena (ambiente, objeto, metáfora visual; sin caras realistas).
+2. Al menos 1 ANIMACIÓN propia: pizarra/pixel con la jugada, tv/retro, cifra animada, marcador que gira, escudos que chocan, etc.
+3. Un MOMENTO DE CINE distinto en cada video, en la escena clave (la revelación). Rotar, sin repetir el mismo en dos videos seguidos del día: suspenso (silencio + golpe), cámara lenta + desaturado, zoom dramático con latido, glitch/corte de señal, flash + hinchada, congelado tipo "fotograma de película", cuenta regresiva, disco rayado y freno.
+4. EFECTOS DE SONIDO acompañando cada cambio importante (whoosh, golpe, redoble, campana, disco rayado, latido, silencio antes de la revelación).
+- El guion de edición debe marcar cuál es el dibujo, la animación y el momento de cine de ese video. Fotos de Commons y material de Mui SUMAN, no reemplazan estos recursos.
