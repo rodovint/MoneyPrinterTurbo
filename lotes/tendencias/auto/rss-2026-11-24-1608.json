@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-24T16:08-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "copa mundial de fútbol sub-17",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Colombia venció a Japón en su estreno mundialista (Conmebol)",
+     "Tabla de posiciones y lista de clasificados en el Mundial Sub-17: Colombia selló su tiquete (Revista Semana)"
+    ]
+   },
+   {
+    "tema": "chapecoense - palmeiras",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Abel define Palmeiras com sete jogadores formados na base para enfrentar a Chape; veja escalações (Gazeta Esportiva)",
+     "Chapecoense convoca torcida para minuto de aplausos às vítimas da tragédia (Terra)"
+    ]
+   },
+   {
+    "tema": "disney plus",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "You can lock in Hulu and Disney Plus for as low as $5 per month for a year (The Verge)",
+     "4 Reasons to Grab the Disney+ and Hulu Black Friday Bundle Deal (qz.com)"
+    ]
+   },
+   {
+    "tema": "psv",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "MULTILIVE. Ruben van Bommel vergeet Thibaut Courtois te verschalken - Vandevoordt en Leipzig hebben al dubbele voorsprong beet (HLN)",
+     "Bosz kiest in Bernabéu voor Wanner als vervanger Mauro Júnior (Voetbal International)"
+    ]
+   },
+   {
+    "tema": "posiciones de galatasaray contra aston villa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Galatasaray 1-0 Aston Villa: Deniz Gul breaks Villa's resistance in the Champions League (BBC)",
+     "Galatasaray vs Aston Villa LIVE! Champions League lineups, match updates, news, score and analysis (Sky Sports)"
+    ]
+   },
+   {
+    "tema": "feyenoord - porto",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: UEFA Champions League - Feyenoord v FC Porto (Reuters Connect)",
+     "Feyenoord vs FC Porto Confirmed Lineups (WhoScored.com)"
+    ]
+   },
+   {
+    "tema": "tiktok",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "TikTok users reporting issues with platform (KTVU)",
+     "Is TikTok Down? Thousands Report App Problems Including 'Something Went Wrong' Error (Newsweek)"
+    ]
+   },
+   {
+    "tema": "rb leipzig - lens",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Thauvin starts at Leipzig after Lens conceded nine to Como (Tu Futbolero)",
+     "Licensable picture: RB Leipzig's Final Training Session (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "manchester city - napoli",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-24T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Manchester City-Napoli: Formazioni ufficiali e Cronaca in diretta (Virgilio)",
+     "Allegri sulla Champions: \"Solo uno stupido non avrebbe capito che ci saremmo giocati la qualificazione nelle ultime tre\" (Corriere dello Sport)"
+    ]
+   },
+   {
+    "tema": "como - aek",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Replace Your Title Here (Charleston Sun-Sentinel)",
+     "Tonight’s starting XI, drawn by the children of Fondazione Maria Letizia Verga ETS (Como 1907)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "ruben van bommel",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Verweij verwacht megatransfer bij PSV: 'Hij gaat de recordverkoop worden' (VoetbalPrimeur)",
+     "Pascal Jansen ziet PSV'er stappen maken: \"Hij had het heel zwaar\" (PSVFans)"
+    ]
+   },
+   {
+    "tema": "miss universe 2026 where to watch",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Meet the 116 women competing to be Miss Universe 2026 (Business Insider)",
+     "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free (WWD)"
+    ]
+   },
+   {
+    "tema": "stewart mclean",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Murder charge laid in connection to death of B.C. actor Stewart McLean (CBC)",
+     "B.C. man charged with murder in actor Stewart McLean’s death (The Globe and Mail)"
+    ]
+   },
+   {
+    "tema": "real",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jay Cutler, Rampage Jackson, Leah Pruett, Among Ten Confirmed for Dodge Sno-Brawl Celebrity Race (Yardbarker)",
+     "‘The threat is finally real’: Judge rips White House ‘weaponization’ (KVNU News Talk)"
+    ]
+   },
+   {
+    "tema": "championship",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Thousands of Current fans join championship parade: 'Kansas City is a great sports town' (KCUR)",
+     "TEAL TUESDAY: KC Current celebrates NWSL victory with march, rally (KMBC)"
+    ]
+   },
+   {
+    "tema": "chapecoense x palmeiras",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Chapecoense x Palmeiras: onde assistir ao vivo, horário e escalações (ge)",
+     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
+    ]
+   },
+   {
+    "tema": "uic vs rice",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Men’s Basketball Continues Play at Scout Jacksonville Classic against UIC (BVM Sports)",
+     "Illinois-Chicago vs. Rice prediction favors Flames on Nov. 24, 2026 (Dimers)"
+    ]
+   },
+   {
+    "tema": "huawei",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC)",
+     "Huawei Found Guilty of US Criminal Charges in Landmark Case (Bloomberg.com)"
+    ]
+   },
+   {
+    "tema": "rihanna",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rihanna Shares Adorable Behind-the-Scenes Video with All 3 Kids as They Film Savage X Fenty Holiday Campaign: ‘The Actual Gifts’ (People.com)",
+     "Rihanna Shares Family Campaign Footage and Beverly Hills Outing (SuaraGarut.ID)"
+    ]
+   },
+   {
+    "tema": "tcu vs miami fl",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "No. 17 Miami Against TCU at the Players Era 16 Tournament: Game Central, Updates, and Analysis (Yahoo Sports)",
+     "TCU and 15 other teams suit up for the Players Era 16 Tournament (Sports Illustrated)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "chapecoense - palmeiras",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Palmeiras prepara mudanças e terá reforços do sub-20 contra a Chape; veja os relacionados (ge)",
+     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
+    ]
+   },
+   {
+    "tema": "militao",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sinner lo intentó, pero perdió el pulso con su rodilla: quirófano, bisturí y más tiempo de baja (EL PAÍS)",
+     "El bonito recuerdo de Carlos Alcaraz a Sinner tras ganar las ATP Finals (LaSexta)"
+    ]
+   },
+   {
+    "tema": "pablo bellido",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas: \"Hagamos los discursos rapeando, bro\" (El Mundo)",
+     "Sáenz de Santamaría y Abascal pinchando o los bailes de Abel Caballero: el lado más divertido de los políticos (LaSexta)"
+    ]
+   },
+   {
+    "tema": "patri guijarro",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Patri Guijarro deja abierto su futuro (Mundo Deportivo)",
+     "Tras los pasos de Alexia Putellas y Mapi León: la estrella del Barça Femenino seducida por la Women's Super League (Crónica Global)"
+    ]
+   },
+   {
+    "tema": "rockstar games gta vi pc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now (IGN)",
+     "Games Inbox: Is it better to wait for the PC version of GTA 6? (Metro.co.uk)"
+    ]
+   },
+   {
+    "tema": "pobreza",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El elevado coste de luz y calefacción castiga a los hogares: más de 440.000 gallegos sufren pobreza energética (Faro de Vigo)",
+     "Comesaña culpa a la política energética de Sánchez de que 49.000 vigueses lo pasen mal para pagar la luz (Cadena SER)"
+    ]
+   },
+   {
+    "tema": "lliga de campions",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "L'entrenador miracle del Sabah: d'un concurs televisiu a la Champions League (3Cat)",
+     "La sorprenent història de l’entrenador del Sabah, el pròxim rival del Barça a la Champions (Diari ARA)"
+    ]
+   },
+   {
+    "tema": "borussia dortmund",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Wer überträgt FC Arsenal gegen den BVB heute live im TV und Stream? (Kicker)",
+     "Prime Video führt neue Fußball-KI ein! Trainer-Daten erstmals im Livebild (Yahoo Nachrichten)"
+    ]
+   },
+   {
+    "tema": "posiciones de al-nassr contra al-sadd",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
+     "Cristiano continúa desojando la margarita y Joao Félix presenta candidatura al Puskas (MARCA)"
+    ]
+   },
+   {
+    "tema": "sabah",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "60 minutes in six matches: Flick's decision causes confusion at Barcelona (Goal.com)",
+     "Gabriel Jesus loses ground at Barcelona and seeks a chance against Sabah (OneFootball)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "eduardo feinmann",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El cruce entre Eduardo Feinmann y un empleado del Garrahan en medio de la protesta de ATE (La Nación)",
+     "Conflicto en el Hospital Garrahan: los gremios protestan por sanciones y las autoridades denuncian un ingreso por la fuerza (Infobae)"
+    ]
+   },
+   {
+    "tema": "moreno",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Essence Festival of Culture has a new home. Here is what we know. (WDSU)",
+     "Moreno hints at split with Essence, says New Orleans is working on replacement festival (WWLTV.com)"
+    ]
+   },
+   {
+    "tema": "posiciones de al-nassr contra al-sadd",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
+     "Golazo de chilena de Joao Felix para marcar el segundo del Al Nassr (Olé)"
+    ]
+   },
+   {
+    "tema": "man city vs napoli",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live (The Guardian)",
+     "Licensable picture: Manchester City v SSC Napoli - UEFA Champions League 2026/27 League Phase MD5 (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "betis",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Slovan Bratislava vs. Betis por la Champions League: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
+     "Yaya Touré: \"Aprendí muchas cosas buenas de Pellegrini, el reencuentro será bonito\" (Infobae)"
+    ]
+   },
+   {
+    "tema": "selección de fútbol de senegal",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El TAS falló a favor de Senegal que recupera el título de campeón de la Copa de África 2025 en detrimento de Marruecos (Clarin.com)",
+     "Punto final: Senegal fue declarado campeón de la Copa Africana de Naciones a casi un año de la escandalosa final ante Marruecos (Infobae)"
+    ]
+   },
+   {
+    "tema": "portsmouth - west ham",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Championship LIVE: Eight matches including Portsmouth v West Ham (BBC)",
+     "Matchday Gallery | Hammers return to Fratton Park (West Ham United)"
+    ]
+   },
+   {
+    "tema": "chapecoense - palmeiras",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Palmeiras prepara mudanças e terá reforços do sub-20 contra a Chape; veja os relacionados (ge)",
+     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
+    ]
+   },
+   {
+    "tema": "porto",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "LC: Farioli alerta para a exigência física do Feyenoord (Correio da Manhã Canadá)",
+     "Adeptos do Feyenoord cantaram música de Inbeom Hwang: «Vai ser uma noite especial» (SAPO)"
+    ]
+   },
+   {
+    "tema": "cristina fernández de kirchner",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Fijaron audiencia para revisar las condenas por el intento de homicidio de Cristina Kirchner (Clarin.com)",
+     "La Justicia revisará el 16 de diciembre las condenas por el atentado contra Cristina Kirchner (TN)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "linea b",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T13:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Metro CdMx HOY 23 de noviembre de 2026: retrasos, estaciones cerradas y estatus de las LÍNEAS del STC | EN VIV (Milenio)",
+     "¿Qué pasa en el Metro CdMx? Avance de trenes, retrasos y recomendaciones de usuarios HOY lunes 23 de noviembre (Telediario)"
+    ]
+   },
+   {
+    "tema": "real",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'The threat is finally real': Judge rips White House 'weaponization' (ABC News - Breaking News, Latest News and Videos)",
+     "Judge takes parting shot as Trump case tossed: 'The call is coming from inside the house' (Raw Story)"
+    ]
+   },
+   {
+    "tema": "yan diomandé",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Real Madrid - PSV Eindhoven : les compositions officielles (Foot Mercato)",
+     "Ligue des champions : Le Real Madrid perd un attaquant sur blessure avant le PSV (CANAL+)"
+    ]
+   },
+   {
+    "tema": "paul wanner",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Zwei Monate verletzt: Wanner feiert Comeback gegen Real (LAOLA1)",
+     "Millionen-Abgang des FC Bayern erlebt Horror-Saison (TZ)"
+    ]
+   },
+   {
+    "tema": "carls jr 2x1",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T12:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Carl’s Jr. tendrá hamburguesas gratis por su promoción 2×1 este 24 y 25 de noviembre (Revista Merca2.0)",
+     "La promoción de Carl’s Jr. de dos hamburguesas por $125 que se aplica todas las semanas (vanguardia.com.mx)"
+    ]
+   },
+   {
+    "tema": "posiciones de al-nassr contra al-sadd",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-24T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
+     "Con Ronaldo y Félix al frente, la magia portuguesa guía al Al Nassr a una trabajada victoria ante el Al Sadd (Yahoo)"
+    ]
+   },
+   {
+    "tema": "chapecoense - palmeiras",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Abel define Palmeiras com sete jogadores formados na base para enfrentar a Chape; veja escalações (Gazeta Esportiva)",
+     "Chapecoense convoca torcida para minuto de aplausos às vítimas da tragédia (Terra)"
+    ]
+   },
+   {
+    "tema": "cyberpunk",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "“We Might as Well Cancel It”: Cyberpunk 2 Director Says GTA 6’s Quality and Open World Left the Development Team Depressed (www.levelup.com)",
+     "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6 (80 Level)"
+    ]
+   },
+   {
+    "tema": "edc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Greater Brownsville EDC’s Jerry Briones Named to Team Texas Advisory Council (Texas Border Business)",
+     "Tactile Turn Is Having a Rare Sale on Its Retro Sci-Fi EDC Pen (Yahoo)"
+    ]
+   },
+   {
+    "tema": "meteored méxico",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "CNPC HACE UN LLAMADO A LA POBLACIÓN A NO BAJAR LA GUARDIA Y MANTENER ACCIONES PREVENTIVAS POR EFECTOS DEL FRENTE FRÍO NÚMERO 8 (Gob MX)",
+     "Alerta Protección Civil por descenso de temperaturas; prevén hasta 6° en NL (Gobierno del Estado de Nuevo León)"
+    ]
+   }
+  ]
+ }
+}
