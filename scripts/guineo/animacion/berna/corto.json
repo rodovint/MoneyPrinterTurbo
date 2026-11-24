@@ -1,0 +1,223 @@
+{
+ "voz": "lotes/audio/berna.m4a",
+ "color": "#F6C90E",
+ "tramos": [
+  [
+   3.95,
+   10.1
+  ],
+  [
+   11.35,
+   16.8
+  ],
+  [
+   17.6,
+   23.25
+  ],
+  [
+   24.15,
+   30.0
+  ],
+  [
+   31.1,
+   33.65
+  ],
+  [
+   34.45,
+   39.42
+  ],
+  [
+   40.0,
+   43.95
+  ],
+  [
+   44.4,
+   46.95
+  ],
+  [
+   48.15,
+   50.45
+  ],
+  [
+   51.2,
+   55.85
+  ],
+  [
+   56.65,
+   60.55
+  ]
+ ],
+ "silencios": {
+  "46.95": 1.2
+ },
+ "escenas": [
+  {
+   "t": 3.95,
+   "img": "lotes/img/berna/estadio.png",
+   "mov": "zoom_in",
+   "sfx": [
+    "trueno"
+   ]
+  },
+  {
+   "t": 11.35,
+   "img": "lotes/img/berna/equipos.png",
+   "mov": "pan_der",
+   "texto": "BERNA · 1954",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 17.6,
+   "img": "lotes/img/berna/cabezazo.png",
+   "mov": "zoom_in",
+   "efecto": "camara_lenta",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 19.6,
+   "img": "lotes/img/berna/cabezazo.png",
+   "mov": "zoom_out",
+   "marcador": [
+    "HUN",
+    2,
+    "BRA",
+    0
+   ],
+   "efecto": "flash",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 21.4,
+   "img": "lotes/img/berna/barrida.png",
+   "mov": "sacudon",
+   "sfx": [
+    "patadas"
+   ]
+  },
+  {
+   "t": 26.6,
+   "img": "lotes/img/berna/arbitro.png",
+   "mov": "pan_izq",
+   "sfx": [
+    "silbato"
+   ]
+  },
+  {
+   "t": 31.1,
+   "img": "lotes/img/berna/arbitro.png",
+   "mov": "sacudon",
+   "sfx": [
+    "sirena"
+   ]
+  },
+  {
+   "t": 34.45,
+   "img": "lotes/img/berna/estadio.png",
+   "mov": "zoom_out",
+   "texto": "@GUINEOCOMUNICACIONES",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 40.0,
+   "img": "lotes/img/berna/marcador.png",
+   "mov": "zoom_in",
+   "marcador": [
+    "HUN",
+    4,
+    "BRA",
+    2
+   ],
+   "efecto": "flash",
+   "sfx": [
+    "redoble",
+    "golpe"
+   ]
+  },
+  {
+   "t": 44.4,
+   "img": "lotes/img/berna/vestuario.png",
+   "mov": "zoom_in",
+   "lluvia": false,
+   "efecto": "apagon",
+   "apagon_en": 46.95,
+   "sfx": [
+    "zumbido"
+   ]
+  },
+  {
+   "t": 51.2,
+   "img": "lotes/img/berna/final.png",
+   "mov": "zoom_out",
+   "titulo": true,
+   "titulo_en": 58.9,
+   "sfx": [
+    "trueno"
+   ]
+  }
+ ],
+ "subtitulos": [
+  [
+   3.95,
+   10.1,
+   "En 1954, un Mundial tuvo un partido tan violento que lo bautizaron como una batalla."
+  ],
+  [
+   11.35,
+   16.8,
+   "Hungría, los Magiares Mágicos, contra Brasil, en Berna, en una cancha embarrada."
+  ],
+  [
+   17.6,
+   23.25,
+   "A los siete minutos, Hungría ya ganaba 2-0… y Brasil cambió la pelota por las patadas."
+  ],
+  [
+   24.15,
+   30.0,
+   "Penal para cada lado, un gol de Julinho, y el árbitro Arthur Ellis perdiendo el control."
+  ],
+  [
+   31.1,
+   33.65,
+   "Tres expulsados, y la policía metida en la cancha."
+  ],
+  [
+   34.45,
+   39.42,
+   "¿Ese partido se terminaría hoy? Te leo, y síguenos en Guineo Comunicaciones."
+  ],
+  [
+   40.0,
+   43.95,
+   "Hungría ganó 4-2. Pero lo peor vino después del pitazo final."
+  ],
+  [
+   44.4,
+   46.95,
+   "En el vestuario húngaro se apagaron las luces…"
+  ],
+  [
+   48.15,
+   50.45,
+   "…y cuando volvieron, había sangre por todos lados."
+  ],
+  [
+   51.2,
+   55.85,
+   "Nadie sabe qué pasó. Ellis dijo que pudo haber expulsado a seis de cada equipo."
+  ],
+  [
+   56.65,
+   58.9,
+   "Por eso, hasta hoy, se le llama…"
+  ]
+ ]
+}
