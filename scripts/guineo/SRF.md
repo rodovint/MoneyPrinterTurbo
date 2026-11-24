@@ -80,3 +80,7 @@ Actúa como director creativo, guionista y editor audiovisual de fútbol digital
 - ENTRE cada noticia va un MEME (video o imagen) que tenga que ver con lo que se acaba de contar (ej.: tras Reixon Saya, el meme "ya dice Varón"). Biblioteca de memes: la que manda Mui; nunca descargados por el agente; máx. 2–3 s, con crédito.
 - Efectos de sonido para jugar con el ritmo (whoosh, golpe, disco rayado, redoble, campana, risas, bocina, glitch…), marcados segundo a segundo.
 - ANTES de producir cualquier video del SRF se manda a Mui el GUION TÉCNICO con: qué meme va dónde (y su segundo de inicio/fin), qué imagen, qué efecto visual, qué sonido y en qué segundo. Se produce solo con su OK.
+
+## Titulares del SRF (Mui, 24/11)
+- Los titulares son lo más llamativo del episodio: guion GRACIOSO, picante, casi jugando al límite (sin faltar el respeto ni groserías antes de 0:30), sin revelar desenlaces.
+- Edición a ritmo de la intro: titular → meme → frase graciosa → meme → titular…, cortes de 1–3 s, efectos de sonido en cada cambio. Que se sienta como una continuación de la intro zapping.
