@@ -1,0 +1,5 @@
+{"fecha": "2026-11-23T21:24-05:00", "nota": "rss-ultimo.json sigue en 17:36 (3 h 48 min sin datos; la Action no se disparó a las 18:05-21:05, última corrida OK 22:35Z). Sin datos nuevos de Trends; una WebSearch sin noticia viral fechada hoy. Sin señal. Aviso de Action caída enviado.", "temas": [
+ {"tema": "Brentford vs Everton (4-0)", "señales": ["sin datos nuevos"], "volumen_EC": "2000+", "volumen_anterior": "2000+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Levante vs Elche", "señales": ["sin datos nuevos"], "volumen_EC": "1000+", "volumen_anterior": "1000+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Monza vs Fiorentina (3-0)", "señales": ["sin datos nuevos"], "volumen_EC": "1000+", "volumen_anterior": "1000+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
+]}
