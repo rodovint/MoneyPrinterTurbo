@@ -25,6 +25,11 @@ W, H, FPS, SR = 1080, 1920, 25, 44100
 ANTON = lambda n: ImageFont.truetype(os.path.join(FD, "Anton.ttf"), n)
 NEG = lambda n: ImageFont.truetype(os.path.join(FD, "InterDisplay-Black.otf"), n)
 rng = np.random.default_rng(54)
+VOZ_REDES = ("highpass=f=90,lowpass=f=11000,afftdn=nf=-28:tn=1,"
+             "agate=threshold=0.025:ratio=2.5:attack=3:release=90,"
+             "equalizer=f=250:t=q:w=1.2:g=-3,equalizer=f=3200:t=q:w=1.0:g=3,equalizer=f=7500:t=q:w=1.5:g=-2,"
+             "acompressor=threshold=-22dB:ratio=4:attack=4:release=70:makeup=6,"
+             "loudnorm=I=-15:TP=-1.5:LRA=5")
 
 
 def rgb(h):
@@ -89,7 +94,12 @@ def cuadro(base, mov, q):
 def main(cfg_path, out):
     cfg = json.load(open(cfg_path, encoding="utf-8"))
     acento = rgb(cfg.get("color", "#F6C90E"))
-    voz = leer(cfg["voz"] if os.path.isabs(cfg["voz"]) else os.path.join(ROOT, cfg["voz"]))
+    ruta_voz = cfg["voz"] if os.path.isabs(cfg["voz"]) else os.path.join(ROOT, cfg["voz"])
+    if cfg.get("procesar_voz", True):  # Mui 24/11: sin eco ni ruido, pareja y con fuerza como las voces de redes
+        limpia = os.path.join(tempfile.mkdtemp(), "voz.wav")
+        subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", ruta_voz, "-af", VOZ_REDES, "-ar", str(SR), "-ac", "1", limpia])
+        ruta_voz = limpia
+    voz = leer(ruta_voz)
     extra = {float(k): v for k, v in cfg.get("silencios", {}).items()}
     # línea de tiempo: tramos con pausa corta + silencios extra
     tl, t = [], 0.4
@@ -98,7 +108,9 @@ def main(cfg_path, out):
         for k, v in extra.items():
             if a <= k <= b + 0.3:
                 t += v
-    total = t + 1.2
+    cierre = cfg.get("cierre")
+    t_cierre = t + 0.6
+    total = t + 1.2 + (cierre.get("dur", 3.0) if cierre else 0)
 
     def m(tg):
         for t0, a, b in tl:
@@ -120,6 +132,8 @@ def main(cfg_path, out):
             s = sfx(nombre) * 0.6
             k = int(max(0, m(e["t"]) - (0.15 if nombre == "whoosh" else 0)) * SR) + int(i * 0.05 * SR)
             mix[k:k + len(s)] += s[: max(0, len(mix) - k)]
+    if cierre:
+        z = sfx("golpe") * 0.6; k = int(t_cierre * SR); mix[k:k + len(z)] += z[: max(0, len(mix) - k)]
     lluvia_audio = np.convolve(rng.standard_normal(len(mix)), np.ones(6) / 6, "same").astype(np.float32) * 0.05
     mix += lluvia_audio
     mus = os.path.join(os.path.dirname(AQUI), "audio", "musica.mp3")
@@ -143,8 +157,9 @@ def main(cfg_path, out):
     n_total = int(total * FPS)
     cortes = [m(e["t"]) if i else 0.0 for i, e in enumerate(escenas)]
     cache = {}
+    fin_escenas = t_cierre if cierre else total
     for i, e in enumerate(escenas):
-        f0, f1 = int(cortes[i] * FPS), int((cortes[i + 1] if i + 1 < len(escenas) else total) * FPS)
+        f0, f1 = int(cortes[i] * FPS), int((cortes[i + 1] if i + 1 < len(escenas) else fin_escenas) * FPS)
         if e["img"] not in cache:
             im = Image.open(e["img"] if os.path.isabs(e["img"]) else os.path.join(ROOT, e["img"])).convert("RGB")
             k = max(W * 1.18 / im.width, H * 1.18 / im.height)
@@ -215,8 +230,26 @@ def main(cfg_path, out):
                     arr = arr * (1 - a_) + np.array([150, 10, 15], np.float32) * a_
             if e.get("efecto") == "camara_lenta":
                 g = arr.mean(2, keepdims=True); arr = arr * 0.55 + g * 0.45
-            if (f0 + kk) >= n_total - 12:  # fundido final
+            if not cierre and (f0 + kk) >= n_total - 12:  # fundido final
                 arr *= max(0, (n_total - (f0 + kk)) / 12)
+            p.stdin.write(np.clip(arr, 0, 255).astype(np.uint8).tobytes())
+    if cierre:  # placa final: escudo de Guineo + llamado
+        logo = Image.open(os.path.join(os.path.dirname(AQUI), "logo-guineo.png")).convert("RGBA")
+        f0 = int(fin_escenas * FPS)
+        for kk in range(max(0, n_total - f0)):
+            tt = kk / FPS
+            im = Image.new("RGBA", (W, H), (12, 16, 12, 255)); d = ImageDraw.Draw(im)
+            e_ = min(1, tt / 0.35); tam = int(520 * (0.7 + 0.3 * e_))
+            lg = logo.resize((tam, tam), Image.LANCZOS)
+            im.alpha_composite(lg, (W // 2 - tam // 2, int(H * 0.36) - tam // 2))
+            if tt > 0.4:
+                f = ANTON(92); y = int(H * 0.62)
+                for linea in cierre["texto"].upper().split("|"):
+                    d.text((W / 2, y), linea.strip(), font=f, fill=acento, anchor="mm"); y += 112
+                d.text((W / 2, y + 40), "@GUINEOCOMUNICACIONES", font=NEG(46), fill=(240, 240, 230), anchor="mm")
+            arr = np.asarray(im.convert("RGB")).astype(np.float32)
+            if kk < 6:
+                arr += (255 - arr) * (1 - kk / 6)
             p.stdin.write(np.clip(arr, 0, 255).astype(np.uint8).tobytes())
     p.stdin.close(); p.wait()
     subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", wav, "-af", "loudnorm=I=-14:TP=-1.5", "-c:v", "copy",

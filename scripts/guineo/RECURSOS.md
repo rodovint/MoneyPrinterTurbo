@@ -197,3 +197,8 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
 - Cortos de anécdotas/historias de fútbol (libros de Mui) en ESTILO PLASTILINA (claymation): figuras de plastilina con textura de huellas, maquetas de estadio, luz de estudio, look stop-motion. Referencia: scripts/guineo/animacion/ref-plastilina.png (usarla como "referencias" en el JSON de dibujos).
 - Dibujos de Cloudflare: sin caras reconocibles de personas reales, sin texto ni escudos en la imagen. Las anécdotas se cuentan con palabras propias (nunca se copia el texto del libro) y se cita el libro en la descripción.
 - Cada ilustración se anima (paneo, zoom, capas, lluvia/partículas, parpadeos) + SFX + voz de Mui; momento de cine en la revelación. Guion técnico a Mui antes de producir.
+
+## Cierre y voz en Guineo Animación (Mui, 24/11)
+- NADA de "síguenos" a mitad del video en los cortos de animación (queda fuera de lugar). La pregunta al público puede ir, sin invitación.
+- Al final: placa con el escudo de Guineo Comunicaciones + "Síguenos para más historias futboleras" + @GUINEOCOMUNICACIONES, SOLO ESCRITO (sin voz), ~3 s ("cierre" en el JSON de animar.py).
+- Voz: siempre procesada para quitar eco y ruido y dejarla pareja y con fuerza, al nivel de las voces de redes (cadena VOZ_REDES de scripts/guineo/animacion/animar.py: highpass, afftdn, gate, EQ de presencia, compresor, loudnorm).
