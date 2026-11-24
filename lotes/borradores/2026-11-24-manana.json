@@ -1,0 +1,413 @@
+[
+ {
+  "titulo": "Santos vs Grêmio: la frase de Neymar y la respuesta que nadie esperaba",
+  "etiqueta": "BRASILEIRÃO · NEYMAR",
+  "paleta": {
+   "fondo": "#FFFFFF",
+   "texto": "#111111"
+  },
+  "prueba_voz": "Mui",
+  "franja": [
+   "BRASILEIRÃO 2026",
+   "SANTOS · 9.º · 50 PUNTOS",
+   "GRÊMIO PELEABA EL DESCENSO"
+  ],
+  "audio": "audio/41",
+  "escenas": [
+   {
+    "texto": "Neymar soltó una frase, y Grêmio no se la perdonó.",
+    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "NEYMAR VS GRÊMIO",
+     "sobre": "LA FRASE"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "GRÊMIO",
+     "a_texto": "ZONA DE DESCENSO",
+     "b": "SANTOS",
+     "b_texto": "9.º · 50 PUNTOS",
+     "pie": "BRASILEIRÃO 2026"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "¿Quién ganó esta pelea? Te leo, y sigue a Guineo.",
+    "foto": "img/neymar-celular.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿QUIÉN GANÓ LA PELEA?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Grêmio ganó dos a cero,",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "2-0",
+     "texto": "GRÊMIO VS SANTOS · Y SALE DEL DESCENSO"
+    },
+    "destello": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "y Neymar dijo: era victoria segura.",
+    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "«ERA VICTORIA SEGURA»",
+     "autor": "NEYMAR · TRAS EL 0-2 (VÍA METRÓPOLES)"
+    },
+    "suspenso": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Grêmio le respondió en redes con una faja de inmortal.",
+    "foto": "img/neymar-celular.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "«100 % INMORTAL»",
+     "sobre": "LA RESPUESTA DE GRÊMIO"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Y Neymar: primera vez que me ganan, hay que hacer fiesta.",
+    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cita",
+     "texto": "«PRIMERA VEZ QUE ME GANAN»",
+     "autor": "NEYMAR EN REDES (VÍA TMC)"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Todo por una sola frase.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "UNA SOLA FRASE",
+     "sobre": "NEYMAR"
+    },
+    "transicion": "barrido"
+   }
+  ]
+ },
+ {
+  "titulo": "Real Madrid vs PSV: el rival que eliminó al Madrid sin ganarle nunca",
+  "etiqueta": "CHAMPIONS · PREVIA",
+  "club": "real madrid",
+  "prueba_voz": "Mui+Andrea",
+  "franja": [
+   "CHAMPIONS LEAGUE · FECHA 5",
+   "HOY 15:00 · SANTIAGO BERNABÉU",
+   "REAL MADRID: 4 DE 4"
+  ],
+  "audio": "audio/42",
+  "escenas": [
+   {
+    "texto": "Mourinho recibe hoy a quien eliminó al Madrid sin ganarle.",
+    "foto_commons": "Mourinho Madrid (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "EL RIVAL QUE NUNCA LE GANÓ",
+     "sobre": "REAL MADRID · HOY"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "El Madrid llega perfecto: cuatro de cuatro.",
+    "voz": "andrea",
+    "foto_commons": "Estadio Santiago Bernabéu (01).jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "12",
+     "texto": "PUNTOS · 4 DE 4 EN CHAMPIONS"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "El PSV de Peter Bosz, apenas cuatro puntos.",
+    "dicho": "El pe ese uve de Peter Bos, apenas cuatro puntos.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "4",
+     "texto": "PSV · PUESTO 24 DE 36"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "¿Hoy gana el Madrid? Te leo, y sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿GANA EL MADRID?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Semifinal de mil novecientos ochenta y ocho: uno a uno y cero a cero.",
+    "voz": "andrea",
+    "foto": "img/rm-psv-1988.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "1-1 Y 0-0",
+     "sobre": "SEMIFINAL · 1988"
+    },
+    "destello": true,
+    "tono": "recuerdo",
+    "suspenso": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Pasó el PSV, y fue campeón de Europa.",
+    "dicho": "Pasó el pe ese uve, y fue campeón de Europa.",
+    "voz": "andrea",
+    "foto": "img/rm-psv-1988.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "PASÓ EL PSV",
+     "sobre": "Y FUE CAMPEÓN DE EUROPA"
+    },
+    "tono": "recuerdo",
+    "transicion": "rota"
+   },
+   {
+    "texto": "Hoy, a las tres, vuelve al Bernabéu.",
+    "foto_commons": "Mourinho Madrid (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "HOY · 15:00",
+     "sobre": "REAL MADRID VS PSV"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Ecuador vs Corea del Sur Sub-17: lo que necesita la Mini-Tri",
+  "etiqueta": "MUNDIAL SUB-17 · QATAR",
+  "club": "ecuador",
+  "prueba_voz": "Mui",
+  "franja": [
+   "MUNDIAL SUB-17 · GRUPO B",
+   "MIÉRCOLES 07:30 · TELEAMAZONAS",
+   "DT GONZALO FERREA"
+  ],
+  "audio": "audio/43",
+  "escenas": [
+   {
+    "texto": "La Mini-Tri se juega el pase contra el único que ganó todo.",
+    "foto": "img/FALTA-sub17.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿PASA LA MINI-TRI?",
+     "sobre": "MUNDIAL SUB-17"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "Corea del Sur: nueve goles a favor, cero en contra.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "9-0",
+     "texto": "COREA DEL SUR · 6 PUNTOS"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Ecuador: un triunfo, un empate, y un solo gol.",
+    "foto_commons": "Aspire Park Panorama View.jpg",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "4",
+     "texto": "ECUADOR · 4 PUNTOS · GOL DE JHON GUERRERO"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "¿Le alcanza a la Mini-Tri? Te leo, y sigue a Guineo.",
+    "foto": "img/sub17-doha-noche.png",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿LE ALCANZA?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "El dato: con un empate, Ecuador pasa a dieciseisavos.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "EMPATE = DIECISEISAVOS",
+     "sobre": "SIN MIRAR OTROS RESULTADOS"
+    },
+    "destello": true,
+    "suspenso": true,
+    "transicion": "flash"
+   },
+   {
+    "texto": "Mañana, siete y treinta, contra el equipo perfecto.",
+    "foto": "img/sub17-doha-noche.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "MIÉ 25 · 07:30",
+     "sobre": "ECUADOR VS COREA DEL SUR"
+    },
+    "transicion": "zoom"
+   }
+  ]
+ },
+ {
+  "titulo": "Piero Hincapié: de Esmeraldas a campeón de la Premier League",
+  "etiqueta": "HISTORIA · PIERO HINCAPIÉ",
+  "prueba_voz": "Mui+Andrea",
+  "formato": "historia",
+  "franja": [
+   "PIERO HINCAPIÉ · 24 AÑOS",
+   "ESMERALDAS · ECUADOR",
+   "DEFENSA DE LA TRI"
+  ],
+  "audio": "audio/44",
+  "escenas": [
+   {
+    "texto": "Un niño de Esmeraldas jugaba de delantero, y sus primeras zapatillas se las compró su papá.",
+    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "DE ESMERALDAS A...",
+     "sobre": "LA HISTORIA DE PIERO"
+    },
+    "hinchada": true
+   },
+   {
+    "texto": "Empezó a los siete años, en una escuelita de Esmeraldas que se llamaba Barcelona.",
+    "voz": "andrea",
+    "foto": "img/hincapie-zapatillas.png",
+    "movimiento": "subir",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "A los diez años se fue a Guayaquil a buscar su sitio.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "10 AÑOS",
+     "sobre": "RUMBO A GUAYAQUIL"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Independiente del Valle lo pulió, y Talleres pagó un millón de dólares por la mitad de su pase.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "1 MILLÓN",
+     "texto": "TALLERES · 50 % DEL PASE · 2020"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "En Alemania, con el Leverkusen, ganó la Bundesliga sin perder un solo partido.",
+    "voz": "andrea",
+    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "0",
+     "texto": "DERROTAS · BUNDESLIGA 2023-24"
+    },
+    "transicion": "flash"
+   },
+   {
+    "texto": "¿Quién es para ti el mejor defensa ecuatoriano de la historia? Te leo, y sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿EL MEJOR DEFENSA DE ECUADOR?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Pero faltaba Inglaterra.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "FALTABA INGLATERRA",
+     "sobre": "2025"
+    },
+    "suspenso": true,
+    "transicion": "glitch"
+   },
+   {
+    "texto": "En su primera temporada con el Arsenal, campeón de la Premier League.",
+    "dicho": "En su primera temporada con el Arsenal, campeón de la Prémier Lig.",
+    "voz": "andrea",
+    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "CAMPEÓN DE LA PREMIER",
+     "sobre": "ARSENAL · 2025-26"
+    },
+    "destello": true,
+    "hinchada": true,
+    "tono": "celebracion",
+    "transicion": "flash"
+   },
+   {
+    "texto": "El primer título de liga del club en veintidós años.",
+    "voz": "andrea",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "22",
+     "texto": "AÑOS SIN LIGA · ARSENAL"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Y ahora va por la Champions con el Arsenal.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "VA POR LA CHAMPIONS",
+     "sobre": "PIERO HINCAPIÉ"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Todo empezó con unas zapatillas que le compró su papá en Esmeraldas.",
+    "foto": "img/hincapie-zapatillas.png",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "ninguno"
+    },
+    "tono": "recuerdo",
+    "transicion": "rota"
+   }
+  ]
+ }
+]

@@ -1,0 +1,43 @@
+{
+  "modelo": "9b",
+  "referencias": [
+    "scripts/guineo/ref/estilo1.jpg"
+  ],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "neymar-celular",
+      "seed": 240,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a smartphone glowing on a wooden locker room bench at night after a football match, abstract floating heart, fire and laughing bubble icons without any letters rising from the screen, a white soccer ball and a folded plain white football shirt next to it, dramatic light, no people."
+    },
+    {
+      "id": "rm-psv-1988",
+      "seed": 241,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration with a vintage 1980s look, faded warm colors and film grain: a night European football semifinal in an old concrete stadium, players in plain all-white kits and players in plain red and white kits seen from behind contesting a white leather soccer ball, old floodlight towers, foggy air, packed terraces with blurred fans, no faces visible."
+    },
+    {
+      "id": "sub17-doha-noche",
+      "seed": 242,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: young football players in plain yellow shirts and blue shorts seen from behind walking out onto a bright pitch in a modern desert stadium at night, palm trees and a glowing city skyline beyond the stands, warm floodlights, a white soccer ball on the grass, no faces visible."
+    },
+    {
+      "id": "hincapie-zapatillas",
+      "seed": 243,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: a pair of small brand-new children's football boots resting on a dusty dirt pitch in a humble coastal tropical town at sunset, palm trees, a simple wooden goal frame and the sea in the background, a worn white soccer ball next to the boots, warm golden light, no people."
+    }
+  ]
+}

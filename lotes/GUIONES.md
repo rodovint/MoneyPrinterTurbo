@@ -1,27 +1,33 @@
-# Frases que graba Mui — mañana 23/11/2026
+# Frases que graba Mui — mañana 24/11/2026
 (Un audio por reel, en orden, pausa corta entre frases, tono hacia abajo al cerrar; solo la pregunta sube.)
 
-01 · Instituto vs Huracán 2-1 · Jordy Caicedo → audio/32 (Prueba voz: Mui — graba TODAS)
-[Mui] Jordy Caicedo cabeceó en Córdoba
-[Mui] y entró a un libro
-[Mui] que ningún ecuatoriano había tocado.
-[Mui] Huracán perdía dos a cero con Instituto
-[Mui] y él descontó al sesenta y cinco.
-[Mui] ¿Lo quieres de nueve en la Tri? Te leo, y sigue a Guineo.
-[Mui] Quince goles en Argentina en una temporada: récord ecuatoriano.
-[Mui] Antes era Jaime Ayoví, con nueve.
-[Mui] Huracán se fue, pero el libro dice Jordy Caicedo.
+41 · Santos vs Grêmio: la frase de Neymar y la respuesta que nadie esperaba → audio/41 (Prueba voz: Mui — Mui graba 8)
+[Mui] Neymar soltó una frase, y Grêmio no se la perdonó.
+[Mui] Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.
+[Mui] ¿Quién ganó esta pelea? Te leo, y sigue a Guineo.
+[Mui] Grêmio ganó dos a cero,
+[Mui] y Neymar dijo: era victoria segura.
+[Mui] Grêmio le respondió en redes con una faja de inmortal.
+[Mui] Y Neymar: primera vez que me ganan, hay que hacer fiesta.
+[Mui] Todo por una sola frase.
 
-02 · Vancouver Whitecaps vs Real Salt Lake 2-0 · Bruno Caicedo → audio/33 (Prueba voz: Mui+Andrea — Mui graba 4)
-[Mui] Bruno Caicedo saltó en Vancouver
-[Mui] y dejó a Real Salt Lake contra las cuerdas.
-[Mui] ¿Bruno merece la Tri? Te leo, y sigue a Guineo.
-[Mui] El viernes, en Utah, Bruno puede volver a saltar.
-(Andrea dice: "Juego uno de playoffs:" / "Vancouver ya ganaba uno a cero." / "Al cincuenta y cinco," / "cabezazo por encima del arquero." / "Dos a cero, y Vancouver manda en la serie.")
+42 · Real Madrid vs PSV: el rival que eliminó al Madrid sin ganarle nunca → audio/42 (Prueba voz: Mui+Andrea — Mui graba 3)
+[Mui] Mourinho recibe hoy a quien eliminó al Madrid sin ganarle.
+[Mui] ¿Hoy gana el Madrid? Te leo, y sigue a Guineo.
+[Mui] Hoy, a las tres, vuelve al Bernabéu.
+(Andrea dice: "El Madrid llega perfecto: cuatro de cuatro." / "El PSV de Peter Bosz, apenas cuatro puntos." / "Semifinal de mil novecientos ochenta y ocho: uno a uno y cero a cero." / "Pasó el PSV, y fue campeón de Europa.")
 
-03 · Orense vs Mushuc Runa 2-3 → audio/34 (Prueba voz: Mui+Andrea — Mui graba 4)
-[Mui] Orense perdía tres a cero en Machala
-[Mui] y casi hace lo imposible.
-[Mui] ¿Orense se salva? Te leo; si eres de El Oro, sigue a Guineo.
-[Mui] Ahora Orense juega contra Delfín, y no puede volver a perder tres a cero.
-(Andrea dice: "Mushuc Runa hizo tres antes del descanso." / "Mena descontó en el añadido" / "y Agustín Herrera al sesenta y cinco." / "No alcanzó: Orense y Delfín quedaron igualados en treinta y nueve.")
+43 · Ecuador vs Corea del Sur Sub-17: lo que necesita la Mini-Tri → audio/43 (Prueba voz: Mui — Mui graba 6)
+[Mui] La Mini-Tri se juega el pase contra el único que ganó todo.
+[Mui] Corea del Sur: nueve goles a favor, cero en contra.
+[Mui] Ecuador: un triunfo, un empate, y un solo gol.
+[Mui] ¿Le alcanza a la Mini-Tri? Te leo, y sigue a Guineo.
+[Mui] El dato: con un empate, Ecuador pasa a dieciseisavos.
+[Mui] Mañana, siete y treinta, contra el equipo perfecto.
+
+44 · Piero Hincapié: de Esmeraldas a campeón de la Premier League → audio/44 (Prueba voz: Mui+Andrea — Mui graba 4)
+[Mui] Un niño de Esmeraldas jugaba de delantero, y sus primeras zapatillas se las compró su papá.
+[Mui] ¿Quién es para ti el mejor defensa ecuatoriano de la historia? Te leo, y sigue a Guineo.
+[Mui] Y ahora va por la Champions con el Arsenal.
+[Mui] Todo empezó con unas zapatillas que le compró su papá en Esmeraldas.
+(Andrea dice: "Empezó a los siete años, en una escuelita de Esmeraldas que se llamaba Barcelona." / "A los diez años se fue a Guayaquil a buscar su sitio." / "Independiente del Valle lo pulió, y Talleres pagó un millón de dólares por la mitad de su pase." / "En Alemania, con el Leverkusen, ganó la Bundesliga sin perder un solo partido." / "Pero faltaba Inglaterra." / "En su primera temporada con el Arsenal, campeón de la Premier League." / "El primer título de liga del club en veintidós años.")
