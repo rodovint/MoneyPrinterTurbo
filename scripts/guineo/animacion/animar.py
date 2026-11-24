@@ -160,14 +160,24 @@ def main(cfg_path, out):
             d = ImageDraw.Draw(fr)
             if e.get("texto") and kk / FPS > 0.3:
                 d.rectangle([0, 230, W, 360], fill=(0, 0, 0, 150))
-                d.text((W / 2, 295), e["texto"], font=ANTON(96), fill=acento, anchor="mm")
+                fz = 96
+                while d.textlength(e["texto"], font=ANTON(fz)) > W - 80:
+                    fz -= 6
+                d.text((W / 2, 295), e["texto"], font=ANTON(fz), fill=acento, anchor="mm")
             if e.get("marcador"):
                 a1, g1, a2, g2 = e["marcador"]
-                d.rounded_rectangle([W / 2 - 330, 220, W / 2 + 330, 420], 30, fill=(70, 45, 25, 235), outline=(30, 18, 8), width=10)
-                d.text((W / 2 - 180, 320), a1, font=ANTON(90), fill=(250, 240, 220), anchor="mm")
-                d.text((W / 2 + 180, 320), a2, font=ANTON(90), fill=(250, 240, 220), anchor="mm")
                 vis = min(1, kk / FPS / 0.6)
-                d.text((W / 2, 320), f"{int(round(g1 * vis))}-{int(round(g2 * vis))}", font=ANTON(120), fill=acento, anchor="mm")
+                if e.get("marcador_pos") == "centro":  # tapa el tablero de la ilustración
+                    d.rounded_rectangle([110, 560, W - 110, 1200], 40, fill=(70, 45, 25, 245), outline=(30, 18, 8), width=14)
+                    d.text((W / 2 - 230, 700), a1, font=ANTON(110), fill=(250, 240, 220), anchor="mm")
+                    d.text((W / 2 + 230, 700), a2, font=ANTON(110), fill=(250, 240, 220), anchor="mm")
+                    d.text((W / 2 - 230, 960), str(int(round(g1 * vis))), font=ANTON(300), fill=acento, anchor="mm")
+                    d.text((W / 2 + 230, 960), str(int(round(g2 * vis))), font=ANTON(300), fill=acento, anchor="mm")
+                else:
+                    d.rounded_rectangle([W / 2 - 330, 220, W / 2 + 330, 420], 30, fill=(70, 45, 25, 235), outline=(30, 18, 8), width=10)
+                    d.text((W / 2 - 180, 320), a1, font=ANTON(90), fill=(250, 240, 220), anchor="mm")
+                    d.text((W / 2 + 180, 320), a2, font=ANTON(90), fill=(250, 240, 220), anchor="mm")
+                    d.text((W / 2, 320), f"{int(round(g1 * vis))}-{int(round(g2 * vis))}", font=ANTON(120), fill=acento, anchor="mm")
             if e.get("titulo") and tg >= m(e.get("titulo_en", e["t"])):
                 d.rectangle([0, H / 2 - 170, W, H / 2 + 170], fill=(0, 0, 0, 170))
                 d.text((W / 2, H / 2 - 60), "LA BATALLA", font=ANTON(150), fill=acento, anchor="mm")

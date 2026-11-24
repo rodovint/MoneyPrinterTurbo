@@ -70,7 +70,7 @@
   },
   {
    "t": 17.6,
-   "img": "lotes/img/berna/cabezazo.png",
+   "img": "lotes/img/berna/barrida.png",
    "mov": "zoom_in",
    "efecto": "camara_lenta",
    "sfx": [
@@ -79,8 +79,8 @@
   },
   {
    "t": 19.6,
-   "img": "lotes/img/berna/cabezazo.png",
-   "mov": "zoom_out",
+   "img": "lotes/img/berna/marcador.png",
+   "mov": "zoom_in",
    "marcador": [
     "HUN",
     2,
@@ -90,11 +90,12 @@
    "efecto": "flash",
    "sfx": [
     "golpe"
-   ]
+   ],
+   "marcador_pos": "centro"
   },
   {
    "t": 21.4,
-   "img": "lotes/img/berna/barrida.png",
+   "img": "lotes/img/berna/pelea.png",
    "mov": "sacudon",
    "sfx": [
     "patadas"
@@ -110,8 +111,8 @@
   },
   {
    "t": 31.1,
-   "img": "lotes/img/berna/arbitro.png",
-   "mov": "sacudon",
+   "img": "lotes/img/berna/pelea.png",
+   "mov": "zoom_out",
    "sfx": [
     "sirena"
    ]
@@ -139,7 +140,8 @@
    "sfx": [
     "redoble",
     "golpe"
-   ]
+   ],
+   "marcador_pos": "centro"
   },
   {
    "t": 44.4,
@@ -157,7 +159,7 @@
    "img": "lotes/img/berna/final.png",
    "mov": "zoom_out",
    "titulo": true,
-   "titulo_en": 58.9,
+   "titulo_en": 58.0,
    "sfx": [
     "trueno"
    ]
