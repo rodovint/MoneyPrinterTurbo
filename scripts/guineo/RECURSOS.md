@@ -178,3 +178,6 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
   - Versión en español de un TOP 5 de un creador inglés que esté pegando: se toma la IDEA y la lista, se investiga por cuenta propia, se escribe un guion propio con enfoque ecuatoriano/latino cuando se pueda, y se menciona la inspiración en la descripción ("Inspirado en el top de @canal"). Nunca se copia su guion palabra por palabra ni su video.
 - Duración: Shorts de 45–60 s (versiones largas de 3–5 min solo si Mui lo pide). Mismas reglas de gancho sin revelar, colores por club, guion de edición y título SEO + gancho.
 - COPYRIGHT: "pocos segundos" NO evita reclamos (Content ID detecta 2–3 s). La base del video es material propio (voz de Mui, foto_commons, escudos, pizarra, dibujos, cifras); clips reales solo si Mui los manda, máx. 2–3 s, con voz encima y crédito. Nunca descargados por el agente.
+
+## Decimales en gráficos (bug 23/11)
+- Los decimales van con COMA ("0,33"), nunca con punto: el punto se lee como separador de miles. Desde el 23/11 el generador ya no cuenta "0.31" como 31, pero igual escribe decimales con coma.

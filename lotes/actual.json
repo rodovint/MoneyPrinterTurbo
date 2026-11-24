@@ -8,10 +8,10 @@
   "escenas": [
    {"texto": "Un chico de dieciocho años de Emelec aparece en un ranking de toda Sudamérica.", "voz": "mui", "movimiento": "zoom_in", "grafico": {"tipo": "titular", "texto": "¿QUIÉN ES?", "sobre": "EMELEC · 18 AÑOS"}, "transicion": "flash", "hinchada": true},
    {"texto": "Lo hizo el CIES: los menores de veintidós que más goles generan con sus pases.", "dicho": "Lo hizo el Cíes: los menores de veintidós que más goles generan con sus pases.", "voz": "mui", "grafico": {"tipo": "titular", "texto": "TOP SUB-22 DE SUDAMÉRICA", "sobre": "CIES · ASISTENCIAS ESPERADAS"}, "transicion": "barrido"},
-   {"texto": "Tercero, Tomás Aranda, de Boca.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0.31", "texto": "3.º TOMÁS ARANDA · BOCA JUNIORS"}, "transicion": "zoom"},
-   {"texto": "Segundo, Ryan Augusto, del Bragantino.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0.32", "texto": "2.º RYAN AUGUSTO · RB BRAGANTINO"}, "transicion": "zoom"},
+   {"texto": "Tercero, Tomás Aranda, de Boca.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0,31", "texto": "3.º TOMÁS ARANDA · BOCA JUNIORS"}, "transicion": "zoom"},
+   {"texto": "Segundo, Ryan Augusto, del Bragantino.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0,32", "texto": "2.º RYAN AUGUSTO · RB BRAGANTINO"}, "transicion": "zoom"},
    {"texto": "¿Adivinas quién es el primero? Te leo, y sigue a Guineo.", "voz": "mui", "grafico": {"tipo": "titular", "texto": "¿QUIÉN ES EL N.º 1?", "sobre": "@GUINEOCOMUNICACIONES"}, "suspenso": true, "transicion": "glitch"},
-   {"texto": "Primero, Reixon Saya, de Emelec.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0.33", "texto": "1.º REIXON SAYA · EMELEC · SOLO 18 AÑOS"}, "destello": true, "hinchada": true, "transicion": "flash"},
+   {"texto": "Primero, Reixon Saya, de Emelec.", "voz": "mui", "grafico": {"tipo": "cifra", "valor": "0,33", "texto": "1.º REIXON SAYA · EMELEC · SOLO 18 AÑOS"}, "destello": true, "hinchada": true, "transicion": "flash"},
    {"texto": "Y en el top diez hay dos ecuatorianos más: Keny Arroyo y Thiago Ozaeta.", "voz": "mui", "grafico": {"tipo": "titular", "texto": "KENY ARROYO · THIAGO OZAETA", "sobre": "TAMBIÉN EN EL TOP 10"}, "transicion": "barrido"},
    {"texto": "Dieciocho años, y ya está arriba de toda Sudamérica.", "voz": "mui", "grafico": {"tipo": "titular", "texto": "18 AÑOS", "sobre": "REIXON SAYA"}, "transicion": "zoom"}
   ]

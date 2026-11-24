@@ -198,9 +198,11 @@ def numero_layer(valor, t, color=None, size=300, dur_count=0.9):
     color = color or YC
     """Si el valor es un entero (con o sin puntos de miles) cuenta hacia arriba; si no, sus caracteres rebotan."""
     im = Image.new("RGBA", (W, int(size * 1.4)), (0, 0, 0, 0)); d = ImageDraw.Draw(im); f = g.A(size)
+    import re as _re
     plain = valor.replace(".", "")
     cy = im.height // 2
-    if plain.isdigit() and len(plain) > 1:
+    # solo cuenta si es entero o lleva puntos de MILES (3.321); "0.31" es decimal y rebota tal cual (bug 23/11)
+    if _re.fullmatch(r"\d+|\d{1,3}(\.\d{3})+", valor) and len(plain) > 1:
         v = int(plain) * ease(t / dur_count)
         txt = _fmt(v) if "." in valor else str(int(round(v)))
         sc = 1 + 0.12 * max(0, 1 - abs(t - dur_count) / 0.15)
