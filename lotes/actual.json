@@ -1,237 +1,109 @@
 [
  {
-  "titulo": "Santos vs Grêmio: la frase de Neymar y la respuesta que nadie esperaba",
-  "etiqueta": "BRASILEIRÃO · NEYMAR",
-  "paleta": {
-   "fondo": "#FFFFFF",
-   "texto": "#111111"
-  },
-  "prueba_voz": "Mui",
+  "titulo": "Reixon Saya: el chico de 18 años de Emelec que aparece en un ranking de toda Sudamérica",
+  "etiqueta": "EMELEC · CIES",
+  "club": "emelec",
+  "prueba_voz": "Mui (voz real)",
   "franja": [
-   "BRASILEIRÃO 2026",
-   "SANTOS · 9.º · 50 PUNTOS",
-   "GRÊMIO PELEABA EL DESCENSO"
+   "CIES FOOTBALL OBSERVATORY",
+   "SUB-22 · SUDAMÉRICA",
+   "ASISTENCIAS ESPERADAS POR 90'"
   ],
-  "audio": "audio/41",
   "escenas": [
    {
-    "texto": "Neymar soltó una frase, y Grêmio no se la perdonó.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
+    "texto": "Un chico de dieciocho años de Emelec aparece en un ranking de toda Sudamérica.",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "NEYMAR VS GRÊMIO",
-     "sobre": "LA FRASE"
+     "texto": "¿QUIÉN ES?",
+     "sobre": "EMELEC · 18 AÑOS"
     },
-    "hinchada": true
+    "transicion": "flash",
+    "hinchada": true,
+    "inicio": 1.85,
+    "fin": 6.15
    },
    {
-    "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
+    "texto": "Lo hizo el CIES: los menores de veintidós que más goles generan con sus pases.",
     "grafico": {
      "tipo": "titular",
-     "texto": "GRÊMIO EN DESCENSO",
-     "sobre": "SANTOS · 9.º · 50 PUNTOS"
-    },
-    "transicion": "barrido"
-   },
-   {
-    "texto": "¿Quién ganó esta pelea? Te leo, y sigue a Guineo.",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿QUIÉN GANÓ LA PELEA?",
-     "sobre": "@GUINEOCOMUNICACIONES"
-    },
-    "transicion": "glitch",
-    "foto_commons": "Neymar - Santos b&w.jpg"
-   },
-   {
-    "texto": "Grêmio ganó dos a cero,",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "2-0",
-     "texto": "GRÊMIO VS SANTOS · Y SALE DEL DESCENSO"
-    },
-    "destello": true,
-    "transicion": "flash"
-   },
-   {
-    "texto": "y Neymar dijo: era victoria segura.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "«ERA VICTORIA SEGURA»",
-     "sobre": "NEYMAR · VÍA METRÓPOLES"
-    },
-    "suspenso": true,
-    "transicion": "rota"
-   },
-   {
-    "texto": "Grêmio le respondió en redes con una faja de inmortal.",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "«100 % INMORTAL»",
-     "sobre": "LA RESPUESTA DE GRÊMIO"
-    },
-    "transicion": "zoom",
-    "foto_commons": "Neymar - Santos b&w.jpg"
-   },
-   {
-    "texto": "Y Neymar: primera vez que me ganan, hay que hacer fiesta.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "«PRIMERA VEZ QUE ME GANAN»",
-     "sobre": "NEYMAR EN REDES · VÍA TMC"
-    },
-    "transicion": "glitch"
-   },
-   {
-    "texto": "Todo por una sola frase.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "UNA SOLA FRASE",
-     "sobre": "NEYMAR"
-    },
-    "transicion": "barrido"
-   }
-  ]
- },
- {
-  "titulo": "Piero Hincapié: de Esmeraldas a campeón de la Premier League",
-  "etiqueta": "HISTORIA · PIERO HINCAPIÉ",
-  "prueba_voz": "Mui+Andrea",
-  "formato": "historia",
-  "franja": [
-   "PIERO HINCAPIÉ · 24 AÑOS",
-   "ESMERALDAS · ECUADOR",
-   "DEFENSA DE LA TRI"
-  ],
-  "audio": "audio/44",
-  "escenas": [
-   {
-    "texto": "Un niño de Esmeraldas jugaba de delantero, y sus primeras zapatillas se las compró su papá.",
-    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "DE ESMERALDAS A...",
-     "sobre": "LA HISTORIA DE PIERO"
-    },
-    "hinchada": true
-   },
-   {
-    "texto": "Empezó a los siete años, en una escuelita de Esmeraldas que se llamaba Barcelona.",
-    "voz": "andrea",
-    "movimiento": "subir",
-    "grafico": {
-     "tipo": "ninguno"
+     "texto": "TOP SUB-22 DE SUDAMÉRICA",
+     "sobre": "CIES · ASISTENCIAS ESPERADAS"
     },
     "transicion": "barrido",
-    "tono": "recuerdo"
+    "inicio": 6.85,
+    "fin": 12.4
    },
    {
-    "texto": "A los diez años se fue a Guayaquil a buscar su sitio.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "10 AÑOS",
-     "sobre": "RUMBO A GUAYAQUIL"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Independiente del Valle lo pulió, y Talleres pagó un millón de dólares por la mitad de su pase.",
-    "voz": "andrea",
+    "texto": "Tercero, Tomás Aranda, de Boca.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "1 MILLÓN",
-     "texto": "TALLERES · 50 % DEL PASE · 2020"
+     "valor": "0,31",
+     "texto": "3.º TOMÁS ARANDA · BOCA JUNIORS"
     },
-    "transicion": "glitch"
+    "transicion": "zoom",
+    "inicio": 13.6,
+    "fin": 15.55
    },
    {
-    "texto": "En Alemania, con el Leverkusen, ganó la Bundesliga sin perder un solo partido.",
-    "voz": "andrea",
-    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
-    "movimiento": "zoom_in",
+    "texto": "Segundo, Ryan Augusto, del Bragantino.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "0",
-     "texto": "DERROTAS · BUNDESLIGA 2023-24"
+     "valor": "0,32",
+     "texto": "2.º RYAN AUGUSTO · RB BRAGANTINO"
     },
-    "transicion": "flash"
+    "transicion": "zoom",
+    "inicio": 16.15,
+    "fin": 18.35
    },
    {
-    "texto": "¿Quién es para ti el mejor defensa ecuatoriano de la historia? Te leo, y sigue a Guineo.",
+    "texto": "¿Adivinas quién es el primero? Te leo, y sigue a Guineo.",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿EL MEJOR DEFENSA DE ECUADOR?",
+     "texto": "¿QUIÉN ES EL N.º 1?",
      "sobre": "@GUINEOCOMUNICACIONES"
     },
-    "transicion": "barrido"
-   },
-   {
-    "texto": "Pero faltaba Inglaterra.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "FALTABA INGLATERRA",
-     "sobre": "2025"
-    },
     "suspenso": true,
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 18.95,
+    "fin": 23.2
    },
    {
-    "texto": "En su primera temporada con el Arsenal, campeón de la Premier League.",
-    "dicho": "En su primera temporada con el Arsenal, campeón de la Prémier Lig.",
-    "voz": "andrea",
-    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
-    "movimiento": "zoom_in",
+    "texto": "Primero, Reixon Saya, de Emelec.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "CAMPEÓN DE LA PREMIER",
-     "sobre": "ARSENAL · 2025-26"
+     "tipo": "cifra",
+     "valor": "0,33",
+     "texto": "1.º REIXON SAYA · EMELEC · SOLO 18 AÑOS"
     },
     "destello": true,
     "hinchada": true,
-    "tono": "celebracion",
-    "transicion": "flash"
+    "transicion": "flash",
+    "inicio": 23.95,
+    "fin": 25.9
    },
    {
-    "texto": "El primer título de liga del club en veintidós años.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "22",
-     "texto": "AÑOS SIN LIGA · ARSENAL"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Y ahora va por la Champions con el Arsenal.",
+    "texto": "Y en el top diez hay dos ecuatorianos más: Keny Arroyo y Thiago Ozaeta.",
     "grafico": {
      "tipo": "titular",
-     "texto": "VA POR LA CHAMPIONS",
-     "sobre": "PIERO HINCAPIÉ"
+     "texto": "KENY ARROYO · THIAGO OZAETA",
+     "sobre": "TAMBIÉN EN EL TOP 10"
     },
     "transicion": "barrido",
-    "foto": "img/hincapie-arsenal.png",
-    "movimiento": "zoom_in"
+    "inicio": 26.4,
+    "fin": 31.6
    },
    {
-    "texto": "Todo empezó con unas zapatillas que le compró su papá en Esmeraldas.",
-    "movimiento": "zoom_out",
+    "texto": "Dieciocho años, y ya está arriba de toda Sudamérica.",
     "grafico": {
-     "tipo": "ninguno"
+     "tipo": "titular",
+     "texto": "18 AÑOS",
+     "sobre": "REIXON SAYA"
     },
-    "tono": "recuerdo",
-    "transicion": "rota",
-    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg"
+    "transicion": "zoom",
+    "inicio": 32.25,
+    "fin": 35.4
    }
-  ]
+  ],
+  "audio": "audio/40"
  }
 ]

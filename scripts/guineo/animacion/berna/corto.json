@@ -58,7 +58,8 @@
    "sfx": [
     "trueno"
    ],
-   "depth": "lotes/img/berna/depth/estadio.png"
+   "depth": "lotes/img/berna/depth/estadio.png",
+   "video": "lotes/img/berna/video/estadio.mp4"
   },
   {
    "t": 11.35,
@@ -68,7 +69,8 @@
    "sfx": [
     "whoosh"
    ],
-   "depth": "lotes/img/berna/depth/equipos.png"
+   "depth": "lotes/img/berna/depth/equipos.png",
+   "video": "lotes/img/berna/video/equipos.mp4"
   },
   {
    "t": 17.6,
@@ -131,7 +133,8 @@
    "sfx": [
     "whoosh"
    ],
-   "depth": "lotes/img/berna/depth/estadio.png"
+   "depth": "lotes/img/berna/depth/estadio.png",
+   "video": "lotes/img/berna/video/estadio.mp4"
   },
   {
    "t": 40.0,

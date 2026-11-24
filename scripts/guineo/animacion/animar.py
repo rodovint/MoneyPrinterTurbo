@@ -94,6 +94,28 @@ def cuadro(base, mov, q):
 _prof = {}
 
 
+def frames_video(ruta, n):
+    """Clip animado (imagen→video) ajustado a n cuadros: lo frena hasta 0,6x y, si aún falta, lo hace ida y vuelta."""
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", ruta],
+                               capture_output=True, text=True).stdout.strip() or 4)
+    necesita = n / FPS
+    vel = max(0.6, min(1.0, dur / necesita))
+    filtro = f"[0:v]setpts=PTS/{vel:.3f},fps={FPS},scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.6[v0]"
+    if dur / vel < necesita:  # ida y vuelta
+        filtro += ";[v0]split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1:a=0,loop=loop=-1:size=32767[v]"
+    else:
+        filtro += ";[v0]null[v]"
+    pr = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-i", ruta, "-filter_complex", filtro, "-map", "[v]", "-frames:v", str(n),
+                           "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+    ultimo = None
+    for _ in range(n):
+        b = pr.stdout.read(W * H * 3)
+        if len(b) == W * H * 3:
+            ultimo = Image.frombytes("RGB", (W, H), b)
+        yield ultimo if ultimo is not None else Image.new("RGB", (W, H))
+    pr.stdout.close(); pr.wait()
+
+
 def preparar_25d(base, ruta_depth):
     """Base (ya escalada a 1.18x) + mapa de profundidad del mismo encuadre (0 lejos, 1 cerca)."""
     d = Image.open(ruta_depth).convert("L").resize(base.size, Image.BILINEAR).filter(ImageFilter.GaussianBlur(6))
@@ -204,11 +226,18 @@ def main(cfg_path, out):
         base = cache[e["img"]]
         n = max(1, f1 - f0)
         t_ap = m(e["apagon_en"]) if e.get("efecto") == "apagon" else None
+        vid_it = None
+        if e.get("video"):
+            vr = e["video"] if os.path.isabs(e["video"]) else os.path.join(ROOT, e["video"])
+            if os.path.exists(vr):
+                vid_it = frames_video(vr, n)
         for kk in range(n):
             tg = (f0 + kk) / FPS; q = kk / n
             qq_ = q if e.get("efecto") != "camara_lenta" else q * 0.35
             dp = e.get("depth")
-            if dp:
+            if vid_it is not None:
+                fr = next(vid_it).convert("RGBA")
+            elif dp:
                 dp = dp if os.path.isabs(dp) else os.path.join(ROOT, dp)
                 if (e["img"], dp) not in _prof:
                     _prof[(e["img"], dp)] = preparar_25d(base, dp)
