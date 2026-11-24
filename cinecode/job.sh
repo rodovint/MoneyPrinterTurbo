@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
-# Job 43 (2026-11-23): transcripción con tiempos por palabra de La Batalla de Berna (Mui)
+# Job 44 (2026-11-23): ilustraciones de plastilina de Berna vía Pollinations (gratis, sin clave) mientras Cloudflare no tiene cupo
 set -u
-O=cinecode/out/berna; mkdir -p $O
-pip install -q faster-whisper >/dev/null 2>&1
-ffmpeg -loglevel error -y -i lotes/audio/berna.m4a -ar 16000 -ac 1 -f f32le /tmp/a.raw
+O=cinecode/out/berna-img; mkdir -p $O
 python3 - <<'PY'
-import numpy as np
-from faster_whisper import WhisperModel
-a = np.fromfile("/tmp/a.raw", dtype=np.float32)
-m = WhisperModel("small", device="cpu", compute_type="int8")
-segs, _ = m.transcribe(a, language="es", word_timestamps=True, vad_filter=False)
-with open("cinecode/out/berna/transcripcion.txt", "w") as f:
-    for s in segs:
-        f.write(f"{s.start:.2f}-{s.end:.2f} {s.text.strip()}\n")
-        for w in s.words:
-            f.write(f"   {w.start:.2f}-{w.end:.2f} {w.word}\n")
+import json, urllib.parse, urllib.request, time
+spec = json.load(open("lotes/dibujos/berna.json"))
+estilo = "claymation, plasticine stop-motion miniature figures with fingerprint texture, handmade miniature stadium set, soft studio lighting, shallow depth of field, Aardman-like craft look"
+for e in spec["escenas"]:
+    p = e["prompt"].replace("Vertical illustration: ", "") + " " + estilo + ". No text, no logos, no real people faces."
+    u = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(p) + "?width=1080&height=1920&seed=54&nologo=true&model=flux"
+    for intento in range(3):
+        try:
+            data = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "GuineoReels/1.0"}), timeout=180).read()
+            open(f"cinecode/out/berna-img/{e['id']}.jpg", "wb").write(data); print("ok", e["id"], len(data)); break
+        except Exception as ex:
+            print("err", e["id"], ex); time.sleep(10)
 PY
