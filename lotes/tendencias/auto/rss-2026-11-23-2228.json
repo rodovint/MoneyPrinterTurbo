@@ -1,0 +1,562 @@
+{
+ "fecha": "2026-11-23T22:28-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "embalse",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Crisis eléctrica: caída de embalses en Colombia pone más presión al sistema ecuatoriano (Diario La Hora)",
+     "Recomendaciones del alcalde Carlos Galán para ahorrar energía en Bogotá y alcanzar meta de embalses (Noticias Caracol)"
+    ]
+   },
+   {
+    "tema": "cortes de luz",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Masivos cortes de luz en Quito y apagones en ciertos sectores de Guayaquil, reportan usuarios este 23 de noviembre (Primicias)",
+     "Apagones imprevistos afectan a varias ciudades de Ecuador (Ecuavisa)"
+    ]
+   },
+   {
+    "tema": "fito",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Causa 26-CR-323: Los secretos de la acusación en Brooklyn que imputa terrorismo al hermano de 'Fito' (Primicias)",
+     "Jurado federal de EE. UU. dicta acusación contra hermano de alias 'Fito' (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "copa mundial de fútbol sub-17",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Calendario de fútbol de hoy, 24 de noviembre: Dramática Copa Mundial Sub-17 (Vietnam.vn)",
+     "Calendario de partidos y retransmisión en directo del Mundial Sub-17 de 2026 hoy, 23 de noviembre: Selección Sub-17 de Vietnam en acción. (Vietnam.vn)"
+    ]
+   },
+   {
+    "tema": "76ers - trail blazers",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Portland Trail Blazers at Philadelphia 76ers (Reuters Connect)",
+     "Blazers beat up Sixers after Joel Embiid scratched due to illness (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "santos vs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Melhores momentos: Santos 0 x 2 Grêmio (Brasileirão) (OneFootball)",
+     "Santos Chase Libertadores Spot Against Relegation Threatened Gremio (www.suaralandak.co.id)"
+    ]
+   },
+   {
+    "tema": "gustavo álvarez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gustavo Álvarez es duda en Liga de Quito y ahora lo ponen como opción para otro equipo (Bolavip)",
+     "El entrenador ideal que está listo para dirigir Liga de Quito tras el fracaso que resultó Gustavo Álvarez (El Futbolero Ecuador)"
+    ]
+   },
+   {
+    "tema": "selección de fútbol sub-17 de españa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T16:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "España gana 15-0 en su segundo partido en Mundial Sub 17 (ESPN Deportes)",
+     "Ni Ebrima Tunkara ni Jordi Pesquer: las cuatro joyas de la Masía que se lucen con la selección española en el Mundial sub-17 (Crónica Global)"
+    ]
+   },
+   {
+    "tema": "santos - grêmio",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-23T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Confira as notas dos jogadores do Grêmio na vitória sobre o Santos (Correio do Povo)",
+     "Ônibus com torcedores do Grêmio aguardam para entrar no Morumbis ainda no intervalo; veja (ge)"
+    ]
+   },
+   {
+    "tema": "liga ecuabet",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Gustavo Álvarez, DT de Liga de Quito, tras la derrota ante Aucas: 'Es una racha de la que tenemos que salir' (Primicias)",
+     "'Papá' supera a LDU en Casa Blanca y acaricia un cupo para la Libertadores 2027 (El Telégrafo (por eliminar))"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "billie jean king",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T19:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Watch: Highlights as Gauff & Townsend clinch Play-off tie for USA (Billie Jean King Cup)",
+     "Gauff, Townsend Clinch USA Sweep over Hungary at BJK Cup (Tennis Now)"
+    ]
+   },
+   {
+    "tema": "joan beringer",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Timberwolves should play LaMelo Ball and Joan Beringer together more despite risks (Dunking with Wolves)"
+    ]
+   },
+   {
+    "tema": "amber alert",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Amber Alert issued for abduction of baby in Cayuga County (Syracuse.com)",
+     "AMBER Alert issued for 4-month-old girl abducted in upstate New York (13WHAM-TV)"
+    ]
+   },
+   {
+    "tema": "myles turner",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Myles Turner's quiet nights are getting harder to stomach for Bucks (Behind the Buck Pass)",
+     "Myles Turner rejects four shots, fouls out (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "where is the super bowl this year",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "ESPN, The Walt Disney Company, the NFL and IMAX to Bring the Super Bowl to IMAX for the First Time (IMAX)",
+     "Moviegoers are getting a front-row seat to the Super Bowl (KTLA)"
+    ]
+   },
+   {
+    "tema": "trevon diggs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seahawks Sign Trevon Diggs & Bobby Hart To 53-Man Roster (Seattle Seahawks)",
+     "Seahawks place Holani on IR, sign 2 players off practice squad (Seattle Sports)"
+    ]
+   },
+   {
+    "tema": "toronto maple leafs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Auston Matthews stares down anthem singer after she botches O Canada (blogTO)",
+     "NY Islanders anthem singer mishap leaves fans and Maple Leafs looking puzzled (Eyes On Isles)"
+    ]
+   },
+   {
+    "tema": "oklahoma city thunder vs pacers match player stats",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "76ers rally vs. Magic, improve to 11-0 in clutch games (ESPN)",
+     "‘It worked every time': How Sixers found a clutch answer at shootaround (NBC Sports Philadelphia)"
+    ]
+   },
+   {
+    "tema": "what happened to tom jackson",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cleveland native Tom Jackson, former Broncos star and 'Sunday NFL Countdown' analyst, dead at 75 (WKYC)",
+     "Troy Aikman Raises Eyebrows With Unexpected On-Air Comment During ESPN’s Live Tribute to Tom Jackson (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "jaime munguia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   }
+  ],
+  "ES": [
+   {
+    "tema": "sorteo primitiva hoy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Primitiva hoy: comprobar resultados del sorteo y números premiados del lunes 23 de noviembre, en directo (El Confidencial)",
+     "Gordo de la Primitiva: comprobar sorteo del domingo 22 de noviembre (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "pacers - thunder",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Oklahoma City Thunder at Indiana Pacers (Reuters Connect)",
+     "3 observations from a much-needed Pacers win vs Thunder behind Jalen Slawson, Kelly Oubre (IndyStar)"
+    ]
+   },
+   {
+    "tema": "carretera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una salida de vía en la carretera de Valencia provoca importantes daños en un vehículo y un semáforo (Voces de Cuenca)",
+     "Un coche se sale de la vía en la carretera de Valencia de Cuenca tras un posible deslumbramiento por el sol (Liberal de Castilla)"
+    ]
+   },
+   {
+    "tema": "en tierra lejana",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "\"Yo soy el único que te puede salvar\": Ecmel intenta poner a Boran en contra de Cihan (Antena 3)",
+     "El futuro de Boran queda sellado en 'En tierra lejana': así será el capítulo 42 de la serie turca de Antena 3 (Diez Minutos ES)"
+    ]
+   },
+   {
+    "tema": "76ers - trail blazers",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T16:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Trail Blazers 128-111 76ers (Nov 23, 2026) Game Recap (ESPN)",
+     "NBA: Portland Trail Blazers at Philadelphia 76ers (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "santos - grêmio",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Santos 0 x 2 Grêmio | Campeonato Brasileiro: melhores momentos (ge)",
+     "🔵 O nível da dificuldade que o Grêmio vai encarar contra o Santos | Segue o Fio (GZH)"
+    ]
+   },
+   {
+    "tema": "túnel",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tres kilómetros y medio bajo Gijón y una pregunta pendiente desde 2006: ¿cuándo pasará el primer tren? (miGijón)",
+     "En 2006 terminaron un túnel de 3,5 kilómetros bajo Gijón para meter el tren en la ciudad: 20 años después, ... (OkDiario)"
+    ]
+   },
+   {
+    "tema": "adamuz",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Adif pide a Renfe los acelerómetros de los trenes que circularon por Adamuz para investigar «posibles anomalías» en la vía (ABC)",
+     "Adif quiere conocer los datos de los trenes que circularon antes del siniestro de Adamuz (Diario de Sevilla)"
+    ]
+   },
+   {
+    "tema": "euro stoxx 50",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T15:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "STOXX 50 aktuell: STOXX 50 schlussendlich mit Zuschlägen (finanzen.at)",
+     "Pluszeichen in Europa: STOXX 50 legt zum Ende des Montagshandels zu (Finanzen.net)"
+    ]
+   },
+   {
+    "tema": "cyberpunk 2077",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T15:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "\"Cyberpunk 2 is cancelled,\" says the RPG's director after entering a \"GTA 6-induced-open-world-game-dev-depression\" (GamesRadar+)",
+     "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director (Push Square)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "hija",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La última y tierna foto de Bruce Willis con su hija Tallulah que muestra el estado actual del actor (Clarin.com)",
+     "Tallulah Willis, hija de Bruce Willis, pide disculpas por compartir una foto \"demasiado íntima\" de su padre (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "lakers - jazz",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jazz snap Lakers' 9-game winning streak with 109-97 victory behind Keyonte George's 30 points (AP News)",
+     "Los Angeles Lakers vs. Utah Jazz - 1st Quarter Highlights (NBA.com)"
+    ]
+   },
+   {
+    "tema": "kings - spurs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Spurs rule Victor Wembanyama, De'Aaron Fox out 90 minutes before tip vs. Kings (ESPN)",
+     "De'Aaron Fox (shin) ruled out Monday (FantasyPros)"
+    ]
+   },
+   {
+    "tema": "dólar estadounidense",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 23 de noviembre (TN)",
+     "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 23 de noviembre (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "china",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair (The New York Times)",
+     "Exclusive / Commerce adds Megaspeed to trade blacklist (Semafor)"
+    ]
+   },
+   {
+    "tema": "agustina albertario",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Agustina Albertario con Olé: el precio que tuvo que pagar en Las Leonas, las redes, el pádel y su 2027 (Olé)",
+     "Agustina Albertario con Olé: el precio que tuvo que pagar en Las Leonas, las redes, el pádel y su 2027 (La Señal FM - 97.7)"
+    ]
+   },
+   {
+    "tema": "automovilismo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cimbronazo en el automovilismo: se retira de las carreras uno de los grupos más grandes del mundo (Olé)",
+     "Stellantis retira a Peugeot del WEC y sacará a Citroen y Opel de Fórmula E tras 2027 (Motorsport.com España)"
+    ]
+   },
+   {
+    "tema": "timberwolves - nets",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA Game Preview: Timberwolves vs Blazers Thread (Yahoo Sports)",
+     "Oklahoma City Thunder vs. Indiana Pacers Prediction, Pick for Monday, 11/23/26 (DraftKings Network)"
+    ]
+   },
+   {
+    "tema": "neymar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Neymar ganó un torneo de póker en Brasil: la suma que embolsó (TyC Sports)",
+     "Neymar gana un torneo de póker y se embolsa 380.000 reales (MARCA)"
+    ]
+   },
+   {
+    "tema": "rockets - clippers",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Los Angeles Clippers at Houston Rockets (Reuters Connect)",
+     "Rockets Host Clippers as Jabari Smith Jr. Leads Houston Offense (cwibc.co.id)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "amexgas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T19:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cuesta mercado ilícito de gas LP 12 mil mdp anuales (Reforma)",
+     "Gas LP en México: Amexgas advierte riesgo para 20 millones de hogares por precios máximos (El Financiero)"
+    ]
+   },
+   {
+    "tema": "prisca awiti",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T19:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Prisca Awiti anuncia su retiro profesional y deja un legado histórico para el judo mexicano (Gob MX)",
+     "Anuncia Prisca Awiti su retiro del judo tras dejar de disfrutar la competencia (El Comentario)"
+    ]
+   },
+   {
+    "tema": "bebeshita",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Bebeshita’ es eliminada de ‘La Granja VIP’ y culpa a su ‘relación tóxica’, tras su salida llegan nuevos granjeros (El Financiero)",
+     "¿Quién fue ELIMINADO en La Granja VIP 2? Así fue la salida del onceavo expulsado HOY 22 de noviembre| VIDEO (MILENIO)"
+    ]
+   },
+   {
+    "tema": "uefa champions league",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "UEFA Champions League - Arsenal Training (Reuters Connect)",
+     "Champions League predicted line-ups: Matchday 5 team news, injuries, suspensions (UEFA.com)"
+    ]
+   },
+   {
+    "tema": "stefon diggs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-23T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Stefon Diggs Erupts on Commanders Sideline Against Bengals (cwibc.co.id)",
+     "Stefon Diggs sideline meltdown wakes up Commanders offense on ‘MNF’ (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "weather tomorrow",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-23T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "SnowTALK! BLOG | Active later this week (WDRB)",
+     "Wet and windy Thanksgiving ahead in WV, KY & OH (WOWK 13 News)"
+    ]
+   },
+   {
+    "tema": "jaime munguía",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jaime Munguía Unlikely To Answer Wilkens Mathieu Callout In Québec (Boxing News 24/7)",
+     "Zon: “Many People from Mexico Wrote That I Was Robbed in My Fight Against Munguia” (Telecom Asia Sport)"
+    ]
+   },
+   {
+    "tema": "lakers - jazz",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jazz snap Lakers' 9-game winning streak with 109-97 victory behind Keyonte George's 30 points (AP News)",
+     "Los Angeles Lakers vs. Utah Jazz - 1st Quarter Highlights (NBA.com)"
+    ]
+   },
+   {
+    "tema": "dólar hoy",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Precio del dólar HOY lunes 23 de noviembre de 2026: Peso mexicano se debilita y toca su nivel más bajo desde j (MILENIO)",
+     "El peso mexicano continúa presionado por el dólar, cotiza en 19.22 por dólar (La Jornada)"
+    ]
+   },
+   {
+    "tema": "jacory croskey-merritt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-23T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Washington Commanders vs Cincinnati Bengals Week 11 inactives: Who's in, out? (Yahoo Sports)",
+     "Rachaad White Active in Week 11 (Fantasy Footballers Podcast)"
+    ]
+   }
+  ]
+ }
+}
