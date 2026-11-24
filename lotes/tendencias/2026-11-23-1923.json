@@ -1,0 +1,6 @@
+{"fecha": "2026-11-23T19:23-05:00", "nota": "rss-ultimo.json es de 17:36 (sin corridas 18:05/19:05; aún <3 h, sin aviso). Temas nuevos frente a 17:24 son partidos europeos ya terminados por la tarde, sin interés local claro; 'champions' (Endrick) sin confirmación de nota de hoy. Una WebSearch sin polémica viral fechada hoy. Sin señal accionable.", "temas": [
+ {"tema": "Brentford vs Everton (4-0)", "señales": ["nuevo 2000+ en rss 17:36", "partido terminado temprano"], "volumen_EC": "2000+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Levante vs Elche", "señales": ["1000+ en rss 17:36"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
+ {"tema": "Monza vs Fiorentina (3-0)", "señales": ["1000+ en rss 17:36"], "volumen_EC": "1000+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
+ {"tema": "champions / Endrick", "señales": ["500+", "titular de lesión sin fecha confirmada"], "volumen_EC": "500+", "volumen_anterior": null, "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false}
+]}
