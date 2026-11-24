@@ -28,12 +28,9 @@
    {
     "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
     "grafico": {
-     "tipo": "duo",
-     "a": "GRÊMIO",
-     "a_texto": "ZONA DE DESCENSO",
-     "b": "SANTOS",
-     "b_texto": "9.º · 50 PUNTOS",
-     "pie": "BRASILEIRÃO 2026"
+     "tipo": "titular",
+     "texto": "GRÊMIO EN DESCENSO",
+     "sobre": "SANTOS · 9.º · 50 PUNTOS"
     },
     "transicion": "barrido"
    },
@@ -63,9 +60,9 @@
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "cita",
+     "tipo": "titular",
      "texto": "«ERA VICTORIA SEGURA»",
-     "autor": "NEYMAR · TRAS EL 0-2 (VÍA METRÓPOLES)"
+     "sobre": "NEYMAR · VÍA METRÓPOLES"
     },
     "suspenso": true,
     "transicion": "rota"
@@ -86,9 +83,9 @@
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "cita",
+     "tipo": "titular",
      "texto": "«PRIMERA VEZ QUE ME GANAN»",
-     "autor": "NEYMAR EN REDES (VÍA TMC)"
+     "sobre": "NEYMAR EN REDES · VÍA TMC"
     },
     "transicion": "glitch"
    },
@@ -100,181 +97,6 @@
      "sobre": "NEYMAR"
     },
     "transicion": "barrido"
-   }
-  ]
- },
- {
-  "titulo": "Real Madrid vs PSV: el rival que eliminó al Madrid sin ganarle nunca",
-  "etiqueta": "CHAMPIONS · PREVIA",
-  "club": "real madrid",
-  "prueba_voz": "Mui+Andrea",
-  "franja": [
-   "CHAMPIONS LEAGUE · FECHA 5",
-   "HOY 15:00 · SANTIAGO BERNABÉU",
-   "REAL MADRID: 4 DE 4"
-  ],
-  "audio": "audio/42",
-  "escenas": [
-   {
-    "texto": "Mourinho recibe hoy a quien eliminó al Madrid sin ganarle.",
-    "foto_commons": "Mourinho Madrid (cropped).jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "EL RIVAL QUE NUNCA LE GANÓ",
-     "sobre": "REAL MADRID · HOY"
-    },
-    "hinchada": true
-   },
-   {
-    "texto": "El Madrid llega perfecto: cuatro de cuatro.",
-    "voz": "andrea",
-    "foto_commons": "Estadio Santiago Bernabéu (01).jpg",
-    "movimiento": "paneo_der",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "12",
-     "texto": "PUNTOS · 4 DE 4 EN CHAMPIONS"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "El PSV de Peter Bosz, apenas cuatro puntos.",
-    "dicho": "El pe ese uve de Peter Bos, apenas cuatro puntos.",
-    "voz": "andrea",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "4",
-     "texto": "PSV · PUESTO 24 DE 36"
-    },
-    "transicion": "barrido"
-   },
-   {
-    "texto": "¿Hoy gana el Madrid? Te leo, y sigue a Guineo.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿GANA EL MADRID?",
-     "sobre": "@GUINEOCOMUNICACIONES"
-    },
-    "transicion": "glitch"
-   },
-   {
-    "texto": "Semifinal de mil novecientos ochenta y ocho: uno a uno y cero a cero.",
-    "voz": "andrea",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "1-1 Y 0-0",
-     "sobre": "SEMIFINAL · 1988"
-    },
-    "destello": true,
-    "tono": "recuerdo",
-    "suspenso": true,
-    "transicion": "flash",
-    "foto_commons": "Santiagobernabeupanoramav45.JPG"
-   },
-   {
-    "texto": "Pasó el PSV, y fue campeón de Europa.",
-    "dicho": "Pasó el pe ese uve, y fue campeón de Europa.",
-    "voz": "andrea",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "PASÓ EL PSV",
-     "sobre": "Y FUE CAMPEÓN DE EUROPA"
-    },
-    "tono": "recuerdo",
-    "transicion": "rota",
-    "foto_commons": "Santiagobernabeupanoramav45.JPG"
-   },
-   {
-    "texto": "Hoy, a las tres, vuelve al Bernabéu.",
-    "foto_commons": "Mourinho Madrid (cropped).jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "HOY · 15:00",
-     "sobre": "REAL MADRID VS PSV"
-    },
-    "transicion": "zoom"
-   }
-  ]
- },
- {
-  "titulo": "Ecuador vs Corea del Sur Sub-17: lo que necesita la Mini-Tri",
-  "etiqueta": "MUNDIAL SUB-17 · QATAR",
-  "club": "ecuador",
-  "prueba_voz": "Mui",
-  "franja": [
-   "MUNDIAL SUB-17 · GRUPO B",
-   "MIÉRCOLES 07:30 · TELEAMAZONAS",
-   "DT GONZALO FERREA"
-  ],
-  "audio": "audio/43",
-  "escenas": [
-   {
-    "texto": "La Mini-Tri se juega el pase contra el único que ganó todo.",
-    "foto": "img/sub17-uganda-2026-11-22/mina-16-gancho.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿PASA LA MINI-TRI?",
-     "sobre": "MUNDIAL SUB-17"
-    },
-    "hinchada": true
-   },
-   {
-    "texto": "Corea del Sur: nueve goles a favor, cero en contra.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "9-0",
-     "texto": "COREA DEL SUR · 6 PUNTOS"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Ecuador: un triunfo, un empate, y un solo gol.",
-    "foto_commons": "Aspire Park Panorama View.jpg",
-    "movimiento": "paneo_izq",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "4",
-     "texto": "ECUADOR · 4 PUNTOS · GOL DE JHON GUERRERO"
-    },
-    "transicion": "barrido"
-   },
-   {
-    "texto": "¿Le alcanza a la Mini-Tri? Te leo, y sigue a Guineo.",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿LE ALCANZA?",
-     "sobre": "@GUINEOCOMUNICACIONES"
-    },
-    "transicion": "glitch",
-    "foto": "img/tri-camerino.png"
-   },
-   {
-    "texto": "El dato: con un empate, Ecuador pasa a dieciseisavos.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "EMPATE = DIECISEISAVOS",
-     "sobre": "SIN MIRAR OTROS RESULTADOS"
-    },
-    "destello": true,
-    "suspenso": true,
-    "transicion": "flash"
-   },
-   {
-    "texto": "Mañana, siete y treinta, contra el equipo perfecto.",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "MIÉ 25 · 07:30",
-     "sobre": "ECUADOR VS COREA DEL SUR"
-    },
-    "transicion": "zoom",
-    "foto": "img/tri-camerino.png"
    }
   ]
  },
@@ -407,7 +229,8 @@
      "tipo": "ninguno"
     },
     "tono": "recuerdo",
-    "transicion": "rota"
+    "transicion": "rota",
+    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg"
    }
   ]
  }

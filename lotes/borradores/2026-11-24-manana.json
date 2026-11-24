@@ -28,12 +28,9 @@
    {
     "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
     "grafico": {
-     "tipo": "duo",
-     "a": "GRÊMIO",
-     "a_texto": "ZONA DE DESCENSO",
-     "b": "SANTOS",
-     "b_texto": "9.º · 50 PUNTOS",
-     "pie": "BRASILEIRÃO 2026"
+     "tipo": "titular",
+     "texto": "GRÊMIO EN DESCENSO",
+     "sobre": "SANTOS · 9.º · 50 PUNTOS"
     },
     "transicion": "barrido"
    },
@@ -63,9 +60,9 @@
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "cita",
+     "tipo": "titular",
      "texto": "«ERA VICTORIA SEGURA»",
-     "autor": "NEYMAR · TRAS EL 0-2 (VÍA METRÓPOLES)"
+     "sobre": "NEYMAR · VÍA METRÓPOLES"
     },
     "suspenso": true,
     "transicion": "rota"
@@ -86,9 +83,9 @@
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "cita",
+     "tipo": "titular",
      "texto": "«PRIMERA VEZ QUE ME GANAN»",
-     "autor": "NEYMAR EN REDES (VÍA TMC)"
+     "sobre": "NEYMAR EN REDES · VÍA TMC"
     },
     "transicion": "glitch"
    },
@@ -407,7 +404,8 @@
      "tipo": "ninguno"
     },
     "tono": "recuerdo",
-    "transicion": "rota"
+    "transicion": "rota",
+    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg"
    }
   ]
  }
