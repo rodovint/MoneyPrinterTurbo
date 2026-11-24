@@ -1,18 +1,17 @@
 #!/usr/bin/env bash
-# Job 44 (2026-11-23): ilustraciones de plastilina de Berna vía Pollinations (gratis, sin clave) mientras Cloudflare no tiene cupo
+# Job 45 (2026-11-24): mapas de profundidad (Depth Anything V2 small) de las ilustraciones de Berna para animación 2.5D
 set -u
-O=cinecode/out/berna-img; mkdir -p $O
+O=cinecode/out/berna-depth; mkdir -p $O
+pip install -q torch --index-url https://download.pytorch.org/whl/cpu >/dev/null 2>&1
+pip install -q transformers pillow >/dev/null 2>&1
 python3 - <<'PY'
-import json, urllib.parse, urllib.request, time
-spec = json.load(open("lotes/dibujos/berna.json"))
-estilo = "claymation, plasticine stop-motion miniature figures with fingerprint texture, handmade miniature stadium set, soft studio lighting, shallow depth of field, Aardman-like craft look"
-for e in spec["escenas"]:
-    p = e["prompt"].replace("Vertical illustration: ", "") + " " + estilo + ". No text, no logos, no real people faces."
-    u = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(p) + "?width=1080&height=1920&seed=54&nologo=true&model=flux"
-    for intento in range(3):
-        try:
-            data = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "GuineoReels/1.0"}), timeout=180).read()
-            open(f"cinecode/out/berna-img/{e['id']}.jpg", "wb").write(data); print("ok", e["id"], len(data)); break
-        except Exception as ex:
-            print("err", e["id"], ex); time.sleep(10)
+import glob, os
+from PIL import Image
+from transformers import pipeline
+pipe = pipeline("depth-estimation", model="depth-anything/Depth-Anything-V2-Small-hf")
+for f in sorted(glob.glob("lotes/img/berna/*.png")):
+    im = Image.open(f).convert("RGB")
+    d = pipe(im)["depth"].resize(im.size)
+    d.save("cinecode/out/berna-depth/" + os.path.basename(f))
+    print("ok", f)
 PY
