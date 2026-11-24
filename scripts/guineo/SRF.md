@@ -74,3 +74,9 @@ Actúa como director creativo, guionista y editor audiovisual de fútbol digital
 - La intro oficial (srf_intro_tv.py + escudo) NO menciona secciones: nada de "villano / winner / caballero" fijo en la intro ni en ningún gráfico permanente.
 - Las secciones no son bloques fijos: nacen de las noticias de cada episodio (villano, winner, caballero u otras nuevas) y se crean, cambian o crecen según lo que haya. Si una semana no hay caballero, no hay caballero.
 - Titulares (Mui, 23/11): en CADA episodio los titulares llevan SIEMPRE algo de Barcelona SC, Emelec, Liga de Quito e IDV (aunque sea una noticia menor: dirigencia, lesión, próximo partido, hinchada), además de lo más importante del resto.
+
+## Imágenes, memes y sonidos (Mui, 23/11)
+- Cada noticia lleva IMÁGENES que tengan que ver con ella (fotos libres de Commons del protagonista/estadio, fotos que mande Mui), no solo gráficos de texto.
+- ENTRE cada noticia va un MEME (video o imagen) que tenga que ver con lo que se acaba de contar (ej.: tras Reixon Saya, el meme "ya dice Varón"). Biblioteca de memes: la que manda Mui; nunca descargados por el agente; máx. 2–3 s, con crédito.
+- Efectos de sonido para jugar con el ritmo (whoosh, golpe, disco rayado, redoble, campana, risas, bocina, glitch…), marcados segundo a segundo.
+- ANTES de producir cualquier video del SRF se manda a Mui el GUION TÉCNICO con: qué meme va dónde (y su segundo de inicio/fin), qué imagen, qué efecto visual, qué sonido y en qué segundo. Se produce solo con su OK.

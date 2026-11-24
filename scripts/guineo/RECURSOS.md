@@ -181,3 +181,6 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 
 ## Decimales en gráficos (bug 23/11)
 - Los decimales van con COMA ("0,33"), nunca con punto: el punto se lee como separador de miles. Desde el 23/11 el generador ya no cuenta "0.31" como 31, pero igual escribe decimales con coma.
+
+## Memes y sonidos en videos (Mui, 23/11)
+- SRF y videos largos: imagen relacionada con cada noticia + un meme (video o imagen) relacionado entre noticia y noticia + efectos de sonido. Antes de producir, guion técnico a Mui con memes, imágenes, efectos y sonidos segundo a segundo (ver scripts/guineo/SRF.md).
