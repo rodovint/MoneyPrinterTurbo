@@ -162,12 +162,17 @@ def tarjeta(p):
         for i, (n, pts) in enumerate(filas):
             dest = n.upper() == p.get("destacar", "").upper()
             col = rgb(p["color"]) if dest and p.get("color") else (VERDE if not dest else ORO)
-            d.rectangle([cx - 620, y - 58, cx + 620, y + 58], fill=(*col, 235))
+            ancho = 620 if not isinstance(pts, str) else 820
+            d.rectangle([cx - ancho, y - 58, cx + ancho, y + 58], fill=(*col, 235))
             es = escudo(p.get("escudos", {}).get(n), 90)
             if es:
                 im.alpha_composite(es, (int(cx - 590), int(y - es.height / 2)))
-            d.text((cx - 470, y), n.upper(), font=NEG(64), fill=CREMA if not dest else NEGRO, anchor="lm")
-            d.text((cx + 580, y), str(pts), font=NEGI(80), fill=CREMA if not dest else NEGRO, anchor="rm")
+            if isinstance(pts, str):  # agenda: partido a la izquierda, día y hora a la derecha
+                d.text((cx - ancho + 40, y), n.upper(), font=ajustar(d, n.upper(), NEG, 900, 60), fill=CREMA, anchor="lm")
+                d.text((cx + ancho - 40, y), pts, font=NEGI(56), fill=ORO, anchor="rm")
+            else:
+                d.text((cx - 470, y), n.upper(), font=NEG(64), fill=CREMA if not dest else NEGRO, anchor="lm")
+                d.text((cx + 580, y), str(pts), font=NEGI(80), fill=CREMA if not dest else NEGRO, anchor="rm")
             y += 140
     elif t == "cortinilla":
         f, ls = lineas(d, p["titulo"].upper(), NEGI, 1600, 190, 2)
