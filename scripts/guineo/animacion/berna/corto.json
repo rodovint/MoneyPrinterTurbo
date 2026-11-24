@@ -57,7 +57,8 @@
    "mov": "zoom_in",
    "sfx": [
     "trueno"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/estadio.png"
   },
   {
    "t": 11.35,
@@ -66,7 +67,8 @@
    "texto": "BERNA · 1954",
    "sfx": [
     "whoosh"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/equipos.png"
   },
   {
    "t": 17.6,
@@ -75,7 +77,8 @@
    "efecto": "camara_lenta",
    "sfx": [
     "whoosh"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/barrida.png"
   },
   {
    "t": 19.6,
@@ -91,7 +94,8 @@
    "sfx": [
     "golpe"
    ],
-   "marcador_pos": "centro"
+   "marcador_pos": "centro",
+   "depth": "lotes/img/berna/depth/marcador.png"
   },
   {
    "t": 21.4,
@@ -99,7 +103,8 @@
    "mov": "sacudon",
    "sfx": [
     "patadas"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/pelea.png"
   },
   {
    "t": 26.6,
@@ -107,7 +112,8 @@
    "mov": "pan_izq",
    "sfx": [
     "silbato"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/arbitro.png"
   },
   {
    "t": 31.1,
@@ -115,7 +121,8 @@
    "mov": "zoom_out",
    "sfx": [
     "sirena"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/pelea.png"
   },
   {
    "t": 34.45,
@@ -123,7 +130,8 @@
    "mov": "zoom_in",
    "sfx": [
     "whoosh"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/estadio.png"
   },
   {
    "t": 40.0,
@@ -140,7 +148,8 @@
     "redoble",
     "golpe"
    ],
-   "marcador_pos": "centro"
+   "marcador_pos": "centro",
+   "depth": "lotes/img/berna/depth/marcador.png"
   },
   {
    "t": 44.4,
@@ -151,7 +160,8 @@
    "apagon_en": 46.95,
    "sfx": [
     "zumbido"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/vestuario.png"
   },
   {
    "t": 51.2,
@@ -161,7 +171,8 @@
    "titulo_en": 58.0,
    "sfx": [
     "trueno"
-   ]
+   ],
+   "depth": "lotes/img/berna/depth/final.png"
   }
  ],
  "subtitulos": [

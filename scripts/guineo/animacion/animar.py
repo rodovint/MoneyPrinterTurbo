@@ -91,6 +91,43 @@ def cuadro(base, mov, q):
     return base.crop(box).resize((W, H), Image.BILINEAR)
 
 
+_prof = {}
+
+
+def preparar_25d(base, ruta_depth):
+    """Base (ya escalada a 1.18x) + mapa de profundidad del mismo encuadre (0 lejos, 1 cerca)."""
+    d = Image.open(ruta_depth).convert("L").resize(base.size, Image.BILINEAR).filter(ImageFilter.GaussianBlur(6))
+    D = np.asarray(d).astype(np.float32) / 255.0
+    D = (D - D.min()) / max(1e-6, D.max() - D.min())
+    return np.asarray(base), D
+
+
+def cuadro_25d(arr, D, mov, q, t):
+    """Cámara 2.5D: lo cercano se desplaza más que el fondo, con vaivén y 'hervor' de stop-motion (a 12 cuadros/s)."""
+    bh, bw = D.shape
+    tq = math.floor(t * 12.5) / 12.5  # animación "en dos" como la plastilina
+    z = {"zoom_in": 1 + 0.10 * q, "zoom_out": 1.10 - 0.10 * q}.get(mov, 1.04)
+    cw, ch = W * 1.18 / z / 1.18, H * 1.18 / z / 1.18
+    ox = (bw - cw * 1.0) / 2 + {"pan_izq": (0.5 - q), "pan_der": (q - 0.5)}.get(mov, 0) * (bw - cw) * 0.8
+    oy = (bh - ch) / 2
+    ys = (np.arange(H, dtype=np.float32) * (ch / H) + oy)
+    xs = (np.arange(W, dtype=np.float32) * (cw / W) + ox)
+    X, Y = np.meshgrid(xs, ys)
+    Dv = D[np.clip(Y.astype(np.int32), 0, bh - 1), np.clip(X.astype(np.int32), 0, bw - 1)]
+    # paralaje: el desplazamiento de cámara mueve más lo cercano
+    par = {"pan_izq": -1, "pan_der": 1}.get(mov, 0.6) * (q - 0.5) * 70
+    X = X - Dv * par
+    Y = Y - Dv * (q - 0.5) * 22
+    # vaivén suave de los muñecos (solo lo cercano) + hervor de stop-motion
+    r = np.random.default_rng(int(tq * 100))
+    X = X + (Dv ** 2) * (5 * np.sin(2 * np.pi * (tq * 0.9 + Y / 420.0))) + r.normal(0, 0.6)
+    Y = Y + (Dv ** 2) * (3 * np.sin(2 * np.pi * (tq * 0.7 + X / 520.0))) + r.normal(0, 0.6)
+    if mov == "sacudon":
+        X += math.sin(q * 90) * 14 * (1 - q); Y += math.cos(q * 70) * 10 * (1 - q)
+    xi = np.clip(X.astype(np.int32), 0, bw - 1); yi = np.clip(Y.astype(np.int32), 0, bh - 1)
+    return Image.fromarray(arr[yi, xi])
+
+
 def main(cfg_path, out):
     cfg = json.load(open(cfg_path, encoding="utf-8"))
     acento = rgb(cfg.get("color", "#F6C90E"))
@@ -169,7 +206,16 @@ def main(cfg_path, out):
         t_ap = m(e["apagon_en"]) if e.get("efecto") == "apagon" else None
         for kk in range(n):
             tg = (f0 + kk) / FPS; q = kk / n
-            fr = cuadro(base, e.get("mov", "zoom_in"), q if e.get("efecto") != "camara_lenta" else q * 0.35).convert("RGBA")
+            qq_ = q if e.get("efecto") != "camara_lenta" else q * 0.35
+            dp = e.get("depth")
+            if dp:
+                dp = dp if os.path.isabs(dp) else os.path.join(ROOT, dp)
+                if (e["img"], dp) not in _prof:
+                    _prof[(e["img"], dp)] = preparar_25d(base, dp)
+                arr_, D_ = _prof[(e["img"], dp)]
+                fr = cuadro_25d(arr_, D_, e.get("mov", "zoom_in"), qq_, tg).convert("RGBA")
+            else:
+                fr = cuadro(base, e.get("mov", "zoom_in"), qq_).convert("RGBA")
             if e.get("lluvia", True):
                 fr.alpha_composite(lluvia_capa(f0 + kk))
             d = ImageDraw.Draw(fr)
