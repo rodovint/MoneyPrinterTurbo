@@ -1,0 +1,799 @@
+{
+ "voz": "lotes/audio/srf-001.m4a",
+ "intro": "scripts/guineo/srf/intro-srf-oficial.mp4",
+ "piezas": [
+  {
+   "voz": [
+    3.2,
+    21.3
+   ]
+  },
+  {
+   "meme": "LOCAL:rec1.mp4",
+   "desde": 16.4,
+   "dur": 2.2,
+   "texto": "¡TUCA, SACA TU CAÑÓN!",
+   "recorte": [
+    0,
+    0.335,
+    0.82,
+    0.655
+   ],
+   "credito": "TikTok: El Sao"
+  },
+  {
+   "voz": [
+    24.4,
+    52.6
+   ]
+  },
+  {
+   "voz": [
+    60.9,
+    121.4
+   ]
+  },
+  {
+   "voz": [
+    123.9,
+    176.0
+   ]
+  },
+  {
+   "voz": [
+    180.7,
+    213.1
+   ]
+  },
+  {
+   "voz": [
+    216.3,
+    239.75
+   ]
+  },
+  {
+   "voz": [
+    240.0,
+    241.45
+   ]
+  },
+  {
+   "voz": [
+    242.3,
+    252.7
+   ]
+  },
+  {
+   "voz": [
+    272.3,
+    289.45
+   ]
+  },
+  {
+   "voz": [
+    293.7,
+    301.93
+   ]
+  },
+  {
+   "voz": [
+    305.95,
+    338.9
+   ]
+  },
+  {
+   "meme": "LOCAL:risa-peluca.mp4",
+   "desde": 1.0,
+   "dur": 2.2,
+   "texto": "LA CALCULADORA EN QUITO",
+   "recorte": [
+    0,
+    0.15,
+    1,
+    0.85
+   ],
+   "credito": "TikTok"
+  },
+  {
+   "voz": [
+    340.4,
+    341.35
+   ]
+  },
+  {
+   "voz": [
+    343.8,
+    359.4
+   ]
+  },
+  {
+   "voz": [
+    376.42,
+    387.2
+   ],
+   "pausa": 1.2
+  }
+ ],
+ "planos": [
+  {
+   "t": 3.2,
+   "tipo": "texto",
+   "titulo": "Un ecuatoriano levantó una copa",
+   "sobre": "este fin de semana",
+   "entrada": "flash"
+  },
+  {
+   "t": 6.9,
+   "tipo": "texto",
+   "titulo": "Un libro cerrado hace 12 años",
+   "entrada": "glitch"
+  },
+  {
+   "t": 9.6,
+   "tipo": "texto",
+   "titulo": "Quito · después del clásico",
+   "color": "#C8102E"
+  },
+  {
+   "t": 12.6,
+   "tipo": "cita",
+   "titulo": "El responsable soy yo",
+   "sub": "¿Quién lo dijo?",
+   "color": "#DEB234",
+   "entrada": "glitch"
+  },
+  {
+   "t": 16.6,
+   "tipo": "texto",
+   "titulo": "¿Quiénes son?",
+   "entrada": "flash"
+  },
+  {
+   "t": 18.6,
+   "tipo": "srf",
+   "titulo": "Episodio 1",
+   "entrada": "flash"
+  },
+  {
+   "t": 24.4,
+   "tipo": "duo",
+   "sobre": "1 · La final en Barranquilla",
+   "equipos": [
+    {
+     "nombre": "Boca Juniors",
+     "escudo": "boca"
+    },
+    {
+     "nombre": "Atlético Mineiro",
+     "escudo": "atletico-mineiro"
+    }
+   ],
+   "titulo": "Un ecuatoriano esperando en el banco",
+   "color": "#003DA5",
+   "zocalo": "Titulares",
+   "entrada": "glitch"
+  },
+  {
+   "t": 30.9,
+   "tipo": "duo",
+   "sobre": "2 · El Ídolo en Quito",
+   "equipos": [
+    {
+     "nombre": "U. Católica",
+     "escudo": "catolica"
+    },
+    {
+     "nombre": "Barcelona SC",
+     "escudo": "barcelona"
+    }
+   ],
+   "titulo": "Todo se decidió con el VAR",
+   "color": "#FFD100",
+   "zocalo": "Titulares"
+  },
+  {
+   "t": 37.1,
+   "tipo": "duo",
+   "sobre": "3 · El Superclásico",
+   "equipos": [
+    {
+     "nombre": "Liga de Quito",
+     "escudo": "liga"
+    },
+    {
+     "nombre": "Aucas",
+     "escudo": "aucas"
+    }
+   ],
+   "titulo": "Se definió en el minuto 84",
+   "color": "#C8102E",
+   "zocalo": "Titulares"
+  },
+  {
+   "t": 42.6,
+   "tipo": "texto",
+   "sobre": "4 · El campeón",
+   "titulo": "Independiente del Valle",
+   "sub": "Trofeo en la mano… y el miércoles visita al Ídolo",
+   "color": "#1F6FC5",
+   "zocalo": "Titulares"
+  },
+  {
+   "t": 48.7,
+   "tipo": "texto",
+   "sobre": "5 · Emelec",
+   "titulo": "Una decisión que puede cambiar su historia",
+   "color": "#0047AB",
+   "zocalo": "Titulares"
+  },
+  {
+   "t": 60.9,
+   "tipo": "texto",
+   "sobre": "Y además…",
+   "titulo": "Machala · un récord de 12 años · Brasil",
+   "color": "#1E8F3E",
+   "zocalo": "Titulares",
+   "entrada": "glitch"
+  },
+  {
+   "t": 68.0,
+   "tipo": "texto",
+   "sobre": "La final de la Sudamericana",
+   "titulo": "Barranquilla · sábado en la noche",
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana",
+   "entrada": "flash"
+  },
+  {
+   "t": 76.0,
+   "tipo": "duo",
+   "sobre": "Final única",
+   "equipos": [
+    {
+     "nombre": "Boca Juniors",
+     "escudo": "boca"
+    },
+    {
+     "nombre": "Atlético Mineiro",
+     "escudo": "atletico-mineiro"
+    }
+   ],
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana"
+  },
+  {
+   "t": 82.7,
+   "tipo": "texto",
+   "sobre": "Atlético Mineiro",
+   "titulo": "Perdió la final del año pasado",
+   "sub": "y quería sacarse la espina",
+   "color": "#888888",
+   "zocalo": "Final de la Sudamericana"
+  },
+  {
+   "t": 88.6,
+   "tipo": "marcador",
+   "sobre": "Primer tiempo · Ascacibar",
+   "equipos": [
+    {
+     "nombre": "Boca Juniors",
+     "escudo": "boca",
+     "goles": 1
+    },
+    {
+     "nombre": "Atlético Mineiro",
+     "escudo": "atletico-mineiro",
+     "goles": 0
+    }
+   ],
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana",
+   "entrada": "flash"
+  },
+  {
+   "t": 94.5,
+   "tipo": "marcador",
+   "sobre": "Inicio del complemento · Merentiel",
+   "equipos": [
+    {
+     "nombre": "Boca Juniors",
+     "escudo": "boca",
+     "goles": 2
+    },
+    {
+     "nombre": "Atlético Mineiro",
+     "escudo": "atletico-mineiro",
+     "goles": 0
+    }
+   ],
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana",
+   "entrada": "flash"
+  },
+  {
+   "t": 98.6,
+   "tipo": "texto",
+   "sobre": "En el banco",
+   "titulo": "Enner Valencia",
+   "color": "#FDB913",
+   "zocalo": "Final de la Sudamericana"
+  },
+  {
+   "t": 101.9,
+   "tipo": "texto",
+   "titulo": "Entró… y tuvo la suya",
+   "sub": "Ya te cuento",
+   "color": "#FDB913",
+   "zocalo": "Final de la Sudamericana",
+   "entrada": "glitch"
+  },
+  {
+   "t": 108.5,
+   "tipo": "marcador",
+   "sobre": "Final",
+   "equipos": [
+    {
+     "nombre": "Boca Juniors",
+     "escudo": "boca",
+     "goles": 2
+    },
+    {
+     "nombre": "Atlético Mineiro",
+     "escudo": "atletico-mineiro",
+     "goles": 0
+    }
+   ],
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana"
+  },
+  {
+   "t": 111.5,
+   "tipo": "texto",
+   "sobre": "Copa Sudamericana 2026",
+   "titulo": "¡Enner Valencia campeón!",
+   "color": "#FDB913",
+   "zocalo": "Final de la Sudamericana",
+   "entrada": "flash"
+  },
+  {
+   "t": 116.0,
+   "tipo": "cifra",
+   "valor": "18",
+   "titulo": "años sin títulos internacionales: se acabó",
+   "color": "#003DA5",
+   "zocalo": "Final de la Sudamericana"
+  },
+  {
+   "t": 123.9,
+   "tipo": "cortinilla",
+   "titulo": "LigaPro en feriado"
+  },
+  {
+   "t": 127.8,
+   "tipo": "texto",
+   "sobre": "Campeón 2026",
+   "titulo": "Independiente del Valle",
+   "sub": "Recibió el trofeo frente a Macará",
+   "color": "#1F6FC5",
+   "zocalo": "LigaPro",
+   "entrada": "flash"
+  },
+  {
+   "t": 132.6,
+   "tipo": "texto",
+   "sobre": "Emelec",
+   "titulo": "Asamblea de socios",
+   "sub": "4 de diciembre · estadio Capwell",
+   "color": "#0047AB",
+   "zocalo": "LigaPro"
+  },
+  {
+   "t": 136.8,
+   "tipo": "texto",
+   "sobre": "Emelec",
+   "titulo": "¿Sociedad anónima?",
+   "sub": "Una decisión que puede cambiar su historia",
+   "color": "#0047AB",
+   "zocalo": "LigaPro",
+   "entrada": "glitch"
+  },
+  {
+   "t": 146.8,
+   "tipo": "duo",
+   "sobre": "Quito · sábado",
+   "equipos": [
+    {
+     "nombre": "U. Católica",
+     "escudo": "catolica"
+    },
+    {
+     "nombre": "Barcelona SC",
+     "escudo": "barcelona"
+    }
+   ],
+   "titulo": "Un partido de detalles",
+   "color": "#FFD100",
+   "zocalo": "LigaPro"
+  },
+  {
+   "t": 153.5,
+   "tipo": "marcador",
+   "sobre": "Autogol 55' · el VAR lo validó",
+   "equipos": [
+    {
+     "nombre": "U. Católica",
+     "escudo": "catolica",
+     "goles": 0
+    },
+    {
+     "nombre": "Barcelona SC",
+     "escudo": "barcelona",
+     "goles": 1
+    }
+   ],
+   "color": "#FFD100",
+   "zocalo": "LigaPro",
+   "entrada": "flash"
+  },
+  {
+   "t": 158.5,
+   "tipo": "duo",
+   "sobre": "Superclásico · Casa Blanca",
+   "equipos": [
+    {
+     "nombre": "Liga de Quito",
+     "escudo": "liga"
+    },
+    {
+     "nombre": "Aucas",
+     "escudo": "aucas"
+    }
+   ],
+   "color": "#C8102E",
+   "zocalo": "LigaPro",
+   "entrada": "glitch"
+  },
+  {
+   "t": 166.5,
+   "tipo": "texto",
+   "titulo": "0-0… hasta el minuto 84",
+   "color": "#D71920",
+   "zocalo": "LigaPro"
+  },
+  {
+   "t": 169.6,
+   "tipo": "marcador",
+   "sobre": "Aucas 57 pts · Liga 54 pts",
+   "equipos": [
+    {
+     "nombre": "Liga de Quito",
+     "escudo": "liga",
+     "goles": 0
+    },
+    {
+     "nombre": "Aucas",
+     "escudo": "aucas",
+     "goles": 1
+    }
+   ],
+   "color": "#D71920",
+   "zocalo": "LigaPro",
+   "entrada": "flash"
+  },
+  {
+   "t": 180.7,
+   "tipo": "cita",
+   "titulo": "Acá siempre el primer responsable soy yo, es mi estilo",
+   "sub": "Gustavo Álvarez, DT de Liga",
+   "color": "#C8102E",
+   "zocalo": "LigaPro"
+  },
+  {
+   "t": 188.5,
+   "tipo": "texto",
+   "sobre": "@GuineoComunicaciones",
+   "titulo": "¿Liga llega a la Libertadores?",
+   "sub": "Te leo en los comentarios · suscríbete",
+   "color": "#DEB234",
+   "zocalo": "LigaPro",
+   "entrada": "glitch"
+  },
+  {
+   "t": 197.8,
+   "tipo": "cortinilla",
+   "titulo": "La pelea por no bajar"
+  },
+  {
+   "t": 200.9,
+   "tipo": "duo",
+   "sobre": "Machala · estadio 9 de Mayo",
+   "equipos": [
+    {
+     "nombre": "Orense",
+     "escudo": "orense"
+    },
+    {
+     "nombre": "Mushuc Runa",
+     "escudo": "mushuc"
+    }
+   ],
+   "color": "#1E8F3E",
+   "zocalo": "Descenso"
+  },
+  {
+   "t": 205.1,
+   "tipo": "texto",
+   "titulo": "Primer tiempo de locos",
+   "sub": "goles para los dos… y uno más en la reposición",
+   "color": "#1E8F3E",
+   "zocalo": "Descenso"
+  },
+  {
+   "t": 209.5,
+   "tipo": "marcador",
+   "sobre": "Cabezazo en el segundo tiempo",
+   "equipos": [
+    {
+     "nombre": "Orense",
+     "escudo": "orense",
+     "goles": 2
+    },
+    {
+     "nombre": "Mushuc Runa",
+     "escudo": "mushuc",
+     "goles": 3
+    }
+   ],
+   "color": "#E30613",
+   "zocalo": "Descenso",
+   "entrada": "flash"
+  },
+  {
+   "t": 216.3,
+   "tipo": "tabla",
+   "filas": [
+    [
+     "Mushuc Runa",
+     46
+    ],
+    [
+     "Técnico U.",
+     40
+    ],
+    [
+     "Orense",
+     39
+    ],
+    [
+     "Delfín",
+     39
+    ]
+   ],
+   "escudos": {
+    "Mushuc Runa": "mushuc",
+    "Técnico U.": "tecnico",
+    "Orense": "orense",
+    "Delfín": "delfin"
+   },
+   "destacar": "Orense",
+   "color": "#1E8F3E",
+   "sobre": "Hexagonal del descenso",
+   "zocalo": "Descenso"
+  },
+  {
+   "t": 222.0,
+   "tipo": "duo",
+   "sobre": "Próxima fecha",
+   "equipos": [
+    {
+     "nombre": "Delfín",
+     "escudo": "delfin"
+    },
+    {
+     "nombre": "Orense",
+     "escudo": "orense"
+    }
+   ],
+   "titulo": "Final anticipada",
+   "color": "#00529B",
+   "zocalo": "Descenso",
+   "entrada": "glitch"
+  },
+  {
+   "t": 232.0,
+   "tipo": "cortinilla",
+   "titulo": "Ecuatorianos en el mundo"
+  },
+  {
+   "t": 234.6,
+   "tipo": "texto",
+   "sobre": "Córdoba · octavos del Clausura",
+   "titulo": "Instituto 2 · Huracán 0",
+   "sub": "y un ecuatoriano se levantó más alto que todos",
+   "color": "#E2001A",
+   "zocalo": "Ecuatorianos afuera"
+  },
+  {
+   "t": 240.0,
+   "tipo": "texto",
+   "sobre": "De cabeza · 65'",
+   "titulo": "Jordy Caicedo",
+   "color": "#E2001A",
+   "zocalo": "Ecuatorianos afuera",
+   "entrada": "flash"
+  },
+  {
+   "t": 242.3,
+   "tipo": "cifra",
+   "valor": "15",
+   "titulo": "goles en Argentina esta temporada: récord ecuatoriano",
+   "color": "#E2001A",
+   "zocalo": "Ecuatorianos afuera",
+   "entrada": "flash"
+  },
+  {
+   "t": 250.0,
+   "tipo": "cifra",
+   "valor": "9",
+   "titulo": "el récord anterior · Jaime Ayoví (2014)",
+   "color": "#888888",
+   "zocalo": "Ecuatorianos afuera"
+  },
+  {
+   "t": 272.3,
+   "tipo": "texto",
+   "sobre": "Brasileirão",
+   "titulo": "Gonzalo Plata campeón",
+   "sub": "con el Flamengo · su 10.ª liga",
+   "color": "#C8102E",
+   "zocalo": "Ecuatorianos afuera",
+   "entrada": "flash"
+  },
+  {
+   "t": 281.4,
+   "tipo": "texto",
+   "sobre": "Una preocupación",
+   "titulo": "Moisés Caicedo",
+   "sub": "salió golpeado antes de la media hora · ¡fuerza, Moi!",
+   "color": "#034694",
+   "zocalo": "Ecuatorianos afuera"
+  },
+  {
+   "t": 293.7,
+   "tipo": "cortinilla",
+   "titulo": "La locura del finde"
+  },
+  {
+   "t": 296.3,
+   "tipo": "marcador",
+   "sobre": "Pio Esposito: triplete… y no ganó",
+   "equipos": [
+    {
+     "nombre": "Atalanta",
+     "goles": 4
+    },
+    {
+     "nombre": "Inter",
+     "goles": 4
+    }
+   ],
+   "color": "#1E71B8",
+   "zocalo": "La locura del finde",
+   "entrada": "flash"
+  },
+  {
+   "t": 309.0,
+   "tipo": "marcador",
+   "sobre": "Yamal falló un penal: ¡al poste!",
+   "equipos": [
+    {
+     "nombre": "Barcelona",
+     "goles": 3
+    },
+    {
+     "nombre": "Villarreal",
+     "goles": 2
+    }
+   ],
+   "color": "#A50044",
+   "zocalo": "La locura del finde",
+   "entrada": "flash"
+  },
+  {
+   "t": 318.5,
+   "tipo": "cortinilla",
+   "titulo": "El mano a mano que no fue"
+  },
+  {
+   "t": 320.5,
+   "tipo": "texto",
+   "sobre": "Minuto 71 · la final",
+   "titulo": "Enner vs Everson",
+   "sub": "…y se la tapó",
+   "color": "#FDB913",
+   "zocalo": "El mano a mano que no fue"
+  },
+  {
+   "t": 326.7,
+   "tipo": "texto",
+   "titulo": "Igual se fue con la medalla",
+   "color": "#FDB913",
+   "zocalo": "El mano a mano que no fue",
+   "entrada": "flash"
+  },
+  {
+   "t": 329.7,
+   "tipo": "cortinilla",
+   "titulo": "La frase de la semana"
+  },
+  {
+   "t": 333.6,
+   "tipo": "cita",
+   "titulo": "Numéricamente quedan 9 puntos",
+   "sub": "Gustavo Álvarez",
+   "color": "#C8102E",
+   "zocalo": "La frase de la semana"
+  },
+  {
+   "t": 340.4,
+   "tipo": "cortinilla",
+   "titulo": "Lo que se viene"
+  },
+  {
+   "t": 344.9,
+   "tipo": "duo",
+   "sobre": "Mundial Sub-17 · miércoles 25 · 07:30",
+   "equipos": [
+    {
+     "nombre": "Ecuador",
+     "escudo": "fef"
+    },
+    {
+     "nombre": "Corea del Sur"
+    }
+   ],
+   "titulo": "La Tri se juega el pase",
+   "color": "#FFDD00",
+   "zocalo": "Lo que se viene"
+  },
+  {
+   "t": 350.9,
+   "tipo": "duo",
+   "sobre": "Miércoles 25",
+   "equipos": [
+    {
+     "nombre": "Barcelona SC",
+     "escudo": "barcelona"
+    },
+    {
+     "nombre": "Independiente del Valle",
+     "escudo": "idv"
+    }
+   ],
+   "color": "#FFD100",
+   "zocalo": "Lo que se viene"
+  },
+  {
+   "t": 354.5,
+   "tipo": "texto",
+   "sobre": "Champions · jornada 5",
+   "titulo": "Pacho · Hincapié · Lerma · Ordóñez · Arévalo",
+   "color": "#1F3A93",
+   "zocalo": "Lo que se viene"
+  },
+  {
+   "t": 376.42,
+   "tipo": "texto",
+   "titulo": "¿Tu mejor momento del finde?",
+   "sub": "Te leo en los comentarios",
+   "color": "#DEB234",
+   "entrada": "glitch"
+  },
+  {
+   "t": 381.3,
+   "tipo": "srf",
+   "titulo": "El jueves volvemos · Ep. 2",
+   "entrada": "flash"
+  }
+ ]
+}
