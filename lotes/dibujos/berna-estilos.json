@@ -1,0 +1,38 @@
+{
+  "modelo": "9b",
+  "estilo": "No text, no letters, no numbers, no logos, no crests, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "berna-comic-noir",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: gritty comic-book noir, heavy black ink, high contrast black and white with only red and yellow color accents, dramatic angles."
+    },
+    {
+      "id": "berna-cartel-50s",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: vintage 1950s sports poster, screen-printed look, halftone dots, limited palette of cream, red, mustard and navy, aged paper texture."
+    },
+    {
+      "id": "berna-acuarela",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: expressive watercolor and ink sports illustration, loose brush strokes, splashes of mud and rain, soft bleeding colors."
+    },
+    {
+      "id": "berna-papel",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: layered paper cut-out diorama, handmade craft paper textures, visible paper edges and soft shadows between layers, like a stop-motion set."
+    },
+    {
+      "id": "berna-plastilina",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: claymation, plasticine figures with fingerprints texture, miniature stadium set, soft studio lighting, stop-motion look."
+    },
+    {
+      "id": "berna-oleo",
+      "seed": 54,
+      "prompt": "Vertical illustration of a 1954 football match on a muddy, rain-soaked pitch at night: players in red shirts and players in yellow shirts shoving and brawling in a chaotic pile, a referee in an all-black old-fashioned kit blowing his whistle, policemen running onto the pitch, old stadium floodlights through the rain. Faces hidden or turned away, seen from behind or in shadow. Style: epic classical oil painting like a historical battle scene, dramatic chiaroscuro lighting, thick brush strokes, rich dark colors."
+    }
+  ]
+}
