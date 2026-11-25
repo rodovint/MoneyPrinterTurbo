@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-25T15:25-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "posiciones de sabah futbol klubu contra fc barcelona",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors' comfortable Champions League win (BBC)",
+     "Sabah 1-4 Barcelona (Nov 25, 2026) Game Analysis (ESPN)"
+    ]
+   },
+   {
+    "tema": "parís saint-germain football club",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "🔴 En Vivo | El PSG de Pacho ante la Roma en una noche inédita de Champions (El Comercio)",
+     "PSG y Roma protagonizan un partido de alto voltaje en la Champions League - (Bendito Fútbol)"
+    ]
+   },
+   {
+    "tema": "posiciones de champions league",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así queda la clasificación de la Champions League: el Real Madrid se coloca líder en solitario y el Betis es 'top 4' (MARCA)",
+     "Champions League: Estos son los horarios de los partidos de la Fecha 5 de la Fase de Liga (Primicias)"
+    ]
+   },
+   {
+    "tema": "club brujas - liverpool",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Club Brugge vs Liverpool: UEFA Champions League stats & head-to-head (BBC)",
+     "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live (The Guardian)"
+    ]
+   },
+   {
+    "tema": "psg",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Luis Enrique convoque 23 joueurs face à l'AS Rome, Digne inclus (Tu Futbolero)",
+     "Pronostic PSG - AS Roma – Ligue des champions (25/11) (OneFootball)"
+    ]
+   },
+   {
+    "tema": "inter - stuttgart",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Klinsmann: „Inter, Stuttgart und damals mit Maradona. Thuram ist wie ich, Pio ähnelt ...“ (La Gazzetta dello Sport)",
+     "Liveblog: Deniz Undav muss auf die Bank - so startet der VfB bei Inter Mailand (Zeitungsverlag Waiblingen)"
+    ]
+   },
+   {
+    "tema": "psg - roma",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Luis Enrique names 23 for PSG vs Roma; Lucas Digne included (Tu Futbolero)",
+     "Achraf Hakimi brushes off rape trial questions: \"I am focused on football\" (BeSoccer Livescore)"
+    ]
+   },
+   {
+    "tema": "sporting lisboa - manchester united",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sporting Lisboa - Manchester United EN VIVO: transmisión, horario y dónde ver hoy | Champions League (Diario Extra)",
+     "Pochettino sorprende: Zirkzee titular en el Sporting-United (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "atlético madrid - viking",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: UEFA Champions League - Atletico Madrid v Viking (Reuters Connect)",
+     "Atletico Madrid vs Viking Confirmed Lineups (WhoScored.com)"
+    ]
+   },
+   {
+    "tema": "losc - bayern",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Lille OSC - Bayern Munich : les compositions officielles (Foot Mercato)",
+     "Le site FCBayern-fr.com dans la presse (édition régionale) (FCbayern-fr)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "espn",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kirk Herbstreit Expected to Stay at ESPN Long-Term (Front Office Sports)",
+     "'Not close': Differing reports emerge on ESPN legend's future at network (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "bayern",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kreative Lösungen gefragt: Brown, Bischof & Binder - Wer ersetzt Kane und Olise in der Bayern-Offensive? (sportschau.de)",
+     "Jamal Musiala: Entscheidung um den Superstar des FC Bayern gefallen (BILD)"
+    ]
+   },
+   {
+    "tema": "kent state golden flashes football",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Eastern Michigan 17-12 Kent State (Nov 24, 2026) Game Recap (ESPN)",
+     "The absolute worst call of the college football season happened last night while you were sleeping (Fox News)"
+    ]
+   },
+   {
+    "tema": "matt damon",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Matt Damon Says Returning Home After Filming The Odyssey Was ‘Difficult’ as He Adjusted to Family Life (Exclusive) (People.com)",
+     "Matt Damon says it was ‘difficult’ returning home to his family after ‘The Odyssey’ isolation (Entertainment Weekly)"
+    ]
+   },
+   {
+    "tema": "roma",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Roma, Gasperini: \"Il valore del Psg è molto alto, in Champions gli episodi incidono di più\" (La Gazzetta dello Sport)",
+     "Da Cristian Totti a Pizarro alle mogli di Malen, Mancini, Cristante e Pisilli, quanti vip per Psg-Roma (Corriere dello Sport)"
+    ]
+   },
+   {
+    "tema": "brock purdy injury",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brock Purdy sits out practice with ankle sprain; 'possibility' 49ers QB won't play vs. Seahawks (NFL.com)",
+     "49ers QB Brock Purdy injured ankle vs. Vikings, uncertain to face Seahawks (The New York Times)"
+    ]
+   },
+   {
+    "tema": "rogers",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mister Rogers' Son, John, Dead at 65 (TMZ)",
+     "John Rogers, Youngest Son of ‘Mister Rogers’ Neighborhood’ Star Fred Rogers, Dies at 65 (People.com)"
+    ]
+   },
+   {
+    "tema": "lotería",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ganó un millón de dólares en la lotería; ICE vio la foto de su premio y terminó arrestándolo (Univision)",
+     "Ganó un millón de dólares en la lotería, pero el ICE lo arrestó por tener una orden de deportación (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "dragon age",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dragon Age's former boss says that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible' (PC Gamer)",
+     "Dragon Age Dev Explains BioWare's Struggles: 'EA Doesn’t Shoot You, It Puts A Gun On The Table And Then Comes In Every Day And Asks You If You’ll Shoot Yourself' (Kotaku)"
+    ]
+   },
+   {
+    "tema": "ole miss basketball",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Arizona-Ole Miss scouting report: On Rebels' big jump, fired-up fans and beauty sleep (Arizona Daily Star)",
+     "Arizona men’s basketball vs. Ole Miss at Maui Invitational fan discussion (Yahoo Sports)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "posiciones de slavia praga contra villarreal club de fútbol",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
+     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+    ]
+   },
+   {
+    "tema": "clasificación de la champions",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Así queda la clasificación de la Champions League: el Real Madrid se coloca líder en solitario y el Betis es 'top 4' (MARCA)",
+     "Así está la clasificación de la Champions: en directo, partidos de la quinta jornada de la fase liga (ABC)"
+    ]
+   },
+   {
+    "tema": "bayern",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kreative Lösungen gefragt: Brown, Bischof & Binder - Wer ersetzt Kane und Olise in der Bayern-Offensive? (sportschau.de)",
+     "Jamal Musiala: Entscheidung um den Superstar des FC Bayern gefallen (BILD)"
+    ]
+   },
+   {
+    "tema": "psg hoy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "PSG - Roma, en directo: Champions League, en vivo hoy (Diario AS)",
+     "PSG – Roma el partido de fútbol de la jornada 5 de la fase de grupos de la Champions League, en directo (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "michael burry",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Michael Burry Sells Remaining Nasdaq-100 Puts, Eyes Fresh Nvidia Short Near $200: ‘I Am Long Undervalued Common Stocks’ (Yahoo Finance)",
+     "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD (NVDA:NASDAQ) (Seeking Alpha)"
+    ]
+   },
+   {
+    "tema": "víctima",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Una víctima de violencia machista, en un acto del Ayuntamiento de Madrid: “Vuestras políticas no me representan y menos aún vuestros aliados” (EL PAÍS)",
+     "\"Vuestras políticas y aliados no me representan\": el reproche de una víctima de violencia machista a Almeida en un acto (Cadena SER)"
+    ]
+   },
+   {
+    "tema": "atleti",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Winter Deaflympics 2027, l'Italia presenta la squadra per i Giochi invernali dei sordi: 20 azzurri a caccia di medaglie in Austria (Comitato Italiano Paralimpico)",
+     "Deaflympics 2027, De Sanctis “L'obiettivo è migliorare l'ultimo risultato\" (Il Sole 24 ORE)"
+    ]
+   },
+   {
+    "tema": "champion league",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jude Bellingham: Real Madrid midfielder plays down Zinedine Zidane comparison after wonder goal (BBC)",
+     "This was Real Madrid's arrival at the Bernabéu (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "bayern munich",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Champions League preview: LOSC Lille vs. FC Bayern (FC Bayern)",
+     "Licensable picture: UEFA Champions League - Lille v Bayern Munich (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "balde",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "CM: Milan searching for left-back with Estupinan heading for exit – the names on the list (SempreMilan)",
+     "Man Utd reach decision on selling Ten Hag favourite in TRIPLE January exit (Football365)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "posiciones de slavia praga contra villarreal club de fútbol",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
+     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+    ]
+   },
+   {
+    "tema": "inter",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Predicted lineups for Inter Milan vs Stuttgart today in 2026-27 UEFA Champions League on November 25 (Bolavip US)",
+     "Internazionale have scored in 8 consecutive Champions League games, one short of club record (AllFootball)"
+    ]
+   },
+   {
+    "tema": "ypf",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Juicio por YPF: el Gobierno dice que el fondo Burford le reclama US$ 14.400 millones en la nueva demanda que inició ante el CIADI (Clarin.com)",
+     "El informe de Diego Santilli al Senado reveló que Burford reclama US$14.400 millones por YPF ante el CIADI (Diario Río Negro)"
+    ]
+   },
+   {
+    "tema": "fenerbahçe",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Shakhtar Donetsk-Fenerbahçe maçının hakem ve kadroları açıklandı (Canlı Gaste)",
+     "Emre Belözoğlu'ndan ilk 11 ve Guendouzi'yi yedeğe çekme kararları için yanıt (NTVSpor)"
+    ]
+   },
+   {
+    "tema": "asociación bancaria",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Banco Santander: van al paro por despidos y cierres de sucursales (La Izquierda Diario)",
+     "La Bancaria va al paro nacional el 1 y 1 de diciembre en el Santander por despidos y cierres de sucursales (Diario Digital Conclusión)"
+    ]
+   },
+   {
+    "tema": "posiciones de sabah futbol klubu contra fc barcelona",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors' comfortable Champions League win (BBC)",
+     "Sabah 1-4 Barcelona (Nov 25, 2026) Game Analysis (ESPN)"
+    ]
+   },
+   {
+    "tema": "psg",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "PSG – AS Rome : les compositions officielles (Foot Mercato)",
+     "Paris Saint-Germain - Roma : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match (DAZN)"
+    ]
+   },
+   {
+    "tema": "partidos de champions league",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡EN VIVO! Atlético Madrid va por el triunfo ante Viking en la Champions League (ESPN Argentina)",
+     "Simeone, con Sorloth, Julián Alvarez, Kang in y Baena en el once titular (Infobae)"
+    ]
+   },
+   {
+    "tema": "club brujas - liverpool",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Club Brugge vs Liverpool: UEFA Champions League stats & head-to-head (BBC)",
+     "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live (The Guardian)"
+    ]
+   },
+   {
+    "tema": "stellantis",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Stellantis vuelve a fabricar motores en Córdoba y exportará más del 70% de la producción (· Gobierno de Córdoba)",
+     "La dueña de Fiat y Peugeot inauguró una fábrica de motores en Córdoba (Clarin.com)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "posiciones de slavia praga contra villarreal club de fútbol",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
+     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+    ]
+   },
+   {
+    "tema": "inter",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Inter changed Jürgen Klinsmann’s life – and Stuttgart still pulls at the heart of Inter-stuttgart (شبكة تواصل الإخبارية)",
+     "Chivu relaxed over Inter form after late collapse against Atalanta (beIN SPORTS)"
+    ]
+   },
+   {
+    "tema": "ethan mbappé",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Davide Ancelotti respalda a Ethan Mbappé: \"Estamos aquí para acompañarle y ayudarle\" (OneFootball)",
+     "Davide Ancelotti says Lille’s Ethan Mbappé ‘has to progress physically’ (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "sporting lisboa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Entre diabos e dragões, os testes de stresse do leão (A Bola)",
+     "Sporting CP x Manchester United: prévia da Champions League com o United de Pochettino abalado e o Sporting em alta (Goal.com)"
+    ]
+   },
+   {
+    "tema": "paris",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Vin chaud, chalets et illuminations : les plus beaux marchés de Noël à ne pas rater cette année à Paris (Le Bonbon)",
+     "Marchés de Noël 2026 à Paris : découvrez le programme dans la capitale, entre les classiques et les nouveautés (Actu.fr)"
+    ]
+   },
+   {
+    "tema": "israel jaitovich",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Israel Jaitovich habla sobre ser parte de la familia Derbez (La Verdad de Tamaulipas)",
+     "Israel Jaitovich FILTRA las razones por las que se \"distanció\" de Eugenio Derbez: ¡Ellos fueron socios! VIDEO (TVNotas)"
+    ]
+   },
+   {
+    "tema": "bayer vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Bayer 04 Leverkusen press: UEFA Europa League 2026/27 League Phase MD5 (Reuters Connect)",
+     "PREVIEW | Dinamo Zagreb vs Bayer Leverkusen: team news, lineups, predictions (Europa League 26/11) (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "rusia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trump retira incentivos comerciales para Rusia ante el escaso interés de Moscú, según el FT (Yahoo)",
+     "Ucrania, \"Financial Times\": Trump suspende el acuerdo comercial con Rusia para favorecer las negociaciones de paz. (Agenzia Nova)"
+    ]
+   },
+   {
+    "tema": "sabah fk vs fc barcelona standings",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sabah suffer 7-0 defeat to Barcelona in UEFA Youth League (Report.az)",
+     "Barcelona run riot with 7-0 UEFA Youth League demolition of Sabah (BeSoccer Livescore)"
+    ]
+   },
+   {
+    "tema": "inter vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Inter de Milán vs Stuttgart: ¿A qué hora y dónde ver EN VIVO Jornada 5 Champions League? (Mediotiempo)",
+     "Inter-Stuttgart en la Champions League, posibles alineaciones: examen para Jeltsch en San Siro y quién sustituye a Calhanoglu (Goal.com)"
+    ]
+   }
+  ]
+ }
+}
