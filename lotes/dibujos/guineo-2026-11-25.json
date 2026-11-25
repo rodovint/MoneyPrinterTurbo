@@ -1,0 +1,21 @@
+{
+  "modelo": "9b",
+  "referencias": ["scripts/guineo/ref/estilo1.jpg"],
+  "estilo": "Same drawing style as the comic illustration reference image 0: detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "bsc-bala",
+      "seed": 251,
+      "referencias": [0],
+      "prompt": "Vertical illustration: a single white soccer ball resting on the penalty spot of a huge football stadium at night, the stands packed with fans waving plain yellow and black flags and holding yellow flares, golden floodlights cutting through smoke, tense dramatic atmosphere before a decisive match, low camera angle close to the grass, no visible faces."
+    },
+    {
+      "id": "champions-seis",
+      "seed": 252,
+      "referencias": [0],
+      "prompt": "Vertical illustration: six pairs of football boots lined up on a wooden bench in a dark European stadium locker room at night, each pair next to a plain folded shirt in a different color (dark blue, red, white, yellow, light blue, black), a single white soccer ball with dark star shapes in the center, a tunnel opening in the background with bright stadium lights and a big crowd, cinematic light, no people."
+    }
+  ]
+}
