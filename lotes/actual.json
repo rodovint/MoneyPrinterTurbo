@@ -1,309 +1,115 @@
 [
  {
-  "titulo": "Barcelona SC vs Independiente del Valle HOY 19:00: el partido pendiente que cambia la pelea",
-  "etiqueta": "LIGAPRO · HEXAGONAL",
-  "club": "barcelona",
+  "titulo": "Ecuador vs Corea del Sur 2-3 Sub-17: ¿está eliminada la Mini-Tri?",
+  "etiqueta": "MUNDIAL SUB-17 · GRUPO B",
+  "club": "ecuador",
   "prueba_voz": "Mui (voz real)",
   "franja": [
-   "HOY 19:00 · MONUMENTAL",
-   "PARTIDO PENDIENTE · HEXAGONAL FINAL",
-   "PELEA POR LA LIBERTADORES 2027"
+   "MUNDIAL SUB-17 QATAR 2026",
+   "ECUADOR 3.º DEL GRUPO B · 4 PTS",
+   "SE DEFINE EL VIERNES 28/11"
   ],
   "escenas": [
    {
-    "texto": "Barcelona se juega esta noche su lugar en la pelea por la Libertadores.",
+    "texto": "Ecuador perdía tres a cero con Corea en el Mundial Sub-17, y no se rindió.",
+    "foto": "img/sub17-corea-grito.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "escudo",
-     "escudo": "img/escudos/barcelona.png",
-     "sobre": "BARCELONA SC · ESTA NOCHE",
-     "texto": "¿LA ÚLTIMA BALA?"
+     "tipo": "titular",
+     "texto": "¡PERDÍA 3-0!",
+     "sobre": "ECUADOR VS COREA DEL SUR · SUB-17"
     },
     "transicion": "flash",
     "hinchada": true,
-    "inicio": 2.1,
-    "fin": 6.15,
-    "foto": "img/guineo-2026-11-25-bsc-bala.png"
+    "inicio": 1.7,
+    "fin": 7.05,
+    "credito": "Imágenes: Teleamazonas"
    },
    {
-    "texto": "Recibe al campeón, Independiente del Valle.",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "BARCELONA SC",
-       "color": "#FFD100",
-       "escudo": "img/escudos/barcelona.png"
-      },
-      {
-       "nombre": "IND. DEL VALLE",
-       "color": "#1F6FC5",
-       "escudo": "img/escudos/idv.png"
-      }
-     ],
-     "hora": "HOY 19:00",
-     "pie": "MONUMENTAL · PARTIDO PENDIENTE"
-    },
-    "transicion": "barrido",
-    "inicio": 7.25,
-    "fin": 9.65
-   },
-   {
-    "texto": "Y el campeón quiere revancha del dos a uno de septiembre.",
+    "texto": "Guerrero descontó al cincuenta y ocho y Fragozo hizo el tres a dos al setenta y ocho.",
     "grafico": {
      "tipo": "marcador",
      "equipos": [
       {
-       "nombre": "BARCELONA SC",
+       "nombre": "ECUADOR",
        "color": "#FFD100",
-       "escudo": "img/escudos/barcelona.png",
+       "escudo": "img/escudos/fef.png",
        "goles": 2
       },
       {
-       "nombre": "IND. DEL VALLE",
-       "color": "#1F6FC5",
-       "escudo": "img/escudos/idv.png",
-       "goles": 1
+       "nombre": "COREA DEL SUR",
+       "color": "#C8102E",
+       "goles": 3
       }
      ],
-     "pie": "SEPTIEMBRE 2026 · MONUMENTAL"
+     "pie": "GUERRERO 58' · FRAGOZO 78'"
     },
-    "tono": "recuerdo",
-    "transicion": "zoom",
-    "inicio": 11.65,
-    "fin": 14.1
+    "transicion": "barrido",
+    "inicio": 8.1,
+    "fin": 12.98,
+    "foto": "img/sub17-corea-duelo.jpg",
+    "movimiento": "paneo_izq",
+    "credito": "Imágenes: Teleamazonas"
    },
    {
-    "texto": "¿Gana Barcelona? Te leo, y sigue a Guineo.",
+    "texto": "¿Crees que la Mini-Tri pasa? Te leo, y sigue a Guineo.",
+    "foto": "img/guineo-2026-11-25-minitri-abrazo.png",
+    "movimiento": "subir",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿GANA BARCELONA?",
+     "texto": "¿PASA LA MINI-TRI?",
      "sobre": "@GUINEOCOMUNICACIONES"
     },
-    "transicion": "glitch",
-    "inicio": 15.8,
-    "fin": 19.45
+    "transicion": "zoom",
+    "inicio": 14.2,
+    "fin": 18.05
    },
    {
-    "texto": "Si gana, llega a cincuenta y cinco y supera a Católica y a Liga.",
+    "texto": "Quedó tercera con cuatro puntos, y no está eliminada.",
     "grafico": {
-     "tipo": "cifra",
-     "valor": "55",
-     "texto": "SUPERA A U. CATÓLICA (54) Y LIGA DE QUITO (54)"
+     "tipo": "duo",
+     "a": "4",
+     "a_texto": "PUNTOS",
+     "b": "0",
+     "b_texto": "GOL DIFERENCIA",
+     "pie": "3.º DEL GRUPO B · NO ESTÁ ELIMINADA"
     },
     "suspenso": true,
     "destello": true,
-    "transicion": "rota",
-    "inicio": 20.15,
-    "fin": 23.4
+    "transicion": "glitch",
+    "inicio": 18.85,
+    "fin": 21.7,
+    "foto": "img/sub17-corea-mirada.jpg",
+    "movimiento": "zoom_in",
+    "credito": "Imágenes: Teleamazonas"
    },
    {
-    "texto": "Y queda a solo dos de Aucas.",
+    "texto": "Pasan los ocho mejores terceros de doce grupos, y se define hasta el viernes.",
     "grafico": {
-     "tipo": "escudo",
-     "escudo": "img/escudos/aucas.png",
-     "sobre": "AUCAS · 3.º · 57 PTS",
-     "texto": "A SOLO 2"
+     "tipo": "cifra",
+     "valor": "8",
+     "texto": "MEJORES TERCEROS DE 12 GRUPOS · SE DEFINE EL VIERNES 28"
     },
-    "transicion": "flash",
-    "hinchada": true,
-    "inicio": 24.85,
-    "fin": 26.95
+    "transicion": "rota",
+    "inicio": 22.85,
+    "fin": 27.35
    },
    {
-    "texto": "Esta noche, a las siete, en el Monumental.",
-    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
+    "texto": "Y la Mini-Tri sigue viva.",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "HOY 19:00",
-     "sobre": "BARCELONA SC VS IDV"
-    },
-    "transicion": "zoom",
-    "inicio": 28.05,
-    "fin": 30.7
-   }
-  ],
-  "audio": "audio/45"
- },
- {
-  "titulo": "Ecuatorianos en la Champions League: los 6 y el que va contra el Real Madrid",
-  "etiqueta": "CHAMPIONS · ECUATORIANOS",
-  "prueba_voz": "Mui (voz real)",
-  "franja": [
-   "CHAMPIONS LEAGUE 2026-27",
-   "6 ECUATORIANOS EN LA FASE DE LIGA",
-   "@GUINEOCOMUNICACIONES"
-  ],
-  "escenas": [
-   {
-    "texto": "Seis ecuatorianos están en la Champions, y a uno le espera el Real Madrid.",
-    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "6 ECUATORIANOS",
-     "sobre": "CHAMPIONS LEAGUE"
+     "texto": "SIGUE VIVA",
+     "sobre": "LA MINI-TRI"
     },
     "transicion": "flash",
     "hinchada": true,
-    "inicio": 0.0,
-    "fin": 6.35
-   },
-   {
-    "texto": "Empecemos por París: Willian Pacho, con el PSG, juega hoy a las tres contra la Roma.",
-    "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
-    "movimiento": "paneo_der",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "PSG",
-       "color": "#004170"
-      },
-      {
-       "nombre": "ROMA",
-       "color": "#8E1F2F"
-      }
-     ],
-     "hora": "HOY 15:00",
-     "pie": "WILLIAN PACHO · PARQUE DE LOS PRÍNCIPES"
-    },
-    "transicion": "barrido",
-    "inicio": 7.2,
-    "fin": 13.0
-   },
-   {
-    "texto": "Jeremy Arévalo, del Stuttgart, también juega hoy a las tres, ante el Inter.",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "INTER",
-       "color": "#0A3C7D"
-      },
-      {
-       "nombre": "STUTTGART",
-       "color": "#E32219"
-      }
-     ],
-     "hora": "HOY 15:00",
-     "pie": "JEREMY ARÉVALO · MILÁN"
-    },
-    "transicion": "zoom",
-    "inicio": 14.0,
-    "fin": 17.55
-   },
-   {
-    "texto": "En Brujas está Joel Ordóñez, pero una lesión en el pie lo deja fuera hasta enero.",
-    "grafico": {
-     "tipo": "protagonista",
-     "rol": "CLUB BRUJAS",
-     "nombre": "JOEL ORDÓÑEZ",
-     "dato": "LESIONADO · VUELVE EN ENERO",
-     "color": "#0057B8"
-    },
-    "transicion": "glitch",
-    "inicio": 18.3,
-    "fin": 22.75
-   },
-   {
-    "texto": "En el Dortmund está Justin Lerma, y en el Lens, Jhoanner Chávez.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "JUSTIN LERMA · JHOANNER CHÁVEZ",
-     "sobre": "BORUSSIA DORTMUND · LENS"
-    },
-    "transicion": "barrido",
-    "inicio": 24.05,
-    "fin": 27.65
-   },
-   {
-    "texto": "¿Cuál de los seis es tu favorito? Te leo, y sigue a Guineo para no perderte a los nuestros.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿TU FAVORITO?",
-     "sobre": "@GUINEOCOMUNICACIONES"
-    },
-    "transicion": "glitch",
-    "inicio": 28.65,
-    "fin": 34.5,
-    "foto": "img/guineo-2026-11-25-champions-seis.png",
-    "movimiento": "paneo_izq"
-   },
-   {
-    "texto": "Y el sexto es Piero Hincapié: ayer jugó los noventa minutos en el uno a uno del Arsenal con el Dortmund.",
-    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "marcador",
-     "equipos": [
-      {
-       "nombre": "ARSENAL",
-       "color": "#EF0107",
-       "goles": 1
-      },
-      {
-       "nombre": "DORTMUND",
-       "color": "#FDE100",
-       "goles": 1
-      }
-     ],
-     "pie": "HINCAPIÉ · 90 MINUTOS"
-    },
-    "transicion": "flash",
-    "inicio": 35.9,
-    "fin": 41.05
-   },
-   {
-    "texto": "Casi pone el dos a uno con un cabezazo al minuto cincuenta y ocho.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "58'",
-     "texto": "CABEZAZO DE HINCAPIÉ · LO TAPÓ EL ARQUERO"
-    },
-    "transicion": "zoom",
-    "inicio": 42.3,
-    "fin": 45.7
-   },
-   {
-    "texto": "Y el nueve de diciembre, el Arsenal recibe al Real Madrid.",
-    "foto_commons": "Santiagobernabeupanoramav45.JPG",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "ARSENAL",
-       "color": "#EF0107"
-      },
-      {
-       "nombre": "REAL MADRID",
-       "color": "#00529F"
-      }
-     ],
-     "hora": "MIÉ 9/12",
-     "pie": "FECHA 6 · EN LONDRES"
-    },
-    "destello": true,
-    "hinchada": true,
-    "tono": "urgente",
-    "transicion": "flash",
-    "inicio": 46.9,
-    "fin": 50.1
-   },
-   {
-    "texto": "Seis ecuatorianos, una sola Champions.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "6 ECUATORIANOS",
-     "sobre": "UNA SOLA CHAMPIONS"
-    },
-    "transicion": "zoom",
-    "inicio": 51.05,
-    "fin": 53.8
+    "inicio": 28.4,
+    "fin": 30.3,
+    "foto": "img/sub17-corea-hinchas.jpg",
+    "credito": "Imágenes: Teleamazonas"
    }
   ],
-  "audio": "audio/46"
+  "audio": "audio/47"
  }
 ]
