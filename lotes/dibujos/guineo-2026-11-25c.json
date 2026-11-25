@@ -1,0 +1,13 @@
+{
+  "modelo": "9b",
+  "estilo": "Detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. No text, no letters, no numbers, no logos, no crests, no flags with symbols, no sponsors anywhere. No recognizable real people, no visible faces: everyone seen from behind.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "minitri-abrazo",
+      "seed": 117,
+      "prompt": "Vertical illustration: a group of teenage football players in plain yellow shirts with blue shorts, seen from behind, standing in a tight huddle with arms around each other's shoulders on the pitch of a modern stadium at night, desert city skyline and a tall torch-shaped tower in the background, bright floodlights, sweat and determination, a white soccer ball at their feet, hopeful dramatic mood."
+    }
+  ]
+}
