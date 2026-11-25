@@ -1,0 +1,18 @@
+[
+ {
+  "titulo": "Ecuador vs Corea del Sur 2-3 Sub-17: ¿está eliminada la Mini-Tri?",
+  "etiqueta": "MUNDIAL SUB-17 · GRUPO B",
+  "club": "ecuador",
+  "prueba_voz": "Mui (voz real)",
+  "franja": ["MUNDIAL SUB-17 QATAR 2026", "ECUADOR 3.º DEL GRUPO B · 4 PTS", "SE DEFINE EL VIERNES 28/11"],
+  "escenas": [
+   {"texto": "Ecuador perdía tres a cero con Corea en el Mundial Sub-17, y no se rindió.", "foto": "PENDIENTE-FOTO-MUI", "movimiento": "zoom_in", "grafico": {"tipo": "titular", "texto": "¡PERDÍA 3-0!", "sobre": "ECUADOR VS COREA DEL SUR · SUB-17"}, "transicion": "flash", "hinchada": true},
+   {"texto": "Guerrero descontó al cincuenta y ocho y Fragozo hizo el tres a dos al setenta y ocho.", "grafico": {"tipo": "marcador", "equipos": [{"nombre": "ECUADOR", "color": "#FFD100", "escudo": "img/escudos/fef.png", "goles": 2}, {"nombre": "COREA DEL SUR", "color": "#C8102E", "goles": 3}], "pie": "GUERRERO 58' · FRAGOZO 78'"}, "transicion": "barrido"},
+   {"texto": "¿Crees que la Mini-Tri pasa? Te leo, y sigue a Guineo.", "foto": "img/guineo-2026-11-25-minitri-abrazo.png", "movimiento": "subir", "grafico": {"tipo": "titular", "texto": "¿PASA LA MINI-TRI?", "sobre": "@GUINEOCOMUNICACIONES"}, "transicion": "zoom"},
+   {"texto": "Quedó tercera con cuatro puntos, y no está eliminada.", "grafico": {"tipo": "duo", "a": "4", "a_texto": "PUNTOS", "b": "0", "b_texto": "GOL DIFERENCIA", "pie": "3.º DEL GRUPO B · NO ESTÁ ELIMINADA"}, "suspenso": true, "destello": true, "transicion": "glitch"},
+   {"texto": "Pasan los ocho mejores terceros de doce grupos, y se define hasta el viernes.", "grafico": {"tipo": "cifra", "valor": "8", "texto": "MEJORES TERCEROS DE 12 GRUPOS · SE DEFINE EL VIERNES 28"}, "transicion": "rota"},
+   {"texto": "Y la Mini-Tri sigue viva.", "foto_commons": "Aspire Park Panorama View.jpg", "movimiento": "zoom_out", "grafico": {"tipo": "titular", "texto": "SIGUE VIVA", "sobre": "LA MINI-TRI"}, "transicion": "flash", "hinchada": true}
+  ],
+  "audio": "audio/47"
+ }
+]
