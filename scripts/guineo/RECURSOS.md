@@ -179,6 +179,9 @@ Título = [LO QUE LA GENTE BUSCA] + [GANCHO QUE NO REVELA] + #Shorts
 - Duración: Shorts de 45–60 s (versiones largas de 3–5 min solo si Mui lo pide). Mismas reglas de gancho sin revelar, colores por club, guion de edición y título SEO + gancho.
 - COPYRIGHT: "pocos segundos" NO evita reclamos (Content ID detecta 2–3 s). La base del video es material propio (voz de Mui, foto_commons, escudos, pizarra, dibujos, cifras); clips reales solo si Mui los manda, máx. 2–3 s, con voz encima y crédito. Nunca descargados por el agente.
 
+## Efemérides "un día como hoy" (Mui, 25/11)
+- El agente de noticias propone cada mañana 1–2 efemérides 📅 verificadas: qué pasó un día como hoy con la Selección, Barcelona SC, Emelec, Liga de Quito e IDV (partidos ganados, títulos, goles recordados, récords) o con figuras de nuestro fútbol (el Tin Delgado, Aguinaga, Enner, Antonio Valencia, Iván Hurtado…). Fecha y dato confirmados con al menos una fuente; nunca fechas aproximadas. Formato de noticia (20–25 s) con gancho sin revelar; imagen: foto_commons verificada, escudos, marcador de época, jugada tv/retro según la crónica.
+
 ## Decimales en gráficos (bug 23/11)
 - Los decimales van con COMA ("0,33"), nunca con punto: el punto se lee como separador de miles. Desde el 23/11 el generador ya no cuenta "0.31" como 31, pero igual escribe decimales con coma.
 
