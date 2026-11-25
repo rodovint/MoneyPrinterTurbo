@@ -1,0 +1,40 @@
+{
+ "fecha": "2026-11-24T19:23-05:00",
+ "nota": "rss-ultimo.json de 16:08 (3 h sin Action; último run 16:08). WebFetch a Trends bloqueado por permiso. Revisión completa por resultado.",
+ "temas": [
+  {
+   "tema": "real madrid - psv",
+   "señales": [
+    "Real Madrid 5-1 PSV, remontada tras 0-1 al descanso; 5 de 5 (realmadrid.com, Vistazo)",
+    "'psv' 200+ EC a las 16:08 en pleno partido"
+   ],
+   "volumen_EC": "200+ (psv, 16:08)",
+   "volumen_anterior": "ausente",
+   "estado": "EN CRECIMIENTO",
+   "brecha": "SINCRONIZADA",
+   "avisado": true
+  },
+  {
+   "tema": "manchester city - napoli",
+   "señales": [
+    "ya avisado 17:24"
+   ],
+   "volumen_EC": "5000+",
+   "volumen_anterior": "5000+",
+   "estado": "ESTABLE",
+   "brecha": "SINCRONIZADA",
+   "avisado": true
+  },
+  {
+   "tema": "chapecoense - palmeiras",
+   "señales": [
+    "ya avisado 17:24; juegan esta noche"
+   ],
+   "volumen_EC": "500+",
+   "volumen_anterior": "500+",
+   "estado": "ESTABLE",
+   "brecha": "SINCRONIZADA",
+   "avisado": true
+  }
+ ]
+}
