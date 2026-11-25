@@ -23,20 +23,19 @@
      "texto": "NEYMAR VS GRÊMIO",
      "sobre": "LA FRASE"
     },
-    "hinchada": true,
-    "inicio": 0.2,
-    "fin": 2.15
+    "hinchada": true
    },
    {
     "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "GRÊMIO EN DESCENSO",
-     "sobre": "SANTOS · 9.º · 50 PUNTOS"
+     "tipo": "duo",
+     "a": "GRÊMIO",
+     "a_texto": "ZONA DE DESCENSO",
+     "b": "SANTOS",
+     "b_texto": "9.º · 50 PUNTOS",
+     "pie": "BRASILEIRÃO 2026"
     },
-    "transicion": "barrido",
-    "inicio": 2.3,
-    "fin": 6.3
+    "transicion": "barrido"
    },
    {
     "texto": "¿Quién ganó esta pelea? Te leo, y sigue a Guineo.",
@@ -47,9 +46,7 @@
      "sobre": "@GUINEOCOMUNICACIONES"
     },
     "transicion": "glitch",
-    "foto_commons": "Neymar - Santos b&w.jpg",
-    "inicio": 6.65,
-    "fin": 9.05
+    "foto_commons": "Neymar - Santos b&w.jpg"
    },
    {
     "texto": "Grêmio ganó dos a cero,",
@@ -59,23 +56,19 @@
      "texto": "GRÊMIO VS SANTOS · Y SALE DEL DESCENSO"
     },
     "destello": true,
-    "transicion": "flash",
-    "inicio": 9.85,
-    "fin": 11.3
+    "transicion": "flash"
    },
    {
     "texto": "y Neymar dijo: era victoria segura.",
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "titular",
+     "tipo": "cita",
      "texto": "«ERA VICTORIA SEGURA»",
-     "sobre": "NEYMAR · VÍA METRÓPOLES"
+     "autor": "NEYMAR · TRAS EL 0-2 (VÍA METRÓPOLES)"
     },
     "suspenso": true,
-    "transicion": "rota",
-    "inicio": 11.95,
-    "fin": 14.6
+    "transicion": "rota"
    },
    {
     "texto": "Grêmio le respondió en redes con una faja de inmortal.",
@@ -86,22 +79,18 @@
      "sobre": "LA RESPUESTA DE GRÊMIO"
     },
     "transicion": "zoom",
-    "foto_commons": "Neymar - Santos b&w.jpg",
-    "inicio": 15.3,
-    "fin": 18.65
+    "foto_commons": "Neymar - Santos b&w.jpg"
    },
    {
     "texto": "Y Neymar: primera vez que me ganan, hay que hacer fiesta.",
     "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "titular",
+     "tipo": "cita",
      "texto": "«PRIMERA VEZ QUE ME GANAN»",
-     "sobre": "NEYMAR EN REDES · VÍA TMC"
+     "autor": "NEYMAR EN REDES (VÍA TMC)"
     },
-    "transicion": "glitch",
-    "inicio": 20.2,
-    "fin": 24.05
+    "transicion": "glitch"
    },
    {
     "texto": "Todo por una sola frase.",
@@ -110,9 +99,7 @@
      "texto": "UNA SOLA FRASE",
      "sobre": "NEYMAR"
     },
-    "transicion": "barrido",
-    "inicio": 25.05,
-    "fin": 26.6
+    "transicion": "barrido"
    }
   ]
  },
@@ -227,7 +214,7 @@
   "escenas": [
    {
     "texto": "La Mini-Tri se juega el pase contra el único que ganó todo.",
-    "foto": "img/sub17-uganda-2026-11-22/mina-16-gancho.jpg",
+    "foto": "img/FALTA-sub17.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
@@ -420,8 +407,7 @@
      "tipo": "ninguno"
     },
     "tono": "recuerdo",
-    "transicion": "rota",
-    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg"
+    "transicion": "rota"
    }
   ]
  }

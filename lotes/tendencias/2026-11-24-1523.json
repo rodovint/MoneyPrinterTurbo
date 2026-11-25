@@ -1,4 +1,0 @@
-{"fecha": "2026-11-24T15:23-05:00", "nota": "rss-ultimo.json sigue en 01:51 (13 h 32 min); la Action no corre desde 06:50Z, ya avisado a las 10:24. Una WebSearch (resultados Champions hoy / polémicas virales): solo resultados viejos, sin titular explosivo verificable. Sin señal.", "temas": [
- {"tema": "Champions League fecha 5 (martes)", "señales": ["WebSearch sin resultados de hoy"], "volumen_EC": "sin dato", "volumen_anterior": "sin dato", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
- {"tema": "copa mundial de fútbol sub-17", "señales": ["sin datos nuevos"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
-]}

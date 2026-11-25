@@ -209,3 +209,7 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
 
 ## Arranque de TODO video (Mui, 24/11)
 - Cortos: los primeros 3 segundos son vitales (imagen más fuerte + gancho escrito + movimiento). Videos largos (SRF): los primeros minutos son vitales.
+
+## Modo manual de producción (Mui, 25/11)
+- Los agentes de noticias y alertas NO producen reels: entregan por mensaje el contenido COMPLETO de lotes/actual.json (un bloque de código para borrar y pegar entero), el nombre exacto de cada audio (lotes/audio/NN, siguiente número libre) junto a sus frases, el guion de edición y los textos SEO. Mui sube los audios con commit "[skip ci] audios" y luego pega el JSON en lotes/actual.json; el reel se genera solo y aparece en Releases.
+- En modo manual no se usan dibujos de Cloudflare ni imágenes que no estén ya en el repo (salvo fotos que mande Mui): se usan los recursos propios del generador.

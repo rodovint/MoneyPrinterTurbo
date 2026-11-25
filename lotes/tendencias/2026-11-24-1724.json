@@ -1,9 +1,0 @@
-{"fecha": "2026-11-24T17:24-05:00", "nota": "La Action volvió (rss 16:02/16:08). Comparación con rss 01:51 (no hay intermedios). Revisión completa.", "temas": [
- {"tema": "manchester city - napoli", "señales": ["nuevo en EC con 5000+", "City 2-2 Napoli, empate sobre el final (El Espectador, Diario Neuquino)"], "volumen_EC": "5000+", "volumen_anterior": "ausente", "estado": "EXPLOSIVO", "brecha": "SINCRONIZADA", "avisado": true},
- {"tema": "posiciones de al-nassr contra al-sadd", "señales": ["MX 20000+, AR 1000+, ES 1000+", "CR7 gol 987 (ESPN)"], "volumen_EC": "ausente", "volumen_anterior": "ausente", "estado": "EXPLOSIVO", "brecha": "TEMPRANA", "avisado": true},
- {"tema": "posiciones de galatasaray contra aston villa", "señales": ["nuevo 2000+", "Galatasaray 1-0, Deniz Gül 78'"], "volumen_EC": "2000+", "volumen_anterior": "ausente", "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
- {"tema": "rb leipzig - lens", "señales": ["nuevo 1000+", "Leipzig 3-1 Lens"], "volumen_EC": "1000+", "volumen_anterior": "ausente", "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": true},
- {"tema": "chapecoense - palmeiras", "señales": ["nuevo 500+ EC; AR/MX 1000+, ES/US 500+", "partido de esta noche, homenaje a víctimas de la tragedia"], "volumen_EC": "500+", "volumen_anterior": "ausente", "estado": "EN CRECIMIENTO", "brecha": "SINCRONIZADA", "avisado": true},
- {"tema": "como - aek", "señales": ["nuevo 1000+", "Como 1-0 AEK"], "volumen_EC": "1000+", "volumen_anterior": "ausente", "estado": "EN CRECIMIENTO", "brecha": "LOCAL", "avisado": false},
- {"tema": "copa mundial de fútbol sub-17", "señales": [], "volumen_EC": "100+", "volumen_anterior": "200+", "estado": "EN DECLIVE", "brecha": "LOCAL", "avisado": false}
-]}

@@ -1,119 +1,109 @@
 [
  {
-  "titulo": "Santos vs Grêmio: la frase de Neymar y la respuesta que nadie esperaba",
-  "etiqueta": "BRASILEIRÃO · NEYMAR",
-  "paleta": {
-   "fondo": "#FFFFFF",
-   "texto": "#111111"
-  },
-  "prueba_voz": "Mui",
+  "titulo": "Reixon Saya: el chico de 18 años de Emelec que aparece en un ranking de toda Sudamérica",
+  "etiqueta": "EMELEC · CIES",
+  "club": "emelec",
+  "prueba_voz": "Mui (voz real)",
   "franja": [
-   "BRASILEIRÃO 2026",
-   "SANTOS · 9.º · 50 PUNTOS",
-   "GRÊMIO PELEABA EL DESCENSO"
+   "CIES FOOTBALL OBSERVATORY",
+   "SUB-22 · SUDAMÉRICA",
+   "ASISTENCIAS ESPERADAS POR 90'"
   ],
-  "audio": "audio/41",
   "escenas": [
    {
-    "texto": "Neymar soltó una frase, y Grêmio no se la perdonó.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
+    "texto": "Un chico de dieciocho años de Emelec aparece en un ranking de toda Sudamérica.",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "NEYMAR VS GRÊMIO",
-     "sobre": "LA FRASE"
+     "texto": "¿QUIÉN ES?",
+     "sobre": "EMELEC · 18 AÑOS"
     },
+    "transicion": "flash",
     "hinchada": true,
-    "inicio": 0.2,
-    "fin": 2.15
+    "inicio": 1.85,
+    "fin": 6.15
    },
    {
-    "texto": "Grêmio llegaba en zona de descenso; Santos, peleando Libertadores.",
+    "texto": "Lo hizo el CIES: los menores de veintidós que más goles generan con sus pases.",
     "grafico": {
      "tipo": "titular",
-     "texto": "GRÊMIO EN DESCENSO",
-     "sobre": "SANTOS · 9.º · 50 PUNTOS"
+     "texto": "TOP SUB-22 DE SUDAMÉRICA",
+     "sobre": "CIES · ASISTENCIAS ESPERADAS"
     },
     "transicion": "barrido",
-    "inicio": 2.3,
-    "fin": 6.3
+    "inicio": 6.85,
+    "fin": 12.4
    },
    {
-    "texto": "¿Quién ganó esta pelea? Te leo, y sigue a Guineo.",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿QUIÉN GANÓ LA PELEA?",
-     "sobre": "@GUINEOCOMUNICACIONES"
-    },
-    "transicion": "glitch",
-    "foto_commons": "Neymar - Santos b&w.jpg",
-    "inicio": 6.65,
-    "fin": 9.05
-   },
-   {
-    "texto": "Grêmio ganó dos a cero,",
+    "texto": "Tercero, Tomás Aranda, de Boca.",
     "grafico": {
      "tipo": "cifra",
-     "valor": "2-0",
-     "texto": "GRÊMIO VS SANTOS · Y SALE DEL DESCENSO"
-    },
-    "destello": true,
-    "transicion": "flash",
-    "inicio": 9.85,
-    "fin": 11.3
-   },
-   {
-    "texto": "y Neymar dijo: era victoria segura.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "«ERA VICTORIA SEGURA»",
-     "sobre": "NEYMAR · VÍA METRÓPOLES"
-    },
-    "suspenso": true,
-    "transicion": "rota",
-    "inicio": 11.95,
-    "fin": 14.6
-   },
-   {
-    "texto": "Grêmio le respondió en redes con una faja de inmortal.",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "«100 % INMORTAL»",
-     "sobre": "LA RESPUESTA DE GRÊMIO"
+     "valor": "0,31",
+     "texto": "3.º TOMÁS ARANDA · BOCA JUNIORS"
     },
     "transicion": "zoom",
-    "foto_commons": "Neymar - Santos b&w.jpg",
-    "inicio": 15.3,
-    "fin": 18.65
+    "inicio": 13.6,
+    "fin": 15.55
    },
    {
-    "texto": "Y Neymar: primera vez que me ganan, hay que hacer fiesta.",
-    "foto_commons": "Neymar - Santos vs Juventude - 04-08-2025.jpg",
-    "movimiento": "zoom_in",
+    "texto": "Segundo, Ryan Augusto, del Bragantino.",
     "grafico": {
-     "tipo": "titular",
-     "texto": "«PRIMERA VEZ QUE ME GANAN»",
-     "sobre": "NEYMAR EN REDES · VÍA TMC"
+     "tipo": "cifra",
+     "valor": "0,32",
+     "texto": "2.º RYAN AUGUSTO · RB BRAGANTINO"
     },
-    "transicion": "glitch",
-    "inicio": 20.2,
-    "fin": 24.05
+    "transicion": "zoom",
+    "inicio": 16.15,
+    "fin": 18.35
    },
    {
-    "texto": "Todo por una sola frase.",
+    "texto": "¿Adivinas quién es el primero? Te leo, y sigue a Guineo.",
     "grafico": {
      "tipo": "titular",
-     "texto": "UNA SOLA FRASE",
-     "sobre": "NEYMAR"
+     "texto": "¿QUIÉN ES EL N.º 1?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "suspenso": true,
+    "transicion": "glitch",
+    "inicio": 18.95,
+    "fin": 23.2
+   },
+   {
+    "texto": "Primero, Reixon Saya, de Emelec.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "0,33",
+     "texto": "1.º REIXON SAYA · EMELEC · SOLO 18 AÑOS"
+    },
+    "destello": true,
+    "hinchada": true,
+    "transicion": "flash",
+    "inicio": 23.95,
+    "fin": 25.9
+   },
+   {
+    "texto": "Y en el top diez hay dos ecuatorianos más: Keny Arroyo y Thiago Ozaeta.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "KENY ARROYO · THIAGO OZAETA",
+     "sobre": "TAMBIÉN EN EL TOP 10"
     },
     "transicion": "barrido",
-    "inicio": 25.05,
-    "fin": 26.6
+    "inicio": 26.4,
+    "fin": 31.6
+   },
+   {
+    "texto": "Dieciocho años, y ya está arriba de toda Sudamérica.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "18 AÑOS",
+     "sobre": "REIXON SAYA"
+    },
+    "transicion": "zoom",
+    "inicio": 32.25,
+    "fin": 35.4
    }
-  ]
+  ],
+  "audio": "audio/40"
  }
 ]

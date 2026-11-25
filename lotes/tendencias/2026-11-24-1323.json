@@ -1,5 +1,0 @@
-{"fecha": "2026-11-24T13:23-05:00", "nota": "rss-ultimo.json sigue en 01:51 (11 h 32 min); la Action no corre desde 06:50Z (01:50 EC), ya avisado a las 10:24. explore-ultimo.json de 23/11 22:30. Una WebSearch: Champions fecha 5 hoy (12:45 y 15:00 EC); Real Madrid-PSV ya en lote de la mañana y Arsenal-Dortmund (Hincapié) ya propuesto en temas 24/11 y no elegido. Sin titular explosivo ni dato medible. Sin señal.", "temas": [
- {"tema": "Champions League fecha 5 (martes)", "señales": ["WebSearch: agenda de partidos hoy"], "volumen_EC": "sin dato", "volumen_anterior": "sin dato", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
- {"tema": "copa mundial de fútbol sub-17", "señales": ["sin datos nuevos", "Ecuador vs Corea Sub-17 ya en lote 24/11"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
- {"tema": "lakers - jazz", "señales": ["sin datos nuevos"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "EN DECLIVE", "brecha": "SINCRONIZADA", "avisado": false}
-]}

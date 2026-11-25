@@ -1,9 +1,0 @@
-{
- "fecha": "2026-11-24T21:24-05:00",
- "nota": "Modo rápido con rss-ultimo.json de 20:36. Sin señal.",
- "temas": [
-  {"tema": "américa - deportivo cali", "señales": ["Liga BetPlay, juegan 25/11 por la punta del Grupo B", "200+ EC; 200-500+ en ES/AR/MX"], "volumen_EC": "200+", "volumen_anterior": "ausente", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
-  {"tema": "turco mohamed", "señales": ["confirma salida de Toluca tras Intercontinental y Apertura (TV Azteca)", "500+ solo MX"], "volumen_EC": "ausente", "volumen_anterior": "ausente", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
-  {"tema": "boca mañana", "señales": ["estudios a Paredes tras desmayo (Olé)", "200+ solo AR"], "volumen_EC": "ausente", "volumen_anterior": "ausente", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
- ]
-}

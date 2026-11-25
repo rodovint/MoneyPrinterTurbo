@@ -1,5 +1,0 @@
-{"fecha": "2026-11-24T10:24-05:00", "nota": "rss-ultimo.json sigue en 01:51 (8 h 33 min sin datos; la Action no corrió a las 6:05-10:05, última corrida OK 06:50Z). WebFetch a Google Trends RSS EC sin permiso. Dos WebSearch: nada explosivo nuevo (Felipe Caicedo sobre elecciones BSC ya cubierto en borrador 23/11). Sin señal medible. Aviso de Action caída enviado.", "temas": [
- {"tema": "lakers - jazz", "señales": ["sin datos nuevos"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "ESTABLE", "brecha": "SINCRONIZADA", "avisado": false},
- {"tema": "copa mundial de fútbol sub-17", "señales": ["sin datos nuevos", "Ecuador vs Corea Sub-17 ya en lote 24/11"], "volumen_EC": "200+", "volumen_anterior": "200+", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false},
- {"tema": "Felipe Caicedo / elecciones Barcelona SC", "señales": ["WebSearch Primicias"], "volumen_EC": "sin dato", "volumen_anterior": "sin dato", "estado": "ESTABLE", "brecha": "LOCAL", "avisado": false}
-]}
