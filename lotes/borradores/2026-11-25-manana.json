@@ -1,0 +1,276 @@
+[
+ {
+  "titulo": "Barcelona SC vs Independiente del Valle HOY 19:00: el partido pendiente que cambia la pelea",
+  "etiqueta": "LIGAPRO · HEXAGONAL",
+  "club": "barcelona",
+  "prueba_voz": "Mui (voz real)",
+  "franja": [
+   "HOY 19:00 · MONUMENTAL",
+   "PARTIDO PENDIENTE · HEXAGONAL FINAL",
+   "PELEA POR LA LIBERTADORES 2027"
+  ],
+  "escenas": [
+   {
+    "texto": "Barcelona se juega esta noche su lugar en la pelea por la Libertadores.",
+    "foto_commons": "Estadio BSC.jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/barcelona.png",
+     "sobre": "BARCELONA SC · ESTA NOCHE",
+     "texto": "¿LA ÚLTIMA BALA?"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Recibe al campeón, Independiente del Valle.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "BARCELONA SC",
+       "color": "#FFD100",
+       "escudo": "img/escudos/barcelona.png"
+      },
+      {
+       "nombre": "IND. DEL VALLE",
+       "color": "#1F6FC5",
+       "escudo": "img/escudos/idv.png"
+      }
+     ],
+     "hora": "HOY 19:00",
+     "pie": "MONUMENTAL · PARTIDO PENDIENTE"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Y el campeón quiere revancha del dos a uno de septiembre.",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "BARCELONA SC",
+       "color": "#FFD100",
+       "escudo": "img/escudos/barcelona.png",
+       "goles": 2
+      },
+      {
+       "nombre": "IND. DEL VALLE",
+       "color": "#1F6FC5",
+       "escudo": "img/escudos/idv.png",
+       "goles": 1
+      }
+     ],
+     "pie": "SEPTIEMBRE 2026 · MONUMENTAL"
+    },
+    "tono": "recuerdo",
+    "transicion": "zoom"
+   },
+   {
+    "texto": "¿Gana Barcelona? Te leo, y sigue a Guineo.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿GANA BARCELONA?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Si gana, llega a cincuenta y cinco y supera a Católica y a Liga.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "55",
+     "texto": "SUPERA A U. CATÓLICA (54) Y LIGA DE QUITO (54)"
+    },
+    "suspenso": true,
+    "destello": true,
+    "transicion": "rota"
+   },
+   {
+    "texto": "Y queda a solo dos de Aucas.",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/aucas.png",
+     "sobre": "AUCAS · 3.º · 57 PTS",
+     "texto": "A SOLO 2"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Esta noche, a las siete, en el Monumental.",
+    "foto_commons": "Estadio Monumental Isidro Romero Carbo.jpg",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "HOY 19:00",
+     "sobre": "BARCELONA SC VS IDV"
+    },
+    "transicion": "zoom"
+   }
+  ],
+  "audio": "audio/45"
+ },
+ {
+  "titulo": "Ecuatorianos en la Champions League: los 6 y el que va contra el Real Madrid",
+  "etiqueta": "CHAMPIONS · ECUATORIANOS",
+  "prueba_voz": "Mui (voz real)",
+  "franja": [
+   "CHAMPIONS LEAGUE 2026-27",
+   "6 ECUATORIANOS EN LA FASE DE LIGA",
+   "@GUINEOCOMUNICACIONES"
+  ],
+  "escenas": [
+   {
+    "texto": "Seis ecuatorianos están en la Champions, y a uno le espera el Real Madrid.",
+    "foto_commons": "Piero Hincapie Cote D'Ivoire v Ecuador 14 June 2026-247 (cropped).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "6 ECUATORIANOS",
+     "sobre": "CHAMPIONS LEAGUE"
+    },
+    "transicion": "flash",
+    "hinchada": true
+   },
+   {
+    "texto": "Empecemos por París: Willian Pacho, con el PSG, juega hoy a las tres contra la Roma.",
+    "foto_commons": "Parc des Princes - PSG vs Nice.jpg",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "PSG",
+       "color": "#004170"
+      },
+      {
+       "nombre": "ROMA",
+       "color": "#8E1F2F"
+      }
+     ],
+     "hora": "HOY 15:00",
+     "pie": "WILLIAN PACHO · PARQUE DE LOS PRÍNCIPES"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "Jeremy Arévalo, del Stuttgart, también juega hoy a las tres, ante el Inter.",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "INTER",
+       "color": "#0A3C7D"
+      },
+      {
+       "nombre": "STUTTGART",
+       "color": "#E32219"
+      }
+     ],
+     "hora": "HOY 15:00",
+     "pie": "JEREMY ARÉVALO · MILÁN"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "En Brujas está Joel Ordóñez, pero una lesión en el pie lo deja fuera hasta enero.",
+    "grafico": {
+     "tipo": "protagonista",
+     "rol": "CLUB BRUJAS",
+     "nombre": "JOEL ORDÓÑEZ",
+     "dato": "LESIONADO · VUELVE EN ENERO",
+     "color": "#0057B8"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "En el Dortmund está Justin Lerma, y en el Lens, Jhoanner Chávez.",
+    "grafico": {
+     "tipo": "duo",
+     "a": "LERMA",
+     "a_texto": "BORUSSIA DORTMUND",
+     "b": "CHÁVEZ",
+     "b_texto": "LENS",
+     "pie": "TAMBIÉN EN LA FASE DE LIGA"
+    },
+    "transicion": "barrido"
+   },
+   {
+    "texto": "¿Cuál de los seis es tu favorito? Te leo, y sigue a Guineo para no perderte a los nuestros.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿TU FAVORITO?",
+     "sobre": "@GUINEOCOMUNICACIONES"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Y el sexto es Piero Hincapié: ayer jugó los noventa minutos en el uno a uno del Arsenal con el Dortmund.",
+    "foto_commons": "Piero Hincapié, 2022-07-31, Saisoneröffnung Bayer 04, Leverkusen (1).jpg",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "marcador",
+     "equipos": [
+      {
+       "nombre": "ARSENAL",
+       "color": "#EF0107",
+       "goles": 1
+      },
+      {
+       "nombre": "DORTMUND",
+       "color": "#FDE100",
+       "goles": 1
+      }
+     ],
+     "pie": "HINCAPIÉ · 90 MINUTOS"
+    },
+    "transicion": "flash"
+   },
+   {
+    "texto": "Casi pone el dos a uno con un cabezazo al minuto cincuenta y ocho.",
+    "grafico": {
+     "tipo": "cifra",
+     "valor": "58'",
+     "texto": "CABEZAZO DE HINCAPIÉ · LO TAPÓ EL ARQUERO"
+    },
+    "transicion": "zoom"
+   },
+   {
+    "texto": "Y el nueve de diciembre, el Arsenal recibe al Real Madrid.",
+    "foto_commons": "Santiagobernabeupanoramav45.JPG",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "ARSENAL",
+       "color": "#EF0107"
+      },
+      {
+       "nombre": "REAL MADRID",
+       "color": "#FFFFFF"
+      }
+     ],
+     "hora": "MIÉ 9/12",
+     "pie": "FECHA 6 · EN LONDRES"
+    },
+    "destello": true,
+    "hinchada": true,
+    "tono": "urgente",
+    "transicion": "flash"
+   },
+   {
+    "texto": "Seis ecuatorianos, una sola Champions.",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "6 ECUATORIANOS",
+     "sobre": "UNA SOLA CHAMPIONS"
+    },
+    "transicion": "zoom"
+   }
+  ],
+  "audio": "audio/46"
+ }
+]
