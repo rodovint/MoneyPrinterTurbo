@@ -12,7 +12,6 @@
   "escenas": [
    {
     "texto": "Barcelona se juega esta noche su lugar en la pelea por la Libertadores.",
-    "foto_commons": "Estadio BSC.jpg",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "escudo",
@@ -21,7 +20,10 @@
      "texto": "¿LA ÚLTIMA BALA?"
     },
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "inicio": 2.1,
+    "fin": 6.15,
+    "foto": "img/guineo-2026-11-25-bsc-bala.png"
    },
    {
     "texto": "Recibe al campeón, Independiente del Valle.",
@@ -42,7 +44,9 @@
      "hora": "HOY 19:00",
      "pie": "MONUMENTAL · PARTIDO PENDIENTE"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "inicio": 7.25,
+    "fin": 9.65
    },
    {
     "texto": "Y el campeón quiere revancha del dos a uno de septiembre.",
@@ -65,7 +69,9 @@
      "pie": "SEPTIEMBRE 2026 · MONUMENTAL"
     },
     "tono": "recuerdo",
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 11.65,
+    "fin": 14.1
    },
    {
     "texto": "¿Gana Barcelona? Te leo, y sigue a Guineo.",
@@ -74,7 +80,9 @@
      "texto": "¿GANA BARCELONA?",
      "sobre": "@GUINEOCOMUNICACIONES"
     },
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 15.8,
+    "fin": 19.45
    },
    {
     "texto": "Si gana, llega a cincuenta y cinco y supera a Católica y a Liga.",
@@ -85,7 +93,9 @@
     },
     "suspenso": true,
     "destello": true,
-    "transicion": "rota"
+    "transicion": "rota",
+    "inicio": 20.15,
+    "fin": 23.4
    },
    {
     "texto": "Y queda a solo dos de Aucas.",
@@ -96,7 +106,9 @@
      "texto": "A SOLO 2"
     },
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "inicio": 24.85,
+    "fin": 26.95
    },
    {
     "texto": "Esta noche, a las siete, en el Monumental.",
@@ -107,7 +119,9 @@
      "texto": "HOY 19:00",
      "sobre": "BARCELONA SC VS IDV"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 28.05,
+    "fin": 30.7
    }
   ],
   "audio": "audio/45"
@@ -132,7 +146,9 @@
      "sobre": "CHAMPIONS LEAGUE"
     },
     "transicion": "flash",
-    "hinchada": true
+    "hinchada": true,
+    "inicio": 0.0,
+    "fin": 6.35
    },
    {
     "texto": "Empecemos por París: Willian Pacho, con el PSG, juega hoy a las tres contra la Roma.",
@@ -153,7 +169,9 @@
      "hora": "HOY 15:00",
      "pie": "WILLIAN PACHO · PARQUE DE LOS PRÍNCIPES"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "inicio": 7.2,
+    "fin": 13.0
    },
    {
     "texto": "Jeremy Arévalo, del Stuttgart, también juega hoy a las tres, ante el Inter.",
@@ -172,7 +190,9 @@
      "hora": "HOY 15:00",
      "pie": "JEREMY ARÉVALO · MILÁN"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 14.0,
+    "fin": 17.55
    },
    {
     "texto": "En Brujas está Joel Ordóñez, pero una lesión en el pie lo deja fuera hasta enero.",
@@ -183,7 +203,9 @@
      "dato": "LESIONADO · VUELVE EN ENERO",
      "color": "#0057B8"
     },
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 18.3,
+    "fin": 22.75
    },
    {
     "texto": "En el Dortmund está Justin Lerma, y en el Lens, Jhoanner Chávez.",
@@ -195,7 +217,9 @@
      "b_texto": "LENS",
      "pie": "TAMBIÉN EN LA FASE DE LIGA"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "inicio": 24.05,
+    "fin": 27.65
    },
    {
     "texto": "¿Cuál de los seis es tu favorito? Te leo, y sigue a Guineo para no perderte a los nuestros.",
@@ -204,7 +228,11 @@
      "texto": "¿TU FAVORITO?",
      "sobre": "@GUINEOCOMUNICACIONES"
     },
-    "transicion": "glitch"
+    "transicion": "glitch",
+    "inicio": 28.65,
+    "fin": 34.5,
+    "foto": "img/guineo-2026-11-25-champions-seis.png",
+    "movimiento": "paneo_izq"
    },
    {
     "texto": "Y el sexto es Piero Hincapié: ayer jugó los noventa minutos en el uno a uno del Arsenal con el Dortmund.",
@@ -226,7 +254,9 @@
      ],
      "pie": "HINCAPIÉ · 90 MINUTOS"
     },
-    "transicion": "flash"
+    "transicion": "flash",
+    "inicio": 35.9,
+    "fin": 41.05
    },
    {
     "texto": "Casi pone el dos a uno con un cabezazo al minuto cincuenta y ocho.",
@@ -235,7 +265,9 @@
      "valor": "58'",
      "texto": "CABEZAZO DE HINCAPIÉ · LO TAPÓ EL ARQUERO"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 42.3,
+    "fin": 45.7
    },
    {
     "texto": "Y el nueve de diciembre, el Arsenal recibe al Real Madrid.",
@@ -259,7 +291,9 @@
     "destello": true,
     "hinchada": true,
     "tono": "urgente",
-    "transicion": "flash"
+    "transicion": "flash",
+    "inicio": 46.9,
+    "fin": 50.1
    },
    {
     "texto": "Seis ecuatorianos, una sola Champions.",
@@ -268,7 +302,9 @@
      "texto": "6 ECUATORIANOS",
      "sobre": "UNA SOLA CHAMPIONS"
     },
-    "transicion": "zoom"
+    "transicion": "zoom",
+    "inicio": 51.05,
+    "fin": 53.8
    }
   ],
   "audio": "audio/46"
