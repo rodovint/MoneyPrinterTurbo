@@ -1,0 +1,13 @@
+{
+  "modelo": "9b",
+  "estilo": "Detailed comic-book illustration, bold ink lines, dramatic floodlights, rich saturated colors. Empty room, absolutely no people, no humans, no hands, no faces. No text, no letters, no numbers, no logos, no brand marks, no swooshes, no crests, no sponsors anywhere.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "champions-seis",
+      "seed": 77,
+      "prompt": "Vertical illustration of an empty football locker room at night, seen from a low angle: a long wooden bench with six neatly folded plain football shirts in six different solid colors (dark navy, red, white, yellow, light blue, black), each with a pair of plain unbranded black football boots below it, a white soccer ball with dark star-shaped patches resting in the middle of the floor, at the end of the room an open tunnel glowing with bright stadium floodlights and a blurred huge crowd, cinematic light rays, completely empty of people."
+    }
+  ]
+}
