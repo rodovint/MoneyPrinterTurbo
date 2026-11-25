@@ -1,8 +1,19 @@
 {
- "fecha": "2026-11-25T15:25-05:00",
+ "fecha": "2026-11-25T15:27-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
+   {
+    "tema": "bayern munich",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Constructive talks with Musiala's management (FC Bayern)",
+     "Extraordinary Liverpool transfer emerges, with Bayern Munich 'increasingly likely' to make controversial move: report (FourFourTwo)"
+    ]
+   },
    {
     "tema": "posiciones de sabah futbol klubu contra fc barcelona",
     "volumen": "10000+",
@@ -11,7 +22,7 @@
     "deporte_probable": true,
     "titulares": [
      "Sabah 1-4 Barcelona: Anthony Gordon scores twice in visitors' comfortable Champions League win (BBC)",
-     "Sabah 1-4 Barcelona (Nov 25, 2026) Game Analysis (ESPN)"
+     "Champions League live updates: Barça take lead over Sabah (ESPN)"
     ]
    },
    {
@@ -38,8 +49,8 @@
    },
    {
     "tema": "club brujas - liverpool",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-25T11:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -49,8 +60,8 @@
    },
    {
     "tema": "psg",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-25T11:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -76,19 +87,8 @@
     "desde": "2026-11-25T11:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Luis Enrique names 23 for PSG vs Roma; Lucas Digne included (Tu Futbolero)",
-     "Achraf Hakimi brushes off rape trial questions: \"I am focused on football\" (BeSoccer Livescore)"
-    ]
-   },
-   {
-    "tema": "sporting lisboa - manchester united",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-25T11:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sporting Lisboa - Manchester United EN VIVO: transmisión, horario y dónde ver hoy | Champions League (Diario Extra)",
-     "Pochettino sorprende: Zirkzee titular en el Sporting-United (Tu Futbolero)"
+     "Licensable picture: UEFA Champions League - Paris St Germain v AS Roma (Reuters Connect)",
+     "Luis Enrique names 23 for PSG vs Roma; Lucas Digne included (Tu Futbolero)"
     ]
    },
    {
@@ -103,14 +103,14 @@
     ]
    },
    {
-    "tema": "losc - bayern",
+    "tema": "sporting lisboa - manchester united",
     "volumen": "2000+",
     "volumen_min": 2000,
     "desde": "2026-11-25T11:10:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Lille OSC - Bayern Munich : les compositions officielles (Foot Mercato)",
-     "Le site FCBayern-fr.com dans la presse (édition régionale) (FCbayern-fr)"
+     "Sporting Lisboa - Manchester United EN VIVO: transmisión, horario y dónde ver hoy | Champions League (Diario Extra)",
+     "Pochettino sorprende: Zirkzee titular en el Sporting-United (Tu Futbolero)"
     ]
    }
   ],
@@ -234,8 +234,8 @@
     "desde": "2026-11-25T12:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
-     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+     "Slavia Prague break Champions League record for winless run with Villarreal defeat (BBC)",
+     "Slavia Prague v Villarreal (Yahoo Sports)"
     ]
    },
    {
@@ -346,8 +346,8 @@
     "desde": "2026-11-25T12:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
-     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+     "Slavia Prague break Champions League record for winless run with Villarreal defeat (BBC)",
+     "Slavia Prague v Villarreal (Yahoo Sports)"
     ]
    },
    {
@@ -452,24 +452,68 @@
   ],
   "MX": [
    {
+    "tema": "atlético madrid vs. viking",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: UEFA Champions League - Atletico Madrid v Viking (Reuters Connect)",
+     "Atletico Madrid vs Viking Confirmed Lineups (WhoScored.com)"
+    ]
+   },
+   {
+    "tema": "bayern de múnich",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Luis Díaz regresa a convocatoria en emergencia de Bayern en ataque (ESPN México)",
+     "¡La noticia que esperaba Colombia! Luis Díaz recibe el alta médica y regresa al ruedo con el Bayern en Champions (Yahoo)"
+    ]
+   },
+   {
+    "tema": "champions league games",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Champions League predicted line-ups: Matchday 5 team news, injuries, suspensions (UEFA.com)",
+     "UCL Fantasy: Expert team reveals for Matchday 5 (Fantasy Football Scout)"
+    ]
+   },
+   {
+    "tema": "ferran torres",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Por qué Ferran Torres compró la sede administrativa del Valencia? (Yahoo)",
+     "Los negocios de Ferran Torres fuera del fútbol: inversiones inmobiliarias, una 'startup' de salud, un campus para jóvenes... (20 Minutos)"
+    ]
+   },
+   {
     "tema": "posiciones de slavia praga contra villarreal club de fútbol",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-25T12:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head (BBC)",
-     "Villarreal's UCL hopes at stake against a side winless in it for 19 years (OneFootball)"
+     "Slavia Prague break Champions League record for winless run with Villarreal defeat (BBC)",
+     "Slavia Prague v Villarreal (Yahoo Sports)"
     ]
    },
    {
     "tema": "inter",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-25T12:10:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Inter changed Jürgen Klinsmann’s life – and Stuttgart still pulls at the heart of Inter-stuttgart (شبكة تواصل الإخبارية)",
+     "Licensable picture: UEFA Champions League - Inter Milan v VFB Stuttgart (Reuters Connect)",
      "Chivu relaxed over Inter form after late collapse against Atalanta (beIN SPORTS)"
     ]
    },
@@ -489,10 +533,10 @@
     "volumen": "200+",
     "volumen_min": 200,
     "desde": "2026-11-25T12:10:00-08:00",
-    "deporte_probable": true,
+    "deporte_probable": false,
     "titulares": [
-     "Entre diabos e dragões, os testes de stresse do leão (A Bola)",
-     "Sporting CP x Manchester United: prévia da Champions League com o United de Pochettino abalado e o Sporting em alta (Goal.com)"
+     "United vulnerável: Fonseca critica capitães e exige mudança imediata (Distrito Online)",
+     "O defesa-central do United pode travar o goleador do Sporting (Flashscore.pt)"
     ]
    },
    {
@@ -502,8 +546,8 @@
     "desde": "2026-11-25T12:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Vin chaud, chalets et illuminations : les plus beaux marchés de Noël à ne pas rater cette année à Paris (Le Bonbon)",
-     "Marchés de Noël 2026 à Paris : découvrez le programme dans la capitale, entre les classiques et les nouveautés (Actu.fr)"
+     "Surprise Eurostar strike cancels London, Paris and Brussels trains (France 24)",
+     "Eurostar cancels Paris-London trains after staff go on unannounced strike (AP News)"
     ]
    },
    {
@@ -515,50 +559,6 @@
     "titulares": [
      "Israel Jaitovich habla sobre ser parte de la familia Derbez (La Verdad de Tamaulipas)",
      "Israel Jaitovich FILTRA las razones por las que se \"distanció\" de Eugenio Derbez: ¡Ellos fueron socios! VIDEO (TVNotas)"
-    ]
-   },
-   {
-    "tema": "bayer vs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-25T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: Bayer 04 Leverkusen press: UEFA Europa League 2026/27 League Phase MD5 (Reuters Connect)",
-     "PREVIEW | Dinamo Zagreb vs Bayer Leverkusen: team news, lineups, predictions (Europa League 26/11) (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "rusia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-25T12:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Trump retira incentivos comerciales para Rusia ante el escaso interés de Moscú, según el FT (Yahoo)",
-     "Ucrania, \"Financial Times\": Trump suspende el acuerdo comercial con Rusia para favorecer las negociaciones de paz. (Agenzia Nova)"
-    ]
-   },
-   {
-    "tema": "sabah fk vs fc barcelona standings",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-25T11:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Sabah suffer 7-0 defeat to Barcelona in UEFA Youth League (Report.az)",
-     "Barcelona run riot with 7-0 UEFA Youth League demolition of Sabah (BeSoccer Livescore)"
-    ]
-   },
-   {
-    "tema": "inter vs",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-25T11:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Inter de Milán vs Stuttgart: ¿A qué hora y dónde ver EN VIVO Jornada 5 Champions League? (Mediotiempo)",
-     "Inter-Stuttgart en la Champions League, posibles alineaciones: examen para Jeltsch en San Siro y quién sustituye a Calhanoglu (Goal.com)"
     ]
    }
   ]
