@@ -1,0 +1,565 @@
+{
+ "fecha": "2026-11-24T20:36-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "américa - deportivo cali",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "David González repite la fórmula: los convocados de América para el clásico vallecaucano (ESPN Ecuador)",
+     "#Noti90 Para el primero de los dos clásicos de los cuadrangulares, la Comisión Local de Fútbol de Cali tiene preparado un operativo de seguridad con 750 agentes de la Policía. El estadio Pascual Guerrero abrirá sus puertas a las 5:30 de la tarde. (Facebook)"
+    ]
+   },
+   {
+    "tema": "dalia bucaram",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universe 2026 (Telemundo)",
+     "En Vivo Dalia Bucaram representa a Ecuador esta noche en la final de Miss Universo 2026 (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "x",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Avengers: Doomsday’ Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time (Deadline)",
+     "Marvel crams every superhero ever into Avengers: Doomsday final trailer (Ars Technica)"
+    ]
+   },
+   {
+    "tema": "miss universe 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Why is Miss Universe on REELZ and not NBC? How the pageant left network TV (Nacionale)",
+     "Miss Universe 2026: Minute-by-minute coverage of the grand finale (HOLA)"
+    ]
+   },
+   {
+    "tema": "miss universe",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "This year’s Miss Universe pageant is a hot mess. And it’s spectacular. (The Washington Post)",
+     "Miss Universe is embroiled in chaos. Again (CNN)"
+    ]
+   },
+   {
+    "tema": "teams",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Multiple Teams Showing Interest In Tyler Austin (MLB Trade Rumors)",
+     "Ex-Yankee Tyler Austin looking for stateside return — and both New York clubs are interested (New York Post)"
+    ]
+   },
+   {
+    "tema": "tik tok",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-24T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "TikTok is down with thousands of outage reports in the US (Yahoo Tech)",
+     "All the recent mass outages in the US as TikTok goes down and CIA hit by cyberattack (The Independent)"
+    ]
+   },
+   {
+    "tema": "ecuavisa en vivo",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-24T16:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universe 2026: así será la cobertura especial de Telemundo (Telemundo)",
+     "Miss Universo está envuelto en el caos. Otra vez (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "ecuavisa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico del clima en Guayaquil hoy, 23 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
+     "Lluvias obligan a pasar a modalidad no presencial en 19 provincias (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "lluvia",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T15:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cortes de luz en Quito estan asociados a las condiciones climáticas vinculadas a El Niño (Teleamazonas)",
+     "¿Cuánto pueden dejar en pérdidas los cortes de energía a emprendedores, negocios y comercios? (Hoy en Imbabura)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "connor wood",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rylee Arnold Moved to Tears After Receiving ‘Meaningful’ Gift from Dancing with the Stars Partner Connor Wood (People.com)",
+     "'Dancing With the Stars' season 35 finale: Connor Wood and Rylee Arnold (Yahoo)"
+    ]
+   },
+   {
+    "tema": "mayotte",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mayotte : renforts de gendarmes et policiers face à la hausse des violences (France 24)",
+     "«On vit dans la peur de sortir»: à Mayotte, la population s'inquiète d'une flambée des violences (RFI)"
+    ]
+   },
+   {
+    "tema": "seth rogen",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seth Rogen recalls having a ‘nervous breakdown’ while filming his guest appearance on Dawson’s Creek (Yahoo)",
+     "Seth Rogen Reveals “Very Bad Dynamic” on Dawson’s Creek During Guest Role (E! News)"
+    ]
+   },
+   {
+    "tema": "tony danza",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas' (National News Desk)",
+     "Everything to know about 'Three Generations, One Christmas,' the movie filmed in Lewiston (Niagara Frontier Publications)"
+    ]
+   },
+   {
+    "tema": "hong kong",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A year on, what to know about Hong Kong’s deadly fire that killed 168 (AP News)",
+     "A year after Hong Kong's deadly fire, survivors struggle with loss and lingering sense of injustice (WRAL)"
+    ]
+   },
+   {
+    "tema": "mario lopez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Meet Mario Lopez’s 3 Kids, Including Their Impressive Acting Careers (InStyle)"
+    ]
+   },
+   {
+    "tema": "lindsay arnold",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "All About the Arnold Sisters, Rylee, Lindsay, Jensen and Brynley (People.com)",
+     "Meet Rylee Arnold’s 3 Sisters, Including the Former ‘Dancing With the Stars’ Pro Joining Her for Tonight’s Finale (IMDb)"
+    ]
+   },
+   {
+    "tema": "myka lockwood",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "NXT: Nov. 24, 2026 (WWE)",
+     "Will it be Zaria or Izzi Dame who makes history tonight? (Cageside Seats)"
+    ]
+   },
+   {
+    "tema": "fs1",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "MeTV is Now the King of TV as It Now Has More Primetime Viewers Than TNT, TBS, FX, FS1, USA Network, & More (| Cord Cutters News)",
+     "Nyzier Matthews, East Coast Prep , Wide Receiver (247Sports)"
+    ]
+   },
+   {
+    "tema": "cfp rankings",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "2026-27 Week 12 College Football Playoff, bowl projections (ESPN)",
+     "College Football Playoff rankings live updates: Countdown to today’s release ahead of Week 13 rivalry games (The New York Times)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "venevision",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universo 2026: Así es Clara Vegas, la representante de Venezuela y una de las favoritas para ganar la corona (Las Provincias)",
+     "Indumentaria tricolor y bate en mano: la venezolana Clara Vegas Goetz honró a los campeones del Clásico Mundial con majestuoso traje en el Miss Universo (NTN24)"
+    ]
+   },
+   {
+    "tema": "elecciones generales",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas? | Elecciones generales | España (EL PAÍS)",
+     "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según GAD3, el CIS y otros sondeos (ABC)"
+    ]
+   },
+   {
+    "tema": "américa - deportivo cali",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "América de Cali S. A. - Asociación Deportivo Cali | Pronóstico y cuotas 25.11.2026 (Diario AS)",
+     "#Noti90 Para el primero de los dos clásicos de los cuadrangulares, la Comisión Local de Fútbol de Cali tiene preparado un operativo de seguridad con 750 agentes de la Policía. El estadio Pascual Guerrero abrirá sus puertas a las 5:30 de la tarde. (Facebook)"
+    ]
+   },
+   {
+    "tema": "miss universe 2026",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miss Universe 2026 judges: Who they are and their experience (HOLA)",
+     "Miss Universe 2026 LIVE. Latest updates from the beauty pageant. The search for the new queen begin (MARCA)"
+    ]
+   },
+   {
+    "tema": "magic - pistons",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Detroit Pistons at Orlando Magic (Reuters Connect)",
+     "Anthony Black Has Extra Motivation Ahead of Magic's Playoff Rematch With Detroit (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "begoña villacís",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aragón Informativos (RTVE.es)",
+     "El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos (Ministerio de Transición Ecológica)"
+    ]
+   },
+   {
+    "tema": "pablo iglesias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pablo Iglesias sale al rescate de Podemos para evitar que Irene Montero se quede sin escaño (El Mundo)",
+     "Pablo Iglesias reaparece para participar en el cierre de campaña de Podemos en Madrid (Expansión)"
+    ]
+   },
+   {
+    "tema": "cayetano martínez de irujo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cayetano Martínez de Irujo: “Vivir en el Palacio de Liria, siendo lo más cercano a una familia real sin serlo, te crea unos condicionantes para toda la vida. Es muy difícil quitárselos” (Lecturas)",
+     "Eugenia Martínez de Irujo, sobre la ruptura de Tana Rivera y Roca Rey: “Qué pereza de tema, no da para más” (Diez Minutos ES)"
+    ]
+   },
+   {
+    "tema": "golfo de cádiz",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T16:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Por qué tiembla tanto el golfo de Cádiz: la cadena de terremotos explicada (El Confidencial)",
+     "El Golfo de Cádiz vuelve a temblar de madrugada y reabre la pregunta sobre el riesgo de un gran terremoto (Europa Sur)"
+    ]
+   },
+   {
+    "tema": "sorteos",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T15:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comprobar Euromillones de hoy martes 24 de noviembre de 2026 (La Vanguardia)",
+     "Euromillones hoy: comprobar resultados del sorteo del martes 24 de noviembre, en directo (El Confidencial)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "boca mañana",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Estudios para Paredes tras su desmayo: cómo está y qué pasa con Independiente Rivadavia (Olé)",
+     "Qué le pasó a Leandro Paredes tras la consagración de Boca en la Copa Sudamericana: el mensaje del jugador (Página|12)"
+    ]
+   },
+   {
+    "tema": "patricia bullrich",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bullrich y un nuevo desafío a Milei: “Estoy preparada para ser presidenta” (Página|12)",
+     "Patricia Bullrich y Karina Milei: trastienda de una relación a punto de explotar (Revista Noticias)"
+    ]
+   },
+   {
+    "tema": "telemundo en vivo",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "En qué canal pasan el Miss Universo 2026 y a qué hora ver en vivo la gala final desde EE.UU. (La Nación)",
+     "Miss Universo 2026: lista completa de las 116 candidatas y quiénes son las favoritas del certamen (Infobae)"
+    ]
+   },
+   {
+    "tema": "américa - deportivo cali",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El que gane, líder: América y Deportivo Cali se juegan la punta del Grupo B de la Liga BetPlay (ESPN Argentina)",
+     "América de Cali vs. Deportivo Cali, EN VIVO: dónde ver por TV y cómo seguir ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "eclipse solar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eclipse Solar Anular 2027: cuándo y desde dónde se podrá ver el \"anillo de fuego\" en Argentina (Perfil)",
+     "Durará 7 minutos y medio y será en pleno Carnaval: el anillo de fuego que se podrá ver desde Esquel y Trevelin (Meteored Argentina)"
+    ]
+   },
+   {
+    "tema": "coys",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Daniel Passerini echó al directorio del COyS y ordenó una auditoría externa (Cba24n)",
+     "Caso Coys: la Justicia tiene identificados a 80 empleados que cobraron horas extras millonarias (Perfil)"
+    ]
+   },
+   {
+    "tema": "wizards - celtics",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Celtics vs. Wizards Popular Bets: Tatum 20+ Points is Top Prop Bet (news.bet365.com)",
+     "Polymarket Promo Code FOX: Claim a $25 Bonus When Trading on the NBA Cup Tonight (FOX Sports)"
+    ]
+   },
+   {
+    "tema": "cuestión de peso",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Operativo de rescate y traslado de Pablo Torres en Cuestión de peso (Infobae)",
+     "Programa completo del 24/11/26 - Con Verón a la cabeza, el emotivo y desafiante traslado de Pablo a la clínica de Cuestión de peso (eltrecetv)"
+    ]
+   },
+   {
+    "tema": "sergio massa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa (La Nación)",
+     "La grieta del peronismo en la pelea 2027 (Letra P)"
+    ]
+   },
+   {
+    "tema": "maite peñoñori",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Maite Peñoñori apuntó contra Yanina Latorre, y contó cómo comenzó su enfrentamiento (Exitoina)",
+     "Periodista apuntó a Yanina Latorre por hostigarla todo el tiempo: \"Se obsesionó con que yo era kirchnerista\" (El Destape)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "américa - deportivo cali",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El que gane, líder: América y Deportivo Cali se juegan la punta del Grupo B de la Liga BetPlay (ESPN México)",
+     "David González repite la fórmula: los convocados de América para el clásico vallecaucano (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "rehén",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hombres armados mantienen decenas de rehenes en un supermercado en Colombia (BBC)",
+     "Suspenden aterrizajes en aeropuerto de Cartagena por toma de rehenes en un supermercado (El Comentario)"
+    ]
+   },
+   {
+    "tema": "luna de hoy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "3 rituales para hacer en la Luna llena o Luna de perla hoy martes 24 de noviembre; efectivos para el amor, dinero y salud (TV Azteca)",
+     "Empieza un trío de superlunas con la 'Luna de Castor': traerá una sorpresa para Nochebuena (National Geographic España)"
+    ]
+   },
+   {
+    "tema": "apneísta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Muere Jeanine Grasmeijer, Ganadora del Récord Mundial de Apnea (N+)",
+     "Muere joven deportista que hizo historia con impresionantes récords mundiales; tenía 33 años (TV Azteca)"
+    ]
+   },
+   {
+    "tema": "turco mohamed",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Antonio Mohamed confirma su salida de Toluca al finalizar la Copa Intercontinental de la FIFA y el Apertura 2026 (TV Azteca)",
+     "Directivo de Toluca revela pacto con Mohamed (TUDN)"
+    ]
+   },
+   {
+    "tema": "diego luna",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aunque triunfó en Hollywood, Diego Luna prefiere vivir en una casa modernista en CDMX; cuenta con jardín privado, libros de arte y fotografías Polaroid (MARCA)",
+     "Diego Luna: así era la casa en CDMX que compró a los 21 años (MARCA)"
+    ]
+   },
+   {
+    "tema": "maria vargas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miss México deslumbra en bikini azul y con traje típico de flamencos en Miss Universo 2026 (UnoTV)",
+     "¿Qué estudió María Vargas y cuál es la edad de la representante de México en Miss Universo 2026? (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "diego campillo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diego Campillo ve a Chivas con todo para ser campeón (ESPN México)",
+     "¿Cómo le ha ido a Chivas en la Liguilla cuando llega como líder? (AS México)"
+    ]
+   },
+   {
+    "tema": "marte",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)",
+     "Sources: D-backs exploring trade options for Ketel Marte (Beisbol FR)"
+    ]
+   },
+   {
+    "tema": "wizards - celtics",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Polymarket Promo Code FOX: Claim a $25 Bonus When Trading on the NBA Cup Tonight (FOX Sports)",
+     "Kalshi extends $55 NBA code “SYRACUSE” for Celtics-Wizards on Tuesday (Syracuse.com)"
+    ]
+   }
+  ]
+ }
+}

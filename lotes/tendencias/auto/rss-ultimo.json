@@ -1,564 +1,563 @@
 {
- "fecha": "2026-11-24T16:08-05:00",
+ "fecha": "2026-11-24T20:36-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "copa mundial de fútbol sub-17",
+    "tema": "américa - deportivo cali",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "David González repite la fórmula: los convocados de América para el clásico vallecaucano (ESPN Ecuador)",
+     "#Noti90 Para el primero de los dos clásicos de los cuadrangulares, la Comisión Local de Fútbol de Cali tiene preparado un operativo de seguridad con 750 agentes de la Policía. El estadio Pascual Guerrero abrirá sus puertas a las 5:30 de la tarde. (Facebook)"
+    ]
+   },
+   {
+    "tema": "dalia bucaram",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Colombia venció a Japón en su estreno mundialista (Conmebol)",
-     "Tabla de posiciones y lista de clasificados en el Mundial Sub-17: Colombia selló su tiquete (Revista Semana)"
+     "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universe 2026 (Telemundo)",
+     "En Vivo Dalia Bucaram representa a Ecuador esta noche en la final de Miss Universo 2026 (El Telégrafo (por eliminar))"
     ]
    },
    {
-    "tema": "chapecoense - palmeiras",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Abel define Palmeiras com sete jogadores formados na base para enfrentar a Chape; veja escalações (Gazeta Esportiva)",
-     "Chapecoense convoca torcida para minuto de aplausos às vítimas da tragédia (Terra)"
-    ]
-   },
-   {
-    "tema": "disney plus",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "You can lock in Hulu and Disney Plus for as low as $5 per month for a year (The Verge)",
-     "4 Reasons to Grab the Disney+ and Hulu Black Friday Bundle Deal (qz.com)"
-    ]
-   },
-   {
-    "tema": "psv",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "MULTILIVE. Ruben van Bommel vergeet Thibaut Courtois te verschalken - Vandevoordt en Leipzig hebben al dubbele voorsprong beet (HLN)",
-     "Bosz kiest in Bernabéu voor Wanner als vervanger Mauro Júnior (Voetbal International)"
-    ]
-   },
-   {
-    "tema": "posiciones de galatasaray contra aston villa",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-24T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Galatasaray 1-0 Aston Villa: Deniz Gul breaks Villa's resistance in the Champions League (BBC)",
-     "Galatasaray vs Aston Villa LIVE! Champions League lineups, match updates, news, score and analysis (Sky Sports)"
-    ]
-   },
-   {
-    "tema": "feyenoord - porto",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: UEFA Champions League - Feyenoord v FC Porto (Reuters Connect)",
-     "Feyenoord vs FC Porto Confirmed Lineups (WhoScored.com)"
-    ]
-   },
-   {
-    "tema": "tiktok",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-24T12:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "TikTok users reporting issues with platform (KTVU)",
-     "Is TikTok Down? Thousands Report App Problems Including 'Something Went Wrong' Error (Newsweek)"
-    ]
-   },
-   {
-    "tema": "rb leipzig - lens",
+    "tema": "x",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-24T11:50:00-08:00",
+    "desde": "2026-11-24T17:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Thauvin starts at Leipzig after Lens conceded nine to Como (Tu Futbolero)",
-     "Licensable picture: RB Leipzig's Final Training Session (Reuters Connect)"
+     "‘Avengers: Doomsday’ Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time (Deadline)",
+     "Marvel crams every superhero ever into Avengers: Doomsday final trailer (Ars Technica)"
     ]
    },
    {
-    "tema": "manchester city - napoli",
+    "tema": "miss universe 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Why is Miss Universe on REELZ and not NBC? How the pageant left network TV (Nacionale)",
+     "Miss Universe 2026: Minute-by-minute coverage of the grand finale (HOLA)"
+    ]
+   },
+   {
+    "tema": "miss universe",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "This year’s Miss Universe pageant is a hot mess. And it’s spectacular. (The Washington Post)",
+     "Miss Universe is embroiled in chaos. Again (CNN)"
+    ]
+   },
+   {
+    "tema": "teams",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Multiple Teams Showing Interest In Tyler Austin (MLB Trade Rumors)",
+     "Ex-Yankee Tyler Austin looking for stateside return — and both New York clubs are interested (New York Post)"
+    ]
+   },
+   {
+    "tema": "tik tok",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-24T11:20:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-24T16:10:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Manchester City-Napoli: Formazioni ufficiali e Cronaca in diretta (Virgilio)",
-     "Allegri sulla Champions: \"Solo uno stupido non avrebbe capito che ci saremmo giocati la qualificazione nelle ultime tre\" (Corriere dello Sport)"
+     "TikTok is down with thousands of outage reports in the US (Yahoo Tech)",
+     "All the recent mass outages in the US as TikTok goes down and CIA hit by cyberattack (The Independent)"
     ]
    },
    {
-    "tema": "como - aek",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-24T11:20:00-08:00",
+    "tema": "ecuavisa en vivo",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-24T16:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universe 2026: así será la cobertura especial de Telemundo (Telemundo)",
+     "Miss Universo está envuelto en el caos. Otra vez (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "ecuavisa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T15:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pronóstico del clima en Guayaquil hoy, 23 de noviembre: siga en vivo cómo avanza para la tarde y noche (El Universo)",
+     "Lluvias obligan a pasar a modalidad no presencial en 19 provincias (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "lluvia",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T15:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Replace Your Title Here (Charleston Sun-Sentinel)",
-     "Tonight’s starting XI, drawn by the children of Fondazione Maria Letizia Verga ETS (Como 1907)"
+     "Cortes de luz en Quito estan asociados a las condiciones climáticas vinculadas a El Niño (Teleamazonas)",
+     "¿Cuánto pueden dejar en pérdidas los cortes de energía a emprendedores, negocios y comercios? (Hoy en Imbabura)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "ruben van bommel",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "tema": "connor wood",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Verweij verwacht megatransfer bij PSV: 'Hij gaat de recordverkoop worden' (VoetbalPrimeur)",
-     "Pascal Jansen ziet PSV'er stappen maken: \"Hij had het heel zwaar\" (PSVFans)"
+     "Rylee Arnold Moved to Tears After Receiving ‘Meaningful’ Gift from Dancing with the Stars Partner Connor Wood (People.com)",
+     "'Dancing With the Stars' season 35 finale: Connor Wood and Rylee Arnold (Yahoo)"
     ]
    },
    {
-    "tema": "miss universe 2026 where to watch",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "tema": "mayotte",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Meet the 116 women competing to be Miss Universe 2026 (Business Insider)",
-     "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free (WWD)"
+     "Mayotte : renforts de gendarmes et policiers face à la hausse des violences (France 24)",
+     "«On vit dans la peur de sortir»: à Mayotte, la population s'inquiète d'une flambée des violences (RFI)"
     ]
    },
    {
-    "tema": "stewart mclean",
+    "tema": "seth rogen",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seth Rogen recalls having a ‘nervous breakdown’ while filming his guest appearance on Dawson’s Creek (Yahoo)",
+     "Seth Rogen Reveals “Very Bad Dynamic” on Dawson’s Creek During Guest Role (E! News)"
+    ]
+   },
+   {
+    "tema": "tony danza",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mario Lopez on working with his son and Tony Danza in 'Three Generations, One Christmas' (National News Desk)",
+     "Everything to know about 'Three Generations, One Christmas,' the movie filmed in Lewiston (Niagara Frontier Publications)"
+    ]
+   },
+   {
+    "tema": "hong kong",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A year on, what to know about Hong Kong’s deadly fire that killed 168 (AP News)",
+     "A year after Hong Kong's deadly fire, survivors struggle with loss and lingering sense of injustice (WRAL)"
+    ]
+   },
+   {
+    "tema": "mario lopez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Meet Mario Lopez’s 3 Kids, Including Their Impressive Acting Careers (InStyle)"
+    ]
+   },
+   {
+    "tema": "lindsay arnold",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Murder charge laid in connection to death of B.C. actor Stewart McLean (CBC)",
-     "B.C. man charged with murder in actor Stewart McLean’s death (The Globe and Mail)"
+     "All About the Arnold Sisters, Rylee, Lindsay, Jensen and Brynley (People.com)",
+     "Meet Rylee Arnold’s 3 Sisters, Including the Former ‘Dancing With the Stars’ Pro Joining Her for Tonight’s Finale (IMDb)"
     ]
    },
    {
-    "tema": "real",
+    "tema": "myka lockwood",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Jay Cutler, Rampage Jackson, Leah Pruett, Among Ten Confirmed for Dodge Sno-Brawl Celebrity Race (Yardbarker)",
-     "‘The threat is finally real’: Judge rips White House ‘weaponization’ (KVNU News Talk)"
+     "NXT: Nov. 24, 2026 (WWE)",
+     "Will it be Zaria or Izzi Dame who makes history tonight? (Cageside Seats)"
     ]
    },
    {
-    "tema": "championship",
+    "tema": "fs1",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "desde": "2026-11-24T17:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Thousands of Current fans join championship parade: 'Kansas City is a great sports town' (KCUR)",
-     "TEAL TUESDAY: KC Current celebrates NWSL victory with march, rally (KMBC)"
+     "MeTV is Now the King of TV as It Now Has More Primetime Viewers Than TNT, TBS, FX, FS1, USA Network, & More (| Cord Cutters News)",
+     "Nyzier Matthews, East Coast Prep , Wide Receiver (247Sports)"
     ]
    },
    {
-    "tema": "chapecoense x palmeiras",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Chapecoense x Palmeiras: onde assistir ao vivo, horário e escalações (ge)",
-     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
-    ]
-   },
-   {
-    "tema": "uic vs rice",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
+    "tema": "cfp rankings",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-24T17:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Men’s Basketball Continues Play at Scout Jacksonville Classic against UIC (BVM Sports)",
-     "Illinois-Chicago vs. Rice prediction favors Flames on Nov. 24, 2026 (Dimers)"
-    ]
-   },
-   {
-    "tema": "huawei",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Huawei found guilty of stealing trade secrets but acquitted of racketeering (BBC)",
-     "Huawei Found Guilty of US Criminal Charges in Landmark Case (Bloomberg.com)"
-    ]
-   },
-   {
-    "tema": "rihanna",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Rihanna Shares Adorable Behind-the-Scenes Video with All 3 Kids as They Film Savage X Fenty Holiday Campaign: ‘The Actual Gifts’ (People.com)",
-     "Rihanna Shares Family Campaign Footage and Beverly Hills Outing (SuaraGarut.ID)"
-    ]
-   },
-   {
-    "tema": "tcu vs miami fl",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "No. 17 Miami Against TCU at the Players Era 16 Tournament: Game Central, Updates, and Analysis (Yahoo Sports)",
-     "TCU and 15 other teams suit up for the Players Era 16 Tournament (Sports Illustrated)"
+     "2026-27 Week 12 College Football Playoff, bowl projections (ESPN)",
+     "College Football Playoff rankings live updates: Countdown to today’s release ahead of Week 13 rivalry games (The New York Times)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "chapecoense - palmeiras",
+    "tema": "venevision",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miss Universo 2026: Así es Clara Vegas, la representante de Venezuela y una de las favoritas para ganar la corona (Las Provincias)",
+     "Indumentaria tricolor y bate en mano: la venezolana Clara Vegas Goetz honró a los campeones del Clásico Mundial con majestuoso traje en el Miss Universo (NTN24)"
+    ]
+   },
+   {
+    "tema": "elecciones generales",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas? | Elecciones generales | España (EL PAÍS)",
+     "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según GAD3, el CIS y otros sondeos (ABC)"
+    ]
+   },
+   {
+    "tema": "américa - deportivo cali",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-24T13:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Palmeiras prepara mudanças e terá reforços do sub-20 contra a Chape; veja os relacionados (ge)",
-     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
-    ]
-   },
-   {
-    "tema": "militao",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T13:00:00-08:00",
+    "desde": "2026-11-24T17:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Sinner lo intentó, pero perdió el pulso con su rodilla: quirófano, bisturí y más tiempo de baja (EL PAÍS)",
-     "El bonito recuerdo de Carlos Alcaraz a Sinner tras ganar las ATP Finals (LaSexta)"
+     "América de Cali S. A. - Asociación Deportivo Cali | Pronóstico y cuotas 25.11.2026 (Diario AS)",
+     "#Noti90 Para el primero de los dos clásicos de los cuadrangulares, la Comisión Local de Fútbol de Cali tiene preparado un operativo de seguridad con 750 agentes de la Policía. El estadio Pascual Guerrero abrirá sus puertas a las 5:30 de la tarde. (Facebook)"
     ]
    },
    {
-    "tema": "pablo bellido",
+    "tema": "miss universe 2026",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miss Universe 2026 judges: Who they are and their experience (HOLA)",
+     "Miss Universe 2026 LIVE. Latest updates from the beauty pageant. The search for the new queen begin (MARCA)"
+    ]
+   },
+   {
+    "tema": "magic - pistons",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Detroit Pistons at Orlando Magic (Reuters Connect)",
+     "Anthony Black Has Extra Motivation Ahead of Magic's Playoff Rematch With Detroit (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "begoña villacís",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aragón Informativos (RTVE.es)",
+     "El Gobierno aprueba el Real Decreto para la sostenibilidad energética, medioambiental y de resiliencia y soberanía digital de los centros de datos (Ministerio de Transición Ecológica)"
+    ]
+   },
+   {
+    "tema": "pablo iglesias",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pablo Iglesias sale al rescate de Podemos para evitar que Irene Montero se quede sin escaño (El Mundo)",
+     "Pablo Iglesias reaparece para participar en el cierre de campaña de Podemos en Madrid (Expansión)"
+    ]
+   },
+   {
+    "tema": "cayetano martínez de irujo",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T13:00:00-08:00",
+    "desde": "2026-11-24T16:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas: \"Hagamos los discursos rapeando, bro\" (El Mundo)",
-     "Sáenz de Santamaría y Abascal pinchando o los bailes de Abel Caballero: el lado más divertido de los políticos (LaSexta)"
+     "Cayetano Martínez de Irujo: “Vivir en el Palacio de Liria, siendo lo más cercano a una familia real sin serlo, te crea unos condicionantes para toda la vida. Es muy difícil quitárselos” (Lecturas)",
+     "Eugenia Martínez de Irujo, sobre la ruptura de Tana Rivera y Roca Rey: “Qué pereza de tema, no da para más” (Diez Minutos ES)"
     ]
    },
    {
-    "tema": "patri guijarro",
+    "tema": "golfo de cádiz",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-24T13:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Patri Guijarro deja abierto su futuro (Mundo Deportivo)",
-     "Tras los pasos de Alexia Putellas y Mapi León: la estrella del Barça Femenino seducida por la Women's Super League (Crónica Global)"
-    ]
-   },
-   {
-    "tema": "rockstar games gta vi pc",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T13:00:00-08:00",
+    "desde": "2026-11-24T16:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now (IGN)",
-     "Games Inbox: Is it better to wait for the PC version of GTA 6? (Metro.co.uk)"
+     "Por qué tiembla tanto el golfo de Cádiz: la cadena de terremotos explicada (El Confidencial)",
+     "El Golfo de Cádiz vuelve a temblar de madrugada y reabre la pregunta sobre el riesgo de un gran terremoto (Europa Sur)"
     ]
    },
    {
-    "tema": "pobreza",
+    "tema": "sorteos",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "desde": "2026-11-24T15:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El elevado coste de luz y calefacción castiga a los hogares: más de 440.000 gallegos sufren pobreza energética (Faro de Vigo)",
-     "Comesaña culpa a la política energética de Sánchez de que 49.000 vigueses lo pasen mal para pagar la luz (Cadena SER)"
-    ]
-   },
-   {
-    "tema": "lliga de campions",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "L'entrenador miracle del Sabah: d'un concurs televisiu a la Champions League (3Cat)",
-     "La sorprenent història de l’entrenador del Sabah, el pròxim rival del Barça a la Champions (Diari ARA)"
-    ]
-   },
-   {
-    "tema": "borussia dortmund",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Wer überträgt FC Arsenal gegen den BVB heute live im TV und Stream? (Kicker)",
-     "Prime Video führt neue Fußball-KI ein! Trainer-Daten erstmals im Livebild (Yahoo Nachrichten)"
-    ]
-   },
-   {
-    "tema": "posiciones de al-nassr contra al-sadd",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
-     "Cristiano continúa desojando la margarita y Joao Félix presenta candidatura al Puskas (MARCA)"
-    ]
-   },
-   {
-    "tema": "sabah",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "60 minutes in six matches: Flick's decision causes confusion at Barcelona (Goal.com)",
-     "Gabriel Jesus loses ground at Barcelona and seeks a chance against Sabah (OneFootball)"
+     "Comprobar Euromillones de hoy martes 24 de noviembre de 2026 (La Vanguardia)",
+     "Euromillones hoy: comprobar resultados del sorteo del martes 24 de noviembre, en directo (El Confidencial)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "eduardo feinmann",
+    "tema": "boca mañana",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:50:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "El cruce entre Eduardo Feinmann y un empleado del Garrahan en medio de la protesta de ATE (La Nación)",
-     "Conflicto en el Hospital Garrahan: los gremios protestan por sanciones y las autoridades denuncian un ingreso por la fuerza (Infobae)"
+     "Estudios para Paredes tras su desmayo: cómo está y qué pasa con Independiente Rivadavia (Olé)",
+     "Qué le pasó a Leandro Paredes tras la consagración de Boca en la Copa Sudamericana: el mensaje del jugador (Página|12)"
     ]
    },
    {
-    "tema": "moreno",
+    "tema": "patricia bullrich",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bullrich y un nuevo desafío a Milei: “Estoy preparada para ser presidenta” (Página|12)",
+     "Patricia Bullrich y Karina Milei: trastienda de una relación a punto de explotar (Revista Noticias)"
+    ]
+   },
+   {
+    "tema": "telemundo en vivo",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "En qué canal pasan el Miss Universo 2026 y a qué hora ver en vivo la gala final desde EE.UU. (La Nación)",
+     "Miss Universo 2026: lista completa de las 116 candidatas y quiénes son las favoritas del certamen (Infobae)"
+    ]
+   },
+   {
+    "tema": "américa - deportivo cali",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El que gane, líder: América y Deportivo Cali se juegan la punta del Grupo B de la Liga BetPlay (ESPN Argentina)",
+     "América de Cali vs. Deportivo Cali, EN VIVO: dónde ver por TV y cómo seguir ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "eclipse solar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Essence Festival of Culture has a new home. Here is what we know. (WDSU)",
-     "Moreno hints at split with Essence, says New Orleans is working on replacement festival (WWLTV.com)"
+     "Eclipse Solar Anular 2027: cuándo y desde dónde se podrá ver el \"anillo de fuego\" en Argentina (Perfil)",
+     "Durará 7 minutos y medio y será en pleno Carnaval: el anillo de fuego que se podrá ver desde Esquel y Trevelin (Meteored Argentina)"
     ]
    },
    {
-    "tema": "posiciones de al-nassr contra al-sadd",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
-     "Golazo de chilena de Joao Felix para marcar el segundo del Al Nassr (Olé)"
-    ]
-   },
-   {
-    "tema": "man city vs napoli",
+    "tema": "coys",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live (The Guardian)",
-     "Licensable picture: Manchester City v SSC Napoli - UEFA Champions League 2026/27 League Phase MD5 (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "betis",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cuándo juegan Slovan Bratislava vs. Betis por la Champions League: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
-     "Yaya Touré: \"Aprendí muchas cosas buenas de Pellegrini, el reencuentro será bonito\" (Infobae)"
-    ]
-   },
-   {
-    "tema": "selección de fútbol de senegal",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T12:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "El TAS falló a favor de Senegal que recupera el título de campeón de la Copa de África 2025 en detrimento de Marruecos (Clarin.com)",
-     "Punto final: Senegal fue declarado campeón de la Copa Africana de Naciones a casi un año de la escandalosa final ante Marruecos (Infobae)"
-    ]
-   },
-   {
-    "tema": "portsmouth - west ham",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "desde": "2026-11-24T17:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Championship LIVE: Eight matches including Portsmouth v West Ham (BBC)",
-     "Matchday Gallery | Hammers return to Fratton Park (West Ham United)"
+     "Daniel Passerini echó al directorio del COyS y ordenó una auditoría externa (Cba24n)",
+     "Caso Coys: la Justicia tiene identificados a 80 empleados que cobraron horas extras millonarias (Perfil)"
     ]
    },
    {
-    "tema": "chapecoense - palmeiras",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-24T12:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Palmeiras prepara mudanças e terá reforços do sub-20 contra a Chape; veja os relacionados (ge)",
-     "Chapecoense prepara homenagem aos 10 anos do acidente aéreo para próximo jogo (TVBV ONLINE)"
-    ]
-   },
-   {
-    "tema": "porto",
+    "tema": "wizards - celtics",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:20:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "LC: Farioli alerta para a exigência física do Feyenoord (Correio da Manhã Canadá)",
-     "Adeptos do Feyenoord cantaram música de Inbeom Hwang: «Vai ser uma noite especial» (SAPO)"
+     "Celtics vs. Wizards Popular Bets: Tatum 20+ Points is Top Prop Bet (news.bet365.com)",
+     "Polymarket Promo Code FOX: Claim a $25 Bonus When Trading on the NBA Cup Tonight (FOX Sports)"
     ]
    },
    {
-    "tema": "cristina fernández de kirchner",
+    "tema": "cuestión de peso",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:10:00-08:00",
+    "desde": "2026-11-24T16:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Fijaron audiencia para revisar las condenas por el intento de homicidio de Cristina Kirchner (Clarin.com)",
-     "La Justicia revisará el 16 de diciembre las condenas por el atentado contra Cristina Kirchner (TN)"
+     "Operativo de rescate y traslado de Pablo Torres en Cuestión de peso (Infobae)",
+     "Programa completo del 24/11/26 - Con Verón a la cabeza, el emotivo y desafiante traslado de Pablo a la clínica de Cuestión de peso (eltrecetv)"
+    ]
+   },
+   {
+    "tema": "sergio massa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa (La Nación)",
+     "La grieta del peronismo en la pelea 2027 (Letra P)"
+    ]
+   },
+   {
+    "tema": "maite peñoñori",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Maite Peñoñori apuntó contra Yanina Latorre, y contó cómo comenzó su enfrentamiento (Exitoina)",
+     "Periodista apuntó a Yanina Latorre por hostigarla todo el tiempo: \"Se obsesionó con que yo era kirchnerista\" (El Destape)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "linea b",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T13:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Metro CdMx HOY 23 de noviembre de 2026: retrasos, estaciones cerradas y estatus de las LÍNEAS del STC | EN VIV (Milenio)",
-     "¿Qué pasa en el Metro CdMx? Avance de trenes, retrasos y recomendaciones de usuarios HOY lunes 23 de noviembre (Telediario)"
-    ]
-   },
-   {
-    "tema": "real",
+    "tema": "américa - deportivo cali",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-24T12:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'The threat is finally real': Judge rips White House 'weaponization' (ABC News - Breaking News, Latest News and Videos)",
-     "Judge takes parting shot as Trump case tossed: 'The call is coming from inside the house' (Raw Story)"
-    ]
-   },
-   {
-    "tema": "yan diomandé",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "desde": "2026-11-24T17:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Real Madrid - PSV Eindhoven : les compositions officielles (Foot Mercato)",
-     "Ligue des champions : Le Real Madrid perd un attaquant sur blessure avant le PSV (CANAL+)"
+     "El que gane, líder: América y Deportivo Cali se juegan la punta del Grupo B de la Liga BetPlay (ESPN México)",
+     "David González repite la fórmula: los convocados de América para el clásico vallecaucano (ESPN Deportes)"
     ]
    },
    {
-    "tema": "paul wanner",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "tema": "rehén",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Zwei Monate verletzt: Wanner feiert Comeback gegen Real (LAOLA1)",
-     "Millionen-Abgang des FC Bayern erlebt Horror-Saison (TZ)"
+     "Hombres armados mantienen decenas de rehenes en un supermercado en Colombia (BBC)",
+     "Suspenden aterrizajes en aeropuerto de Cartagena por toma de rehenes en un supermercado (El Comentario)"
     ]
    },
    {
-    "tema": "carls jr 2x1",
+    "tema": "luna de hoy",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-24T12:50:00-08:00",
+    "desde": "2026-11-24T17:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Carl’s Jr. tendrá hamburguesas gratis por su promoción 2×1 este 24 y 25 de noviembre (Revista Merca2.0)",
-     "La promoción de Carl’s Jr. de dos hamburguesas por $125 que se aplica todas las semanas (vanguardia.com.mx)"
+     "3 rituales para hacer en la Luna llena o Luna de perla hoy martes 24 de noviembre; efectivos para el amor, dinero y salud (TV Azteca)",
+     "Empieza un trío de superlunas con la 'Luna de Castor': traerá una sorpresa para Nochebuena (National Geographic España)"
     ]
    },
    {
-    "tema": "posiciones de al-nassr contra al-sadd",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-24T12:40:00-08:00",
+    "tema": "apneísta",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Al Nassr 2-1 Al Sadd: Resumen, resultado y goles del partido | Champions Asia en directo (Diario AS)",
-     "Con Ronaldo y Félix al frente, la magia portuguesa guía al Al Nassr a una trabajada victoria ante el Al Sadd (Yahoo)"
+     "Muere Jeanine Grasmeijer, Ganadora del Récord Mundial de Apnea (N+)",
+     "Muere joven deportista que hizo historia con impresionantes récords mundiales; tenía 33 años (TV Azteca)"
     ]
    },
    {
-    "tema": "chapecoense - palmeiras",
+    "tema": "turco mohamed",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Antonio Mohamed confirma su salida de Toluca al finalizar la Copa Intercontinental de la FIFA y el Apertura 2026 (TV Azteca)",
+     "Directivo de Toluca revela pacto con Mohamed (TUDN)"
+    ]
+   },
+   {
+    "tema": "diego luna",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Aunque triunfó en Hollywood, Diego Luna prefiere vivir en una casa modernista en CDMX; cuenta con jardín privado, libros de arte y fotografías Polaroid (MARCA)",
+     "Diego Luna: así era la casa en CDMX que compró a los 21 años (MARCA)"
+    ]
+   },
+   {
+    "tema": "maria vargas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-24T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Miss México deslumbra en bikini azul y con traje típico de flamencos en Miss Universo 2026 (UnoTV)",
+     "¿Qué estudió María Vargas y cuál es la edad de la representante de México en Miss Universo 2026? (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "diego campillo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diego Campillo ve a Chivas con todo para ser campeón (ESPN México)",
+     "¿Cómo le ha ido a Chivas en la Liguilla cuando llega como líder? (AS México)"
+    ]
+   },
+   {
+    "tema": "marte",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-24T16:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ketel Marte to Boston and 4 other hypothetical trades I’d like to see: Bowden (The New York Times)",
+     "Sources: D-backs exploring trade options for Ketel Marte (Beisbol FR)"
+    ]
+   },
+   {
+    "tema": "wizards - celtics",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-24T16:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Abel define Palmeiras com sete jogadores formados na base para enfrentar a Chape; veja escalações (Gazeta Esportiva)",
-     "Chapecoense convoca torcida para minuto de aplausos às vítimas da tragédia (Terra)"
-    ]
-   },
-   {
-    "tema": "cyberpunk",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "“We Might as Well Cancel It”: Cyberpunk 2 Director Says GTA 6’s Quality and Open World Left the Development Team Depressed (www.levelup.com)",
-     "“Cyberpunk 2 is Canceled” Jokes CDPR Creative Director After Playing GTA 6 (80 Level)"
-    ]
-   },
-   {
-    "tema": "edc",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Greater Brownsville EDC’s Jerry Briones Named to Team Texas Advisory Council (Texas Border Business)",
-     "Tactile Turn Is Having a Rare Sale on Its Retro Sci-Fi EDC Pen (Yahoo)"
-    ]
-   },
-   {
-    "tema": "meteored méxico",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-24T12:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "CNPC HACE UN LLAMADO A LA POBLACIÓN A NO BAJAR LA GUARDIA Y MANTENER ACCIONES PREVENTIVAS POR EFECTOS DEL FRENTE FRÍO NÚMERO 8 (Gob MX)",
-     "Alerta Protección Civil por descenso de temperaturas; prevén hasta 6° en NL (Gobierno del Estado de Nuevo León)"
+     "Polymarket Promo Code FOX: Claim a $25 Bonus When Trading on the NBA Cup Tonight (FOX Sports)",
+     "Kalshi extends $55 NBA code “SYRACUSE” for Celtics-Wizards on Tuesday (Syracuse.com)"
     ]
    }
   ]

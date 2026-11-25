@@ -1,65 +1,49 @@
 {
- "fecha": "2026-11-24T16:08-05:00",
+ "fecha": "2026-11-24T20:36-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "manchester city - napoli",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 6400,
+   "tema": "ecuavisa en vivo",
+   "impulso_24h_pct": 676,
+   "estado": "explosiva",
+   "impulso_3h_pct": 5850,
    "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-24T19:00:00+00:00",
+    "date": "2026-11-25T01:00:00+00:00",
     "value": 100,
-    "is_partial": false
+    "is_partial": true
    },
-   "ultimo_valor": 74,
+   "ultimo_valor": 100,
    "provincias_top": [
-    "Zamora-Chinchipe 100",
-    "Sucumbíos 82",
-    "Santa Elena 81",
-    "Loja 78",
-    "Carchi 77",
-    "El Oro 74",
-    "Manabí 70",
-    "Los Ríos 67"
+    "Esmeraldas 100",
+    "Guayas 87",
+    "Bolívar 80",
+    "El Oro 77",
+    "Tungurahua 74",
+    "Santa Elena 70",
+    "Imbabura 68",
+    "Santo Domingo de los Tsáchilas 65"
    ],
-   "el_oro": 74,
+   "el_oro": 77,
    "busquedas_en_alza": [
-    "real madrid psv (Breakout)",
-    "arsenal (Breakout)",
-    "napoli vs manchester city (Breakout)",
-    "manchester city vs. napoli (Breakout)",
-    "arsenal vs (Breakout)",
-    "como vs (Breakout)",
-    "manchester city vs napoli pronostico (Breakout)",
-    "real madrid vs psv (Breakout)"
+    "ecuavisa miss universo (Breakout)",
+    "miss universo (Breakout)",
+    "miss universo en vivo (Breakout)",
+    "ecuavisa internacional en vivo (Breakout)",
+    "ecuavisa en vivo miss universo (Breakout)",
+    "ver ecuavisa en vivo (+450%)",
+    "ecuavisa play en vivo (+400%)",
+    "ecuavisa en vivo youtube (+80%)"
    ],
    "serie": [
     [
-     "11-22T22",
-     0
-    ],
-    [
-     "11-22T23",
-     0
-    ],
-    [
-     "11-23T00",
-     0
-    ],
-    [
-     "11-23T01",
-     0
-    ],
-    [
      "11-23T02",
-     0
+     1
     ],
     [
      "11-23T03",
-     0
+     1
     ],
     [
      "11-23T04",
@@ -91,15 +75,15 @@
     ],
     [
      "11-23T11",
-     0
+     5
     ],
     [
      "11-23T12",
-     0
+     2
     ],
     [
      "11-23T13",
-     0
+     1
     ],
     [
      "11-23T14",
@@ -115,11 +99,11 @@
     ],
     [
      "11-23T17",
-     0
+     1
     ],
     [
      "11-23T18",
-     0
+     2
     ],
     [
      "11-23T19",
@@ -139,23 +123,23 @@
     ],
     [
      "11-23T23",
-     0
+     1
     ],
     [
      "11-24T00",
-     0
+     2
     ],
     [
      "11-24T01",
-     0
+     1
     ],
     [
      "11-24T02",
-     0
+     1
     ],
     [
      "11-24T03",
-     0
+     1
     ],
     [
      "11-24T04",
@@ -187,91 +171,317 @@
     ],
     [
      "11-24T11",
-     0
+     2
     ],
     [
      "11-24T12",
-     0
+     2
     ],
     [
      "11-24T13",
-     0
+     1
     ],
     [
      "11-24T14",
-     2
-    ],
-    [
-     "11-24T15",
-     2
-    ],
-    [
-     "11-24T16",
-     2
-    ],
-    [
-     "11-24T17",
-     2
-    ],
-    [
-     "11-24T18",
      0
     ],
     [
+     "11-24T15",
+     0
+    ],
+    [
+     "11-24T16",
+     0
+    ],
+    [
+     "11-24T17",
+     1
+    ],
+    [
+     "11-24T18",
+     2
+    ],
+    [
      "11-24T19",
-     100
+     1
     ],
     [
      "11-24T20",
-     86
+     0
     ],
     [
      "11-24T21",
-     74
+     1
+    ],
+    [
+     "11-24T22",
+     1
+    ],
+    [
+     "11-24T23",
+     3
+    ],
+    [
+     "11-25T00",
+     16
+    ],
+    [
+     "11-25T01",
+     100
     ]
    ]
   },
   {
-   "tema": "posiciones de galatasaray contra aston villa",
+   "tema": "ecuavisa",
+   "impulso_24h_pct": 378,
+   "estado": "explosiva",
+   "impulso_3h_pct": 3125,
+   "estado_3h": "explosiva",
+   "pico": {
+    "date": "2026-11-25T01:00:00+00:00",
+    "value": 100,
+    "is_partial": true
+   },
+   "ultimo_valor": 100,
+   "provincias_top": [
+    "Galápagos Islands 100",
+    "Guayas 92",
+    "Esmeraldas 81",
+    "El Oro 77",
+    "Provincia de Napo 76",
+    "Tungurahua 74",
+    "Bolívar 70",
+    "Pichincha 69"
+   ],
+   "el_oro": 77,
+   "busquedas_en_alza": [
+    "miss universo en vivo (Breakout)",
+    "ecuavisa en vivo miss universo (Breakout)",
+    "ecuavisa live (Breakout)",
+    "ecuavisa internacional en vivo (Breakout)",
+    "ecuavisa miss universo (Breakout)",
+    "miss universo (Breakout)",
+    "ecuavisa play (+600%)",
+    "ver ecuavisa en vivo (+500%)"
+   ],
+   "serie": [
+    [
+     "11-23T02",
+     2
+    ],
+    [
+     "11-23T03",
+     2
+    ],
+    [
+     "11-23T04",
+     0
+    ],
+    [
+     "11-23T05",
+     0
+    ],
+    [
+     "11-23T06",
+     0
+    ],
+    [
+     "11-23T07",
+     0
+    ],
+    [
+     "11-23T08",
+     0
+    ],
+    [
+     "11-23T09",
+     0
+    ],
+    [
+     "11-23T10",
+     3
+    ],
+    [
+     "11-23T11",
+     4
+    ],
+    [
+     "11-23T12",
+     2
+    ],
+    [
+     "11-23T13",
+     1
+    ],
+    [
+     "11-23T14",
+     1
+    ],
+    [
+     "11-23T15",
+     1
+    ],
+    [
+     "11-23T16",
+     1
+    ],
+    [
+     "11-23T17",
+     2
+    ],
+    [
+     "11-23T18",
+     3
+    ],
+    [
+     "11-23T19",
+     1
+    ],
+    [
+     "11-23T20",
+     1
+    ],
+    [
+     "11-23T21",
+     1
+    ],
+    [
+     "11-23T22",
+     1
+    ],
+    [
+     "11-23T23",
+     1
+    ],
+    [
+     "11-24T00",
+     3
+    ],
+    [
+     "11-24T01",
+     2
+    ],
+    [
+     "11-24T02",
+     2
+    ],
+    [
+     "11-24T03",
+     1
+    ],
+    [
+     "11-24T04",
+     0
+    ],
+    [
+     "11-24T05",
+     0
+    ],
+    [
+     "11-24T06",
+     0
+    ],
+    [
+     "11-24T07",
+     0
+    ],
+    [
+     "11-24T08",
+     0
+    ],
+    [
+     "11-24T09",
+     0
+    ],
+    [
+     "11-24T10",
+     3
+    ],
+    [
+     "11-24T11",
+     3
+    ],
+    [
+     "11-24T12",
+     2
+    ],
+    [
+     "11-24T13",
+     1
+    ],
+    [
+     "11-24T14",
+     1
+    ],
+    [
+     "11-24T15",
+     1
+    ],
+    [
+     "11-24T16",
+     1
+    ],
+    [
+     "11-24T17",
+     1
+    ],
+    [
+     "11-24T18",
+     3
+    ],
+    [
+     "11-24T19",
+     1
+    ],
+    [
+     "11-24T20",
+     1
+    ],
+    [
+     "11-24T21",
+     1
+    ],
+    [
+     "11-24T22",
+     2
+    ],
+    [
+     "11-24T23",
+     6
+    ],
+    [
+     "11-25T00",
+     23
+    ],
+    [
+     "11-25T01",
+     100
+    ]
+   ]
+  },
+  {
+   "tema": "américa - deportivo cali",
    "impulso_24h_pct": null,
    "estado": "nueva",
    "impulso_3h_pct": null,
    "estado_3h": "nueva",
    "pico": {
-    "date": "2026-11-24T20:00:00+00:00",
+    "date": "2026-11-25T01:00:00+00:00",
     "value": 100,
-    "is_partial": false
+    "is_partial": true
    },
-   "ultimo_valor": 0,
+   "ultimo_valor": 100,
    "provincias_top": [
-    "Bolívar 100",
-    "Orellana 72",
-    "Loja 28",
-    "Manabí 27",
-    "Los Ríos 27",
-    "Chimborazo 25",
-    "Santo Domingo de los Tsáchilas 22",
-    "Guayas 18"
+    "Manabí 100",
+    "Pichincha 70",
+    "Guayas 69"
    ],
-   "el_oro": 16,
-   "busquedas_en_alza": [],
+   "el_oro": null,
+   "busquedas_en_alza": [
+    "américa vs. deportivo cali (+120%)",
+    "américa de cali vs deportivo cali (+70%)"
+   ],
    "serie": [
-    [
-     "11-22T22",
-     0
-    ],
-    [
-     "11-22T23",
-     0
-    ],
-    [
-     "11-23T00",
-     0
-    ],
-    [
-     "11-23T01",
-     0
-    ],
     [
      "11-23T02",
      0
@@ -438,87 +648,80 @@
     ],
     [
      "11-24T19",
-     29
+     0
     ],
     [
      "11-24T20",
-     100
+     0
     ],
     [
      "11-24T21",
      0
+    ],
+    [
+     "11-24T22",
+     0
+    ],
+    [
+     "11-24T23",
+     0
+    ],
+    [
+     "11-25T00",
+     26
+    ],
+    [
+     "11-25T01",
+     100
     ]
    ]
   },
   {
-   "tema": "feyenoord - porto",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 979,
+   "tema": "dalia bucaram",
+   "impulso_24h_pct": -27,
+   "estado": "en declive",
+   "impulso_3h_pct": 407,
    "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-24T20:00:00+00:00",
+    "date": "2026-11-25T01:00:00+00:00",
     "value": 100,
-    "is_partial": false
+    "is_partial": true
    },
-   "ultimo_valor": 0,
+   "ultimo_valor": 100,
    "provincias_top": [
-    "Sucumbíos 100",
-    "Los Ríos 38",
-    "Chimborazo 34",
-    "Santo Domingo de los Tsáchilas 31",
-    "Manabí 28",
-    "Guayas 28",
-    "El Oro 22",
-    "Pichincha 17"
+    "Guayas 100",
+    "Santo Domingo de los Tsáchilas 96",
+    "El Oro 80",
+    "Manabí 78",
+    "Santa Elena 76",
+    "Pichincha 70",
+    "Azuay 63",
+    "Los Ríos 61"
    ],
-   "el_oro": 22,
+   "el_oro": 80,
    "busquedas_en_alza": [
-    "feyenoord vs (Breakout)",
-    "feyenoord vs. porto (Breakout)",
-    "real madrid psv (Breakout)",
-    "lens vs (Breakout)",
-    "como vs (Breakout)",
-    "arsenal vs (Breakout)",
-    "feyenoord vs fc porto (Breakout)",
-    "feyenoord vs porto pronostico (Breakout)"
+    "miss universo (+50%)"
    ],
    "serie": [
     [
-     "11-22T22",
-     0
-    ],
-    [
-     "11-22T23",
-     0
-    ],
-    [
-     "11-23T00",
-     0
-    ],
-    [
-     "11-23T01",
-     0
-    ],
-    [
      "11-23T02",
-     0
+     46
     ],
     [
      "11-23T03",
-     0
+     35
     ],
     [
      "11-23T04",
-     0
+     39
     ],
     [
      "11-23T05",
-     0
+     33
     ],
     [
      "11-23T06",
-     0
+     42
     ],
     [
      "11-23T07",
@@ -542,287 +745,71 @@
     ],
     [
      "11-23T12",
-     0
+     31
     ],
     [
      "11-23T13",
-     0
+     16
     ],
     [
      "11-23T14",
-     0
+     18
     ],
     [
      "11-23T15",
-     0
+     13
     ],
     [
      "11-23T16",
-     0
+     12
     ],
     [
      "11-23T17",
-     0
+     17
     ],
     [
      "11-23T18",
-     0
+     16
     ],
     [
      "11-23T19",
-     0
+     23
     ],
     [
      "11-23T20",
-     0
-    ],
-    [
-     "11-23T21",
-     0
-    ],
-    [
-     "11-23T22",
-     0
-    ],
-    [
-     "11-23T23",
-     0
-    ],
-    [
-     "11-24T00",
-     0
-    ],
-    [
-     "11-24T01",
-     0
-    ],
-    [
-     "11-24T02",
-     0
-    ],
-    [
-     "11-24T03",
-     0
-    ],
-    [
-     "11-24T04",
-     0
-    ],
-    [
-     "11-24T05",
-     0
-    ],
-    [
-     "11-24T06",
-     0
-    ],
-    [
-     "11-24T07",
-     0
-    ],
-    [
-     "11-24T08",
-     0
-    ],
-    [
-     "11-24T09",
-     0
-    ],
-    [
-     "11-24T10",
-     0
-    ],
-    [
-     "11-24T11",
-     0
-    ],
-    [
-     "11-24T12",
-     0
-    ],
-    [
-     "11-24T13",
-     0
-    ],
-    [
-     "11-24T14",
-     0
-    ],
-    [
-     "11-24T15",
-     11
-    ],
-    [
-     "11-24T16",
      14
     ],
     [
-     "11-24T17",
-     0
-    ],
-    [
-     "11-24T18",
-     0
-    ],
-    [
-     "11-24T19",
-     51
-    ],
-    [
-     "11-24T20",
-     100
-    ],
-    [
-     "11-24T21",
-     0
-    ]
-   ]
-  },
-  {
-   "tema": "copa mundial de fútbol sub-17",
-   "impulso_24h_pct": 1161,
-   "estado": "explosiva",
-   "impulso_3h_pct": 111,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-24T00:00:00+00:00",
-    "value": 100,
-    "is_partial": false
-   },
-   "ultimo_valor": 0,
-   "provincias_top": [
-    "Manabí 100",
-    "Guayas 70",
-    "Pichincha 55",
-    "Loja 50",
-    "Azuay 50"
-   ],
-   "el_oro": null,
-   "busquedas_en_alza": [],
-   "serie": [
-    [
-     "11-22T22",
-     0
-    ],
-    [
-     "11-22T23",
-     0
-    ],
-    [
-     "11-23T00",
-     51
-    ],
-    [
-     "11-23T01",
-     0
-    ],
-    [
-     "11-23T02",
-     0
-    ],
-    [
-     "11-23T03",
-     0
-    ],
-    [
-     "11-23T04",
-     0
-    ],
-    [
-     "11-23T05",
-     0
-    ],
-    [
-     "11-23T06",
-     0
-    ],
-    [
-     "11-23T07",
-     0
-    ],
-    [
-     "11-23T08",
-     0
-    ],
-    [
-     "11-23T09",
-     0
-    ],
-    [
-     "11-23T10",
-     0
-    ],
-    [
-     "11-23T11",
-     0
-    ],
-    [
-     "11-23T12",
-     0
-    ],
-    [
-     "11-23T13",
-     0
-    ],
-    [
-     "11-23T14",
-     0
-    ],
-    [
-     "11-23T15",
-     0
-    ],
-    [
-     "11-23T16",
-     0
-    ],
-    [
-     "11-23T17",
-     0
-    ],
-    [
-     "11-23T18",
-     0
-    ],
-    [
-     "11-23T19",
-     0
-    ],
-    [
-     "11-23T20",
-     0
-    ],
-    [
      "11-23T21",
-     0
+     10
     ],
     [
      "11-23T22",
-     0
+     7
     ],
     [
      "11-23T23",
-     0
+     10
     ],
     [
      "11-24T00",
-     100
+     13
     ],
     [
      "11-24T01",
-     96
+     14
     ],
     [
      "11-24T02",
-     56
+     0
     ],
     [
      "11-24T03",
-     63
+     13
     ],
     [
      "11-24T04",
-     0
+     16
     ],
     [
      "11-24T05",
@@ -854,11 +841,11 @@
     ],
     [
      "11-24T12",
-     64
+     13
     ],
     [
      "11-24T13",
-     0
+     9
     ],
     [
      "11-24T14",
@@ -866,31 +853,47 @@
     ],
     [
      "11-24T15",
-     0
+     7
     ],
     [
      "11-24T16",
-     41
+     12
     ],
     [
      "11-24T17",
-     0
+     19
     ],
     [
      "11-24T18",
-     44
+     13
     ],
     [
      "11-24T19",
-     80
+     13
     ],
     [
      "11-24T20",
-     99
+     12
     ],
     [
      "11-24T21",
-     0
+     8
+    ],
+    [
+     "11-24T22",
+     10
+    ],
+    [
+     "11-24T23",
+     16
+    ],
+    [
+     "11-25T00",
+     36
+    ],
+    [
+     "11-25T01",
+     100
     ]
    ]
   }
