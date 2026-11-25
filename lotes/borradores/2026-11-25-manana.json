@@ -210,12 +210,9 @@
    {
     "texto": "En el Dortmund está Justin Lerma, y en el Lens, Jhoanner Chávez.",
     "grafico": {
-     "tipo": "duo",
-     "a": "LERMA",
-     "a_texto": "BORUSSIA DORTMUND",
-     "b": "CHÁVEZ",
-     "b_texto": "LENS",
-     "pie": "TAMBIÉN EN LA FASE DE LIGA"
+     "tipo": "titular",
+     "texto": "JUSTIN LERMA · JHOANNER CHÁVEZ",
+     "sobre": "BORUSSIA DORTMUND · LENS"
     },
     "transicion": "barrido",
     "inicio": 24.05,
@@ -282,7 +279,7 @@
       },
       {
        "nombre": "REAL MADRID",
-       "color": "#FFFFFF"
+       "color": "#00529F"
       }
      ],
      "hora": "MIÉ 9/12",
