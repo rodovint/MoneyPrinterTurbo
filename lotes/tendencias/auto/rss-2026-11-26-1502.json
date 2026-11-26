@@ -1,0 +1,563 @@
+{
+ "fecha": "2026-11-26T15:02-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "crystal palace - real sociedad",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start (Hull Live)",
+     "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad (Star Sports)"
+    ]
+   },
+   {
+    "tema": "sunderland afc - jagiellonia białystok",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Starting XI: Seven Changes Predicted For Sunderland Tonight (Roker Report)",
+     "Licensable picture: UEFA Europa League - Sunderland v Jagiellonia Bialystok (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "union saint-gilloise - lech poznań",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Preview: Union SG vs Lech Poznan - prediction, team news, lineups (Sports Mole)",
+     "Licensable picture: UEFA Europa League - Union Saint-Gilloise v Lech Poznan (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "benfica vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T10:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Viktoria Plzen vs. Benfica por la UEFA Europa League: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
+     "Viktoria Plzeň vs Benfica: UEFA Europa League stats & head-to-head (BBC)"
+    ]
+   },
+   {
+    "tema": "benfica",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T10:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Os 11 iniciais do Viktoria Plzen x Benfica (Sport TV)",
+     "Lenglet e a final da Europa League: «Temos condições para lá chegar» (SAPO)"
+    ]
+   },
+   {
+    "tema": "besiktas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Beşiktaş-Hapoel Beer-Şeva maçı neden Batum'da oynanıyor? (Evrensel)",
+     "Gürcistan'da güvenlik güçlerinden Beşiktaş taraftarlarına orantısız müdahale (Anadolu Ajansı)"
+    ]
+   },
+   {
+    "tema": "viktoria plzeň - benfica",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Viktoria Plzeň vs Benfica: UEFA Europa League stats & head-to-head (BBC)",
+     "Plzen vs Benfica - Prediction, where to watch, kick-off time and line-ups 26-11-2026 (OneFootball)"
+    ]
+   },
+   {
+    "tema": "bono de contingencia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno Nacional responde a las familias ante las lluvias: 28.190 kits entregados y bonos habilitados para 17.530 hogares (Ministerio de Desarrollo Humano)",
+     "Bono de contingencia destinó más de $ 5,7 millones para 17.530 familias afectadas por las lluvias (El Universo)"
+    ]
+   },
+   {
+    "tema": "uefa europa league",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Watch Lyon vs Lillestroem live today: Who is broadcasting the match on TV and via live stream? (Goal.com)",
+     "Lyon predicted XI v Lillestrøm: Rémi Himbert to earn chance to impress; Lois Openda back in the squad (Get French Football News)"
+    ]
+   },
+   {
+    "tema": "saburtalo - getafe",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   }
+  ],
+  "US": [
+   {
+    "tema": "super bowl halftime show 2027",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "ESPN, NFL to show Super Bowl 61 in Imax theaters (CNBC)",
+     "Disney, ESPN and NFL take Super Bowl to IMAX theaters (Reuters)"
+    ]
+   },
+   {
+    "tema": "will ferrell",
+    "volumen": "100000+",
+    "volumen_min": 100000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Will Ferrell golf show 'The Hawk' canceled by Netflix after flopping in first season (Fox News)",
+     "Will Ferrell Comedy ‘The Hawk’ Canceled By Netflix After One Season (Deadline)"
+    ]
+   },
+   {
+    "tema": "dj jacobs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Top247 DL Jacobs nearing decision after visiting Vols again, has Tennessee 'high up on my list' (247Sports)",
+     "'I don't see him doing something before then' - Insider shares the latest on when 5-star Vols recruiting target DJ Jacobs could make a final decision (A to Z Sports)"
+    ]
+   },
+   {
+    "tema": "cowboys eagles halftime show",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Antonio Cipriano sings National Anthem before Lions Thanksgiving game (The Detroit News)",
+     "Bears vs Lions national anthem singer: What to know about Antonio Cipriano (USA Today)"
+    ]
+   },
+   {
+    "tema": "john 3:16",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Thankfulness at John 3:16 (KTUL)",
+     "John 3:16 Mission (Tulsa World)"
+    ]
+   },
+   {
+    "tema": "cowboys halftime show thanksgiving 2026",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free (Billboard)",
+     "Cowboys celebrate 30 years of Red Kettle Kickoff with The Salvation Army (Dallas Cowboys | Official Site of the Dallas Cowboys)"
+    ]
+   },
+   {
+    "tema": "georgetown vs texas",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Texas vs. Georgetown preview: Hoyas’ inside-out offense tests the Longhorns in San Diego (Burnt Orange Nation)",
+     "No. 6 Texas Men's Basketball Live Game Thread: vs Georgetown (247Sports)"
+    ]
+   },
+   {
+    "tema": "joe biden",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Joe Biden, 84, pictured inside home amid cancer battle: 'I am humbled' (Yahoo)",
+     "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu (WSJ)"
+    ]
+   },
+   {
+    "tema": "laporta",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Barcelona: Laporta atiza a Real Madrid y amenaza con llevar al club a juicio (ESPN Deportes)",
+     "Caso Negreira: ¿por qué el FC Barcelona y Florentino Pérez terminaron en los tribunales? (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "ol vs lillestrøm",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "[FREE!!] Lyon vs Lillestrøm Live: UEFA Europa League - League Stage (Charleston Sun-Sentinel)",
+     "Olympique Lyonnais vs Lillestrøm Predictions, Picks & Odds – 26/11/2026 (ToffeeWeb)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "manuel martínez medina azahara",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Manuel Martínez, de Medina Azahara, sobre la muerte de su hijo: \"Ha sido uno de los mejores músicos de este país\" (Antena 3)",
+     "Manuel Martínez, la voz de Medina Azahara: casi 50 años de rock, una pérdida devastadora y un adiós histórico (HOLA)"
+    ]
+   },
+   {
+    "tema": "sahara occidental",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sahara occidental : rencontre Bendjama – Waltz à New York, Washington appelle au calme (TSA - Tout Sur l'Algérie)",
+     "Comment l'après-MINURSO s'accélère sous l'impulsion de Washington et Rabat (Medias24)"
+    ]
+   },
+   {
+    "tema": "h&m",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Victoria de Suecia cae rendida a la misma blusa de Elie Saab para H&M que ya conquistó a la reina Letizia (Vanitatis)",
+     "De Oviedo a Västerbotten: Victoria de Suecia estrena la blusa transparente de H&M que la reina Letizia agotó la noche del concierto de los Princesa de Asturias (HOLA)"
+    ]
+   },
+   {
+    "tema": "radioterapia",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Investigadores del IDIS analizan los efectos negativos de la radioterapia en tres estudios internacionales (La Voz de Galicia)",
+     "Equipo gallego detecta diferencias por sexo en radioterapia (GaliciaPress)"
+    ]
+   },
+   {
+    "tema": "jd",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "JD Vance goes home to Ohio as he mulls a presidential bid (The Washington Post)",
+     "Vance serves up turkey and ‘unfiltered’ conversation to Air Force troops at an Ohio base (AP News)"
+    ]
+   },
+   {
+    "tema": "ajax",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bounida leidt Ajax langs Thun met twee goals, Berghuis zorgt voor fraai slotakkoord (NOS)",
+     "Europees voetbal | Ajax jaagt op 3-0, later NEC, Twente en AZ (NU)"
+    ]
+   },
+   {
+    "tema": "sunderland afc - jagiellonia białystok",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Olympiacos - Milan, en directo: Europa League, hoy en vivo (Diario AS)",
+     "En Directo: Juventus FC - AC Omonia Nicosia. Partido de la Europa League 2026-2027 | Fútbol en Canarias7 (Canarias7)"
+    ]
+   },
+   {
+    "tema": "mad cool 2027",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mad Cool replicará el formato de Shakira para su edición de 2027 incorporando gradas y cambiará su nombre con un nuevo patrocinador (El Mundo)",
+     "Mad Cool cambia de nombre y tendrá gradas en su próxima edición (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "lyon - lillestrøm",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "TSG Hoffenheim - Sturm Graz en directo (El Mundo)",
+     "Sunderland - Jagiellonia Białystok, en directo | Europa League (Mundo Deportivo)"
+    ]
+   },
+   {
+    "tema": "ac milan",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Licensable picture: Olympiacos F.C. v AC Milan UEFA Europa League (Reuters Connect)",
+     "Licensable picture: ISU Challenger Series: PGE Warsaw Cup (Reuters Connect)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "primera división",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Boca vs. Gimnasia, con nuevo horario para los cuartos de final del Torneo Clausura (TyC Sports)",
+     "Cuándo juegan Boca vs. Gimnasia LP por el Torneo Clausura 2026: equipo, fecha, hora y TV en vivo (ESPN Chile)"
+    ]
+   },
+   {
+    "tema": "crystal palace",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start (Hull Live)",
+     "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad (Star Sports)"
+    ]
+   },
+   {
+    "tema": "sunderland afc - jagiellonia białystok",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Starting XI: Seven Changes Predicted For Sunderland Tonight (Roker Report)",
+     "Sunderland-Jagiellonia: Sunderland arrive with five absences (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "bull market",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bitcoin slides below $59,000, on pace for its worst month since June 2022 (Yahoo Finance)",
+     "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks (CNBC)"
+    ]
+   },
+   {
+    "tema": "crystal palace - real sociedad",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Crystal Palace vs. Real Sociedad por la Europa League: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
+     "Alineaciones de Crystal Palace y Real Sociedad para el duelo de la jornada 5 de la Europa League (Bolavip Argentina)"
+    ]
+   },
+   {
+    "tema": "deuda",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Caputo busca salvataje chino para evitar el default (Página|12)",
+     "Caputo quiere reflotar el swap con China y el peronismo le aconseja: \"Tienen que ir a Beijing a besar las mano (La Política Online)"
+    ]
+   },
+   {
+    "tema": "sticker con audio whatsapp",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cómo hacer los stickers con audio para WhatsApp: así es el paso a paso (La Nación)",
+     "Quiénes pueden usar los nuevos stickers con audio de WhatsApp (eltrecetv)"
+    ]
+   },
+   {
+    "tema": "juan musso",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bomba de mercado: Racing le hizo una oferta formal a Musso (Olé)",
+     "Racing sueña con un bombazo: van por Juan Musso (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "rocky",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'I Play Rocky' Anthony Ippolito Video Interview On The Pic, Oscar Chances & More (Deadline)",
+     "Revisiting the Glossy Fairy Tale of ‘Rocky’ (The Atlantic)"
+    ]
+   },
+   {
+    "tema": "temporal",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Quién es Keila Daiana Da Costa, la joven argentina buscada en Brasil tras ser arrastrada por la corriente de un río (La Nación)",
+     "Buscan a una joven argentina en Brasil que fue arrastrada por un río (Página|12)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "crystal palace",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start (Hull Live)",
+     "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad (Star Sports)"
+    ]
+   },
+   {
+    "tema": "salvon ahmed",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bears Elevate Salvon Ahmed and Elijah Jones for Lions Game (Demokratis.co.id)",
+     "Chicago Bears practice squad call up earns Ben Johnson endorsement (ChiCitySports)"
+    ]
+   },
+   {
+    "tema": "umar sadiq",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "‘I Will Be the Best Striker in La Liga’ – Sadiq Umar Eyes Career Revival at Valencia (Sports247 Nigeria)",
+     "Sadiq Umar opens up on tough time at La Liga club (Score Nigeria)"
+    ]
+   },
+   {
+    "tema": "jameson williams",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jameson Williams Faces Bears After 93-Yard Game (JournalArta)",
+     "Fantasy Football Week 12 Start ‘Em, Sit ‘Em: Jameson Williams vs. DeVonta Smith (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "inter escaldes - copenhague",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "A qué hora y dónde ver el Inter Escaldes vs. Copenhague de Conference League (TUDN)",
+     "Rodrigo Huescas y Anwar Hernández protagonizarán duelo de mexicanos en la Conference League (Excélsior)"
+    ]
+   },
+   {
+    "tema": "lugano fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jablonec vs Lugano: Where to watch, TV channel, live stream and kick-off time (Goal.com)",
+     "Jablonec Overview | Goal.com English Oman (Goal.com)"
+    ]
+   },
+   {
+    "tema": "borac - atalanta",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Milan begin away trip to Olympiacos at 17.45 GMT in Europa League action — Olympiacos Vs Milan (شبكة تواصل الإخبارية)",
+     "Gallery: ‘No room for failure’, ‘Amorim facing a crisis’ – Today’s front pages in Italy (SempreMilan)"
+    ]
+   },
+   {
+    "tema": "sunderland afc - jagiellonia białystok",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Starting XI: Seven Changes Predicted For Sunderland Tonight (Roker Report)",
+     "Licensable picture: UEFA Europa League - Sunderland v Jagiellonia Bialystok (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "kyle monangai",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bears Prepare for Lions Clash as Monangai Returns From Injury (cwibc.co.id)",
+     "Kyle Monangai Quiet in return to lineup (Fantasy Footballers Podcast)"
+    ]
+   },
+   {
+    "tema": "crystal palace - real sociedad",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Crystal Palace vs Real Sociedad: ¿A qué hora y dónde ver EN VIVO Jornada 5 Europa League? (Mediotiempo)",
+     "Alineaciones de Crystal Palace vs Real Sociedad: Estadísticas, horarios y dónde ver (Ruptura360)"
+    ]
+   }
+  ]
+ }
+}
