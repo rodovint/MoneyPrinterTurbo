@@ -1,8 +1,19 @@
 {
- "fecha": "2026-11-26T15:02-05:00",
+ "fecha": "2026-11-26T15:08-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
+   {
+    "tema": "posiciones de brighton & hove albion football club contra u craiova",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brighton 4-0 Universitatea Craiova: Seagulls claim dominant Conference League win (BBC)",
+     "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis (ESPN)"
+    ]
+   },
    {
     "tema": "crystal palace - real sociedad",
     "volumen": "200+",
@@ -92,17 +103,6 @@
     ]
    },
    {
-    "tema": "uefa europa league",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T10:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Watch Lyon vs Lillestroem live today: Who is broadcasting the match on TV and via live stream? (Goal.com)",
-     "Lyon predicted XI v Lillestrøm: Rémi Himbert to earn chance to impress; Lois Openda back in the squad (Get French Football News)"
-    ]
-   },
-   {
     "tema": "saburtalo - getafe",
     "volumen": "500+",
     "volumen_min": 500,
@@ -113,9 +113,42 @@
   ],
   "US": [
    {
+    "tema": "ryan gosling",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Ryan Gosling’s 2026 Masterpiece Officially Scores Another Huge Success (IMDb)",
+     "Ryan Gosling’s 2026 Masterpiece Officially Scores Another Huge Success (ScreenRant)"
+    ]
+   },
+   {
+    "tema": "will anderson jr",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Will Anderson named the AFC defensive player of the week (NBC Sports)",
+     "Will Anderson reacts to winning AFC DPOW after his safety vs Colts (Fort Worth Star-Telegram)"
+    ]
+   },
+   {
+    "tema": "jlo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\" (CBS News)",
+     "‘The JLo Show’ Is Perfect Thanksgiving Television (The Cut)"
+    ]
+   },
+   {
     "tema": "super bowl halftime show 2027",
-    "volumen": "10000+",
-    "volumen_min": 10000,
+    "volumen": "20000+",
+    "volumen_min": 20000,
     "desde": "2026-11-26T11:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -136,24 +169,35 @@
    },
    {
     "tema": "dj jacobs",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Top247 DL Jacobs nearing decision after visiting Vols again, has Tennessee 'high up on my list' (247Sports)",
-     "'I don't see him doing something before then' - Insider shares the latest on when 5-star Vols recruiting target DJ Jacobs could make a final decision (A to Z Sports)"
-    ]
-   },
-   {
-    "tema": "cowboys eagles halftime show",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-26T11:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Antonio Cipriano sings National Anthem before Lions Thanksgiving game (The Detroit News)",
-     "Bears vs Lions national anthem singer: What to know about Antonio Cipriano (USA Today)"
+     "Thanksgiving Stunner: 5-star EDGE David Jacobs decommits from Ohio State (Yahoo Sports)",
+     "Tennessee Football's Top Flip Target Decommitted From Ohio State (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "chiefs bills halftime show",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Who is Halftime Performer for Bills vs. Chiefs Thanksgiving Day Game? (Sports Illustrated)",
+     "Goo Goo Dolls all bundled up in promo video before special Bills Thanksgiving halftime show (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "amon-ra st. brown",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Can't-Miss Play: St. Brown absorbs hit-stick collision on 23-yard catch vs. Bears (NFL.com)",
+     "Lions’ Amon-Ra St. Brown did Ben Johnson’s viral Stanky Leg celebration (Yahoo Sports)"
     ]
    },
    {
@@ -163,8 +207,8 @@
     "desde": "2026-11-26T11:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Thankfulness at John 3:16 (KTUL)",
-     "John 3:16 Mission (Tulsa World)"
+     "John 3:16 Mission Expands Holiday Meals and Recovery Support in Tulsa (cwibc.co.id)",
+     "Christian Ministers Alliance marks 45 years of annual Thanksgiving food giveaway (KOKI FOX 23)"
     ]
    },
    {
@@ -177,53 +221,42 @@
      "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free (Billboard)",
      "Cowboys celebrate 30 years of Red Kettle Kickoff with The Salvation Army (Dallas Cowboys | Official Site of the Dallas Cowboys)"
     ]
-   },
-   {
-    "tema": "georgetown vs texas",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Texas vs. Georgetown preview: Hoyas’ inside-out offense tests the Longhorns in San Diego (Burnt Orange Nation)",
-     "No. 6 Texas Men's Basketball Live Game Thread: vs Georgetown (247Sports)"
-    ]
-   },
-   {
-    "tema": "joe biden",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Joe Biden, 84, pictured inside home amid cancer battle: 'I am humbled' (Yahoo)",
-     "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu (WSJ)"
-    ]
-   },
-   {
-    "tema": "laporta",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Barcelona: Laporta atiza a Real Madrid y amenaza con llevar al club a juicio (ESPN Deportes)",
-     "Caso Negreira: ¿por qué el FC Barcelona y Florentino Pérez terminaron en los tribunales? (Sports Illustrated)"
-    ]
-   },
-   {
-    "tema": "ol vs lillestrøm",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "[FREE!!] Lyon vs Lillestrøm Live: UEFA Europa League - League Stage (Charleston Sun-Sentinel)",
-     "Olympique Lyonnais vs Lillestrøm Predictions, Picks & Odds – 26/11/2026 (ToffeeWeb)"
-    ]
    }
   ],
   "ES": [
+   {
+    "tema": "posiciones de brighton & hove albion football club contra u craiova",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis (ESPN)",
+     "Brighton & Hove Albion x Universitatea Craiova - Highlights, Summary and Match Report (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "posiciones de europa league",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jornada 5 de la Europa League: horario y dónde ver los partidos (EL PAÍS)",
+     "Europa League 2026-2027: calendario, horario y partidos de la F. Grupos - Jornada 5 (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "concurso",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Granada celebra la décima edición del gran concurso de K-Pop con jóvenes de toda España (Ideal)",
+     "El Ayuntamiento de Granada celebra el X Concurso KPOP Granajoven, una cita que impulsa el talento y la cultura urbana (Europa Press)"
+    ]
+   },
    {
     "tema": "manuel martínez medina azahara",
     "volumen": "200+",
@@ -242,8 +275,8 @@
     "desde": "2026-11-26T11:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Sahara occidental : rencontre Bendjama – Waltz à New York, Washington appelle au calme (TSA - Tout Sur l'Algérie)",
-     "Comment l'après-MINURSO s'accélère sous l'impulsion de Washington et Rabat (Medias24)"
+     "Comment l'après-MINURSO s'accélère sous l'impulsion de Washington et Rabat (Medias24)",
+     "Mozambique: les négociations doivent servir de moyens devant garantir l'autodétermination du peuple sahraoui (وكالة الأنباء الصحراوية)"
     ]
    },
    {
@@ -280,62 +313,51 @@
     ]
    },
    {
+    "tema": "borac - atalanta",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Preview: Borac Banja Luka vs. Atalanta BC - prediction, team news, lineups (Sports Mole)",
+     "Conference League Matchday 4 briefing: Brighton face test, Monaco and Trabzonspor travel (UEFA.com)"
+    ]
+   },
+   {
     "tema": "ajax",
     "volumen": "100+",
     "volumen_min": 100,
     "desde": "2026-11-26T11:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Bounida leidt Ajax langs Thun met twee goals, Berghuis zorgt voor fraai slotakkoord (NOS)",
+     "Ajax op 2-0 tegen FC Thun • Bounida en Marcos Leonardo scoren (NOS)",
      "Europees voetbal | Ajax jaagt op 3-0, later NEC, Twente en AZ (NU)"
-    ]
-   },
-   {
-    "tema": "sunderland afc - jagiellonia białystok",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Olympiacos - Milan, en directo: Europa League, hoy en vivo (Diario AS)",
-     "En Directo: Juventus FC - AC Omonia Nicosia. Partido de la Europa League 2026-2027 | Fútbol en Canarias7 (Canarias7)"
-    ]
-   },
-   {
-    "tema": "mad cool 2027",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Mad Cool replicará el formato de Shakira para su edición de 2027 incorporando gradas y cambiará su nombre con un nuevo patrocinador (El Mundo)",
-     "Mad Cool cambia de nombre y tendrá gradas en su próxima edición (EL PAÍS)"
-    ]
-   },
-   {
-    "tema": "lyon - lillestrøm",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "TSG Hoffenheim - Sturm Graz en directo (El Mundo)",
-     "Sunderland - Jagiellonia Białystok, en directo | Europa League (Mundo Deportivo)"
-    ]
-   },
-   {
-    "tema": "ac milan",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Licensable picture: Olympiacos F.C. v AC Milan UEFA Europa League (Reuters Connect)",
-     "Licensable picture: ISU Challenger Series: PGE Warsaw Cup (Reuters Connect)"
     ]
    }
   ],
   "AR": [
+   {
+    "tema": "posiciones de brighton & hove albion football club contra u craiova",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brighton 4-0 Universitatea Craiova: Seagulls claim dominant Conference League win (BBC)",
+     "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis (ESPN)"
+    ]
+   },
+   {
+    "tema": "reforma",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Seis claves para entender la nueva ley que reforma la Carta Orgánica del Banco Central (Infobae)",
+     "Diputados aprobó la reforma del BCRA con cambios y abstención del PJ (Página|12)"
+    ]
+   },
    {
     "tema": "primera división",
     "volumen": "20000+",
@@ -356,6 +378,17 @@
     "titulares": [
      "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start (Hull Live)",
      "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad (Star Sports)"
+    ]
+   },
+   {
+    "tema": "borac - atalanta",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Football accumulator tips for Thursday November 26: Back our acca at 9-1 (Racing Post)",
+     "EV Eagle's Value Betting Tips for Thursday's Europa League Action (Oddschecker)"
     ]
    },
    {
@@ -393,8 +426,8 @@
    },
    {
     "tema": "deuda",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-26T11:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -412,42 +445,75 @@
      "Cómo hacer los stickers con audio para WhatsApp: así es el paso a paso (La Nación)",
      "Quiénes pueden usar los nuevos stickers con audio de WhatsApp (eltrecetv)"
     ]
-   },
-   {
-    "tema": "juan musso",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T11:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Bomba de mercado: Racing le hizo una oferta formal a Musso (Olé)",
-     "Racing sueña con un bombazo: van por Juan Musso (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "rocky",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T10:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'I Play Rocky' Anthony Ippolito Video Interview On The Pic, Oscar Chances & More (Deadline)",
-     "Revisiting the Glossy Fairy Tale of ‘Rocky’ (The Atlantic)"
-    ]
-   },
-   {
-    "tema": "temporal",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T10:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Quién es Keila Daiana Da Costa, la joven argentina buscada en Brasil tras ser arrastrada por la corriente de un río (La Nación)",
-     "Buscan a una joven argentina en Brasil que fue arrastrada por un río (Página|12)"
-    ]
    }
   ],
   "MX": [
+   {
+    "tema": "posiciones de brighton & hove albion football club contra u craiova",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis (ESPN)",
+     "Brighton & Hove Albion x Universitatea Craiova - Highlights, Summary and Match Report (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "az alkmaar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Where and When to Watch AZ Alkmaar and Mateo Chávez Take On Sparta Prague LIVE in the Europa League? (Soy Futbol)",
+     "Europa League Accumulator Tips (Oddschecker)"
+    ]
+   },
+   {
+    "tema": "palomitas cinepolis",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cinépolis anuncia ‘Trae tu canasta’ para llenar tu recipiente favorito de palomitas por este PRECIO (Milenio)",
+     "Cinépolis lanza 'Trae Tu Canasta': podrás llenar tu propio recipiente con palomitas por 169 pesos solo durante tres días (SensaCine.com.mx)"
+    ]
+   },
+   {
+    "tema": "d'andre swift",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bears' Johnson has no plan to stop using Swift in run game despite costly fumbles (ESPN)",
+     "Are D’Andre Swift’s fumbles becoming a fantasy concern? (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "beşiktaş - h. beer sheva",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Match between Turkey’s Besiktas and Hapoel Beersheba halted amid clash in stands (The Times of Israel)",
+     "Beşiktaş eighth in Europa League standings ahead of 26 November 2026 clash — Beşiktaş Vs H. Beer-sheva has automatic qualification on the line (شبكة تواصل الإخبارية)"
+    ]
+   },
+   {
+    "tema": "posiciones de europa league",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Apuestas Europa League hoy: predicciones, pronóstico, cuotas y favoritos de la fase de liga (DAZN)",
+     "Benfica, Milan y Juventus salen a escena en una nueva fecha de la Europa League (El Litoral)"
+    ]
+   },
    {
     "tema": "crystal palace",
     "volumen": "200+",
@@ -457,17 +523,6 @@
     "titulares": [
      "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start (Hull Live)",
      "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad (Star Sports)"
-    ]
-   },
-   {
-    "tema": "salvon ahmed",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T11:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bears Elevate Salvon Ahmed and Elijah Jones for Lions Game (Demokratis.co.id)",
-     "Chicago Bears practice squad call up earns Ben Johnson endorsement (ChiCitySports)"
     ]
    },
    {
@@ -482,6 +537,17 @@
     ]
    },
    {
+    "tema": "salvon ahmed",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bears Elevate Salvon Ahmed and Elijah Jones for Lions Game (Demokratis.co.id)",
+     "Chicago Bears practice squad call up earns Ben Johnson endorsement (ChiCitySports)"
+    ]
+   },
+   {
     "tema": "jameson williams",
     "volumen": "100+",
     "volumen_min": 100,
@@ -490,72 +556,6 @@
     "titulares": [
      "Jameson Williams Faces Bears After 93-Yard Game (JournalArta)",
      "Fantasy Football Week 12 Start ‘Em, Sit ‘Em: Jameson Williams vs. DeVonta Smith (Sports Illustrated)"
-    ]
-   },
-   {
-    "tema": "inter escaldes - copenhague",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "A qué hora y dónde ver el Inter Escaldes vs. Copenhague de Conference League (TUDN)",
-     "Rodrigo Huescas y Anwar Hernández protagonizarán duelo de mexicanos en la Conference League (Excélsior)"
-    ]
-   },
-   {
-    "tema": "lugano fc",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T11:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Jablonec vs Lugano: Where to watch, TV channel, live stream and kick-off time (Goal.com)",
-     "Jablonec Overview | Goal.com English Oman (Goal.com)"
-    ]
-   },
-   {
-    "tema": "borac - atalanta",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Milan begin away trip to Olympiacos at 17.45 GMT in Europa League action — Olympiacos Vs Milan (شبكة تواصل الإخبارية)",
-     "Gallery: ‘No room for failure’, ‘Amorim facing a crisis’ – Today’s front pages in Italy (SempreMilan)"
-    ]
-   },
-   {
-    "tema": "sunderland afc - jagiellonia białystok",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Starting XI: Seven Changes Predicted For Sunderland Tonight (Roker Report)",
-     "Licensable picture: UEFA Europa League - Sunderland v Jagiellonia Bialystok (Reuters Connect)"
-    ]
-   },
-   {
-    "tema": "kyle monangai",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T11:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Bears Prepare for Lions Clash as Monangai Returns From Injury (cwibc.co.id)",
-     "Kyle Monangai Quiet in return to lineup (Fantasy Footballers Podcast)"
-    ]
-   },
-   {
-    "tema": "crystal palace - real sociedad",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T11:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Crystal Palace vs Real Sociedad: ¿A qué hora y dónde ver EN VIVO Jornada 5 Europa League? (Mediotiempo)",
-     "Alineaciones de Crystal Palace vs Real Sociedad: Estadísticas, horarios y dónde ver (Ruptura360)"
     ]
    }
   ]
