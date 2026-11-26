@@ -1,741 +1,55 @@
 {
- "fecha": "2026-11-25T15:27-05:00",
+ "fecha": "2026-11-25T20:09-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "posiciones de sabah futbol klubu contra fc barcelona",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 14000,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-25T20:00:00+00:00",
-    "value": 100,
-    "is_partial": true
-   },
-   "ultimo_valor": 100,
-   "provincias_top": [
-    "Orellana 100",
-    "Zamora-Chinchipe 79",
-    "Esmeraldas 74",
-    "Provincia de Napo 69",
-    "Sucumbíos 66",
-    "Los Ríos 65",
-    "Cotopaxi 65",
-    "Santa Elena 64"
-   ],
-   "el_oro": 55,
-   "busquedas_en_alza": [],
-   "serie": [
-    [
-     "11-23T21",
-     0
-    ],
-    [
-     "11-23T22",
-     0
-    ],
-    [
-     "11-23T23",
-     0
-    ],
-    [
-     "11-24T00",
-     0
-    ],
-    [
-     "11-24T01",
-     0
-    ],
-    [
-     "11-24T02",
-     0
-    ],
-    [
-     "11-24T03",
-     0
-    ],
-    [
-     "11-24T04",
-     0
-    ],
-    [
-     "11-24T05",
-     0
-    ],
-    [
-     "11-24T06",
-     0
-    ],
-    [
-     "11-24T07",
-     0
-    ],
-    [
-     "11-24T08",
-     0
-    ],
-    [
-     "11-24T09",
-     0
-    ],
-    [
-     "11-24T10",
-     0
-    ],
-    [
-     "11-24T11",
-     0
-    ],
-    [
-     "11-24T12",
-     0
-    ],
-    [
-     "11-24T13",
-     0
-    ],
-    [
-     "11-24T14",
-     0
-    ],
-    [
-     "11-24T15",
-     0
-    ],
-    [
-     "11-24T16",
-     0
-    ],
-    [
-     "11-24T17",
-     0
-    ],
-    [
-     "11-24T18",
-     0
-    ],
-    [
-     "11-24T19",
-     0
-    ],
-    [
-     "11-24T20",
-     0
-    ],
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
-    [
-     "11-25T02",
-     0
-    ],
-    [
-     "11-25T03",
-     0
-    ],
-    [
-     "11-25T04",
-     0
-    ],
-    [
-     "11-25T05",
-     0
-    ],
-    [
-     "11-25T06",
-     0
-    ],
-    [
-     "11-25T07",
-     0
-    ],
-    [
-     "11-25T08",
-     0
-    ],
-    [
-     "11-25T09",
-     0
-    ],
-    [
-     "11-25T10",
-     0
-    ],
-    [
-     "11-25T11",
-     0
-    ],
-    [
-     "11-25T12",
-     0
-    ],
-    [
-     "11-25T13",
-     0
-    ],
-    [
-     "11-25T14",
-     0
-    ],
-    [
-     "11-25T15",
-     0
-    ],
-    [
-     "11-25T16",
-     0
-    ],
-    [
-     "11-25T17",
-     1
-    ],
-    [
-     "11-25T18",
-     1
-    ],
-    [
-     "11-25T19",
-     40
-    ],
-    [
-     "11-25T20",
-     100
-    ]
-   ]
-  },
-  {
-   "tema": "psg - roma",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 4933,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-25T20:00:00+00:00",
-    "value": 100,
-    "is_partial": true
-   },
-   "ultimo_valor": 100,
-   "provincias_top": [
-    "Carchi 100",
-    "Sucumbíos 99",
-    "Loja 96",
-    "Provincia de Napo 92",
-    "Pastaza 89",
-    "Zamora-Chinchipe 89",
-    "Galápagos Islands 87",
-    "Manabí 85"
-   ],
-   "el_oro": 84,
-   "busquedas_en_alza": [
-    "as roma (Breakout)",
-    "psg vs as roma (Breakout)",
-    "psg vs roma pronostico (Breakout)"
-   ],
-   "serie": [
-    [
-     "11-23T21",
-     0
-    ],
-    [
-     "11-23T22",
-     0
-    ],
-    [
-     "11-23T23",
-     0
-    ],
-    [
-     "11-24T00",
-     0
-    ],
-    [
-     "11-24T01",
-     0
-    ],
-    [
-     "11-24T02",
-     0
-    ],
-    [
-     "11-24T03",
-     0
-    ],
-    [
-     "11-24T04",
-     0
-    ],
-    [
-     "11-24T05",
-     0
-    ],
-    [
-     "11-24T06",
-     0
-    ],
-    [
-     "11-24T07",
-     0
-    ],
-    [
-     "11-24T08",
-     0
-    ],
-    [
-     "11-24T09",
-     0
-    ],
-    [
-     "11-24T10",
-     0
-    ],
-    [
-     "11-24T11",
-     0
-    ],
-    [
-     "11-24T12",
-     0
-    ],
-    [
-     "11-24T13",
-     0
-    ],
-    [
-     "11-24T14",
-     0
-    ],
-    [
-     "11-24T15",
-     0
-    ],
-    [
-     "11-24T16",
-     0
-    ],
-    [
-     "11-24T17",
-     0
-    ],
-    [
-     "11-24T18",
-     0
-    ],
-    [
-     "11-24T19",
-     0
-    ],
-    [
-     "11-24T20",
-     0
-    ],
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     1
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     1
-    ],
-    [
-     "11-25T02",
-     0
-    ],
-    [
-     "11-25T03",
-     0
-    ],
-    [
-     "11-25T04",
-     0
-    ],
-    [
-     "11-25T05",
-     0
-    ],
-    [
-     "11-25T06",
-     0
-    ],
-    [
-     "11-25T07",
-     0
-    ],
-    [
-     "11-25T08",
-     0
-    ],
-    [
-     "11-25T09",
-     0
-    ],
-    [
-     "11-25T10",
-     0
-    ],
-    [
-     "11-25T11",
-     0
-    ],
-    [
-     "11-25T12",
-     0
-    ],
-    [
-     "11-25T13",
-     0
-    ],
-    [
-     "11-25T14",
-     1
-    ],
-    [
-     "11-25T15",
-     1
-    ],
-    [
-     "11-25T16",
-     1
-    ],
-    [
-     "11-25T17",
-     1
-    ],
-    [
-     "11-25T18",
-     1
-    ],
-    [
-     "11-25T19",
-     50
-    ],
-    [
-     "11-25T20",
-     100
-    ]
-   ]
-  },
-  {
-   "tema": "club brujas - liverpool",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 3580,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-25T20:00:00+00:00",
-    "value": 100,
-    "is_partial": true
-   },
-   "ultimo_valor": 100,
-   "provincias_top": [
-    "Morona-Santiago 100",
-    "Santo Domingo de los Tsáchilas 74",
-    "Loja 71",
-    "El Oro 65",
-    "Santa Elena 59",
-    "Manabí 58",
-    "Los Ríos 56",
-    "Tungurahua 56"
-   ],
-   "el_oro": 65,
-   "busquedas_en_alza": [
-    "club brujas vs. liverpool (Breakout)",
-    "club brujas vs. liverpool pronostico (Breakout)"
-   ],
-   "serie": [
-    [
-     "11-23T21",
-     0
-    ],
-    [
-     "11-23T22",
-     0
-    ],
-    [
-     "11-23T23",
-     0
-    ],
-    [
-     "11-24T00",
-     0
-    ],
-    [
-     "11-24T01",
-     0
-    ],
-    [
-     "11-24T02",
-     0
-    ],
-    [
-     "11-24T03",
-     0
-    ],
-    [
-     "11-24T04",
-     0
-    ],
-    [
-     "11-24T05",
-     0
-    ],
-    [
-     "11-24T06",
-     0
-    ],
-    [
-     "11-24T07",
-     0
-    ],
-    [
-     "11-24T08",
-     0
-    ],
-    [
-     "11-24T09",
-     0
-    ],
-    [
-     "11-24T10",
-     0
-    ],
-    [
-     "11-24T11",
-     0
-    ],
-    [
-     "11-24T12",
-     0
-    ],
-    [
-     "11-24T13",
-     0
-    ],
-    [
-     "11-24T14",
-     0
-    ],
-    [
-     "11-24T15",
-     0
-    ],
-    [
-     "11-24T16",
-     0
-    ],
-    [
-     "11-24T17",
-     0
-    ],
-    [
-     "11-24T18",
-     0
-    ],
-    [
-     "11-24T19",
-     0
-    ],
-    [
-     "11-24T20",
-     0
-    ],
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
-    [
-     "11-25T02",
-     0
-    ],
-    [
-     "11-25T03",
-     0
-    ],
-    [
-     "11-25T04",
-     0
-    ],
-    [
-     "11-25T05",
-     0
-    ],
-    [
-     "11-25T06",
-     0
-    ],
-    [
-     "11-25T07",
-     0
-    ],
-    [
-     "11-25T08",
-     0
-    ],
-    [
-     "11-25T09",
-     0
-    ],
-    [
-     "11-25T10",
-     0
-    ],
-    [
-     "11-25T11",
-     0
-    ],
-    [
-     "11-25T12",
-     0
-    ],
-    [
-     "11-25T13",
-     0
-    ],
-    [
-     "11-25T14",
-     0
-    ],
-    [
-     "11-25T15",
-     0
-    ],
-    [
-     "11-25T16",
-     2
-    ],
-    [
-     "11-25T17",
-     3
-    ],
-    [
-     "11-25T18",
-     0
-    ],
-    [
-     "11-25T19",
-     84
-    ],
-    [
-     "11-25T20",
-     100
-    ]
-   ]
-  },
-  {
-   "tema": "psg",
-   "impulso_24h_pct": 665,
+   "tema": "barcelona sc - independiente del valle",
+   "impulso_24h_pct": 8033,
    "estado": "explosiva",
-   "impulso_3h_pct": 1578,
+   "impulso_3h_pct": 24200,
    "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-25T20:00:00+00:00",
+    "date": "2026-11-25T23:00:00+00:00",
     "value": 100,
-    "is_partial": true
+    "is_partial": false
    },
-   "ultimo_valor": 100,
+   "ultimo_valor": 66,
    "provincias_top": [
-    "Sucumbíos 100",
-    "Zamora-Chinchipe 93",
-    "Loja 87",
+    "Guayas 100",
+    "Galápagos Islands 88",
     "Los Ríos 85",
-    "Cañar 85",
-    "Santa Elena 84",
-    "Orellana 83",
-    "Bolívar 82"
+    "Santa Elena 82",
+    "Manabí 70",
+    "El Oro 70",
+    "Pichincha 66",
+    "Sucumbíos 66"
    ],
-   "el_oro": 76,
+   "el_oro": 70,
    "busquedas_en_alza": [
-    "posiciones de ogc niza contra psg (Breakout)",
-    "psg vs. roma (Breakout)",
-    "psg vs. troyes (Breakout)",
-    "barcelona vs. villarreal (Breakout)",
-    "parma vs. roma (Breakout)",
-    "psg vs roma pronostico (Breakout)",
-    "niza psg (Breakout)",
-    "psg roma (+2,950%)"
+    "boca juniors independiente rivadavia (Breakout)",
+    "barcelona sc vs independiente del valle en vivo (Breakout)",
+    "dónde mirar barcelona sc contra independiente del valle (Breakout)",
+    "estadísticas de barcelona sc contra independiente del valle (Breakout)",
+    "barcelona sc vs independiente del valle donde ver (Breakout)",
+    "barcelona sc vs independiente del valle pronóstico (Breakout)"
    ],
    "serie": [
     [
-     "11-23T21",
-     1
-    ],
-    [
-     "11-23T22",
-     1
-    ],
-    [
-     "11-23T23",
-     1
-    ],
-    [
-     "11-24T00",
-     1
-    ],
-    [
-     "11-24T01",
-     1
-    ],
-    [
      "11-24T02",
-     1
+     0
     ],
     [
      "11-24T03",
-     1
+     0
     ],
     [
      "11-24T04",
-     1
+     0
     ],
     [
      "11-24T05",
-     1
+     0
     ],
     [
      "11-24T06",
@@ -747,7 +61,7 @@
     ],
     [
      "11-24T08",
-     0
+     3
     ],
     [
      "11-24T09",
@@ -759,79 +73,79 @@
     ],
     [
      "11-24T11",
-     1
+     0
     ],
     [
      "11-24T12",
-     1
+     0
     ],
     [
      "11-24T13",
-     1
+     0
     ],
     [
      "11-24T14",
-     1
+     0
     ],
     [
      "11-24T15",
-     1
+     0
     ],
     [
      "11-24T16",
-     1
+     0
     ],
     [
      "11-24T17",
-     2
+     0
     ],
     [
      "11-24T18",
-     2
+     0
     ],
     [
      "11-24T19",
-     3
+     0
     ],
     [
      "11-24T20",
-     4
+     0
     ],
     [
      "11-24T21",
-     4
+     0
     ],
     [
      "11-24T22",
-     5
+     0
     ],
     [
      "11-24T23",
-     3
+     0
     ],
     [
      "11-25T00",
-     3
+     0
     ],
     [
      "11-25T01",
-     3
+     0
     ],
     [
      "11-25T02",
-     3
+     0
     ],
     [
      "11-25T03",
-     3
+     0
     ],
     [
      "11-25T04",
-     3
+     0
     ],
     [
      "11-25T05",
-     2
+     0
     ],
     [
      "11-25T06",
@@ -851,49 +165,73 @@
     ],
     [
      "11-25T10",
-     2
+     0
     ],
     [
      "11-25T11",
-     2
+     0
     ],
     [
      "11-25T12",
-     2
+     0
     ],
     [
      "11-25T13",
-     2
+     0
     ],
     [
      "11-25T14",
-     2
+     0
     ],
     [
      "11-25T15",
-     2
+     0
     ],
     [
      "11-25T16",
-     3
+     0
     ],
     [
      "11-25T17",
-     4
+     0
     ],
     [
      "11-25T18",
-     7
+     0
     ],
     [
      "11-25T19",
-     44
+     0
     ],
     [
      "11-25T20",
+     0
+    ],
+    [
+     "11-25T21",
+     0
+    ],
+    [
+     "11-25T22",
+     1
+    ],
+    [
+     "11-25T23",
      100
+    ],
+    [
+     "11-26T00",
+     77
+    ],
+    [
+     "11-26T01",
+     66
     ]
    ]
+  },
+  {
+   "tema": "boca juniors - independiente rivadavia",
+   "error": "RateLimitError: Google rate-limited the Explore data request; stop and back off."
   }
  ]
 }

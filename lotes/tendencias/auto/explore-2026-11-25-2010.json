@@ -1,0 +1,237 @@
+{
+ "fecha": "2026-11-25T20:09-05:00",
+ "geo": "EC",
+ "periodo": "últimos 7 días (por hora)",
+ "temas": [
+  {
+   "tema": "barcelona sc - independiente del valle",
+   "impulso_24h_pct": 8033,
+   "estado": "explosiva",
+   "impulso_3h_pct": 24200,
+   "estado_3h": "explosiva",
+   "pico": {
+    "date": "2026-11-25T23:00:00+00:00",
+    "value": 100,
+    "is_partial": false
+   },
+   "ultimo_valor": 66,
+   "provincias_top": [
+    "Guayas 100",
+    "Galápagos Islands 88",
+    "Los Ríos 85",
+    "Santa Elena 82",
+    "Manabí 70",
+    "El Oro 70",
+    "Pichincha 66",
+    "Sucumbíos 66"
+   ],
+   "el_oro": 70,
+   "busquedas_en_alza": [
+    "boca juniors independiente rivadavia (Breakout)",
+    "barcelona sc vs independiente del valle en vivo (Breakout)",
+    "dónde mirar barcelona sc contra independiente del valle (Breakout)",
+    "estadísticas de barcelona sc contra independiente del valle (Breakout)",
+    "barcelona sc vs independiente del valle donde ver (Breakout)",
+    "barcelona sc vs independiente del valle pronóstico (Breakout)"
+   ],
+   "serie": [
+    [
+     "11-24T02",
+     0
+    ],
+    [
+     "11-24T03",
+     0
+    ],
+    [
+     "11-24T04",
+     0
+    ],
+    [
+     "11-24T05",
+     0
+    ],
+    [
+     "11-24T06",
+     0
+    ],
+    [
+     "11-24T07",
+     0
+    ],
+    [
+     "11-24T08",
+     3
+    ],
+    [
+     "11-24T09",
+     0
+    ],
+    [
+     "11-24T10",
+     0
+    ],
+    [
+     "11-24T11",
+     0
+    ],
+    [
+     "11-24T12",
+     0
+    ],
+    [
+     "11-24T13",
+     0
+    ],
+    [
+     "11-24T14",
+     0
+    ],
+    [
+     "11-24T15",
+     0
+    ],
+    [
+     "11-24T16",
+     0
+    ],
+    [
+     "11-24T17",
+     0
+    ],
+    [
+     "11-24T18",
+     0
+    ],
+    [
+     "11-24T19",
+     0
+    ],
+    [
+     "11-24T20",
+     0
+    ],
+    [
+     "11-24T21",
+     0
+    ],
+    [
+     "11-24T22",
+     0
+    ],
+    [
+     "11-24T23",
+     0
+    ],
+    [
+     "11-25T00",
+     0
+    ],
+    [
+     "11-25T01",
+     0
+    ],
+    [
+     "11-25T02",
+     0
+    ],
+    [
+     "11-25T03",
+     0
+    ],
+    [
+     "11-25T04",
+     0
+    ],
+    [
+     "11-25T05",
+     0
+    ],
+    [
+     "11-25T06",
+     0
+    ],
+    [
+     "11-25T07",
+     0
+    ],
+    [
+     "11-25T08",
+     0
+    ],
+    [
+     "11-25T09",
+     0
+    ],
+    [
+     "11-25T10",
+     0
+    ],
+    [
+     "11-25T11",
+     0
+    ],
+    [
+     "11-25T12",
+     0
+    ],
+    [
+     "11-25T13",
+     0
+    ],
+    [
+     "11-25T14",
+     0
+    ],
+    [
+     "11-25T15",
+     0
+    ],
+    [
+     "11-25T16",
+     0
+    ],
+    [
+     "11-25T17",
+     0
+    ],
+    [
+     "11-25T18",
+     0
+    ],
+    [
+     "11-25T19",
+     0
+    ],
+    [
+     "11-25T20",
+     0
+    ],
+    [
+     "11-25T21",
+     0
+    ],
+    [
+     "11-25T22",
+     1
+    ],
+    [
+     "11-25T23",
+     100
+    ],
+    [
+     "11-26T00",
+     77
+    ],
+    [
+     "11-26T01",
+     66
+    ]
+   ]
+  },
+  {
+   "tema": "boca juniors - independiente rivadavia",
+   "error": "RateLimitError: Google rate-limited the Explore data request; stop and back off."
+  }
+ ]
+}
