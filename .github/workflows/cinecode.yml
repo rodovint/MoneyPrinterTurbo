@@ -27,6 +27,7 @@ jobs:
       - name: Ejecutar tarea
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: bash cinecode/job.sh 2>&1 | tee cinecode-log.txt
       - name: Guardar resultados en la rama cinecode-out
         run: |
