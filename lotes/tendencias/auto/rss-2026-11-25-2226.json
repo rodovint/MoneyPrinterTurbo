@@ -1,0 +1,559 @@
+{
+ "fecha": "2026-11-25T22:25-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "atlético nacional - medellín",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ver Nacional vs. Medellín en Fútbol Libre, Roja Directa Xuper TV: la búsqueda gratuita que puede comprometer tus dispositivos (Infobae)",
+     "James y Juanfer, frente a frente: ¿qué se puede esperar del primer duelo entre los dos en el clásico? (ESPN Ecuador)"
+    ]
+   },
+   {
+    "tema": "toluca - atlas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Toluca recibe al Atlas en la Ida de Cuartos de Final de la Liga MX (Sistema Mexiquense)",
+     "La increíble toma a nivel de cancha del infernal golazo de Helinho al Atlas (AS México)"
+    ]
+   },
+   {
+    "tema": "posiciones de atlético mineiro contra corinthians",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T17:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Atlético Mineiro vs Corinthians: Brazilian Serie A stats & head-to-head (BBC)",
+     "Atletico MG v Corinthians Odds (FanDuel Sportsbook)"
+    ]
+   },
+   {
+    "tema": "reina de quito 2026",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Elección Reina de Quito 2026 en vivo | Siga el minuto a minuto de la gala en el Teatro Bolívar (Primicias)",
+     "Rafaela Loaiza es la nueva Reina de San Francisco de Quito 2026-2027 (El Comercio)"
+    ]
+   },
+   {
+    "tema": "campeonato ecuatoriano 2026",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Casi adios al 2026 futbolero Jueces confirmados para la Fecha 8 de los hexagonales en LigaPro (futbolecuador.com)",
+     "Así se jugará la fecha 8 de los hexagonales principal y de descenso de la Liga Ecuabet en fin de semana de elecciones seccionales 2026 (El Universo)"
+    ]
+   },
+   {
+    "tema": "campeonato ecuatoriano",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Tras ser campeón con Independiente del Valle: Joaquín Papa definió su futuro para 2027 (Bolavip)",
+     "¡EN VIVO! Barcelona vs. Independiente del Valle por el partido diferido de la LigaPro (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "liga pro 2026",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T16:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "El desplome de Manta y Delfín: crisis económica, conflictos dirigenciales y el abandono en las gradas golpean al fútbol de Manabí (Primicias)",
+     "Cuatro clubes luchan por no descender (El Mercurio)"
+    ]
+   },
+   {
+    "tema": "prisión",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Raheem Sterling evita la cárcel por conducir de forma peligrosa (ESPN Deportes)",
+     "El fallo que evita la cárcel a Raheem Sterling tras el accidente de su Lamborghini en autopista (El Diario Ecuador)"
+    ]
+   },
+   {
+    "tema": "primera división",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T16:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los goleadores que faltaban (Diario AS)",
+     "¡Golazo de Julián Álvarez! la Araña marcó de tiro libre para el Atlético ante Viking (ESPN Ecuador)"
+    ]
+   },
+   {
+    "tema": "boca juniors - independiente rivadavia",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-25T15:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Boca continúa de racha, venció a Independiente Riv. y se medirá con Gimnasia (LP) en cuartos: reviví lo mejor (TyC Sports)",
+     "Boca es imparable: dos golazos y a cuartos del Clausura (Olé)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "okc",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-25T19:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Live: Wolves in tight battle against Thunder in first road game in ages (Star Tribune)",
+     "How to Watch Wolves vs. Thunder for Free: TV Channels, Live Stream Options (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "lamelo ball",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards (ESPN)",
+     "Timberwolves and LaMelo Impress Despite Anthony Edwards' Injury Stream of National Basketball Association (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "greta gerwig",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "A Movie to Save Thanksgiving – Titus Techera (Law & Liberty)"
+    ]
+   },
+   {
+    "tema": "lamelo ball injury",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LaMelo Ball injury update: Timberwolves guard limps off vs Thunder in NBA Cup (Yahoo Sports)",
+     "LaMelo Ball suffers ugly ankle injury late in Wolves’ NBA Cup win over Thunder (Bring Me The News)"
+    ]
+   },
+   {
+    "tema": "nhl schedule",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NHL On Tap: 14-game feast hits table leading into Thanksgiving (NHL.com)",
+     "NHL Tonight: What to watch in Wednesday's massive 14-game schedule (ESPN)"
+    ]
+   },
+   {
+    "tema": "oj simpson",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "knicks standings",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Knicks assistant coach Chris Jent returns to team (ESPN)",
+     "Lead assistant Chris Jent is back on the Knicks … (HoopsHype)"
+    ]
+   },
+   {
+    "tema": "wolves",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "T-Wolves' Donte DiVincenzo cleared for basketball activity, 7 months after rupturing his Achilles (Yahoo Sports)",
+     "Donte DiVincenzo eyes January return from torn Achilles after being cleared to practice: Sources (The New York Times)"
+    ]
+   },
+   {
+    "tema": "bob iger",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives (The New York Times)",
+     "The Friendship Breakup That Led to Bob Iger’s Biggest Boardroom Fight (WSJ)"
+    ]
+   },
+   {
+    "tema": "bono",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Gobierno de Perú prevé entregar bonos de setenta dólares a damnificados por El Niño (Yahoo)",
+     "Viceministro Jesús Barrientos detalla entrega de bono a pescadores artesanales ante El Niño (Infobae)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "últimas encuestas elecciones generales",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas? | Elecciones generales | España (EL PAÍS)",
+     "El 'tracking' final del 29-N: PP y Vox entran en los últimos días de campaña con una mayoría asentada entre 182 y 193 diputados (El Mundo)"
+    ]
+   },
+   {
+    "tema": "comprobar bonoloto hoy",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-25T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Comprobar Bonoloto de hoy martes 24 de noviembre de 2026 (La Vanguardia)",
+     "Bonoloto: comprobar sorteo del martes 24 de noviembre (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "atlético nacional - medellín",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-25T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nacional - Medellín en vivo online: Cuadrangulares de la Liga BetPlay, en directo (AS Colombia)",
+     "James y Juanfer, frente a frente: ¿qué se puede esperar del primer duelo entre los dos en el clásico? (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "thunder - timberwolves",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Thunder - Timberwolves LIVE. NBA latest updates (MARCA)",
+     "NBA: Minnesota Timberwolves at Oklahoma City Thunder (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "combustible",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T17:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un camión cargado de bombonas de gas explota en El Cairo y causa 30 muertos y 15 heridos (El Mundo)",
+     "Al menos 31 muertos por la explosión de un camión cisterna cerca de El Cairo (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "william levy",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T17:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "William Levy presenta a su hija Kailey: \"Claro que me da vergüenza ver a mi padre morreándose en pantalla. ¡Es que es mi papá!\" (El Mundo)",
+     "Hablamos con Kailey Levy tras debutar con su padre en el cine: \"Siempre ha sido mi mejor amigo pero ahora es mucho más que eso\" (El Economista)"
+    ]
+   },
+   {
+    "tema": "barcelona sc - independiente del valle",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Barcelona - Independiente del Valle | Pronóstico y cuotas 26.11.2026 (Diario AS)",
+     "(VIDEO) Joaquín Papa habló del pasillo de Barcelona a IDV: “No esperamos nada” (OneFootball)"
+    ]
+   },
+   {
+    "tema": "hornets - bulls",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T16:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bulls Face Hornets in Final NBA Cup Group Game (www.suaralandak.co.id)",
+     "Bulls Hornets Basketball (Corsicana Daily Sun)"
+    ]
+   },
+   {
+    "tema": "jaylen brown",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T16:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic (ESPN)",
+     "Sixers upgrade Brown, Wade and Bona to probable vs. Blazers (NBC10 Philadelphia)"
+    ]
+   },
+   {
+    "tema": "wall street",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates (CNBC)",
+     "US stocks close lower in volatile session as AI trade remains under pressure (Financial Times)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "viento",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hay alerta amarilla por tormentas y vientos fuertes para este miércoles 25 de noviembre: las provincias afectadas (La Nación)",
+     "De las tormentas severas y los intensos vientos a un calor que se irá potenciando fuertemente en Argentina esta semana (Meteored Argentina)"
+    ]
+   },
+   {
+    "tema": "monterrey - américa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Monterrey vs América: posibles alineaciones y probabilidades (ESPN Argentina)",
+     "León vs. Cruz Azul, EN VIVO: dónde ver por TV y ONLINE (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "trail blazers - spurs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Victor Wembanyama final injury status for Spurs vs Blazers revealed (BasketNews.com)",
+     "Spurs-Trail Blazers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026 (Lineups)"
+    ]
+   },
+   {
+    "tema": "division palermo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "MShow del miércoles 25 de noviembre de 2026 (Ciudad Magazine)",
+     "Los mejores looks de la alfombra roja de los 54º Premios Emmy Internacionales 2026 en Nueva York (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "warriors - kings",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Warriors vs. Kings injury report: Yaxel Lendeborg and Brandon Williams both questionable (Golden State Of Mind)",
+     "NBA Moneyline Parlay Picks: Our +299 Prediction for Wednesday, November 25 (Action Network)"
+    ]
+   },
+   {
+    "tema": "rockets - suns",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA Prop Bet for Miles Bridges on Wednesday, November 25 (Action Network)",
+     "Game Preview: Surging Suns look to stuff Rockets on Thanksgiving Eve (Bright Side Of The Sun)"
+    ]
+   },
+   {
+    "tema": "bancor",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bancor presentó su nueva línea de créditos hipotecarios para comprar o construir vivienda única (Prensa Cba)",
+     "Bancor lanzó créditos hipotecarios para compra y construcción: en UVA a 20 años con tasa desde 7,5% (La Voz del Interior)"
+    ]
+   },
+   {
+    "tema": "ola de calor",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "De 5 °C a 37 °C en pocos días: el cambio brusco de temperatura que se viene en la región pampeana (Agrofy News)",
+     "A qué hora llega el tormentón de hielo que apagará la ola de calor y bajará 16 grados la temperatura (MinutoUno)"
+    ]
+   },
+   {
+    "tema": "carlos melconian",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Carlos Melconian: “Lo que dice Caputo no sirve más; la recesión es incapacidad e impericia” (Infobae)",
+     "Reality Show: el casting del poder (Diario Mendoza Today)"
+    ]
+   },
+   {
+    "tema": "sorteo quini 6",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un afortunado santafesino ganó más de $1.100 millones en el Quini 6 (El Litoral)",
+     "Quini 6: resultados y los números ganadores del sorteo 3.429 del miércoles 25 de noviembre (La Voz del Interior)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "deportes",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T19:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿Por qué se va el Turco Mohamed? Los DOS motivos de Toluca para anunciar su salida previo a la Liguilla (Mediotiempo)",
+     "Este es el técnico que se perfila para suceder a Mohamed en Toluca (TUDN)"
+    ]
+   },
+   {
+    "tema": "jorge rodríguez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Licensable video: Venezuelan government and opposition conclude fourth round of talks (Reuters Connect)",
+     "Venezuela Transition Advances, But Election Date Remains Open (Legis1)"
+    ]
+   },
+   {
+    "tema": "jaden mcdaniels",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T19:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Minnesota Timberwolves Earn the Win (NBA.com)",
+     "Finch Backs McDaniels for All Star Selection After Career Night (Demokratis.co.id)"
+    ]
+   },
+   {
+    "tema": "weather tomorrow",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Drivers hit Kentucky roads early ahead of Thanksgiving rain (WKYT)",
+     "FIRST ALERT WEATHER DAY: A messy Turkey Day ahead (WYMT)"
+    ]
+   },
+   {
+    "tema": "luis cárdenas",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Van Rayados sin Rossi y con 'Corcho' de central (El Norte)",
+     "¡Va el Mochis! Esteban Andrada se pierde la Liguilla con Rayados; será operado de la rodilla (Mediotiempo)"
+    ]
+   },
+   {
+    "tema": "u2 torn",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dolly Parton’s Final Recording on U2’s ‘Torn’ Marks Chart Milestones for Both Acts (Billboard)",
+     "Inside Dolly Parton’s final song with Bono: What to know about ‘Torn’ lyrics on U2's new album (Yahoo)"
+    ]
+   },
+   {
+    "tema": "liga mz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles? (ESPN)",
+     "Why does Estadio Hidalgo bring out the best in the Rebaño Sagrado? Find out HERE (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "mexico - queretaro",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-25T19:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Avanza plan de medidas para evitar que Cedis colapsen tránsito en autopistas al norte del Valle de México (La Jornada)",
+     "C. Izcalli amaga con clausurar centros logísticos (El Universal)"
+    ]
+   },
+   {
+    "tema": "tiempo mañana",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "bono",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-25T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sofomes elevan monto de bono conjunto (El Economista)",
+     "Industrial Bank amortiza un bono de capital de nivel 2 de 40.000 millones CNY (MarketScreener España)"
+    ]
+   }
+  ]
+ }
+}
