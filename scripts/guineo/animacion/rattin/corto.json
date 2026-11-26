@@ -5,57 +5,57 @@
  "ambiente": "hinchada",
  "tramos": [
   [
-   1.28,
-   5.35
+   1.05,
+   4.85
   ],
   [
-   6.58,
-   13.7
+   5.65,
+   11.1
   ],
   [
-   14.08,
-   18.42
+   11.6,
+   17.35
   ],
   [
-   18.96,
-   22.6
+   17.95,
+   21.55
   ],
   [
-   23.08,
-   26.85
+   22.3,
+   25.8
   ],
   [
-   27.28,
-   30.0
+   26.4,
+   28.75
   ],
   [
-   30.6,
-   36.15
+   29.3,
+   34.95
   ],
   [
-   37.38,
-   41.65
+   36.2,
+   40.55
   ],
   [
-   41.94,
-   46.95
+   41.75,
+   46.6
   ],
   [
-   48.86,
-   53.7
+   47.85,
+   52.62
   ],
   [
-   53.8,
-   59.35
+   53.25,
+   58.2
   ]
  ],
  "silencios": {
-  "46.95": 1.3,
-  "53.7": 0.5
+  "46.6": 1.3,
+  "52.62": 0.5
  },
  "escenas": [
   {
-   "t": 1.28,
+   "t": 1.05,
    "img": "lotes/img/rattin/alfombra.png",
    "depth": "lotes/img/rattin/depth/alfombra.png",
    "mov": "zoom_in",
@@ -66,7 +66,7 @@
    "video": "lotes/img/rattin/video/alfombra.mp4"
   },
   {
-   "t": 6.58,
+   "t": 5.65,
    "img": "lotes/img/rattin/wembley.png",
    "depth": "lotes/img/rattin/depth/wembley.png",
    "mov": "zoom_in",
@@ -76,7 +76,7 @@
    ]
   },
   {
-   "t": 12.5,
+   "t": 11.6,
    "img": "lotes/img/rattin/discusion.png",
    "depth": "lotes/img/rattin/depth/discusion.png",
    "mov": "pan_der",
@@ -86,7 +86,7 @@
    "video": "lotes/img/rattin/video/discusion.mp4"
   },
   {
-   "t": 18.96,
+   "t": 17.95,
    "img": "lotes/img/rattin/expulsion.png",
    "depth": "lotes/img/rattin/depth/expulsion.png",
    "mov": "zoom_in",
@@ -98,7 +98,7 @@
    "video": "lotes/img/rattin/video/expulsion.mp4"
   },
   {
-   "t": 23.08,
+   "t": 22.3,
    "img": "lotes/img/rattin/discusion.png",
    "depth": "lotes/img/rattin/depth/discusion.png",
    "mov": "zoom_out",
@@ -108,7 +108,7 @@
    ]
   },
   {
-   "t": 27.28,
+   "t": 26.4,
    "img": "lotes/img/rattin/wembley.png",
    "depth": "lotes/img/rattin/depth/wembley.png",
    "mov": "pan_izq",
@@ -119,7 +119,7 @@
    ]
   },
   {
-   "t": 30.6,
+   "t": 29.3,
    "img": "lotes/img/rattin/policias.png",
    "depth": "lotes/img/rattin/depth/policias.png",
    "mov": "zoom_in",
@@ -129,7 +129,7 @@
    "video": "lotes/img/rattin/video/policias.mp4"
   },
   {
-   "t": 34.6,
+   "t": 33.4,
    "img": "lotes/img/rattin/alfombra.png",
    "depth": "lotes/img/rattin/depth/alfombra.png",
    "mov": "zoom_in",
@@ -138,7 +138,7 @@
    ]
   },
   {
-   "t": 37.38,
+   "t": 36.2,
    "img": "lotes/img/rattin/banderin.png",
    "depth": "lotes/img/rattin/depth/banderin.png",
    "mov": "sacudon",
@@ -147,7 +147,7 @@
    ]
   },
   {
-   "t": 41.94,
+   "t": 41.75,
    "img": "lotes/img/rattin/semaforo.png",
    "depth": "lotes/img/rattin/depth/semaforo.png",
    "mov": "zoom_in",
@@ -157,7 +157,7 @@
    ]
   },
   {
-   "t": 48.86,
+   "t": 47.85,
    "img": "lotes/img/rattin/tarjetas.png",
    "depth": "lotes/img/rattin/depth/tarjetas.png",
    "mov": "zoom_in",
@@ -167,7 +167,7 @@
    ]
   },
   {
-   "t": 51.45,
+   "t": 51.0,
    "img": "lotes/img/rattin/tarjetas.png",
    "depth": "lotes/img/rattin/depth/tarjetas.png",
    "mov": "zoom_out",
@@ -178,12 +178,12 @@
    ]
   },
   {
-   "t": 53.8,
+   "t": 53.25,
    "img": "lotes/img/rattin/alfombra.png",
    "depth": "lotes/img/rattin/depth/alfombra.png",
    "mov": "zoom_out",
    "titulo": "ANTONIO|RATTÍN",
-   "titulo_en": 54.85,
+   "titulo_en": 54.2,
    "sfx": [
     "redoble"
    ]
@@ -191,68 +191,68 @@
  ],
  "subtitulos": [
   [
-   1.28,
-   5.35,
+   1.05,
+   4.85,
    "A este capitán lo expulsaron en un Mundial… y no se quiso ir."
   ],
   [
-   6.58,
-   10.0,
+   5.65,
+   11.1,
    "Wembley, 1966. Cuartos de final: Inglaterra contra Argentina."
   ],
   [
-   10.0,
-   13.7,
+   11.6,
+   12.85,
    "El árbitro era alemán,"
   ],
   [
-   14.08,
-   18.42,
+   13.1,
+   17.35,
    "el capitán argentino solo hablaba castellano… y nadie se entendía."
   ],
   [
-   18.96,
-   22.6,
+   17.95,
+   21.55,
    "De pronto, el árbitro lo echó. Y él no entendía por qué."
   ],
   [
-   23.08,
-   26.85,
+   22.3,
+   25.8,
    "Pidió un traductor. El partido estuvo parado casi 10 minutos."
   ],
   [
-   27.28,
-   30.0,
+   26.4,
+   28.75,
    "¿Tú te hubieras ido? Te leo."
   ],
   [
-   30.6,
-   36.15,
+   29.3,
+   34.95,
    "Al final salió escoltado por la policía… y dicen que antes se sentó en la alfombra roja de la reina."
   ],
   [
-   37.38,
-   41.65,
+   36.2,
+   40.55,
    "Camino al vestuario, estrujó el banderín del córner con la bandera del Reino Unido."
   ],
   [
-   41.94,
-   46.95,
+   41.75,
+   46.6,
    "Pero en la tribuna, un inglés, Ken Aston, se quedó pensando en un semáforo…"
   ],
   [
-   48.86,
-   51.45,
+   47.85,
+   51.0,
    "Amarilla para advertir, roja para expulsar."
   ],
   [
-   51.45,
-   53.7,
+   51.0,
+   52.62,
    "Así nacieron las tarjetas."
   ],
   [
-   53.8,
-   59.35,
+   53.25,
+   58.2,
    "Y todo por Antonio Rattín, el capitán al que echaron… y no se quiso ir."
   ]
  ],
