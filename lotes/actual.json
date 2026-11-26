@@ -1,105 +1,108 @@
 [
  {
-  "titulo": "Barcelona SC vs Independiente del Valle 1-1: lluvia, roja en el segundo tiempo y penal repetido",
-  "etiqueta": "LIGAPRO · HEXAGONAL",
-  "club": "barcelona",
-  "audio": "audio/51",
+  "titulo": "Remontada épica de Emelec 4-2 a Liga en el Rodrigo Paz Delgado",
+  "etiqueta": "EFEMÉRIDE · EMELEC",
+  "club": "emelec",
+  "audio": "audio/52",
   "franja": [
-   "LLUVIA Y POLÉMICA EN EL MONUMENTAL",
-   "AUTOGOL EN EL PRIMER TIEMPO",
-   "ROJA A MÉNDEZ EN EL SEGUNDO TIEMPO",
-   "PENAL REPETIDO Y EMPATE 1-1"
+   "REMONTADA 4-2 EN EL RODRIGO PAZ",
+   "ANGULO 27' Y GUAGUA 34'",
+   "PRECIADO 56' Y MATAMOROS 58'",
+   "LÍDER CON 42 PUNTOS"
   ],
   "escenas": [
    {
-    "texto": "El partido que ardió en medio de la lluvia, polémica, expulsión y gestos que encendieron toda la noche en el estadio Monumental.",
+    "texto": "Empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
+    "video": "videos/efemeride emelec 1.mp4",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "LLUVIA, POLÉMICA, ROJA Y GESTOS",
-     "sobre": "ESTADIO MONUMENTAL"
+     "texto": "ARRANQUE DURO EN EL RODRIGO PAZ",
+     "sobre": "JORNADA 20 · SEGUNDA ETAPA"
     },
     "hinchada": true
    },
    {
-    "texto": "Un autogol golpeó primero a Barcelona y complicó el arranque de un duelo que ya venía cargado de tensión.",
+    "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Anderson Julio a los seis y autogol de Ramos a los nueve.",
+    "video": "videos/efemeride emelec 2.mp4",
     "movimiento": "paneo_der",
     "grafico": {
      "tipo": "titular",
-     "texto": "GOLPE EN EL PRIMER TIEMPO",
-     "sobre": "AUTOGOL"
+     "texto": "GOLPE ALBO EN NUEVE MINUTOS",
+     "sobre": "JULIO 6' · AUTOGOL RAMOS 9'"
     },
     "transicion": "barrido",
     "tono": "urgente"
    },
    {
-    "texto": "En el segundo tiempo Jhegson Méndez vio la roja, dejó a Independiente con diez y en el video se ve el gesto de robo.",
-    "dicho": "En el segundo tiempo Yegson Méndez vio la roja, dejó a Independiente con diez y en el video se ve el gesto de robo.",
-    "video": "videos/GestoM.mp4",
+    "texto": "El Cuco Angulo descontó a los veintisiete con un derechazo al ángulo y Guagua puso el dos a dos a los treinta y cuatro.",
+    "video": "videos/efemeride emelec 3.mp4",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "ROJA EN EL SEGUNDO TIEMPO",
-     "sobre": "JHEGSON MÉNDEZ"
+     "texto": "REACCIÓN AZUL: EMPATE 2-2",
+     "sobre": "ANGULO 27' · GUAGUA 34'"
     },
-    "transicion": "glitch",
-    "suspenso": true,
-    "tono": "urgente"
+    "transicion": "zoom",
+    "tono": "recuerdo"
    },
    {
-    "texto": "¿A ti te pareció bien repetido el penal? Te leo, y sigue a Guineo.",
+    "texto": "En el complemento Emelec fue una tromba y en dos minutos lo dio vuelta con cabezazos de Ayrton Preciado a los cincuenta y seis y Matamoros a los cincuenta y ocho.",
+    "video": "videos/efemeride emelec 4.mp4",
     "movimiento": "paneo_izq",
     "grafico": {
      "tipo": "titular",
-     "texto": "¿BIEN REPETIDO EL PENAL?",
-     "sobre": "TU OPINIÓN"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Quintana atajó el cobro de Quiñónez, el VAR mandó a repetir por adelantamiento y llegó el uno a uno definitivo.",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "marcador",
-     "equipos": [
-      {
-       "nombre": "BARCELONA SC",
-       "color": "#FFD100",
-       "escudo": "img/escudos/barcelona.png",
-       "goles": 1
-      },
-      {
-       "nombre": "IND. DEL VALLE",
-       "color": "#0033A0",
-       "escudo": "img/escudos/idv.png",
-       "goles": 1
-      }
-     ],
-     "pie": "PENAL REPETIDO · QUIÑÓNEZ"
+     "texto": "RÁFAGA EN DOS MINUTOS: 4-2",
+     "sobre": "PRECIADO 56' · MATAMOROS 58'"
     },
     "transicion": "flash",
     "destello": true,
     "tono": "celebracion"
    },
    {
-    "texto": "Así quedó marcada esa noche, cuando el partido ardió en medio de la lluvia, polémica, expulsión y gestos que encendieron toda la noche en el estadio Monumental.",
+    "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo.",
+    "video": "videos/efemeride emelec 2.mp4",
     "movimiento": "zoom_out",
     "grafico": {
-     "tipo": "partido",
-     "equipos": [
-      {
-       "nombre": "BARCELONA SC",
-       "color": "#FFD100",
-       "escudo": "img/escudos/barcelona.png"
-      },
-      {
-       "nombre": "IND. DEL VALLE",
-       "color": "#0033A0",
-       "escudo": "img/escudos/idv.png"
-      }
-     ],
-     "hora": "1-1",
-     "pie": "NOCHE EN EL MONUMENTAL"
+     "tipo": "titular",
+     "texto": "¿DÓNDE SE QUEBRÓ EL JUEGO?",
+     "sobre": "TU OPINIÓN"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
+    "video": "videos/efemeride emelec 3.mp4",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "escudo",
+     "escudo": "img/escudos/emelec.png",
+     "texto": "FIN A LA RACHA DESDE 2013",
+     "sobre": "CONTROL DE ARIAS Y QUIÑÓNEZ"
+    },
+    "transicion": "barrido",
+    "tono": "celebracion"
+   },
+   {
+    "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
+    "video": "videos/efemeride emelec 4.mp4",
+    "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "LÍDER CON 42 PUNTOS",
+     "sobre": "A UN PASO DE LA FINAL"
+    },
+    "transicion": "zoom",
+    "suspenso": true
+   },
+   {
+    "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
+    "video": "videos/efemeride emelec 1.mp4",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "TARDE ÉPICA EN PONCIANO",
+     "sobre": "GUINEO COMUNICACIONES"
     },
     "transicion": "rota"
    }
