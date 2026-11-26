@@ -1,14 +1,14 @@
 [
  {
-  "titulo": "Remontada épica de Emelec 4-2 a Liga en el Rodrigo Paz Delgado",
+  "titulo": "Remontada de Emelec 4-2 a Liga: foco en el 2-3 de Preciado y 2-4 de Matamoros",
   "etiqueta": "EFEMÉRIDE · EMELEC",
   "club": "emelec",
   "audio": "audio/52",
   "franja": [
-   "REMONTADA 4-2 EN EL RODRIGO PAZ",
-   "ANGULO 27' Y GUAGUA 34'",
-   "PRECIADO 56' Y MATAMOROS 58'",
-   "LÍDER CON 42 PUNTOS"
+   "GOL 2-3: CABEZAZO DE PRECIADO (56')",
+   "GOL 2-4: CABEZAZO DE MATAMOROS (58')",
+   "EMPATE 2-2: ANGULO (27') Y GUAGUA (34')",
+   "FIN A LA RACHA DESDE 2013"
   ],
   "escenas": [
    {
@@ -17,24 +17,29 @@
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "ARRANQUE DURO EN EL RODRIGO PAZ",
+     "texto": "ARRANQUE DURO EN PONCIANO",
      "sobre": "JORNADA 20 · SEGUNDA ETAPA"
     },
     "hinchada": true
    },
    {
-    "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Anderson Julio a los seis y autogol de Ramos a los nueve.",
+    "texto": "En apenas nueve minutos Liga golpeó dos veces con el sombrerito de Anderson Julio a los seis y el autogol de Ramos a los nueve.",
     "movimiento": "paneo_der",
     "grafico": {
      "tipo": "retro",
      "titulo": "GOLPE ALBO EN NUEVE MINUTOS",
+     "estilo": "pixel",
+     "tribuna": "blanca_mancha_azul_10000",
      "local": {
       "nombre": "LDU",
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "tribuna_color": "#FFFFFF"
      },
      "rival": {
       "nombre": "EMELEC",
-      "color": "#0B4EA2"
+      "color": "#0B4EA2",
+      "hinchada_color": "#0B4EA2",
+      "hinchada_aprox": 10000
      },
      "jugadores": [
       {
@@ -79,13 +84,13 @@
        },
        "balon": [48, 8],
        "flecha": "pase",
-       "texto": "CENTRO Y DESPEJE"
+       "texto": "DESPEJE Y AUTOGOL"
       },
       {
        "balon": [50, -2],
        "flecha": "tiro",
        "gol": true,
-       "texto": "GOL DE LIGA"
+       "texto": "MARCADOR 2-0"
       }
      ],
      "marcador": {
@@ -104,7 +109,8 @@
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "tv",
-     "titulo": "REACCIÓN AZUL: EMPATE 2-2",
+     "titulo": "EMPATE 2-2: ANGULO Y GUAGUA",
+     "foco": "goles_azules",
      "local": {
       "nombre": "EMELEC",
       "color": "#0B4EA2"
@@ -148,7 +154,7 @@
        },
        "balon": [38, 22],
        "flecha": "conduccion",
-       "texto": "DIAGONAL DE ANGULO"
+       "texto": "GOL DE ANGULO 27'"
       },
       {
        "mover": {
@@ -162,7 +168,7 @@
        "balon": [52, -2],
        "flecha": "tiro",
        "gol": true,
-       "texto": "EMPATE 2-2"
+       "texto": "GOL DE GUAGUA 34'"
       }
      ],
      "marcador": {
@@ -177,11 +183,12 @@
     "tono": "recuerdo"
    },
    {
-    "texto": "En el complemento Emelec fue una tromba y en dos minutos lo dio vuelta con cabezazos de Ayrton Preciado a los cincuenta y seis y Matamoros a los cincuenta y ocho.",
+    "texto": "En el complemento Ayrton Preciado clavó el cabezazo del dos a tres a los cincuenta y seis y encendió la locura eléctrica.",
     "movimiento": "paneo_izq",
     "grafico": {
      "tipo": "tv",
-     "titulo": "RÁFAGA EN DOS MINUTOS: 4-2",
+     "titulo": "GOL 2-3: CABEZAZO DE PRECIADO",
+     "foco": "gol_2_3_preciado",
      "local": {
       "nombre": "EMELEC",
       "color": "#0B4EA2"
@@ -224,28 +231,118 @@
         "23": [32, 18]
        },
        "balon": [32, 18],
-       "flecha": "conduccion",
-       "texto": "PELOTA QUIETA"
+       "flecha": "pase",
+       "texto": "ENVÍO AL ÁREA"
       },
       {
        "mover": {
         "7": [49, 8]
        },
        "balon": [49, 8],
-       "flecha": "pase",
-       "texto": "CABEZAZO DE PRECIADO"
+       "flecha": "conduccion",
+       "texto": "SALTO DE PRECIADO"
       },
       {
        "balon": [48, -2],
        "flecha": "tiro",
        "gol": true,
-       "texto": "REMONTADA 4-2"
+       "texto": "GOL 2-3 (56')"
       }
      ],
      "marcador": {
       "local": "LDU",
       "rival": "EME",
       "antes": [2, 2],
+      "despues": [2, 3],
+      "minuto": "56'"
+     }
+    },
+    "transicion": "flash",
+    "destello": true,
+    "tono": "celebracion"
+   },
+   {
+    "texto": "¿Para ti dónde se quebró el partido: en el dos a tres de Preciado o en el dos a cuatro de Matamoros? Te leo, y sigue a Guineo.",
+    "video": "videos/Efemeride emelec 2.mp4",
+    "movimiento": "zoom_out",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿2-3 DE PRECIADO O 2-4 DE MATAMOROS?",
+     "sobre": "TU OPINIÓN"
+    },
+    "transicion": "glitch"
+   },
+   {
+    "texto": "Dos minutos después, a los cincuenta y ocho, Hólger Matamoros metió el cabezazo del dos a cuatro que selló la remontada.",
+    "movimiento": "zoom_in",
+    "grafico": {
+     "tipo": "tv",
+     "titulo": "GOL 2-4: CABEZAZO DE MATAMOROS",
+     "foco": "gol_2_4_matamoros",
+     "local": {
+      "nombre": "EMELEC",
+      "color": "#0B4EA2"
+     },
+     "rival": {
+      "nombre": "LDU",
+      "color": "#FFFFFF"
+     },
+     "jugadores": [
+      {
+       "id": "11",
+       "equipo": "local",
+       "x": 22,
+       "y": 24
+      },
+      {
+       "id": "23",
+       "equipo": "local",
+       "x": 51,
+       "y": 12
+      },
+      {
+       "id": "4",
+       "equipo": "rival",
+       "x": 45,
+       "y": 16
+      },
+      {
+       "id": "1",
+       "equipo": "rival",
+       "x": 50,
+       "y": 4,
+       "arquero": true
+      }
+     ],
+     "balon": "11",
+     "pasos": [
+      {
+       "mover": {
+        "11": [30, 15]
+       },
+       "balon": [30, 15],
+       "flecha": "pase",
+       "texto": "CENTRO DE BURBANO"
+      },
+      {
+       "mover": {
+        "23": [50, 6]
+       },
+       "balon": [50, 6],
+       "flecha": "conduccion",
+       "texto": "TESTARAZO DE MATAMOROS"
+      },
+      {
+       "balon": [50, -2],
+       "flecha": "tiro",
+       "gol": true,
+       "texto": "GOL 2-4 (58')"
+      }
+     ],
+     "marcador": {
+      "local": "LDU",
+      "rival": "EME",
+      "antes": [2, 3],
       "despues": [2, 4],
       "minuto": "58'"
      }
@@ -255,37 +352,14 @@
     "tono": "celebracion"
    },
    {
-    "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo.",
-    "video": "videos/Efemeride emelec 2.mp4",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿DÓNDE SE QUEBRÓ EL JUEGO?",
-     "sobre": "TU OPINIÓN"
-    },
-    "transicion": "glitch"
-   },
-   {
-    "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
+    "texto": "Con la ventaja en el bolsillo, Arias movió el banco y Emelec cortó una racha sin ganar ahí desde dos mil trece.",
     "video": "videos/Efemeride emelec 3.mp4",
     "movimiento": "paneo_der",
     "grafico": {
      "tipo": "escudo",
      "escudo": "img/escudos/emelec.png",
      "texto": "FIN A LA RACHA DESDE 2013",
-     "sobre": "CONTROL DE ARIAS Y QUIÑÓNEZ"
-    },
-    "transicion": "barrido",
-    "tono": "celebracion"
-   },
-   {
-    "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
-    "video": "videos/Efemeride emelec 4.mp4",
-    "movimiento": "zoom_in",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "LÍDER CON 42 PUNTOS",
-     "sobre": "A UN PASO DE LA FINAL"
+     "sobre": "CONTROL DE ARIAS"
     },
     "transicion": "glitch",
     "suspenso": true,
@@ -293,11 +367,11 @@
    },
    {
     "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-    "video": "videos/Efemeride Emelec 1.mp4",
+    "video": "videos/Efemeride emelec 4.mp4",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "TARDE ÉPICA EN PONCIANO",
+     "texto": "REMONTADA 4-2 EN QUITO",
      "sobre": "GUINEO COMUNICACIONES"
     },
     "transicion": "rota",
