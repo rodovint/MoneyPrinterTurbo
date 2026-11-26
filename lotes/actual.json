@@ -1,29 +1,28 @@
 [
  {
-  "titulo": "Barcelona SC vs Independiente del Valle 1-1: penal repetido y expulsión de Jhegson Méndez",
+  "titulo": "Barcelona SC vs Independiente del Valle 1-1: lluvia, roja en el segundo tiempo y penal repetido",
   "etiqueta": "LIGAPRO · HEXAGONAL",
   "club": "barcelona",
-  "audio": "audio/50",
+  "audio": "audio/51",
   "franja": [
-   "LLUVIA RETRASA EL ARRANQUE EN GUAYAQUIL",
+   "LLUVIA Y POLÉMICA EN EL MONUMENTAL",
    "AUTOGOL EN EL PRIMER TIEMPO",
-   "ROJA A JHEGSON MÉNDEZ",
-   "PENAL REPETIDO POR VAR"
+   "ROJA A MÉNDEZ EN EL SEGUNDO TIEMPO",
+   "PENAL REPETIDO Y EMPATE 1-1"
   ],
   "escenas": [
    {
-    "texto": "La lluvia retrasó el arranque en el Monumental y el partido se puso al rojo vivo.",
+    "texto": "El partido que ardió en medio de la lluvia, polémica, expulsión y gestos que encendieron toda la noche en el estadio Monumental.",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "escudo",
-     "escudo": "img/escudos/barcelona.png",
-     "texto": "LLUVIA Y TENSIÓN EN GUAYAQUIL",
-     "sobre": "BARCELONA VS. IDV"
+     "tipo": "titular",
+     "texto": "LLUVIA, POLÉMICA, ROJA Y GESTOS",
+     "sobre": "ESTADIO MONUMENTAL"
     },
     "hinchada": true
    },
    {
-    "texto": "Un autogol golpeó primero a Barcelona y complicó la noche del Ídolo.",
+    "texto": "Un autogol golpeó primero a Barcelona y complicó el arranque de un duelo que ya venía cargado de tensión.",
     "movimiento": "paneo_der",
     "grafico": {
      "tipo": "titular",
@@ -34,17 +33,18 @@
     "tono": "urgente"
    },
    {
-    "texto": "En el segundo tiempo Independiente se quedó con diez por la roja a Jhegson Méndez.",
-    "dicho": "En el segundo tiempo Independiente se quedó con diez por la roja a Yegson Méndez.",
+    "texto": "En el segundo tiempo Jhegson Méndez vio la roja, dejó a Independiente con diez y en el video se ve el gesto de robo.",
+    "dicho": "En el segundo tiempo Yegson Méndez vio la roja, dejó a Independiente con diez y en el video se ve el gesto de robo.",
     "video": "videos/GestoM.mp4",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "ROJA A JHEGSON MÉNDEZ",
-     "sobre": "IDV CON DIEZ"
+     "texto": "ROJA EN EL SEGUNDO TIEMPO",
+     "sobre": "JHEGSON MÉNDEZ"
     },
     "transicion": "glitch",
-    "suspenso": true
+    "suspenso": true,
+    "tono": "urgente"
    },
    {
     "texto": "¿A ti te pareció bien repetido el penal? Te leo, y sigue a Guineo.",
@@ -57,7 +57,7 @@
     "transicion": "zoom"
    },
    {
-    "texto": "Quintana atajó el cobro de Quiñónez, el VAR mandó a repetir por adelantamiento y llegó el uno a uno.",
+    "texto": "Quintana atajó el cobro de Quiñónez, el VAR mandó a repetir por adelantamiento y llegó el uno a uno definitivo.",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "marcador",
@@ -82,13 +82,24 @@
     "tono": "celebracion"
    },
    {
-    "texto": "Así de caliente se puso la noche en Guayaquil, cuando la lluvia retrasó el arranque en el Monumental.",
+    "texto": "Así quedó marcada esa noche, cuando el partido ardió en medio de la lluvia, polémica, expulsión y gestos que encendieron toda la noche en el estadio Monumental.",
     "movimiento": "zoom_out",
     "grafico": {
-     "tipo": "escudo",
-     "escudo": "img/escudos/idv.png",
-     "texto": "EMPATE 1-1 EN EL MONUMENTAL",
-     "sobre": "CIERRE DE NOCHE"
+     "tipo": "partido",
+     "equipos": [
+      {
+       "nombre": "BARCELONA SC",
+       "color": "#FFD100",
+       "escudo": "img/escudos/barcelona.png"
+      },
+      {
+       "nombre": "IND. DEL VALLE",
+       "color": "#0033A0",
+       "escudo": "img/escudos/idv.png"
+      }
+     ],
+     "hora": "1-1",
+     "pie": "NOCHE EN EL MONUMENTAL"
     },
     "transicion": "rota"
    }
