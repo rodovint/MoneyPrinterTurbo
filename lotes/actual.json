@@ -3,7 +3,7 @@
   "titulo": "Remontada épica de Emelec 4-2 a Liga en el Rodrigo Paz Delgado",
   "etiqueta": "EFEMÉRIDE · EMELEC",
   "club": "emelec",
-  "audio": "audio/50",
+  "audio": "audio/52",
   "franja": [
    "REMONTADA 4-2 EN EL RODRIGO PAZ",
    "ANGULO 27' Y GUAGUA 34'",
@@ -13,7 +13,7 @@
   "escenas": [
    {
     "texto": "Empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-    "video": "videos/efemeride emelec 1.mp4",
+    "video": "videos/Efemeride Emelec 1.mp4",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
@@ -256,7 +256,7 @@
    },
    {
     "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo.",
-    "video": "videos/efemeride emelec 2.mp4",
+    "video": "videos/Efemeride emelec 2.mp4",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
@@ -267,8 +267,8 @@
    },
    {
     "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
-    "video": "videos/efemeride emelec 3.mp4",
-    "movimiento": "zoom_in",
+    "video": "videos/Efemeride emelec 3.mp4",
+    "movimiento": "paneo_der",
     "grafico": {
      "tipo": "escudo",
      "escudo": "img/escudos/emelec.png",
@@ -280,26 +280,29 @@
    },
    {
     "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
-    "video": "videos/efemeride emelec 4.mp4",
-    "movimiento": "paneo_der",
+    "video": "videos/Efemeride emelec 4.mp4",
+    "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
      "texto": "LÍDER CON 42 PUNTOS",
      "sobre": "A UN PASO DE LA FINAL"
     },
-    "transicion": "zoom",
-    "suspenso": true
+    "transicion": "glitch",
+    "suspenso": true,
+    "tono": "urgente"
    },
    {
     "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-    "video": "videos/efemeride emelec 1.mp4",
+    "video": "videos/Efemeride Emelec 1.mp4",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
      "texto": "TARDE ÉPICA EN PONCIANO",
      "sobre": "GUINEO COMUNICACIONES"
     },
-    "transicion": "rota"
+    "transicion": "rota",
+    "destello": true,
+    "tono": "celebracion"
    }
   ]
  }
