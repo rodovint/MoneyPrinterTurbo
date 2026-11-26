@@ -1,0 +1,263 @@
+{
+ "voz": "lotes/audio/rattin.m4a",
+ "color": "#75AADB",
+ "lluvia": false,
+ "ambiente": "hinchada",
+ "tramos": [
+  [
+   1.28,
+   5.35
+  ],
+  [
+   6.58,
+   13.7
+  ],
+  [
+   14.08,
+   18.42
+  ],
+  [
+   18.96,
+   22.6
+  ],
+  [
+   23.08,
+   26.85
+  ],
+  [
+   27.28,
+   30.0
+  ],
+  [
+   30.6,
+   36.15
+  ],
+  [
+   37.38,
+   41.65
+  ],
+  [
+   41.94,
+   46.95
+  ],
+  [
+   48.86,
+   53.7
+  ],
+  [
+   53.8,
+   59.35
+  ]
+ ],
+ "silencios": {
+  "46.95": 1.3,
+  "53.7": 0.5
+ },
+ "escenas": [
+  {
+   "t": 1.28,
+   "img": "lotes/img/rattin/alfombra.png",
+   "depth": "lotes/img/rattin/depth/alfombra.png",
+   "mov": "zoom_in",
+   "texto": "LO ECHARON… Y NO SE FUE",
+   "sfx": [
+    "golpe"
+   ],
+   "video": "lotes/img/rattin/video/alfombra.mp4"
+  },
+  {
+   "t": 6.58,
+   "img": "lotes/img/rattin/wembley.png",
+   "depth": "lotes/img/rattin/depth/wembley.png",
+   "mov": "zoom_in",
+   "texto": "WEMBLEY · 1966",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 12.5,
+   "img": "lotes/img/rattin/discusion.png",
+   "depth": "lotes/img/rattin/depth/discusion.png",
+   "mov": "pan_der",
+   "sfx": [
+    "silbato"
+   ],
+   "video": "lotes/img/rattin/video/discusion.mp4"
+  },
+  {
+   "t": 18.96,
+   "img": "lotes/img/rattin/expulsion.png",
+   "depth": "lotes/img/rattin/depth/expulsion.png",
+   "mov": "zoom_in",
+   "efecto": "flash",
+   "sfx": [
+    "silbato",
+    "golpe"
+   ],
+   "video": "lotes/img/rattin/video/expulsion.mp4"
+  },
+  {
+   "t": 23.08,
+   "img": "lotes/img/rattin/discusion.png",
+   "depth": "lotes/img/rattin/depth/discusion.png",
+   "mov": "zoom_out",
+   "texto": "CASI 10 MINUTOS PARADO",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 27.28,
+   "img": "lotes/img/rattin/wembley.png",
+   "depth": "lotes/img/rattin/depth/wembley.png",
+   "mov": "pan_izq",
+   "texto": "¿TÚ TE HUBIERAS IDO?",
+   "efecto": "flash",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 30.6,
+   "img": "lotes/img/rattin/policias.png",
+   "depth": "lotes/img/rattin/depth/policias.png",
+   "mov": "zoom_in",
+   "sfx": [
+    "sirena"
+   ],
+   "video": "lotes/img/rattin/video/policias.mp4"
+  },
+  {
+   "t": 34.6,
+   "img": "lotes/img/rattin/alfombra.png",
+   "depth": "lotes/img/rattin/depth/alfombra.png",
+   "mov": "zoom_in",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 37.38,
+   "img": "lotes/img/rattin/banderin.png",
+   "depth": "lotes/img/rattin/depth/banderin.png",
+   "mov": "sacudon",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 41.94,
+   "img": "lotes/img/rattin/semaforo.png",
+   "depth": "lotes/img/rattin/depth/semaforo.png",
+   "mov": "zoom_in",
+   "efecto": "camara_lenta",
+   "sfx": [
+    "redoble"
+   ]
+  },
+  {
+   "t": 48.86,
+   "img": "lotes/img/rattin/tarjetas.png",
+   "depth": "lotes/img/rattin/depth/tarjetas.png",
+   "mov": "zoom_in",
+   "efecto": "flash",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 51.45,
+   "img": "lotes/img/rattin/tarjetas.png",
+   "depth": "lotes/img/rattin/depth/tarjetas.png",
+   "mov": "zoom_out",
+   "efecto": "flash",
+   "texto": "MÉXICO 1970",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 53.8,
+   "img": "lotes/img/rattin/alfombra.png",
+   "depth": "lotes/img/rattin/depth/alfombra.png",
+   "mov": "zoom_out",
+   "titulo": "ANTONIO|RATTÍN",
+   "titulo_en": 54.85,
+   "sfx": [
+    "redoble"
+   ]
+  }
+ ],
+ "subtitulos": [
+  [
+   1.28,
+   5.35,
+   "A este capitán lo expulsaron en un Mundial… y no se quiso ir."
+  ],
+  [
+   6.58,
+   10.0,
+   "Wembley, 1966. Cuartos de final: Inglaterra contra Argentina."
+  ],
+  [
+   10.0,
+   13.7,
+   "El árbitro era alemán,"
+  ],
+  [
+   14.08,
+   18.42,
+   "el capitán argentino solo hablaba castellano… y nadie se entendía."
+  ],
+  [
+   18.96,
+   22.6,
+   "De pronto, el árbitro lo echó. Y él no entendía por qué."
+  ],
+  [
+   23.08,
+   26.85,
+   "Pidió un traductor. El partido estuvo parado casi 10 minutos."
+  ],
+  [
+   27.28,
+   30.0,
+   "¿Tú te hubieras ido? Te leo."
+  ],
+  [
+   30.6,
+   36.15,
+   "Al final salió escoltado por la policía… y dicen que antes se sentó en la alfombra roja de la reina."
+  ],
+  [
+   37.38,
+   41.65,
+   "Camino al vestuario, estrujó el banderín del córner con la bandera del Reino Unido."
+  ],
+  [
+   41.94,
+   46.95,
+   "Pero en la tribuna, un inglés, Ken Aston, se quedó pensando en un semáforo…"
+  ],
+  [
+   48.86,
+   51.45,
+   "Amarilla para advertir, roja para expulsar."
+  ],
+  [
+   51.45,
+   53.7,
+   "Así nacieron las tarjetas."
+  ],
+  [
+   53.8,
+   59.35,
+   "Y todo por Antonio Rattín, el capitán al que echaron… y no se quiso ir."
+  ]
+ ],
+ "cierre": {
+  "texto": "Síguenos para más|historias futboleras",
+  "dur": 3.0
+ }
+}

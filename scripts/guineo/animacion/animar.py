@@ -193,8 +193,14 @@ def main(cfg_path, out):
             mix[k:k + len(s)] += s[: max(0, len(mix) - k)]
     if cierre:
         z = sfx("golpe") * 0.6; k = int(t_cierre * SR); mix[k:k + len(z)] += z[: max(0, len(mix) - k)]
-    lluvia_audio = np.convolve(rng.standard_normal(len(mix)), np.ones(6) / 6, "same").astype(np.float32) * 0.05
-    mix += lluvia_audio
+    # ambiente (Mui 25/11): "lluvia" solo en historias con lluvia; "hinchada" murmullo de estadio; "ninguno"
+    amb = cfg.get("ambiente", "lluvia" if cfg.get("lluvia", True) else "ninguno")
+    if amb == "lluvia":
+        mix += np.convolve(rng.standard_normal(len(mix)), np.ones(6) / 6, "same").astype(np.float32) * 0.05
+    elif amb == "hinchada":
+        ru = np.convolve(rng.standard_normal(len(mix)), np.ones(60) / 60, "same").astype(np.float32)
+        ola = 0.7 + 0.3 * np.sin(np.arange(len(mix)) / SR * 2 * np.pi * 0.13)
+        mix += ru / (np.abs(ru).max() + 1e-6) * 0.06 * ola.astype(np.float32)
     mus = os.path.join(os.path.dirname(AQUI), "audio", "musica.mp3")
     if os.path.exists(mus):
         mu = leer(mus); mix += np.tile(mu, int(len(mix) / len(mu)) + 1)[: len(mix)] * 0.05
@@ -245,10 +251,10 @@ def main(cfg_path, out):
                 fr = cuadro_25d(arr_, D_, e.get("mov", "zoom_in"), qq_, tg).convert("RGBA")
             else:
                 fr = cuadro(base, e.get("mov", "zoom_in"), qq_).convert("RGBA")
-            if e.get("lluvia", True):
+            if e.get("lluvia", cfg.get("lluvia", True)):
                 fr.alpha_composite(lluvia_capa(f0 + kk))
             d = ImageDraw.Draw(fr)
-            if e.get("texto") and kk / FPS > 0.3:
+            if e.get("texto") and kk / FPS > (0 if i == 0 else 0.3):  # gancho desde el cuadro 0
                 d.rectangle([0, 230, W, 360], fill=(0, 0, 0, 150))
                 fz = 96
                 while d.textlength(e["texto"], font=ANTON(fz)) > W - 80:
@@ -270,8 +276,12 @@ def main(cfg_path, out):
                     d.text((W / 2, 320), f"{int(round(g1 * vis))}-{int(round(g2 * vis))}", font=ANTON(120), fill=acento, anchor="mm")
             if e.get("titulo") and tg >= m(e.get("titulo_en", e["t"])):
                 d.rectangle([0, H / 2 - 170, W, H / 2 + 170], fill=(0, 0, 0, 170))
-                d.text((W / 2, H / 2 - 60), "LA BATALLA", font=ANTON(150), fill=acento, anchor="mm")
-                d.text((W / 2, H / 2 + 80), "DE BERNA", font=ANTON(150), fill=(250, 240, 220), anchor="mm")
+                l1, l2 = (e["titulo"].split("|") + [""])[:2] if isinstance(e["titulo"], str) else ("LA BATALLA", "DE BERNA")
+                for yy, tx, col in ((H / 2 - 60, l1, acento), (H / 2 + 80, l2, (250, 240, 220))):
+                    fz = 150
+                    while d.textlength(tx, font=ANTON(fz)) > W - 80:
+                        fz -= 8
+                    d.text((W / 2, yy), tx, font=ANTON(fz), fill=col, anchor="mm")
             for a, b, txt in subs:
                 if a <= tg < b:
                     f = NEG(56); lines, cur = [], ""
