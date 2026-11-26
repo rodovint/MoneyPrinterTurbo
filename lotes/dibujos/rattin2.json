@@ -1,0 +1,51 @@
+{
+  "modelo": "9b",
+  "referencias": [
+    "lotes/img/rattin/discusion.png"
+  ],
+  "estilo": "Claymation style matching reference image 0: plasticine figures with fingerprint texture, bright SUNNY summer afternoon, dry bright green grass, blue sky, no rain, no mud, no night, no floodlights on. Stop-motion look. No text, no letters, no numbers, no logos, no crests anywhere. No recognizable real people.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "alfombra",
+      "seed": 77,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A very tall plasticine football captain with dark hair, wearing a light blue and white vertical striped shirt and black shorts, sits defiantly with crossed arms on a long red carpet at the edge of a sunny 1966 football pitch, two plasticine English policemen with tall dark helmets stand beside him looking annoyed, crowd in the background, dramatic low angle."
+    },
+    {
+      "id": "wembley",
+      "seed": 77,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Sunny afternoon wide view of a huge miniature 1966 football stadium with two white twin towers at the entrance, packed stands of tiny plasticine fans, empty bright green pitch with white lines, blue sky with clay clouds. No players fighting."
+    },
+    {
+      "id": "expulsion",
+      "seed": 77,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: On a sunny bright green pitch, the short plasticine referee in black points firmly toward the side of the pitch with an outstretched arm, while the very tall captain in a light blue and white vertical striped shirt and black shorts stands still refusing to leave, arms open in protest, players in white shirts watching. Blue sky."
+    },
+    {
+      "id": "policias",
+      "seed": 77,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Two plasticine English policemen with tall dark custodian helmets escort the tall captain in a light blue and white striped shirt off the sunny pitch, he walks slowly with a proud defiant posture, crowd in the stands behind."
+    },
+    {
+      "id": "banderin",
+      "seed": 77,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Close-up: a large plasticine hand of a football player in a light blue and white striped sleeve crumples a small corner flag with a red, white and blue British flag pattern on a sunny pitch corner, white chalk line on the grass."
+    }
+  ]
+}
