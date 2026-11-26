@@ -1,0 +1,75 @@
+{
+  "modelo": "9b",
+  "referencias": [
+    "scripts/guineo/animacion/ref-plastilina.png"
+  ],
+  "estilo": "Claymation style matching reference image 0: plasticine figures with fingerprint texture, miniature 1966 stadium set, soft studio lighting, stop-motion look. No text, no letters, no numbers, no logos, no crests anywhere. No recognizable real people.",
+  "ancho": 1080,
+  "alto": 1920,
+  "escenas": [
+    {
+      "id": "alfombra",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A very tall plasticine football captain with dark hair, wearing a light blue and white vertical striped shirt and black shorts, sits defiantly with crossed arms on a long red carpet at the edge of a sunny 1966 football pitch, two plasticine English policemen with tall dark helmets stand beside him looking annoyed, crowd in the background, dramatic low angle."
+    },
+    {
+      "id": "wembley",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Sunny afternoon aerial view of a huge miniature 1966 football stadium with two white twin towers at the entrance, packed stands of tiny plasticine fans, bright green pitch, blue sky with clay clouds."
+    },
+    {
+      "id": "discusion",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: On a sunny green pitch, a short plasticine referee in an all-black 1960s uniform and a very tall plasticine captain in a light blue and white striped shirt argue face to face, both gesturing wildly with their hands, confused expressions, players in white shirts watching."
+    },
+    {
+      "id": "expulsion",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: The plasticine referee in black points firmly toward the side of the pitch with an outstretched arm, while the tall captain in light blue and white stripes refuses to move, arms open in protest, teammates in striped shirts crowd around him, players in white shirts watch."
+    },
+    {
+      "id": "policias",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Two plasticine English policemen with tall dark custodian helmets escort the tall captain in a light blue and white striped shirt off the sunny pitch, he walks slowly with a proud defiant posture, crowd in the stands behind."
+    },
+    {
+      "id": "banderin",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Close-up: a large plasticine hand of a football player in a light blue and white striped sleeve crumples a small corner flag with a red, white and blue British flag pattern on a sunny pitch corner, white chalk line on the grass."
+    },
+    {
+      "id": "semaforo",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: A 1960s London street corner made of clay at dusk, an old black traffic light with its amber light glowing brightly, a red double-decker bus and a black taxi in the background, a thoughtful plasticine man in a grey suit and hat looking up at the light."
+    },
+    {
+      "id": "tarjetas",
+      "seed": 66,
+      "referencias": [
+        0
+      ],
+      "prompt": "Vertical illustration: Close-up of a plasticine referee hand in a black sleeve raising a bright yellow card high in the air, a second hand holding a bright red card below, sunny stadium blurred in the background, dramatic lighting."
+    }
+  ]
+}
