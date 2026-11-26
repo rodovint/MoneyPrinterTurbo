@@ -1,6 +1,6 @@
 [
  {
-  "titulo": "Remontada de Emelec 4-2 a Liga: foco en el 2-3 de Preciado y 2-4 de Matamoros",
+  "titulo": "Remontada de Emelec 4-2 a Liga: los goles azules en primer plano",
   "etiqueta": "EFEMÉRIDE · EMELEC",
   "club": "emelec",
   "audio": "audio/52",
@@ -23,26 +23,166 @@
     "hinchada": true
    },
    {
-    "texto": "En apenas nueve minutos Liga golpeó dos veces con el sombrerito de Anderson Julio a los seis y el autogol de Ramos a los nueve.",
-    "video": "videos/Efemeride emelec 2.mp4",
+    "texto": "En el primer tiempo Brayan Angulo descontó a los veintisiete y Jorge Guagua puso el dos a dos a los treinta y cuatro tras el arranque albo.",
     "movimiento": "paneo_der",
+    "grafico": {
+     "tipo": "tv",
+     "titulo": "EMPATE 2-2: ANGULO Y GUAGUA",
+     "local": {
+      "nombre": "EMELEC",
+      "color": "#0B4EA2"
+     },
+     "rival": {
+      "nombre": "LDU",
+      "color": "#FFFFFF"
+     },
+     "jugadores": [
+      {
+       "id": "10",
+       "equipo": "local",
+       "x": 30,
+       "y": 32
+      },
+      {
+       "id": "23",
+       "equipo": "local",
+       "x": 58,
+       "y": 22
+      },
+      {
+       "id": "4",
+       "equipo": "rival",
+       "x": 45,
+       "y": 20
+      },
+      {
+       "id": "1",
+       "equipo": "rival",
+       "x": 50,
+       "y": 4,
+       "arquero": true
+      }
+     ],
+     "balon": "10",
+     "pasos": [
+      {
+       "mover": {
+        "10": [38, 22]
+       },
+       "balon": [38, 22],
+       "flecha": "conduccion",
+       "texto": "GOL DE ANGULO 27'"
+      },
+      {
+       "mover": {
+        "23": [54, 10]
+       },
+       "balon": [54, 10],
+       "flecha": "pase",
+       "texto": "CENTRO DE MATAMOROS"
+      },
+      {
+       "balon": [52, -2],
+       "flecha": "tiro",
+       "gol": true,
+       "texto": "GOL DE GUAGUA 34'"
+      }
+     ],
+     "marcador": {
+      "local": "LDU",
+      "rival": "EME",
+      "antes": [2, 0],
+      "despues": [2, 2],
+      "minuto": "34'"
+     }
+    },
     "transicion": "barrido",
-    "tono": "urgente"
-   },
-   {
-    "texto": "El Cuco Angulo descontó a los veintisiete con un derechazo al ángulo y Guagua puso el dos a dos a los treinta y cuatro.",
-    "video": "videos/Efemeride emelec 3.mp4",
-    "movimiento": "zoom_in",
-    "transicion": "zoom",
-    "destello": true,
     "tono": "recuerdo"
    },
    {
-    "texto": "En el complemento Ayrton Preciado clavó el cabezazo del dos a tres a los cincuenta y seis y encendió la locura eléctrica.",
+    "texto": "Con el impulso del empate, Ayrton Preciado clavó el cabezazo del dos a tres a los cincuenta y seis y encendió la locura eléctrica.",
     "video": "videos/Efemeride emelec 4.mp4",
-    "movimiento": "paneo_izq",
+    "movimiento": "zoom_in",
     "transicion": "flash",
     "destello": true,
+    "tono": "celebracion"
+   },
+   {
+    "texto": "En el gráfico y en las imágenes de ese tanto se ve cómo Emelec dio vuelta el trámite con autoridad.",
+    "video": "videos/Efemeride emelec 4.mp4",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "tv",
+     "titulo": "GOL 2-3: CABEZAZO DE PRECIADO",
+     "local": {
+      "nombre": "EMELEC",
+      "color": "#0B4EA2"
+     },
+     "rival": {
+      "nombre": "LDU",
+      "color": "#FFFFFF"
+     },
+     "jugadores": [
+      {
+       "id": "23",
+       "equipo": "local",
+       "x": 24,
+       "y": 26
+      },
+      {
+       "id": "7",
+       "equipo": "local",
+       "x": 52,
+       "y": 14
+      },
+      {
+       "id": "6",
+       "equipo": "rival",
+       "x": 46,
+       "y": 18
+      },
+      {
+       "id": "1",
+       "equipo": "rival",
+       "x": 50,
+       "y": 4,
+       "arquero": true
+      }
+     ],
+     "balon": "23",
+     "pasos": [
+      {
+       "mover": {
+        "23": [32, 18]
+       },
+       "balon": [32, 18],
+       "flecha": "pase",
+       "texto": "ENVÍO AL ÁREA"
+      },
+      {
+       "mover": {
+        "7": [49, 8]
+       },
+       "balon": [49, 8],
+       "flecha": "conduccion",
+       "texto": "SALTO DE PRECIADO"
+      },
+      {
+       "balon": [48, -2],
+       "flecha": "tiro",
+       "gol": true,
+       "texto": "GOL 2-3 (56')"
+      }
+     ],
+     "marcador": {
+      "local": "LDU",
+      "rival": "EME",
+      "antes": [2, 2],
+      "despues": [2, 3],
+      "minuto": "56'"
+     }
+    },
+    "transicion": "glitch",
     "tono": "celebracion"
    },
    {
@@ -54,11 +194,11 @@
      "texto": "¿2-3 DE PRECIADO O 2-4 DE MATAMOROS?",
      "sobre": "TU OPINIÓN"
     },
-    "transicion": "glitch"
+    "transicion": "barrido"
    },
    {
-    "texto": "Dos minutos después, a los cincuenta y ocho, Hólger Matamoros metió el cabezazo del dos a cuatro que selló la remontada.",
-    "video": "videos/Efemeride Emelec 1.mp4",
+    "texto": "A los cincuenta y ocho llegó el gol del dos a cuatro de Hólger Matamoros, un cabezazo letal que liquidó el partido.",
+    "video": "videos/Efemeride emelec 3.mp4",
     "movimiento": "zoom_in",
     "transicion": "flash",
     "destello": true,
@@ -69,7 +209,8 @@
     "video": "videos/Efemeride emelec 2.mp4",
     "movimiento": "paneo_der",
     "grafico": {
-     "tipo": "titular",
+     "tipo": "escudo",
+     "escudo": "img/escudos/emelec.png",
      "texto": "FIN A LA RACHA DESDE 2013",
      "sobre": "CONTROL DE ARIAS"
     },
@@ -79,7 +220,7 @@
    },
    {
     "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-    "video": "videos/Efemeride emelec 3.mp4",
+    "video": "videos/Efemeride Emelec 1.mp4",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
