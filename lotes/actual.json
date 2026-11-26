@@ -6,7 +6,7 @@
   "audio": "audio/50",
   "franja": [
    "LLUVIA RETRASA EL ARRANQUE EN GUAYAQUIL",
-   "AUTOGOL DE BYRON CASTILLO",
+   "AUTOGOL EN EL PRIMER TIEMPO",
    "ROJA A JHEGSON MÉNDEZ",
    "PENAL REPETIDO POR VAR"
   ],
@@ -15,8 +15,9 @@
     "texto": "La lluvia retrasó el arranque en el Monumental y el partido se puso al rojo vivo.",
     "movimiento": "zoom_in",
     "grafico": {
-     "tipo": "titular",
-     "texto": "LLUVIA Y TENSIÓN EN EL MONUMENTAL",
+     "tipo": "escudo",
+     "escudo": "img/escudos/barcelona.png",
+     "texto": "LLUVIA Y TENSIÓN EN GUAYAQUIL",
      "sobre": "BARCELONA VS. IDV"
     },
     "hinchada": true
@@ -27,7 +28,7 @@
     "grafico": {
      "tipo": "titular",
      "texto": "GOLPE EN EL PRIMER TIEMPO",
-     "sobre": "AUTOGOL DE CASTILLO"
+     "sobre": "AUTOGOL"
     },
     "transicion": "barrido",
     "tono": "urgente"
@@ -35,11 +36,12 @@
    {
     "texto": "En el segundo tiempo Independiente se quedó con diez por la roja a Jhegson Méndez.",
     "dicho": "En el segundo tiempo Independiente se quedó con diez por la roja a Yegson Méndez.",
+    "video": "videos/GestoM.mp4",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
      "texto": "ROJA A JHEGSON MÉNDEZ",
-     "sobre": "MINUTO 64 · IDV CON 10"
+     "sobre": "IDV CON DIEZ"
     },
     "transicion": "glitch",
     "suspenso": true
@@ -73,19 +75,20 @@
        "goles": 1
       }
      ],
-     "pie": "PENAL REPETIDO · QUIÑÓNEZ 77'"
+     "pie": "PENAL REPETIDO · QUIÑÓNEZ"
     },
     "transicion": "flash",
     "destello": true,
     "tono": "celebracion"
    },
    {
-    "texto": "Una noche bajo la lluvia en el Monumental donde la lluvia retrasó el arranque y el partido se puso al rojo vivo.",
+    "texto": "Así de caliente se puso la noche en Guayaquil, cuando la lluvia retrasó el arranque en el Monumental.",
     "movimiento": "zoom_out",
     "grafico": {
-     "tipo": "titular",
-     "texto": "NOCHE DE LOCURA EN GUAYAQUIL",
-     "sobre": "EMPATE 1-1"
+     "tipo": "escudo",
+     "escudo": "img/escudos/idv.png",
+     "texto": "EMPATE 1-1 EN EL MONUMENTAL",
+     "sobre": "CIERRE DE NOCHE"
     },
     "transicion": "rota"
    }
