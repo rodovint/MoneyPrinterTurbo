@@ -1,134 +1,93 @@
 [
  {
-  "titulo": "Corea del Sur, el verdugo de Ecuador: 2019, 2023 y hoy",
-  "etiqueta": "HISTORIA · MUNDIALES JUVENILES",
-  "audio": "audio/48",
+  "titulo": "Barcelona SC vs Independiente del Valle 1-1: penal repetido y expulsión de Jhegson Méndez",
+  "etiqueta": "LIGAPRO · HEXAGONAL",
+  "club": "barcelona",
+  "audio": "audio/50",
   "franja": [
-   "DE POLONIA 2019 A CATAR 2026",
-   "MUNDIAL SUB-20 Y SUB-17",
-   "UN RIVAL QUE SE REPITE",
-   "LA HISTORIA DE LA MINI-TRI"
+   "LLUVIA RETRASA EL ARRANQUE EN GUAYAQUIL",
+   "AUTOGOL DE BYRON CASTILLO",
+   "ROJA A JHEGSON MÉNDEZ",
+   "PENAL REPETIDO POR VAR"
   ],
   "escenas": [
    {
-    "texto": "Hay un rival que a Ecuador no se le quita de encima.",
-    "foto": "img/sub17-corea-duelo.jpg",
+    "texto": "La lluvia retrasó el arranque en el Monumental y el partido se puso al rojo vivo.",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "EL VERDUGO",
-     "sobre": "DE LA MINI-TRI"
+     "texto": "LLUVIA Y TENSIÓN EN EL MONUMENTAL",
+     "sobre": "BARCELONA VS. IDV"
     },
     "hinchada": true
    },
    {
-    "texto": "Junio de dos mil diecinueve, semifinal del Mundial Sub-veinte, en Polonia.",
+    "texto": "Un autogol golpeó primero a Barcelona y complicó la noche del Ídolo.",
+    "movimiento": "paneo_der",
     "grafico": {
      "tipo": "titular",
-     "texto": "POLONIA 2019",
-     "sobre": "SEMIFINAL SUB-20"
+     "texto": "GOLPE EN EL PRIMER TIEMPO",
+     "sobre": "AUTOGOL DE CASTILLO"
     },
-    "transicion": "barrido"
+    "transicion": "barrido",
+    "tono": "urgente"
    },
    {
-    "texto": "Campana estrelló un balón en el travesaño, y Corea del Sur marcó poco después, con un tiro libre cobrado rápido.",
+    "texto": "En el segundo tiempo Independiente se quedó con diez por la roja a Jhegson Méndez.",
+    "dicho": "En el segundo tiempo Independiente se quedó con diez por la roja a Yegson Méndez.",
+    "movimiento": "zoom_in",
     "grafico": {
      "tipo": "titular",
-     "texto": "AL TRAVESAÑO",
-     "sobre": "CAMPANA · 2019"
+     "texto": "ROJA A JHEGSON MÉNDEZ",
+     "sobre": "MINUTO 64 · IDV CON 10"
+    },
+    "transicion": "glitch",
+    "suspenso": true
+   },
+   {
+    "texto": "¿A ti te pareció bien repetido el penal? Te leo, y sigue a Guineo.",
+    "movimiento": "paneo_izq",
+    "grafico": {
+     "tipo": "titular",
+     "texto": "¿BIEN REPETIDO EL PENAL?",
+     "sobre": "TU OPINIÓN"
     },
     "transicion": "zoom"
    },
    {
-    "texto": "Fue uno a cero, Ecuador se quedó sin final y terminó tercero, pero la espina quedó.",
-    "grafico": {
-     "tipo": "marcador",
-     "pie": "SEMIFINAL · LUBLIN · 2019",
-     "equipos": [
-      {
-       "nombre": "COREA DEL SUR",
-       "color": "#C60C30",
-       "goles": 1,
-       "escudo": "img/escudos/corea-del-sur.png"
-      },
-      {
-       "nombre": "ECUADOR",
-       "color": "#1B3A8F",
-       "goles": 0,
-       "escudo": "img/escudos/fef.png"
-      }
-     ]
-    },
-    "tono": "recuerdo",
-    "transicion": "rota"
-   },
-   {
-    "texto": "¿Casualidad o cábala? Te leo, y sigue a Guineo.",
-    "foto": "img/sub17-corea-mirada.jpg",
-    "movimiento": "zoom_out",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "¿CASUALIDAD O CÁBALA?",
-     "sobre": "TU OPINIÓN"
-    },
-    "transicion": "barrido"
-   },
-   {
-    "texto": "Cuatro años después, en octavos del Mundial Sub-veinte, Ecuador volvió a toparse con Corea y perdió tres a dos.",
-    "grafico": {
-     "tipo": "cifra",
-     "valor": "3-2",
-     "texto": "COREA GANÓ EN OCTAVOS · SUB-20 2023"
-    },
-    "tono": "recuerdo",
-    "animar": false,
-    "transicion": "glitch"
-   },
-   {
-    "texto": "Y esta mañana, en Catar, la Mini-Tri también cayó tres a dos ante Corea del Sur.",
-    "foto": "img/sub17-corea-hinchas.jpg",
+    "texto": "Quintana atajó el cobro de Quiñónez, el VAR mandó a repetir por adelantamiento y llegó el uno a uno.",
     "movimiento": "zoom_in",
     "grafico": {
      "tipo": "marcador",
-     "pie": "SUB-17 · CATAR · HOY",
      "equipos": [
       {
-       "nombre": "COREA DEL SUR",
-       "color": "#C60C30",
-       "goles": 3,
-       "escudo": "img/escudos/corea-del-sur.png"
+       "nombre": "BARCELONA SC",
+       "color": "#FFD100",
+       "escudo": "img/escudos/barcelona.png",
+       "goles": 1
       },
       {
-       "nombre": "ECUADOR",
-       "color": "#1B3A8F",
-       "goles": 2,
-       "escudo": "img/escudos/fef.png"
+       "nombre": "IND. DEL VALLE",
+       "color": "#0033A0",
+       "escudo": "img/escudos/idv.png",
+       "goles": 1
       }
-     ]
+     ],
+     "pie": "PENAL REPETIDO · QUIÑÓNEZ 77'"
     },
+    "transicion": "flash",
     "destello": true,
-    "suspenso": true,
-    "transicion": "flash"
+    "tono": "celebracion"
    },
    {
-    "texto": "Ahora espera resultados para ver si pasa como mejor tercero.",
-    "grafico": {
-     "tipo": "titular",
-     "texto": "ESPERA RESULTADOS",
-     "sobre": "MEJOR TERCERO"
-    },
-    "transicion": "zoom"
-   },
-   {
-    "texto": "Dos mil diecinueve, dos mil veintitrés y hoy: el rival que a Ecuador no se le quita de encima.",
-    "foto": "img/sub17-corea-duelo.jpg",
+    "texto": "Una noche bajo la lluvia en el Monumental donde la lluvia retrasó el arranque y el partido se puso al rojo vivo.",
     "movimiento": "zoom_out",
     "grafico": {
      "tipo": "titular",
-     "texto": "EL VERDUGO",
-     "sobre": "2019 · 2023 · HOY"
+     "texto": "NOCHE DE LOCURA EN GUAYAQUIL",
+     "sobre": "EMPATE 1-1"
     },
-    "transicion": "barrido"
+    "transicion": "rota"
    }
   ]
  }
