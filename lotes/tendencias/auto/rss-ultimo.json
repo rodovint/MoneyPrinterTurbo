@@ -1,39 +1,61 @@
 {
- "fecha": "2026-11-26T20:09-05:00",
+ "fecha": "2026-11-26T21:45-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "lugar de votación",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T16:20:00-08:00",
-    "deporte_probable": false,
+    "tema": "jhegson méndez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T17:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "10 recintos electorales de 5 provincias fueron reubicados por efectos del invierno (CNE Ecuador)",
-     "El Niño al Día EC | ¿Cambian tu recinto electoral por lluvias? (Teleamazonas)"
+     "Polémico gesto de Sebastián Méndez a los hinchas de Barcelona tras su expulsión (Teleamazonas)",
+     "Jhegson Méndez en problemas: Barcelona SC buscaría sancionarlo por sus gestos (Diario Extra)"
     ]
    },
    {
-    "tema": "sao paulo fc",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T15:50:00-08:00",
+    "tema": "posiciones de sao paulo fc contra clube do remo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T17:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "São Paulo vs Remo ao Vivo – Onde Assistir Online e Grátis em HD (Brasileirão) | All Football (懂球帝)",
-     "Torcida do São Paulo protesta em último jogo no Morumbis: “Até quando ficaremos jogando para não cair?” (Gazeta Esportiva)"
+     "O São Paulo se despediu do MorumBis em 2026 com uma vitória por 3 a 1 sobre o Remo, pela 37ª e penúltima rodada do Campeonato Brasileiro. A partida entregou o pouco que se esperava, sem brilho em campo.⁣ ⁣ Na arquibancada, o pequeno público (Instagram)"
+    ]
+   },
+   {
+    "tema": "primicias",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Misión de Ecuador en la OEA rechaza declaraciones de Almagro sobre elecciones seccionales (Primicias)",
+     "CNE da a conocer las misiones internacionales para las elecciones de este domingo 29 de noviembre (La República EC)"
+    ]
+   },
+   {
+    "tema": "pachuca - guadalajara",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¿A qué hora es el partido Pachuca vs Chivas y cómo verlo en TV y streaming online? (Sports Illustrated)",
+     "\"Antes muerto que dejar de soñar\" ¡El tremendo tifo con el que la afición del Pachuca recibe a su equipo! (TUDN)"
     ]
    },
    {
     "tema": "ingvar jónsson",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-26T15:30:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "Ingvar Jonsson dead at 37: Iceland goalkeeper who was in Euro 2016 squad that stunned England passes away (The Sun)",
-     "Iceland goalkeeper Ingvar Jonsson dies aged 37 a decade after iconic England upset (AOL.co.uk)"
+     "LUTO EN EL FÚTBOL: Falleció Ingvar Jónsson, exarquero de Islandia, a los 37 años (Studiofutbol)",
+     "Ingvar Jonsson dead at 37: Iceland goalkeeper who was in Euro 2016 squad that stunned England passes away (The Sun)"
     ]
    },
    {
@@ -43,19 +65,19 @@
     "desde": "2026-11-26T14:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Ormuz cambió el mapa energético y aceleró la búsqueda de nuevos proveedores (Clarin.com)",
-     "Crisis energética global: la tensión en Medio Oriente vuelve a poner en alerta al mercado petrolero y Argentina mira el impacto en los combustibles (Info del Estero)"
+     "Delcy Rodríguez asegura que existe un uso «irracional de la electricidad» (El Informador Venezuela)",
+     "Gobierno insta a “uso equilibrado de equipos” por pico en demanda eléctrica (Runrun.es)"
     ]
    },
    {
     "tema": "selección de fútbol sub-17 de ecuador",
-    "volumen": "200+",
-    "volumen_min": 200,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-26T13:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
      "¡Ecuador está en los dieciseisavos! La mini-Tri asegura su clasificación en el Mundial Sub-17 (El Universo)",
-     "La Selección de Ecuador clasificó a los 16avos de final del Mundial Sub 17 de Qatar, ¿Cuál será el rival de La Tri? (Primicias)"
+     "La Tri Sub-17 clasifica entre los mejores terceros del Mundial de Qatar 2026 (El Telégrafo (por eliminar))"
     ]
    },
    {
@@ -65,7 +87,7 @@
     "desde": "2026-11-26T13:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Guía de WhatsApp para enviar stickers con voz y sonidos (El Comercio)",
+     "¿Cómo descargar STICKERS con audio en WhatsApp con Android y Apple? | GUÍA (Milenio)",
      "WhatsApp incorpora stickers con voz y efectos de sonido: ¿cuándo llegarán a Ecuador? (El Telégrafo (por eliminar))"
     ]
    },
@@ -82,151 +104,140 @@
    },
    {
     "tema": "borac - atalanta",
-    "volumen": "1000+",
-    "volumen_min": 1000,
+    "volumen": "500+",
+    "volumen_min": 500,
     "desde": "2026-11-26T12:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Licensable picture: UEFA Europa League: Olympiacos FC Vs AC Milan (Reuters Connect)",
-     "A tale of glory or misery in Greece: All the key stats ahead of Olympiacos vs. Milan (SempreMilan)"
-    ]
-   },
-   {
-    "tema": "30 de noviembre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T12:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "¿Habrá feriado el 30 de noviembre en Ecuador? (El Universo)",
-     "Elecciones 2026: ¿cuándo habrá clases no presenciales en Ecuador? (El Telégrafo (por eliminar))"
-    ]
-   },
-   {
-    "tema": "posiciones de brighton & hove albion football club contra u craiova",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T12:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Brighton 4-0 Universitatea Craiova: Seagulls claim dominant Conference League win (BBC)",
-     "Brighton 4-0 CS Universitatea Craiova: Ibrahim Osman stars as Seagulls bounce back with Conference League win (Sky Sports)"
+     "Borac Banja Luka vs Atalanta: UEFA Conference League stats & head-to-head (BBC)",
+     "Sarri: ‘Atalanta cannot always recover with comebacks’ after another wild night (Football Italia)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "devonta smith injury",
+    "tema": "justin timberlake",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Justin Timberlake and Jimmy Fallon Do the ‘Cha Cha Slide’ in ‘Tonight Show’ Sneak Peek (People.com)",
+     "Justin Timberlake and Jimmy Fallon preview party songs medley on NBC Thanksgiving episode — The Tonight Show Starring Jimmy Fallon: Justin Timberlake (شبكة تواصل الإخبارية)"
+    ]
+   },
+   {
+    "tema": "bill belichick",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-26T16:50:00-08:00",
-    "deporte_probable": true,
+    "desde": "2026-11-26T18:30:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Celtics’ Key Reserve Lands on Injury Report for Hawks Game (Yahoo Sports)",
-     "Mitchell Robinson (illness) questionable Friday (NBC Sports)"
+     "Billy Edwards Jr. Added to UNC's Thursday Availability Report (247Sports)",
+     "NC State a 5.5-point underdog at UNC (Backing The Pack)"
     ]
    },
    {
-    "tema": "lowes black friday deals",
+    "tema": "big 12 championship game",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T18:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Big 12 Conference Championship Game scenarios (Yahoo Sports)",
+     "Big 12 power rankings: Big 12 stands pat at the top amid college football’s chaos (Deseret News)"
+    ]
+   },
+   {
+    "tema": "emirates",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "XEBO.ai raises $10.5 million in Series A funding from Emirates Growth Fund (Northwest Signal)",
+     "Emirates Growth Fund signs $10.5 million investment in AI feedback firm XEBO.ai (Superpower Daily)"
+    ]
+   },
+   {
+    "tema": "mike tomlin minecraft",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Who won the Aaron Rodgers-Mike McCarthy battle? Mike Tomlin (Yahoo Sports)",
+     "Mike Tomlin Shows Off Minecraft Stadiums in Video Amid McCarthy, Rodgers, Steelers Drama (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "kenneth walker",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-26T16:50:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-26T18:20:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Lowe's Black Friday bucket giveaway 2026: Prizes and start time (Mashable)",
-     "Black Friday 2026 at Lowe’s: See the ad and shop the best deals live now (ZDNET)"
+     "Chiefs rule RB Kenneth Walker III (groin) out for showdown vs. Bills (ESPN)",
+     "NFL news roundup: Chiefs RB Kenneth Walker III (groin) to miss Thanksgiving game vs. Bills (NFL.com)"
     ]
    },
    {
-    "tema": "smu vs lsu",
+    "tema": "greg rousseau",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T18:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Greg Rousseau On Confidence In His Playing, Preparing For The Chiefs, And More (Buffalo Bills)",
+     "Buffalo Bills OLB Greg Rousseau single-handedly wrecking NFL offenses (Buffalo Rumblings)"
+    ]
+   },
+   {
+    "tema": "tyreek hill",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-26T16:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "No. 20 LSU men's basketball vs SMU | How to watch, live score from Acrisure Series (Yahoo Sports)",
-     "How to watch SMU vs. LSU men’s basketball: TV channel and streaming options for November 26 - The Athletic (The New York Times)"
-    ]
-   },
-   {
-    "tema": "kenny moore",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-26T16:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Can't-Miss Play: Blocked-punt TD! Kenny Moore II scoop and scores after Eagles deflect Anger's kick (NFL.com)",
-     "Eagles make a game of it with blocked punt for touchdown (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "lsu basketball",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T16:30:00-08:00",
+    "desde": "2026-11-26T18:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "LSU 94-92 Arizona State (Nov 25, 2026) Final Score (ESPN)",
-     "No. 20 Tiger Basketball Outlasts Arizona State in Double-Overtime, 94-92 (LSUsports.net)"
+     "Ex-Dolphins WR Tyreek Hill Rumors Take Surprising New Turn After Week 11 (Yahoo Sports)",
+     "“I've been winning my whole life”: Tyreek Hill’s emotional outburst over his career resurfaces as the fre (The Times of India)"
     ]
    },
    {
-    "tema": "jeremiah trotter jr.",
+    "tema": "emmett johnson",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-26T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Grading all 32 NFL first-round rookies after Week 11 (PFF)",
+     "Emmett Johnson and the 5 NFL Draft steals changing the playoff race (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "tina fey",
     "volumen": "2000+",
     "volumen_min": 2000,
-    "desde": "2026-11-26T16:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "The switch that flips for Jeremiah Trotter Jr. when he takes the field (NBC Sports Philadelphia)",
-     "Top NFL LB List Backs Eagles’ Confidence In Jeremiah Trotter Jr. (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "jerry jones",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-26T16:20:00-08:00",
+    "desde": "2026-11-26T18:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Lions Owner/Chair Emeritus Martha Firestone Ford passes away at 101 (Detroit Lions)",
-     "Statement from the Green Bay Packers (Green Bay Packers – packers.com)"
-    ]
-   },
-   {
-    "tema": "depaul vs pittsburgh",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-26T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Staff Picks: Can Pitt overcome DePaul in a showdown of undefeated teams? (247Sports)",
-     "7-0 Pitt To Face 6-0 DePaul On Thanksgiving Day (PittsburghPanthers.com)"
-    ]
-   },
-   {
-    "tema": "jason statham",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jason Statham's 98-Minute Assassin Action Thriller Sequel Is Officially Being Cut From Streaming (MovieWeb)",
-     "Crank High Voltage Leads Starz Global Streaming Chart in 2026 (Demokratis.co.id)"
-    ]
-   },
-   {
-    "tema": "pachuca - guadalajara",
-    "volumen": "100000+",
-    "volumen_min": 100000,
-    "desde": "2026-11-26T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "A qué hora y dónde ver el Pachuca vs. Chivas de Cuartos de Final Ida (TUDN)",
-     "Pachuca vs Chivas: posibles alineaciones y probabilidades (ESPN Deportes)"
+     "Seth Meyers Welcomes Tina Fey and Amy Poehler, Changing 13-Year Thanksgiving Tradition (Yahoo)",
+     "Tina Fey, Amy Poehler to Join Meyers Family Thanksgiving Episode (LateNighter)"
     ]
    }
   ],
   "ES": [
+   {
+    "tema": "nfl",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T17:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Joe Milton, DeVonta Smith lead Eagles to stunning comeback win over Cowboys on Thanksgiving (The Boston Globe)",
+     "NFL Playoff Picture, Week 12: Updated NFC standings after Thanksgiving chaos (NFL Spin Zone)"
+    ]
+   },
    {
     "tema": "pipi estrada",
     "volumen": "200+",
@@ -235,7 +246,7 @@
     "deporte_probable": false,
     "titulares": [
      "Borja Estrada, hijo de Pipi: \"Terelu y yo no tenemos ningún tipo de conflicto, en absoluto. Con Alejandra Rubio me llevo muy bien\" (Lecturas)",
-     "Shock al conocer el nombre de los cinco primeros nominados de ‘GH VIP 9’ con demanda incluida: “Uno tiene que ser legal” (Lecturas)"
+     "Belén Esteban, tajante con los Janeiro en 'GH VIP' tras un cruce con Pipi Estrada: \"No tengo ninguna guerra con Julia ni la voy a tener\" (20 Minutos)"
     ]
    },
    {
@@ -245,8 +256,8 @@
     "desde": "2026-11-26T16:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Las luces de la plaza Catalunya de Barcelona se encenderán “unos cuantos días” más tarde (La Vanguardia)",
-     "Las luces de Navidad en plaza Catalunya se retrasarán durante días tras el estreno de la iluminación en la ciudad (El Periódico)"
+     "Tráfico y Rodalies en Barcelona y resto de Catalunya hoy 26 de noviembre, en directo | Incidencias, cortes, accesos y estado de las carreteras (El Periódico)",
+     "Carreteras de Catalunya: directo del 27 de noviembre (La Vanguardia)"
     ]
    },
    {
@@ -258,17 +269,6 @@
     "titulares": [
      "Z de Zapatero (Diario Público)",
      "Sánchez confirma que Zapatero le «aconseja» en la campaña electoral, pero sin participar en los mítines por «razones personales» (El Correo)"
-    ]
-   },
-   {
-    "tema": "infolibre",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tensión electoral: de los avisos sobre un posible fraude al último cartucho del debate a cuatro (La Vanguardia)",
-     "El nerviosismo del PP en la recta final: resucita el fantasma del pucherazo y admite la posibilidad de un empate con el PSOE (EL PAÍS)"
     ]
    },
    {
@@ -290,7 +290,18 @@
     "deporte_probable": false,
     "titulares": [
      "Comparador de los programas electorales para las elecciones generales del 29-N (EL PAÍS)",
-     "El tema de la vivienda en el debate a cuatro de las elecciones 2026 (RTVE.es)"
+     "29N: Analizamos los programas electorales de los partidos políticos (Greenpeace)"
+    ]
+   },
+   {
+    "tema": "ser",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿A qué se dedicaba Rufián antes de ser político y cuál era su profesión? (Diario AS)",
+     "Gabriel Rufián, el charnego que se estrelló en su deseo de unir a la izquierda (La Voz de Galicia)"
     ]
    },
    {
@@ -301,7 +312,7 @@
     "deporte_probable": false,
     "titulares": [
      "OK Utman Hosts 'Rookie DAY' Featuring New Players, Fan Events (조선일보)",
-     "Presents needed for Boys and Girls Club of OK County (KFOR)"
+     "OK Savings Bank hosts rookie day with players’ parents throwing first pitch (Chosunbiz)"
     ]
    },
    {
@@ -316,246 +327,238 @@
     ]
    },
    {
-    "tema": "el diario",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "tema": "el pais",
+    "volumen": "20000+",
+    "volumen_min": 20000,
     "desde": "2026-11-26T15:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Xabier Fortes compara la TV norcoreana con RTVE tras las críticas de Feijóo: \"A mí me parece que no nos parecemos mucho\" (elDiario.es)",
-     "El comunicado del Consejo de Informativos de TVE que une a la dirección y a sus periodistas frente al \"son una vergüenza\" de Feijóo (El Mundo)"
-    ]
-   },
-   {
-    "tema": "moscú",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T15:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "«Moscú es la tercera Roma; no habrá una cuarta» (Le Grand Continent)",
-     "Putin a los ucranianos, 'pásense al lado justo de la historia' (ANSA Latina)"
+     "Ada Colau brilla en el debate y se abre un hueco en la campaña por no quedarse \"calladita\" contra la violencia de género (El Mundo)",
+     "\"Lucius Malfoy\", \"Neo de Matrix\"... el atuendo de Ada Colau con levita y falda pantalón se vuelve viral con comentarios en Internet (20 Minutos)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "pachuca - guadalajara",
+    "tema": "agua potable",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-26T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Agua potable: se registran cortes en el Gran Mendoza (Diario El Sol Mendoza)",
+     "Maniobras en el dique Potrerillos afectan el abastecimiento de agua potable en Maipú (Los Andes)"
+    ]
+   },
+   {
+    "tema": "glaciar",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Polémica por la venta de tierras frente al glaciar Perito Moreno a un magnate árabe que quiere construir otro hotel de lujo (Clarin.com)",
+     "Un decreto de Claudio Vidal habilitó un millonario negocio inmobiliario para un grupo árabe frente al glaciar Perito Moreno (Ambito)"
+    ]
+   },
+   {
+    "tema": "francisco álvarez",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-26T16:50:00-08:00",
+    "desde": "2026-11-26T18:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Pachuca vs Chivas: posibles alineaciones y probabilidades (ESPN Argentina)",
-     "Chivas vs Pachuca: los antecedentes en Liguilla que ponen en alerta al Guadalajara rumbo al Apertura 2026 (Infobae)"
+     "Boca mantiene charlas con Francisco Álvarez ante una posible venta de Lautaro Di Lollo (TyC Sports)",
+     "¿La novela del mercado de pases? Boca mostró interés por una de las figuras del fútbol argentino que pretende River (Infobae)"
     ]
    },
    {
-    "tema": "palmeiras vs estudiantes",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "\"La segunda la voy a ganar en Uruguay\": Piovi respondió a la frase de Barboza en la previa de la final (TyC Sports)",
-     "Medina despeja dudas y empieza a delinear el probable XI de Estudiantes para la final (ESPN Argentina)"
-    ]
-   },
-   {
-    "tema": "duki",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:50:00-08:00",
+    "tema": "clima san juan",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T18:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Duki reveló que simpatiza por Boca: \"Fui hincha de Independiente, pero ahora soy bastante bostero\" (Olé)",
-     "Duki confesó que dejó de ser hincha de Independiente y ahora simpatiza por Boca: \"La Bombonera es una locura\" (TyC Sports)"
+     "Clima en ciudad de San Juan hoy: cuál es el pronóstico del tiempo para el 27 de noviembre de 2026 (La Nación)",
+     "Se espera más calor y tormentas aisladas (frente a Cano)"
     ]
    },
    {
-    "tema": "jorge macri",
+    "tema": "1password",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-26T16:40:00-08:00",
+    "desde": "2026-11-26T18:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "La Policía de la Ciudad, cada vez más violenta en el espacio público (Página|12)",
-     "Jorge Macri pidió disculpas por el operativo de remoción del deck en Caballito y despidió al funcionario a cargo (La Nación)"
+     "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach (The Hacker News)",
+     "1Password Confirms Hack—What Users Need To Know And Do (Forbes)"
     ]
    },
    {
-    "tema": "recopa sudamericana",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Si Estudiantes es campeón de la Libertadores, jugará la Recopa Sudamericana contra Boca y ya tiene fechas tentativas (Infocielo)",
-     "Qué es el Desafío UEFA-CONMEBOL, el otro torneo que podría disputar Boca tras ganar la Sudamericana (TyC Sports)"
-    ]
-   },
-   {
-    "tema": "luiz carlos trabuco cappi",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:40:00-08:00",
+    "tema": "maru botana",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4 (G1)",
-     "Luiz Carlos Trabuco aceita convite de Lula para o Ministério da Fazenda (VEJA)"
+     "Maru Botana reveló en MasterChef Celebrity qué futbolista quiso conquistar a su hija Sofía Solá: \"Son bravos\" (Exitoina)",
+     "Catherine Fulop reveló la verdadera razón por la que pasó 14 años sin ir a Venezuela a ver a su mamá (Radio Mitre)"
     ]
    },
    {
-    "tema": "oro",
+    "tema": "maxi lópez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Maxi López le respondió a un usuario que le preguntó de qué trabaja (Ciudad Magazine)",
+     "Maxi López se cansó de las críticas y explicó de qué vive (TN)"
+    ]
+   },
+   {
+    "tema": "club atlético belgrano",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-26T16:30:00-08:00",
+    "desde": "2026-11-26T17:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "El oro del Central está en Londres (Página|12)",
-     "Sigue la polémica por el oro: según la AGN, el BCRA envió 1.000 barras al Banco de Inglaterra y fundió 115 lingotes (Infobae)"
+     "Reconocimiento al Club Atlético Belgrano por su campeonato del Torneo Regional 1985-86 (AFA)",
+     "En su primera Asamblea en la sede de Pilar, la AFA reconoció un título de Belgrano de mediados de los 80 (Infobae)"
     ]
    },
    {
-    "tema": "daniel scioli",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Las inversiones que Emiratos Árabes Unidos negocia con la Argentina y el ambicioso plan para ampliar su influencia en la región (TN)",
-     "Papelón de Scioli: festejó por anticipado la presidencia de la ONU Turismo, pero ganó Ghana (La Política Online)"
-    ]
-   },
-   {
-    "tema": "ricardo darín",
+    "tema": "estancia",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-26T15:50:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-26T17:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "El deslumbrante look de Florencia Bas para acompañar a Ricardo Darín en los Emmy: el diseño argentino que eligió (Infobae)",
-     "Con un vestido que anticipa la moda de 2027, Florencia Bas deslumbró junto a Ricardo Darín en los Emmy (Diario Río Negro)"
+     "Se celebrará el Día Internacional del Yaguareté con arte y música en vivo (Diario Norte)",
+     "Una estancia ganadera de Corrientes tenía 11.400 hectáreas en 1997: 21 años después, es un refugio para especies en extinción (TN)"
     ]
    },
    {
-    "tema": "nancy godoy",
+    "tema": "nacional",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-26T15:50:00-08:00",
+    "desde": "2026-11-26T17:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Adán, uno de los hijos de Nancy Godoy, fue condenado a 14 años de prisión por abusar de sus hijastras (Página|12)",
-     "Quedó firme la condena por abuso sexual contra Adán Godoy, hijo de la docente asesinada Nanci Godoy (Alerta Urbana)"
+     "Alerta para el Gobierno: diputados de provincias aliadas advierten que no está todo dicho en el Presupuesto 2027 (Perfil)",
+     "Gustavo Sáenz con los diputados de Argentina Federal juegan al filo del quórum (Elintra.com.ar)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "tubi",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T17:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "How to watch Sidelined 3: Endgame on Tubi (it's free) (TechRadar)",
-     "Tubi bet on a TikTok star for its first YA movie. Three films later, it’s doubling down. (Los Angeles Times)"
-    ]
-   },
-   {
-    "tema": "fox plus",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T17:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "León vs Cruz Azul: posibles alineaciones y probabilidades (ESPN México)",
-     "Va Cruz Azul por buen resultado (Reforma)"
-    ]
-   },
-   {
-    "tema": "copa mundial femenina de fútbol de 2027",
+    "tema": "emmett johnson",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-26T16:50:00-08:00",
+    "desde": "2026-11-26T18:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Tri, con mal recuerdo de Haití (Reforma)",
-     "Con sus mejor generación, México busca regresar al Mundial femenino (Yahoo)"
+     "Grading every first-round pick in the 2026 NFL Draft at Thanksgiving (FanSided)",
+     "Coleman, Williams headline top rookies of Week 11 (NBC Sports)"
     ]
    },
    {
-    "tema": "george pickens",
+    "tema": "hugo camberos",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-26T16:50:00-08:00",
+    "desde": "2026-11-26T18:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Cowboys Face $32.8M Decision Over George Pickens (bsinews.id)",
-     "CeeDee Lamb's best plays from 132-yard game vs. Titans | Week 11 (Dallas Cowboys | Official Site of the Dallas Cowboys)"
+     "Gerson Gutiérrez firma doblete en el Mundial Sub-17 y presiona a Gabriel Milito (Somos Chivas)",
+     "Noticias de Chivas HOY 25 de noviembre: Gerson Gutiérrez, Hugo Camberos, Renovación de Gabriel Milito, Pachuca y Benjamín Mora (Rebaño Pasión)"
     ]
    },
    {
-    "tema": "dallas goedert",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:50:00-08:00",
+    "tema": "león - cruz azul",
+    "volumen": "50000+",
+    "volumen_min": 50000,
+    "desde": "2026-11-26T18:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Nick Sirianni continues to waste the talents of Eagles tight end Dallas Goedert (Inquirer.com)",
-     "Thanksgiving disaster? Eagles lose another injured starter vs. Cowboys (Yahoo Sports)"
+     "Dónde ver León vs. Cruz Azul: Horario y canal EN VIVO Cuartos de Final IDA Apertura 2026 (Mediotiempo)",
+     "Hora EXACTA para ver León vs Cruz Azul este jueves 26 de noviembre; partido de Ida de los Cuartos de Final de la Liguilla; dónde estacionarte cerca del Estadio León (TV Azteca)"
     ]
    },
    {
-    "tema": "xuper tv",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T16:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "rodrigo dourado",
+    "tema": "clima para mañana",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-26T16:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Juárez se despide de cinco jugadores tras terminar su participación en el Apertura 2026 (Telemundo)",
-     "Juárez anuncia baja de Dourado, jugador que pertenece al América (ESPN México)"
-    ]
-   },
-   {
-    "tema": "quien juega hoy",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T16:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Este es el criterio de desempate en los Cuartos de final (TUDN)",
-     "Liga MX: Así se ven las Semifinales del Apertura 2026 (ESPN México)"
-    ]
-   },
-   {
-    "tema": "spacex",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:40:00-08:00",
+    "desde": "2026-11-26T18:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Elon Musk pledges to give two SpaceX shares to every child in the US (The Guardian)",
-     "SpaceX, Musk pledge to donate a share each to active Trump Accounts (CNBC)"
+     "Clima en Los Ángeles hoy: Habrá temperaturas agradables para la noche en las celebraciones de Thanksgiving (Univision)",
+     "Los Ángeles: el tiempo para hoy jueves 26 de noviembre (La Opinión)"
     ]
    },
    {
-    "tema": "bills - chiefs",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-26T16:30:00-08:00",
+    "tema": "record",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T18:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "100 Women in Finance Raises Record HKD 4.3 Million at Hong Kong Gala Celebrating the Organization’s 25th Anniversary (Detroit Free Press)",
+     "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz — VP Jack Huynh and veteran OCer Bill Alverson push mid-range RDNA 4 GPU to the max under liquid nitrogen (Tom's Hardware)"
+    ]
+   },
+   {
+    "tema": "travis kelce",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T18:10:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Patrick Mahomes and Josh Allen set up for another shootout as Chiefs face Bills on Thanksgiving (Fox News)",
-     "Fanatics Sportsbook Promo Code SIBONUS350: Bet $20, Get $350 in FanCash for Chiefs vs. Bills (Sports Illustrated)"
+     "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium (ESPN)",
+     "Travis Kelce Drops Surprise Retirement Update Ahead Of Chiefs-Bills Thanksgiving Game (NewsBreak: Local News & Alerts)"
+    ]
+   },
+   {
+    "tema": "windy",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Licensable picture: A Major Coastal Storm System Impacts the DC Area (Reuters Connect)",
+     "Capital Weather Live Updates (Capital Weather)"
+    ]
+   },
+   {
+    "tema": "highmark stadium",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Does the Bills' new stadium have a heated field? What to know about the grass (Democrat and Chronicle)",
+     "Rob Gronkowski says he’s worried about one thing ahead of Chiefs vs Bills (Yardbarker)"
+    ]
+   },
+   {
+    "tema": "omar govea",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Esto es TOODO lo que dejó el triunfo ante Cruz Azul para Chivas (Chivas)",
+     "Chivas vence a Cruz Azul y se queda con el liderato (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "roja",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Cierran Playa La Bocana y colocan bandera roja en Maguey y La Entrega, en Huatulco (NVI Noticias)",
+     "Provoca choque por pasarse luz roja (El Diario de Coahuila)"
     ]
    }
   ]
