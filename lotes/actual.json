@@ -1,81 +1,159 @@
 [
   {
-    "titulo": "¿Penal o puro lloro? El explosivo comunicado de Barcelona SC",
-    "etiqueta": "LIGAPRO · POLÉMICA",
-    "club": "barcelona",
-    "audio": "audio/54",
+    "titulo": "¡Castigo durísimo! La FEF sanciona al 11 de Mayo en el Ascenso",
+    "etiqueta": "ASCENSO NACIONAL · POLÉMICA",
+    "audio": "audio/55",
     "franja": [
-      "COMUNICADO OFICIAL",
-      "VS INDEPENDIENTE DEL VALLE",
-      "RECLAMO ARBITRAL"
+      "CUADRANGULAR FINAL",
+      "MULTA DE $6.000",
+      "DOS FECHAS SIN ESTADIO"
     ],
     "escenas": [
       {
-        "texto": "Barcelona Sporting Club acaba de explotar en redes y encendió la polémica en todo el fútbol ecuatoriano.",
-        "foto": "img/IMG_5379.png",
+        "texto": "El cuadrangular final por llegar a la Serie B está que arde y acaba de caer una sanción durísima.",
         "movimiento": "zoom_in",
         "grafico": {
-          "tipo": "titular",
-          "texto": "¡EXPLOTÓ BARCELONA SC!",
-          "sobre": "POLÉMICA EN LIGAPRO"
+          "tipo": "escudo",
+          "escudo": "img/escudos/fef.png",
+          "texto": "¡SANCIÓN DURÍSIMA EN EL ASCENSO!",
+          "sobre": "CUADRANGULAR FINAL"
         },
         "destello": true,
         "hinchada": true
       },
       {
-        "texto": "El Ídolo publicó un comunicado oficial exigiendo justicia tras su duelo ante Independiente del Valle.",
-        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "texto": "Tras los graves incidentes ante Insutec, la Federación Ecuatoriana de Fútbol castigó sin piedad al once de Mayo.",
+        "foto": "img/IMG_5420.png",
         "movimiento": "paneo_izq",
         "grafico": {
           "tipo": "titular",
-          "texto": "COMUNICADO OFICIAL DEL ÍDOLO",
-          "sobre": "VS INDEPENDIENTE DEL VALLE"
+          "texto": "ESCÁNDALO EN EL 11 DE MAYO VS INSUTEC",
+          "sobre": "SEGUNDA CATEGORÍA"
         },
         "transicion": "flash",
         "tono": "urgente"
       },
       {
-        "texto": "Reclaman un supuesto penal clarísimo que el árbitro no pitó y que pudo cambiar el partido.",
-        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "texto": "El equipo manabita dirigido por Miguel Parrales padre recibió seis mil dólares de multa y dos fechas fuera de casa.",
         "movimiento": "zoom_in",
         "grafico": {
-          "tipo": "cita",
-          "texto": "Se trató de un penal clarísimo que no fue sancionado. ¡EXIGIMOS JUSTICIA!",
-          "autor": "Comunicado Oficial, Barcelona SC"
+          "tipo": "cifra",
+          "valor": "$6.000",
+          "texto": "DE MULTA Y DOS FECHAS FUERA DE MANABÍ"
         },
         "transicion": "barrido",
         "suspenso": true
       },
       {
-        "texto": "¿Para ti sí era penal o fue puro lloro amarillo? Te leo en los comentarios, y sigue a Guineo.",
+        "texto": "¿Te parece justa esta sanción o le están cortando las alas a Manabí? Te leo, y sigue a Guineo.",
         "movimiento": "zoom_out",
         "grafico": {
           "tipo": "escudo",
-          "escudo": "img/escudos/barcelona.png",
-          "texto": "¿PENAL O PURO LLORO?",
+          "escudo": "img/escudos/fef.png",
+          "texto": "¿CASTIGO JUSTO O EXAGERADO?",
           "sobre": "OPINA EN COMENTARIOS"
         },
         "transicion": "zoom"
       },
       {
-        "texto": "En las repeticiones muchos hinchas aseguran que el jugador se deja caer y que no hubo falta.",
-        "foto": "img/IMG_5379.png",
+        "texto": "La dirigencia ya anunció que va a apelar para intentar cerrar el torneo junto a su gente en territorio manabita.",
         "movimiento": "paneo_der",
         "grafico": {
-          "tipo": "titular",
-          "texto": "LAS REDES DICEN: ¡NO FUE PENAL!",
-          "sobre": "DEBATE ENCENDIDO"
+          "tipo": "cita",
+          "texto": "Apelaremos para disputar al menos nuestro último encuentro en Manabí.",
+          "autor": "Dirigencia de 11 de Mayo FC"
         },
         "transicion": "glitch"
       },
       {
-        "texto": "Pero la directiva torera ya pidió explicaciones formales a la Comisión de Arbitraje porque...",
-        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "texto": "Pero si el reclamo no prospera, tendrán que mudarse hasta Santo Domingo mientras la pelea por el ascenso sigue porque...",
+        "foto": "img/IMG_5421.jpeg",
         "movimiento": "zoom_in",
         "grafico": {
-          "tipo": "cita",
-          "texto": "La Comisión de Arbitraje debe ofrecer explicaciones y asumir responsabilidades.",
-          "autor": "Barcelona Sporting Club"
+          "tipo": "titular",
+          "texto": "¿SE MUDAN AL ETHO VEGA?",
+          "sobre": "CAMINO A SERIE B"
+        },
+        "transicion": "flash"
+      }
+    ]
+  },
+  {
+    "titulo": "¡Rival confirmado! Ecuador enfrentará a Grecia en dieciseisavos",
+    "etiqueta": "MUNDIAL SUB-17 · DIECISEISAVOS",
+    "club": "ecuador",
+    "audio": "audio/56",
+    "franja": [
+      "GRECIA VS ECUADOR",
+      "30 NOV O 1 DIC · DESDE 07:30",
+      "GRECIA GANÓ EL GRUPO A (9 PTS)"
+    ],
+    "escenas": [
+      {
+        "texto": "Se acabó el misterio en el Mundial Sub diecisiete de Qatar y la Mini Tri ya tiene rival confirmado para matar o morir.",
+        "movimiento": "zoom_in",
+        "grafico": {
+          "tipo": "escudo",
+          "escudo": "img/escudos/ecuador.png",
+          "texto": "¡RIVAL CONFIRMADO PARA LA MINI TRI!",
+          "sobre": "DIECISEISAVOS · QATAR 2026"
+        },
+        "destello": true,
+        "hinchada": true
+      },
+      {
+        "texto": "Ecuador clasificó a los dieciseisavos de final como cuarto mejor tercero con cuatro puntos y enfrentará nada menos que a Grecia.",
+        "foto": "img/IMG_5414.png",
+        "movimiento": "paneo_izq",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "GRECIA VS ECUADOR",
+          "sobre": "CUARTO MEJOR TERCERO · 4 PUNTOS"
+        },
+        "transicion": "flash",
+        "tono": "celebracion"
+      },
+      {
+        "texto": "Los europeos vienen encendidos tras ganar el grupo A con puntaje perfecto: vencieron dos a uno a Egipto, dos a uno a Panamá y golearon cuatro a uno a Catar.",
+        "movimiento": "zoom_in",
+        "grafico": {
+          "tipo": "cifra",
+          "valor": "9",
+          "texto": "PUNTOS · 2-1 EGY · 2-1 PAN · 4-1 QAT"
+        },
+        "transicion": "barrido"
+      },
+      {
+        "texto": "¿Crees que la Mini Tri da el golpe ante los griegos? Te leo abajo, y sigue a Guineo.",
+        "movimiento": "zoom_out",
+        "grafico": {
+          "tipo": "escudo",
+          "escudo": "img/escudos/ecuador.png",
+          "texto": "¿LE GANAMOS A GRECIA EN DIECISEISAVOS?",
+          "sobre": "OPINA EN COMENTARIOS"
+        },
+        "transicion": "zoom"
+      },
+      {
+        "texto": "El partidazo por el pase a octavos se jugará entre el lunes treinta de noviembre y el martes primero de diciembre en jornada matutina desde las siete y media de la mañana, hora de Ecuador.",
+        "foto": "img/IMG_5413.png",
+        "movimiento": "paneo_der",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "30 NOV O 1 DIC · DESDE LAS 07:30",
+          "sobre": "HORA DE ECUADOR · RONDA DE 32"
+        },
+        "transicion": "glitch",
+        "suspenso": true
+      },
+      {
+        "texto": "Mientras se confirma el horario exacto del pitazo inicial, Marcelo Gallardo ya analiza cada detalle desde Doha porque el sueño mundialista recién empieza en...",
+        "foto": "img/IMG_5422.jpeg",
+        "movimiento": "zoom_in",
+        "grafico": {
+          "tipo": "titular",
+          "texto": "GALLARDO ANALIZA A LA SUB-17 EN DOHA",
+          "sobre": "PROYECTO LA TRI"
         },
         "transicion": "flash"
       }
