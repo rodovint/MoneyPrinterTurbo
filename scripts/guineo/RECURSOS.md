@@ -222,3 +222,8 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
 - `scripts/guineo/animacion/ref-plastilina.png` sale de Berna (noche, lluvia, barro, equipos rojo/amarillo) y Cloudflare COPIA ese clima y esos colores. Con una sola referencia, 3 de 8 escenas de Rattín (Wembley 1966, soleado) salieron con lluvia y una pelea de Berna.
 - Regla: si la historia NO es de noche con lluvia, NO usar esa referencia. Usar una imagen ya buena de la misma historia o ninguna, y escribir en "estilo": "sunny afternoon, dry grass, blue sky, no rain, no mud, no floodlights on".
 - Cupo de Cloudflare: 8 imágenes en 9b gastan casi todo el día. Mandar todas las escenas en un solo lote y revisar la hoja de contacto antes de pedir más.
+
+### Guineo Animación en GitHub sin Claude (27/11)
+- Action **"Guineo Animación"** (.github/workflows/animacion.yml): al subir `scripts/guineo/animacion/<id>/corto.json`, renderiza con animar.py y deja el mp4 en Releases ("Guineo Animación: <id>"). También se lanza a mano desde Actions con el id.
+- Súper prompt para que cualquier IA escriba el guion y el corto.json: `scripts/guineo/animacion/PROMPT-CORTO-ANIMACION.md`.
+- Clip de Gemini de Mui para la Hazaña de La Plata: `lotes/img/laplata/video/gemini-original.mp4` (10 s: mapa, trofeos, cura, remate, gol, festejo). En los bordes de algunos planos se ven manos: recortar.

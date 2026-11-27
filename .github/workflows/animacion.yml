@@ -1,0 +1,48 @@
+name: Guineo Animación
+
+# Renderiza los cortos de plastilina: al subir scripts/guineo/animacion/<id>/corto.json
+# el video queda en Releases como animacion-<id>-<fecha>.
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "Carpeta del corto (ej. laplata)"
+        required: true
+  push:
+    branches: [main]
+    paths: ["scripts/guineo/animacion/*/corto.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Instalar dependencias
+        run: pip install -q numpy pillow
+      - name: Renderizar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p out
+          if [ -n "${{ github.event.inputs.id }}" ]; then
+            IDS="${{ github.event.inputs.id }}"
+          else
+            IDS=$(git diff --name-only HEAD~1 HEAD -- 'scripts/guineo/animacion/*/corto.json' | cut -d/ -f4 | sort -u)
+          fi
+          for id in $IDS; do
+            echo "== $id"
+            if python3 scripts/guineo/animacion/animar.py "scripts/guineo/animacion/$id/corto.json" "out/$id.mp4" 2>&1 | tee "out/$id-log.txt"; then
+              tag="animacion-$id-$(date -u +%Y%m%d-%H%M)"
+              gh release create "$tag" "out/$id.mp4" "out/$id-log.txt" --title "Guineo Animación: $id" --notes "Render de scripts/guineo/animacion/$id/corto.json" --target "${{ github.sha }}"
+            else
+              echo "::error::Falló el render de $id (revisa out/$id-log.txt)"; exit 1
+            fi
+          done
