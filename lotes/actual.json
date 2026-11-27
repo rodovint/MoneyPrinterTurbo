@@ -12,7 +12,7 @@
     "escenas": [
       {
         "texto": "Barcelona Sporting Club acaba de explotar en redes y encendió la polémica en todo el fútbol ecuatoriano.",
-        "foto": "lotes/img/IMG_5379.png",
+        "foto": "img/IMG_5379.png",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "titular",
@@ -24,7 +24,7 @@
       },
       {
         "texto": "El Ídolo publicó un comunicado oficial exigiendo justicia tras su duelo ante Independiente del Valle.",
-        "foto": "lotes/img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
         "movimiento": "paneo_izq",
         "grafico": {
           "tipo": "titular",
@@ -36,7 +36,7 @@
       },
       {
         "texto": "Reclaman un supuesto penal clarísimo que el árbitro no pitó y que pudo cambiar el partido.",
-        "foto": "lotes/img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "cita",
@@ -59,7 +59,7 @@
       },
       {
         "texto": "En las repeticiones muchos hinchas aseguran que el jugador se deja caer y que no hubo falta.",
-        "foto": "lotes/img/IMG_5379.png",
+        "foto": "img/IMG_5379.png",
         "movimiento": "paneo_der",
         "grafico": {
           "tipo": "titular",
@@ -70,7 +70,7 @@
       },
       {
         "texto": "Pero la directiva torera ya pidió explicaciones formales a la Comisión de Arbitraje porque...",
-        "foto": "lotes/img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
+        "foto": "img/0D87D7C4-C035-4FDB-A399-6FA3D83324FC.jpeg",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "cita",
