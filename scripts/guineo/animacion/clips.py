@@ -11,17 +11,18 @@ ide = sys.argv[1]
 pedidas = [a for a in sys.argv[2:] if not a.startswith("--")]
 pedidas = [e.strip() for e in ",".join(pedidas).split(",") if e.strip()]
 base = f"lotes/img/{ide}"
-imgs = sorted(glob.glob(f"{base}/*.png"))
-if pedidas:
-    imgs = [f"{base}/{e}.png" for e in pedidas if os.path.exists(f"{base}/{e}.png")]
-print("escenas:", [os.path.basename(i)[:-4] for i in imgs])
+todas = sorted(glob.glob(f"{base}/*.png"))
+imgs = [f"{base}/{e}.png" for e in pedidas if os.path.exists(f"{base}/{e}.png")] if pedidas else todas
+print("clips de:", [os.path.basename(i)[:-4] for i in imgs] if pedidas else "ninguna (solo profundidad)")
 
 if "--sin-depth" not in sys.argv:
     from PIL import Image
     from transformers import pipeline
     os.makedirs(f"{base}/depth", exist_ok=True)
     pipe = pipeline("depth-estimation", model="depth-anything/Depth-Anything-V2-Small-hf")
-    for f in imgs:
+    for f in todas:  # profundidad de TODAS las imágenes (las que ya tienen se saltan)
+        if os.path.exists(f"{base}/depth/" + os.path.basename(f)):
+            continue
         im = Image.open(f).convert("RGB")
         pipe(im)["depth"].resize(im.size).save(f"{base}/depth/" + os.path.basename(f)); print("depth ok", f)
 
