@@ -1,0 +1,260 @@
+{
+ "voz": "lotes/audio/laplata.m4a",
+ "color": "#F6C90E",
+ "lluvia": false,
+ "ambiente": "hinchada",
+ "tramos": [
+  [
+   1.75,
+   4.75
+  ],
+  [
+   5.32,
+   9.9
+  ],
+  [
+   10.65,
+   13.15
+  ],
+  [
+   13.58,
+   19.9
+  ],
+  [
+   20.55,
+   23.7
+  ],
+  [
+   24.3,
+   26.27
+  ],
+  [
+   28.24,
+   31.75
+  ],
+  [
+   33.95,
+   41.2
+  ],
+  [
+   41.83,
+   46.15
+  ],
+  [
+   47.74,
+   53.4
+  ]
+ ],
+ "silencios": {
+  "31.75": 1.0,
+  "46.15": 0.6
+ },
+ "escenas": [
+  {
+   "t": 1.75,
+   "img": "lotes/img/laplata/trofeos.png",
+   "depth": "lotes/img/laplata/depth/trofeos.png",
+   "video": "lotes/img/laplata/video/trofeos.mp4",
+   "mov": "zoom_in",
+   "texto": "INVENCIBLES… HASTA ESA NOCHE",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 5.32,
+   "img": "lotes/img/laplata/trofeos.png",
+   "depth": "lotes/img/laplata/depth/trofeos.png",
+   "mov": "zoom_in",
+   "texto": "TRICAMPEÓN · 68 · 69 · 70",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 10.65,
+   "img": "lotes/img/laplata/bruja.png",
+   "depth": "lotes/img/laplata/depth/bruja.png",
+   "mov": "pan_der",
+   "texto": "LA BRUJA VERÓN",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 13.58,
+   "img": "lotes/img/laplata/mapa.png",
+   "depth": "lotes/img/laplata/depth/mapa.png",
+   "video": "lotes/img/laplata/video/mapa.mp4",
+   "mov": "zoom_in",
+   "texto": "29 DE ABRIL DE 1971",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 20.55,
+   "img": "lotes/img/laplata/llegada.png",
+   "depth": "lotes/img/laplata/depth/llegada.png",
+   "mov": "sacudon",
+   "sfx": [
+    "silbato"
+   ]
+  },
+  {
+   "t": 24.3,
+   "img": "lotes/img/laplata/trofeos.png",
+   "depth": "lotes/img/laplata/depth/trofeos.png",
+   "mov": "pan_izq",
+   "texto": "¿TÚ QUÉ HUBIERAS APOSTADO?",
+   "efecto": "flash",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 28.24,
+   "img": "lotes/img/laplata/cura-espalda.png",
+   "depth": "lotes/img/laplata/depth/cura-espalda.png",
+   "mov": "zoom_in",
+   "efecto": "camara_lenta",
+   "sfx": [
+    "redoble"
+   ]
+  },
+  {
+   "t": 33.95,
+   "img": "lotes/img/laplata/spencer.png",
+   "depth": "lotes/img/laplata/depth/spencer.png",
+   "mov": "zoom_in",
+   "texto": "PASE DE SPENCER",
+   "sfx": [
+    "patada"
+   ]
+  },
+  {
+   "t": 35.1,
+   "img": "lotes/img/laplata/remate.png",
+   "depth": "lotes/img/laplata/depth/remate.png",
+   "video": "lotes/img/laplata/video/gol.mp4",
+   "mov": "zoom_in",
+   "efecto": "flash",
+   "sfx": [
+    "patada",
+    "golpe"
+   ]
+  },
+  {
+   "t": 36.1,
+   "img": "lotes/img/laplata/tablero.png",
+   "depth": "lotes/img/laplata/depth/tablero.png",
+   "mov": "zoom_in",
+   "marcador": [
+    "EST",
+    0,
+    "BSC",
+    1
+   ],
+   "marcador_pos": "centro",
+   "efecto": "flash",
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 41.83,
+   "img": "lotes/img/laplata/cura-espalda.png",
+   "depth": "lotes/img/laplata/depth/cura-espalda.png",
+   "mov": "zoom_in",
+   "sfx": [
+    "redoble"
+   ]
+  },
+  {
+   "t": 43.1,
+   "img": "lotes/img/laplata/cura-frente.png",
+   "depth": "lotes/img/laplata/depth/cura-frente.png",
+   "video": "lotes/img/laplata/video/cura.mp4",
+   "mov": "zoom_in",
+   "efecto": "flash",
+   "titulo": "PADRE|BAZURKO",
+   "titulo_en": 44.6,
+   "sfx": [
+    "golpe"
+   ]
+  },
+  {
+   "t": 47.74,
+   "img": "lotes/img/laplata/festejo.png",
+   "depth": "lotes/img/laplata/depth/festejo.png",
+   "video": "lotes/img/laplata/video/festejo.mp4",
+   "mov": "zoom_out",
+   "titulo": "LA HAZAÑA|DE LA PLATA",
+   "titulo_en": 49.3,
+   "sfx": [
+    "golpe"
+   ]
+  }
+ ],
+ "subtitulos": [
+  [
+   1.75,
+   4.75,
+   "Eran los reyes de América… y en su casa nadie les ganaba."
+  ],
+  [
+   5.32,
+   9.9,
+   "Estudiantes de La Plata: tricampeón de la Libertadores. 68, 69 y 70."
+  ],
+  [
+   10.65,
+   13.15,
+   "Con la Bruja Verón, el papá de la Brujita, dentro de la cancha."
+  ],
+  [
+   13.58,
+   19.9,
+   "29 de abril de 1971, semifinal. Llega un equipo de Guayaquil al que veían como de tercera."
+  ],
+  [
+   20.55,
+   23.7,
+   "Barcelona. Y en el estadio les decían que los iban a golear."
+  ],
+  [
+   24.3,
+   26.27,
+   "¿Tú qué hubieras apostado? Te leo."
+  ],
+  [
+   28.24,
+   31.75,
+   "Pero el Ídolo traía un arma secreta… un delantero que no era como los demás."
+  ],
+  [
+   33.95,
+   36.1,
+   "Pase de Alberto Spencer… remate… ¡gol!"
+  ],
+  [
+   36.1,
+   41.2,
+   "Uno a cero. El tricampeón perdía por primera vez en su casa en la Libertadores."
+  ],
+  [
+   41.83,
+   46.15,
+   "¿Y el goleador? Un sacerdote español: el padre Juan Manuel Bazurko."
+  ],
+  [
+   47.74,
+   53.4,
+   "Desde esa noche, Ecuador la llama la Hazaña de La Plata… la noche en que los reyes de América perdieron en casa."
+  ]
+ ],
+ "cierre": {
+  "texto": "Síguenos para más|historias futboleras",
+  "dur": 3.0
+ }
+}
