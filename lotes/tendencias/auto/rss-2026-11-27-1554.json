@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-27T15:53-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "paris fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brest Vs Paris Fc: Paris FC could go top by winning by more than three goals (شبكة تواصل الإخبارية)",
+     "Ligue 1 fixtures: weekend schedule and kick-off times (27-29 November 2026) (Sport News Africa)"
+    ]
+   },
+   {
+    "tema": "venezia vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NEWS - Bastoni, Davis, Ramos, Taylor, Diao, Alajbegovic, Noslin, Belghali, Ostigard, Modric, Volpato: le novità (SOS Fanta)",
+     "Venezia vs Bologna: l’anteprima – Il Venezia può rallentare le partenze veloci del Bologna? (Sofascore)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Luís Castro: \"No hay que parar solo a Zabiri, tenemos que parar al Racing\" (MARCA)",
+     "El Levante sale con Víctor García, Romero y Thiago en ataque y el Racing mantiene a Zabiri (Infobae)"
+    ]
+   },
+   {
+    "tema": "werder bremen - mönchengladbach",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "BL live: Video-Beweis! Diese Szene bringt die Borussia in Front (Tipico)",
+     "Startelf-Debüt für Paul Erevbenagie, Justin Njinmah fällt aus (Werder Bremen)"
+    ]
+   },
+   {
+    "tema": "nottingham forest - chelsea",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Predicted XI: Alonso dodges big decisions and picks player fans are sick of (Talk Chelsea)",
+     "Nottingham Forest vs Chelsea confirmed line-ups as Welbeck starts and Colwill drops out (Dave.Sport)"
+    ]
+   },
+   {
+    "tema": "delfín - orense",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Delfín SC vs. Orense: el partido que puede cambiar la lucha por la permanencia (El Diario Ecuador)",
+     "EN VIVO Delfín vs Orense: transmisión, horario y dónde ver hoy | LigaPro 2026 (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "hola",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T08:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Así es Laura Gómez-Acebo, la hija de Laura Ponte que sigue los pasos de su abuela, la infanta Pilar: discreta, natural y con estilo propio (HOLA)",
+     "Patricia Rato y Espartaco celebran la llegada de su segundo nieto: así se llama el nuevo miembro de la familia (El Mundo)"
+    ]
+   },
+   {
+    "tema": "pabel muñoz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los registros patrimoniales de Pabel Muñoz contradicen la cifra de USD 10 millones difundida en TikTok (Ecuador Chequea)",
+     "Pabel Muñoz: 'Mi invitación al Gobierno es que podamos financiar a medias la extensión del Metro' (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "deportación",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T07:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kilmar Abrego mantiene viva la esperanza de regresar a EE.UU. cuando termine la Administración Trump (Telemundo)",
+     "“Puedo respirar libertad”: primeras declaraciones de Ábrego García al llegar a España tras abandonar EE.UU. (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "hm",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bangladesh raises minimum wage for garment workers after weeks of protests (AP News)",
+     "Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs (The Times of India)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "air force vs new mexico",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Game Day Info: Game 12 - Lobos hosting Air Force (New Mexico Lobos)",
+     "How to watch Air Force vs New Mexico: Live stream College Football, TV channel (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "rick stockstill",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Florida State Coach Leaves Door Open for Major Change Ahead of Florida Showdown (Yahoo Sports)",
+     "Rick Stockstill backs Ashton Daniels as Florida State's starting quarterback for final game against Florida (247Sports)"
+    ]
+   },
+   {
+    "tema": "sean payton",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Broncos suspend RB J.K. Dobbins vs. Steelers for conduct detrimental to team (The New York Times)",
+     "Broncos officially put JK Dobbins on suspended list (NBC Sports)"
+    ]
+   },
+   {
+    "tema": "nick herbig",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Steelers make roster moves ahead of Eagles game (Steelers.com)",
+     "Steelers get massive defensive boost vs. Broncos (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "germie bernard",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Steelers Rookie Continues to Grow with Increased Opportunities (Yahoo Sports)",
+     "Steelers Rookie WR Among Team Captains vs. Broncos (Steelers Now)"
+    ]
+   },
+   {
+    "tema": "dk metcalf suspension",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NFL Network: Steelers' DK Metcalf not expected to be suspended after ejection; WR subject to fines (NFL.com)",
+     "DK Metcalf might have cost Aaron Rodgers his job with the Steelers (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "kirk herbstreit",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kirk Herbstreit Expected to Stay at ESPN Long-Term (Front Office Sports)",
+     "ESPN Makes Surprise Statement on Kirk Herbstreit's 'College GameDay' Contract Future (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "will howard",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Steelers' Drew Allar: Emergency third QB for Week 12 (CBS Sports)",
+     "Drew Allar in uniform for 1st time, Will Howard just 1 snap away from playing for Steelers vs. Broncos (TribLIVE.com)"
+    ]
+   },
+   {
+    "tema": "mason rudolph myles garrett",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Welcome to the bizarro AFC North, where the Browns are standing out: Dan Labbe (Cleveland.com)",
+     "Cleveland Browns News and Rumors 11/25/26: Thanks, I’m Full (Cleveland 19 News)"
+    ]
+   },
+   {
+    "tema": "ohio football",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How can Ohio State football beat Michigan? 3 keys for annual rivalry game (The Columbus Dispatch)",
+     "Can selling tickets to The Game pay off season ticket costs? (NBC4 WCMH-TV)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "últimas encuestas elecciones generales",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Quién va a ganar las elecciones? La probabilidad de cada mayoría según las encuestas (EL PAÍS)",
+     "Encuestas elecciones generales: consulta la evolución diaria de los sondeos para el 29N (ABC)"
+    ]
+   },
+   {
+    "tema": "adoctrinamiento",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los inspectores rechazan la orden de Ayuso contra el “adoctrinamiento” sobre la huelga docente: “No somos una policía ideológica” (EL PAÍS)",
+     "Manual de autodefensa legal para profesores en huelga (elDiario.es)"
+    ]
+   },
+   {
+    "tema": "racing",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Andrew Blair White: 6 tips for Saturday’s racing in the UK & Ireland (Betway Insider)",
+     "WATCH: Tom Segal and Paul Kealy provide their best bets for a cracking weekend's racing on In The Know (Racing Post)"
+    ]
+   },
+   {
+    "tema": "ariana grande",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "‘Focker In-Law’ Review: Ariana Grande Steals the Show (The New York Times)",
+     "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film (The Hollywood Reporter)"
+    ]
+   },
+   {
+    "tema": "el niño netflix",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "En 1980 una explosión de gas en un colegio de Vizcaya conmocionó a todo un país: la historia real de 'El niño', la película de Karra Elejalde y Belén Cuesta que llega a Netflix (El Mundo)",
+     "Netflix vuelve al País Vasco en los 80 con el estreno de esta película basada en un libro de Fernando Aramburu que amenaza con repetir el éxito de 'Patria' (ELLE)"
+    ]
+   },
+   {
+    "tema": "fuerza aérea",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un hackeo al sistema informático de la Fuerza Aérea vuelve a cuestionar la seguridad de las infraestructuras estratégicas de EE UU (EL PAÍS)",
+     "Hackers acceden a la plataforma digital clave de la Fuerza Aérea de EE.UU. (La Vanguardia)"
+    ]
+   },
+   {
+    "tema": "ireland vs australia",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ireland vs Australia LIVE: Nations Championship 2026 - build-up, team news, match stats, live text & radio commentary (BBC)",
+     "Ireland must be ruthless to back up their Springboks win (RTE.ie)"
+    ]
+   },
+   {
+    "tema": "bernardo silva",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Mourinho se salta la teoría moderna con Bernardo (Diario AS)",
+     "La remontada de la estrella del Real Madrid: de «pobrecito» fuera de los planes de Mourinho a pieza clave de su once (Goal.com)"
+    ]
+   },
+   {
+    "tema": "steelers - broncos",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T12:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Who is singing the national anthem at the Broncos vs Steelers game on Black Friday? (Diario AS)",
+     "Polymarket Promo Code SIBONUS: Deposit $10, Get $25 for Denver vs. Pittsburgh Black Friday Game (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "base militar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Un oficial del Ejército se gasta el dinero de la base militar en bogavantes, vinos y whisky y acaba condenado (Diario AS)",
+     "Condenan a prisión a un oficial del Ejército del Aire por gastarse el dinero recaudado por las cafeterías y cocinas de la base en “bogavantes, vinos, embutidos de calidad y whisky” (Directo al Paladar)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "elizabeth holmes",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’ (IMDb)",
+     "Elizabeth Holmes’ Fiancé Makes Desperate Plea to Get Her Out of Prison (Yahoo)"
+    ]
+   },
+   {
+    "tema": "irlanda - australia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡EN VIVO! Seguí lo mejor de Irlanda vs Australia por la definición del Nations Championship (ESPN Argentina)",
+     "Irlanda se enfrentará a Australia en busca del quinto lugar en el torneo (Rugby Champagne)"
+    ]
+   },
+   {
+    "tema": "bologna",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Venezia-Bologna: Formazioni ufficiali e Cronaca in diretta (Virgilio)",
+     "NEWS - Bastoni, Davis, Ramos, Taylor, Diao, Alajbegovic, Noslin, Belghali, Ostigard, Modric, Volpato: le novità (SOS Fanta)"
+    ]
+   },
+   {
+    "tema": "paris fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brest Vs Paris Fc: Paris FC could go top by winning by more than three goals (شبكة تواصل الإخبارية)",
+     "Ligue 1 Matchweek 12 Odds In Canada: PSG, Lille, Lyon Picks (RG.org)"
+    ]
+   },
+   {
+    "tema": "inundación",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Tormentas persisten en EE.UU. con más de 2.000 vuelos afectados y 460.000 clientes sin luz (Clarin.com)",
+     "Cientos de miles de personas sin electricidad en EEUU tras tormenta de Acción de Gracias (Clarin.com)"
+    ]
+   },
+   {
+    "tema": "pierre gasly",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Franco Colapinto planteó su preocupación por el rendimiento de Alpine en el primer día del GP de Qatar: “No estamos cómodos” (Infobae)",
+     "Franco Colapinto fue 15º en la segunda práctica en Qatar, dominada por los Mercedes (La Nación)"
+    ]
+   },
+   {
+    "tema": "diego peretti",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los denunciantes de Hernán Casciari acusaron a Diego Peretti en la Justicia: la desmentida del actor (Infobae)",
+     "Diego Peretti fue incluido en la denuncia penal contra Hernán Casciari por el financiamiento de La muerte de un comediante (La Nación)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Levante vs Racing, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV (TN)",
+     "(Previa) El Levante busca reaccionar ante un Racing que aspira a Europa (Infobae)"
+    ]
+   },
+   {
+    "tema": "nottingham forest - chelsea",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates (BBC)",
+     "Chelsea fans’ preferred lineup against Nottingham Forest: How many votes did Fofana get? (We Ain't Got No History)"
+    ]
+   },
+   {
+    "tema": "venezia - bolonia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Venezia vs Bologna: Italian Serie A stats & head-to-head (BBC)",
+     "Licensable picture: SOCCER - Serie A - Venezia FC vs. Bologna FC (Reuters Connect)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "nfl hoy",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Toca a Steelers ponerse a prueba cuando reciba a Broncos (Reforma)",
+     "NFL Black Friday 2026: Steelers vs Broncos, horario y dónde ver (Life and Style)"
+    ]
+   },
+   {
+    "tema": "nfl en vivo",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Jerry Jones apoya a Schottenheimer pese \"frustrante\" derrota (ESPN México)",
+     "NFL: Cowboys y un colapso para la posteridad en casa (ESPN Deportes)"
+    ]
+   },
+   {
+    "tema": "steelers",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sources corroborate Aaron Rodgers' allegations on Steelers coach Mike McCarthy (ESPN)",
+     "Steelers prez Art Rooney II backs Mike McCarthy, criticizes Aaron Rodgers for 'insubordination' (NFL.com)"
+    ]
+   },
+   {
+    "tema": "invierno",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "FORTALECEN FEDERACIÓN Y ESTADOS COORDINACIÓN PREVENTIVA EN LA REUNIÓN NACIONAL DE PROTECCIÓN CIVIL 2026 (Gob MX)",
+     "Es Morelos punto de encuentro de entidades federativas para la prevención de riesgos y desastres (Gobierno del Estado de Morelos)"
+    ]
+   },
+   {
+    "tema": "cuanto dura el black friday",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T12:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Black Friday 2026: ideas para no perderse en un mar de ofertas (CNN en Español)",
+     "Black Friday 2026, en directo: las mejores ofertas de Amazon y otras tiendas, minuto a minuto (EL PAÍS)"
+    ]
+   },
+   {
+    "tema": "bologna",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T12:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LIVE Venezia- Bologna 0-0: annullato il gol di Halhal (La Gazzetta dello Sport)",
+     "NEWS - Bastoni, Davis, Ramos, Taylor, Diao, Alajbegovic, Noslin, Belghali, Ostigard, Modric, Volpato: le novità (SOS Fanta)"
+    ]
+   },
+   {
+    "tema": "heraldos del evangelio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T12:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Vaticano nombra a tres comisarios para los Heraldos del Evangelio (Vatican News)",
+     "Vaticano nombra 3 nuevos comisarios para supervisar a los Heraldos del Evangelio y sus dos sociedades (ZENIT - Espanol - El mundo visto desde Roma)"
+    ]
+   },
+   {
+    "tema": "francia - venezuela",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Amistoso internacional: Francia 0 vs 1 Venezuela | Las criollas toman ventaja (Meridiano.net)",
+     "Vinotinto Femenina mide fuerzas ante la potencia francesa (Líder en deportes)"
+    ]
+   },
+   {
+    "tema": "paris fc",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brest Vs Paris Fc: Paris FC could go top by winning by more than three goals (شبكة تواصل الإخبارية)",
+     "Ligue 1 Matchweek 12 Odds In Canada: PSG, Lille, Lyon Picks (RG.org)"
+    ]
+   },
+   {
+    "tema": "bologna vs",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Venezia vs Bologna: Italian Serie A stats & head-to-head (BBC)",
+     "Licensable picture: SOCCER - Serie A - Venezia FC vs. Bologna FC (Reuters Connect)"
+    ]
+   }
+  ]
+ }
+}
