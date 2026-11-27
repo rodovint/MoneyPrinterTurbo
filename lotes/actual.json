@@ -3,52 +3,54 @@
     "titulo": "Emelec vs Liga de Quito 2017: la remontada que nadie vio venir",
     "etiqueta": "SERIE A · EFEMÉRIDE 2017",
     "club": "emelec",
-    "audio": "audio/52",
+    "audio": "audio/53",
     "franja": ["LIGA 2 - 4 EMELEC", "RODRIGO PAZ DELGADO", "REMONTADA HISTÓRICA"],
     "escenas": [
       {
-        "texto": "Empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
+        "texto": "Un día como hoy, Emelec empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
         "video": "videos/Efemeride Emelec 1.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "titular", "texto": "EMPEZÓ DORMIDO", "sobre": "RODRIGO PAZ · 2017"},
+        "grafico": {"tipo": "titular", "texto": "UN DÍA COMO HOY", "sobre": "EMELEC · 2017"},
         "transicion": "flash",
         "destello": true
       },
       {
-        "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Anderson Julio a los seis y autogol de Ramos a los nueve.",
+        "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Betancourt a los seis y autogol de Ramos a los nueve, tras un centro de Betancourt.",
         "foto": "img/escudos/liga.png",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "tv",
-          "titulo": "LIGA GOLPEÓ DOS VECES",
+          "titulo": "AUTOGOL DE RAMOS 9'",
           "local": {"nombre": "LIGA", "color": "#FFFFFF"},
           "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
           "jugadores": [
-            {"id": "9", "equipo": "local", "x": 55, "y": 20},
+            {"id": "7", "equipo": "local", "x": 15, "y": 70},
+            {"id": "4", "equipo": "rival", "x": 45, "y": 30},
             {"id": "1", "equipo": "rival", "x": 50, "y": 5, "arquero": true}
           ],
-          "balon": "9",
+          "balon": "7",
           "pasos": [
-            {"balon": [52, 12], "flecha": "tiro", "gol": true, "texto": "SOMBRERITO DE JULIO 6'"},
-            {"balon": [50, -1], "flecha": "tiro", "gol": true, "texto": "AUTOGOL DE RAMOS 9'"}
+            {"mover": {"7": [30, 40]}, "balon": [30, 40], "flecha": "conduccion", "texto": "BETANCOURT CENTRA"},
+            {"balon": [48, 8], "flecha": "pase", "texto": "CENTRO AL ÁREA"},
+            {"mover": {"4": [48, 6]}, "balon": [48, 8], "flecha": "tiro", "gol": true, "texto": "AUTOGOL DE RAMOS"}
           ],
-          "marcador": {"local": "LIG", "rival": "EME", "antes": [0, 0], "despues": [2, 0], "minuto": "6' y 9'"}
+          "marcador": {"local": "LIG", "rival": "EME", "antes": [1, 0], "despues": [2, 0], "minuto": "9'"}
         },
-        "transicion": "barrido",
+        "transicion": "flash",
         "suspenso": true
       },
       {
-        "texto": "El Cuco Angulo descontó a los veintisiete con un derechazo al ángulo y Guagua puso el dos a dos a los treinta y cuatro.",
+        "texto": "El Cuco Angulo descontó a los 27 con un derechazo al ángulo y Guagua puso el dos a dos a los 34.",
         "video": "videos/Efemeride emelec 2.mp4",
-        "video_inicio": 10,
+        "video_inicio": 6,
         "movimiento": "paneo_der",
         "grafico": {"tipo": "ninguno"},
         "transicion": "flash",
         "suspenso": true
       },
       {
-        "texto": "En el complemento Emelec fue una tromba y en dos minutos lo dio vuelta con cabezazos de Ayrton Preciado a los cincuenta y seis",
+        "texto": "En el complemento Emelec fue una tromba, y en dos minutos le dio vuelta con cabezazo de Ayrton Preciado a los 56.",
         "video": "videos/Efemeride emelec 3.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
@@ -59,7 +61,7 @@
         "hinchada": true
       },
       {
-        "texto": "y Matamoros a los cincuenta y ocho.",
+        "texto": "Y Matamoros a los 58.",
         "video": "videos/Efemeride emelec 4.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
@@ -70,7 +72,7 @@
         "hinchada": true
       },
       {
-        "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo.",
+        "texto": "Para ti, ¿dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo Comunicaciones.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "quieto",
         "grafico": {
@@ -86,7 +88,7 @@
         "hinchada": true
       },
       {
-        "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
+        "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde 2013.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "zoom_out",
         "grafico": {"tipo": "cifra", "valor": "2013", "texto": "SIN GANAR AHÍ DESDE"},
@@ -94,7 +96,7 @@
         "tono": "recuerdo"
       },
       {
-        "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
+        "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con 42 puntos y a un paso de la final.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "zoom_in",
         "grafico": {"tipo": "cifra", "valor": "42", "texto": "PUNTOS · LÍDER"},
