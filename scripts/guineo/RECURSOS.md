@@ -237,3 +237,12 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
   - Lo que se mueve en cada clip va en `lotes/img/<id>/movimientos.json`.
 - Cupo gratis de GPU de HF (con token): alcanza para unos 4 clips por tanda. HF_TOKEN se pega SIN espacios ni saltos de línea.
 - Las IAs externas no pueden escuchar el audio: los "tramos" SIEMPRE salen de tramos.txt (en "clasificacion" la IA los inventó y se cortaban frases).
+
+
+## REGLAS DE RETENCIÓN POR DATOS (27/11, curvas de YouTube) — mandan sobre las anteriores
+Datos: Ronaldinho (32 s) se quedó 58 % → 1.811 vistas. Rattín (58 s) se quedó 41 %, retención 33 %. Emelec sociedad (35 s) se quedó 32 % → 128 vistas.
+1. PRIMER CUADRO: imagen con acción o una cara/nombre reconocible. Nunca un cartel de texto sobre fondo oscuro (Emelec: 68 % deslizó). (Mui ya lo había pedido: primeros 3 s vitales.)
+2. FRASE 2 SIN CONTEXTO: sigue la tensión o la acción. Año, lugar y torneo van solo como texto en pantalla, no narrados. (Rattín cayó del 95 % al 55 % entre el s 3 y el 8 al pasar a "Wembley, 1966, cuartos de final".)
+3. SIN PREGUNTA A MITAD EN HISTORIAS: la pregunta va en la ÚLTIMA frase y enlaza con el bucle ("¿Tú te hubieras ido?"). En noticias, como mucho media frase sin pausa ni placa. (Rattín perdió ~15 puntos justo en "¿Tú te hubieras ido? Te leo." del s 25.) Reemplaza la regla "pregunta a MITAD".
+4. DURACIÓN: noticias 25–35 s; Guineo Animación 40–45 s como máximo (8 frases); SRF sin cambio.
+5. META por video: "Se quedaron para mirar" > 55 % y retención > 50 %. Cada semana revisar los 3 mejores y los 3 peores.

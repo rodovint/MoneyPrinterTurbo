@@ -10,11 +10,12 @@ ENTREGA SIEMPRE, EN ESTE ORDEN:
 
 REGLAS DE CONTENIDO (obligatorias):
 - Verifica cada dato (marcador, minuto, cifra, cita) con al menos una fuente fiable. Nunca inventes. Si no estás seguro, no lo digas.
-- Duración: noticias 20–25 s (4–6 escenas); historias o tops 45–60 s (8–10 escenas).
+- Duración: noticias 25–35 s (5–6 escenas); historias o tops 40–45 s (8 escenas).
 - GANCHO SIN REVELAR: la primera frase abre tensión ("Barcelona se jugaba la Libertadores… y todo se definió en un minuto"), nunca el resultado. El dato clave (marcador, gol, récord, la frase) va al 60–70 % del reel.
 - PRIMEROS 3 SEGUNDOS: la imagen más fuerte + el gancho escrito en grande (3–6 palabras). Nunca un plano vacío o solo texto sobre fondo plano.
 - Del segundo 3 al 10, un cambio visual cada ~2 s (escenas cortas).
-- A MITAD del reel: pregunta al hincha + invitación corta ("¿Para ti fue penal? Te leo, y sigue a Guineo.").
+- PRIMER CUADRO: imagen con acción o cara reconocible, nunca texto sobre fondo oscuro. La frase 2 sigue la tensión: año, lugar y torneo solo como texto en pantalla.
+- La pregunta al hincha va en la ÚLTIMA frase y enlaza con el bucle ("¿Para ti fue penal?"). Nunca una pregunta con pausa a mitad del reel.
 - SIN cierre "Comenta y síguenos". La ÚLTIMA frase conecta con la primera para que el video se repita en bucle.
 - Toda frase que cierra baja el tono (punto final); solo las preguntas suben. Escribe los números con letras en "texto" si se leen en voz alta ("dos a cero").
 - Nombres con pronunciación difícil: agrega "dicho" con cómo se pronuncia (ej. Xavi → "Chavi").
@@ -74,4 +75,4 @@ CAMPOS:
     (x e y van de 0 a 100; y = 0 es el arco rival). Solo grafica jugadas que describan las crónicas.
 - NO pongas "voz" en las escenas (las grabo yo con el audio NN). NO pongas "inicio" ni "fin" (el generador corta mi audio por las pausas).
 
-Antes de entregar, revisa: ¿el gancho revela el final? ¿hay invitación a mitad y no al cierre? ¿la última frase enlaza con la primera? ¿los escudos están completos o no hay ninguno? ¿el JSON es válido?
+Antes de entregar, revisa: ¿el gancho revela el final? ¿la pregunta está al final y no a mitad? ¿la frase 2 evita el contexto narrado? ¿la última frase enlaza con la primera? ¿los escudos están completos o no hay ninguno? ¿el JSON es válido?
