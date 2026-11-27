@@ -8,7 +8,7 @@
     "escenas": [
       {
         "texto": "Liga de Quito se ponía dos a cero en diez minutos.",
-        "foto": "videos/efemeride emelec 1.mp4",
+        "foto": "lotes/videos/Efemeride Emelec 1.mp4",
         "movimiento": "zoom_in",
         "grafico": {"tipo": "titular", "texto": "2-0 EN 10 MINUTOS", "sobre": "CASA BLANCA 2017"},
         "transicion": "flash",
@@ -16,7 +16,7 @@
       },
       {
         "texto": "Pero Angulo sacó un zapatazo al ángulo, y Guagua empató de cabeza antes del descanso.",
-        "foto": "videos/efemeride emelec 2.mp4",
+        "foto": "lotes/videos/Efemeride emelec 2.mp4",
         "movimiento": "paneo_der",
         "grafico": {"tipo": "cifra", "valor": "27'", "texto": "GOL DE ANGULO"},
         "transicion": "barrido",
@@ -24,7 +24,7 @@
       },
       {
         "texto": "En el segundo tiempo, Preciado y Matamoros completaron la remontada en dos minutos.",
-        "foto": "videos/efemeride emelec 3.mp4",
+        "foto": "lotes/videos/Efemeride emelec 3.mp4",
         "movimiento": "zoom_in",
         "grafico": {"tipo": "cifra", "valor": "56'", "texto": "GOL DE PRECIADO"},
         "transicion": "flash",
@@ -34,7 +34,7 @@
       },
       {
         "texto": "Matamoros selló el dos a cuatro con un cabezazo desde el piso.",
-        "foto": "videos/efemeride emelec 4.mp4",
+        "foto": "lotes/videos/Efemeride emelec 4.mp4",
         "movimiento": "zoom_in",
         "grafico": {"tipo": "cifra", "valor": "58'", "texto": "GOL DE MATAMOROS"},
         "transicion": "flash",
