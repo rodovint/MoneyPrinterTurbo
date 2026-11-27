@@ -1,126 +1,310 @@
-[
-  {
-    "titulo": "Emelec vs Liga de Quito 2017: la remontada que nadie vio venir",
-    "etiqueta": "SERIE A · EFEMÉRIDE 2017",
-    "club": "emelec",
-    "franja": ["LIGA 2 - 4 EMELEC", "RODRIGO PAZ DELGADO", "REMONTADA HISTÓRICA"],
-    "escenas": [
-      {
-        "texto": "Un día como hoy, Emelec empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-        "voz": "mui",
-        "video": "videos/Efemeride Emelec 1.mp4",
-        "video_inicio": 0,
-        "movimiento": "zoom_in",
-        "grafico": {"tipo": "titular", "texto": "UN DÍA COMO HOY", "sobre": "EMELEC · 2017"},
-        "transicion": "flash",
-        "destello": true
-      },
-      {
-        "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Anderson Julio a los seis y autogol de Ramos a los nueve, tras un centro de Betancourt.",
-        "voz": "mui",
-        "foto": "img/escudos/liga.png",
-        "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "tv",
-          "titulo": "LIGA GOLPEÓ DOS VECES",
-          "local": {"nombre": "LIGA", "color": "#FFFFFF"},
-          "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
-          "jugadores": [
-            {"id": "9", "equipo": "local", "x": 55, "y": 20},
-            {"id": "7", "equipo": "local", "x": 15, "y": 70},
-            {"id": "4", "equipo": "rival", "x": 45, "y": 30},
-            {"id": "1", "equipo": "rival", "x": 50, "y": 5, "arquero": true}
-          ],
-          "balon": "9",
-          "pasos": [
-            {"balon": [52, 12], "flecha": "tiro", "gol": true, "texto": "SOMBRERITO DE JULIO 6'"},
-            {"mover": {"7": [30, 40]}, "balon": [30, 40], "flecha": "conduccion", "texto": "BETANCOURT CENTRA"},
-            {"balon": [48, 8], "flecha": "pase", "texto": "CENTRO AL ÁREA"},
-            {"mover": {"4": [48, 6]}, "balon": [48, 8], "flecha": "tiro", "gol": true, "texto": "AUTOGOL DE RAMOS 9'"}
-          ],
-          "marcador": {"local": "LIG", "rival": "EME", "antes": [0, 0], "despues": [2, 0], "minuto": "6' y 9'"}
-        },
-        "transicion": "flash",
-        "suspenso": true
-      },
-      {
-        "texto": "El Cuco Angulo descontó a los veintisiete con un derechazo al ángulo y Guagua puso el dos a dos a los treinta y cuatro.",
-        "voz": "mui",
-        "video": "videos/Efemeride emelec 2.mp4",
-        "video_inicio": 3,
-        "movimiento": "paneo_der",
-        "grafico": {"tipo": "ninguno"},
-        "transicion": "flash",
-        "suspenso": true
-      },
-      {
-        "texto": "En el complemento Emelec fue una tromba y en dos minutos le dio vuelta con cabezazo de Ayrton Preciado a los cincuenta y seis.",
-        "voz": "mui",
-        "video": "videos/Efemeride emelec 3.mp4",
-        "video_inicio": 3,
-        "movimiento": "zoom_in",
-        "grafico": {"tipo": "ninguno"},
-        "transicion": "flash",
-        "destello": true,
-        "tono": "celebracion",
-        "hinchada": true
-      },
-      {
-        "texto": "Y Matamoros a los cincuenta y ocho.",
-        "voz": "mui",
-        "video": "videos/Efemeride emelec 4.mp4",
-        "video_inicio": 3,
-        "movimiento": "zoom_in",
-        "grafico": {"tipo": "ninguno"},
-        "transicion": "flash",
-        "destello": true,
-        "tono": "celebracion",
-        "hinchada": true
-      },
-      {
-        "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo Comunicaciones.",
-        "voz": "mui",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "quieto",
-        "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {"nombre": "LIGA DE QUITO", "color": "#FFFFFF", "escudo": "img/escudos/liga.png", "goles": 2},
-            {"nombre": "EMELEC", "color": "#0B4EA2", "escudo": "img/escudos/emelec.png", "goles": 4}
-          ],
-          "pie": "RODRIGO PAZ DELGADO · 2017"
-        },
-        "transicion": "zoom",
-        "tono": "recuerdo",
-        "hinchada": true
-      },
-      {
-        "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
-        "voz": "mui",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "zoom_out",
-        "grafico": {"tipo": "cifra", "valor": "2013", "texto": "SIN GANAR AHÍ DESDE"},
-        "transicion": "flash",
-        "tono": "recuerdo"
-      },
-      {
-        "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
-        "voz": "mui",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "zoom_in",
-        "grafico": {"tipo": "cifra", "valor": "42", "texto": "PUNTOS · LÍDER"},
-        "transicion": "barrido",
-        "destello": true
-      },
-      {
-        "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
-        "voz": "mui",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "quieto",
-        "grafico": {"tipo": "titular", "texto": "LA REMONTADA AZUL", "sobre": "TARDE AZUL · 2017"},
-        "transicion": "zoom",
-        "tono": "recuerdo",
-        "hinchada": true
-      }
+import math
+import shutil
+import subprocess
+import tempfile
+import wave
+from pathlib import Path
+
+import numpy as np
+
+SAMPLE_RATE = 44100
+FPS = 24
+WIDTH = 1080
+HEIGHT = 1920
+DURACION_TOTAL = 31.0  # Entre 27 y 35 segundos
+
+# Ruta de tu voz clonada completa (si existe, se mezcla sobre todo el video).
+# Si prefieres usar un archivo por escena, pon la clave "voz": "voces/escena_1.wav" en ESCENAS.
+ARCHIVO_VOZ_CLONADA = "voz_clonada.wav"
+
+ESCENAS = [
+    {
+        "id": 1,
+        "nombre": "El Gancho",
+        "inicio": 0.0,
+        "fin": 4.5,
+        "src_start": 0.0,
+        "src_dur": 1.2,
+        "fx": "gancho",
+        "voz": None,
+        "guion": "En 1971, un equipo ecuatoriano logró lo que parecía imposible en el fútbol sudamericano.",
+    },
+    {
+        "id": 2,
+        "nombre": "El Monstruo Invicto",
+        "inicio": 4.5,
+        "fin": 12.5,
+        "src_start": 1.0,
+        "src_dur": 2.0,
+        "fx": "fortaleza",
+        "voz": None,
+        "guion": "Estudiantes de La Plata llevaba tres Copas Libertadores seguidas y estaba invicto de local en el torneo. Nadie les ganaba en Argentina.",
+    },
+    {
+        "id": 3,
+        "nombre": "El Giro Inesperado",
+        "inicio": 12.5,
+        "fin": 21.0,
+        "src_start": 3.0,
+        "src_dur": 1.5,
+        "fx": "giro",
+        "voz": None,
+        "guion": "Hasta que llegó Barcelona Sporting Club. En su alineación había un jugador insólito: Juan Manuel Bazurco, un sacerdote español que jugaba de delantero.",
+    },
+    {
+        "id": 4,
+        "nombre": "El Climax / El Gol",
+        "inicio": 21.0,
+        "fin": 29.0,
+        "src_start": 4.0,
+        "src_dur": 2.5,
+        "fx": "gol",
+        "voz": None,
+        "guion": "Contra todo pronóstico, el Padre Bazurco anotó el único gol del partido. Barcelona ganó 1 a 0 y silenció Argentina en lo que hoy se conoce como La Hazaña de La Plata.",
+    },
+    {
+        "id": 5,
+        "nombre": "El Cierre",
+        "inicio": 29.0,
+        "fin": 31.0,
+        "src_start": 6.5,
+        "src_dur": 3.0,
+        "fx": "cierre",
+        "voz": None,
+        "guion": "¿Conocías la historia del cura que hizo historia con un club ecuatoriano? Comenta qué otra anécdota quieres ver.",
+    },
+]
+
+
+def _normalizar_y_guardar_wav(ruta_wav: Path, muestras: np.ndarray) -> None:
+    pico = np.max(np.abs(muestras))
+    if pico > 0:
+        muestras = np.clip(muestras / max(pico, 1.0) * 0.85, -1.0, 1.0)
+    pcm = (muestras * 32767.0).astype(np.int16)
+    with wave.open(str(ruta_wav), "wb") as wf:
+        wf.setnchannels(1)
+        wf.setsampwidth(2)
+        wf.setframerate(SAMPLE_RATE)
+        wf.writeframes(pcm.tobytes())
+
+
+def _ruido_filtrado(duracion: float, banda_hz: tuple[float, float], seed: int) -> np.ndarray:
+    rng = np.random.default_rng(seed)
+    n = max(1, int(duracion * SAMPLE_RATE))
+    blanco = rng.standard_normal(n)
+    ventana = max(1, int(SAMPLE_RATE / max(banda_hz[1], 20.0)))
+    kernel = np.ones(ventana) / ventana
+    suave = np.convolve(blanco, kernel, mode="same")
+    if banda_hz[0] > 30:
+        vent_alta = max(1, int(SAMPLE_RATE / banda_hz[0]))
+        kernel_alta = np.ones(vent_alta) / vent_alta
+        suave = suave - np.convolve(suave, kernel_alta, mode="same")
+    return suave
+
+
+def generar_sfx_escena(tipo_fx: str, duracion: float, ruta_wav: Path) -> None:
+    n = max(1, int(duracion * SAMPLE_RATE))
+    t = np.linspace(0, duracion, n, endpoint=False)
+    audio = np.zeros(n, dtype=np.float64)
+
+    estadio = _ruido_filtrado(duracion, (80, 550), seed=abs(hash(tipo_fx)) % 10000) * 0.12
+    modulacion_multitud = 0.75 + 0.25 * np.sin(2 * math.pi * 0.35 * t)
+    audio += estadio * modulacion_multitud
+
+    if tipo_fx == "gancho":
+        idx_impacto = min(n - 1, int(0.65 * duracion * SAMPLE_RATE))
+        t_whoosh = t[:idx_impacto]
+        if len(t_whoosh) > 0:
+            freq = 140 + 520 * (t_whoosh / max(t_whoosh[-1], 1e-3)) ** 2
+            whoosh = np.sin(2 * math.pi * np.cumsum(freq) / SAMPLE_RATE) * np.linspace(0.05, 0.45, len(t_whoosh))
+            audio[:idx_impacto] += whoosh
+        t_boom = np.arange(n - idx_impacto) / SAMPLE_RATE
+        if len(t_boom) > 0:
+            boom = np.sin(2 * math.pi * (95 * np.exp(-5.5 * t_boom) + 32) * t_boom) * np.exp(-4.2 * t_boom) * 0.9
+            audio[idx_impacto:] += boom
+
+    elif tipo_fx == "fortaleza":
+        rugido = _ruido_filtrado(duracion, (120, 900), seed=202) * 0.32 * (0.6 + 0.4 * np.sin(2 * math.pi * 1.1 * t))
+        grave = 0.25 * np.sin(2 * math.pi * 55 * t) * (0.5 + 0.5 * np.sin(2 * math.pi * 2.0 * t))
+        audio += rugido + grave
+
+    elif tipo_fx == "giro":
+        barrido = _ruido_filtrado(duracion, (200, 1200), seed=303) * 0.20 * np.sin(math.pi * t / duracion)
+        latido = np.zeros(n)
+        for golpe in (0.25, 0.55, 1.1, 1.4):
+            centro = int(golpe * SAMPLE_RATE)
+            if centro < n:
+                vent = np.arange(-int(0.18 * SAMPLE_RATE), int(0.18 * SAMPLE_RATE))
+                valid = (centro + vent >= 0) & (centro + vent < n)
+                dt = vent[valid] / SAMPLE_RATE
+                latido[centro + vent[valid]] += 0.42 * np.exp(-18 * np.abs(dt)) * np.sin(2 * math.pi * 62 * np.maximum(dt, 0))
+        audio += barrido + latido
+
+    elif tipo_fx == "gol":
+        t_golpe = min(duracion * 0.58, max(0.5, duracion - 1.2))
+        idx_golpe = int(t_golpe * SAMPLE_RATE)
+        idx_silencio_fin = min(n, idx_golpe + int(0.45 * SAMPLE_RATE))
+
+        if idx_golpe > 0:
+            tg = t[:idx_golpe]
+            whoosh_remate = np.sin(2 * math.pi * (180 + 420 * (tg / tg[-1]) ** 1.5) * tg) * 0.35
+            audio[:idx_golpe] += whoosh_remate
+
+        if idx_golpe < n:
+            tr = np.arange(n - idx_golpe) / SAMPLE_RATE
+            impacto = np.sin(2 * math.pi * (130 * np.exp(-9 * tr) + 40) * tr) * np.exp(-8 * tr) * 0.95
+            audio[idx_golpe:] += impacto
+
+        if idx_silencio_fin > idx_golpe:
+            audio[idx_golpe:idx_silencio_fin] *= 0.05
+
+        if idx_silencio_fin < n:
+            te = np.arange(n - idx_silencio_fin) / SAMPLE_RATE
+            ovacion = _ruido_filtrado(len(te) / SAMPLE_RATE, (180, 1800), seed=404) * 0.52
+            env = np.minimum(1.0, te / 0.25)
+            audio[idx_silencio_fin:] += ovacion * env
+
+    elif tipo_fx == "cierre":
+        ovacion_cierre = _ruido_filtrado(duracion, (200, 2000), seed=505) * 0.42 * np.exp(-0.4 * t)
+        tecla = np.sin(2 * math.pi * 950 * t) * np.exp(-65 * t) * 0.38
+        audio += ovacion_cierre + tecla
+
+    fade_len = min(int(0.08 * SAMPLE_RATE), n // 4)
+    if fade_len > 0:
+        rampa = np.linspace(0.0, 1.0, fade_len)
+        audio[:fade_len] *= rampa
+        audio[-fade_len:] *= rampa[::-1]
+
+    _normalizar_y_guardar_wav(ruta_wav, audio)
+
+
+def _mezclar_voz_en_escena(sfx_wav: Path, voz_path: Path, dur_escena: float, salida_wav: Path) -> Path:
+    """Mezcla el audio de voz clonada de la escena sobre el SFX bajando levemente el fondo."""
+    cmd = [
+        "ffmpeg", "-y",
+        "-i", str(sfx_wav),
+        "-i", str(voz_path),
+        "-filter_complex",
+        (
+            f"[0:a]volume=0.55,apad=whole_dur={dur_escena}[bg];"
+            f"[1:a]aresample={SAMPLE_RATE},aformat=channel_layouts=mono,volume=1.25,apad=whole_dur={dur_escena}[voz];"
+            f"[bg][voz]amix=inputs=2:duration=first:dropout_transition=2[out]"
+        ),
+        "-map", "[out]",
+        "-t", str(dur_escena),
+        str(salida_wav),
     ]
-  }
+    subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    return salida_wav
+
+
+def _aplicar_voz_clonada_completa(video_sin_voz: Path, voz_completa: Path, salida_mp4: str) -> None:
+    """Mezcla un único archivo de voz clonada sobre el video ya armado con SFX."""
+    cmd = [
+        "ffmpeg", "-y",
+        "-i", str(video_sin_voz),
+        "-i", str(voz_completa),
+        "-filter_complex",
+        (
+            f"[0:a]volume=0.55[sfx];"
+            f"[1:a]aresample={SAMPLE_RATE},aformat=channel_layouts=mono,volume=1.30[voz];"
+            f"[sfx][voz]amix=inputs=2:duration=first:dropout_transition=2[aout]"
+        ),
+        "-map", "0:v",
+        "-map", "[aout]",
+        "-t", str(DURACION_TOTAL),
+        "-c:v", "copy",
+        "-c:a", "aac", "-b:a", "192k", "-ar", str(SAMPLE_RATE), "-ac", "1",
+        salida_mp4,
+    ]
+    subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def construir_video_guineo(video_entrada: str, salida_mp4: str, tmp_dir: Path) -> None:
+    segmentos_mp4 = []
+    for esc in ESCENAS:
+        dur_escena = round(esc["fin"] - esc["inicio"], 3)
+        seg_video = tmp_dir / f"escena_{esc['id']}.mp4"
+        seg_sfx = tmp_dir / f"sfx_{esc['id']}.wav"
+        generar_sfx_escena(esc["fx"], dur_escena, seg_sfx)
+
+        audio_final_escena = seg_sfx
+        if esc.get("voz") and Path(esc["voz"]).exists():
+            audio_final_escena = _mezclar_voz_en_escena(
+                seg_sfx, Path(esc["voz"]), dur_escena, tmp_dir / f"mix_{esc['id']}.wav"
+            )
+
+        jitter_x = f"({WIDTH}*0.015*sin(t*19*{esc['id']}))"
+        jitter_y = f"({HEIGHT}*0.012*cos(t*17*{esc['id']}))"
+        vf = (
+            f"trim=start={esc['src_start']}:duration={esc['src_dur']},"
+            f"setpts=PTS-STARTPTS,"
+            f"scale={int(WIDTH*1.08)}:{int(HEIGHT*1.08)}:force_original_aspect_ratio=increase,"
+            f"crop={WIDTH}:{HEIGHT}:x='max(0,min(iw-{WIDTH},(iw-{WIDTH})/2+{jitter_x}))':y='max(0,min(ih-{HEIGHT},(ih-{HEIGHT})/2+{jitter_y}))',"
+            f"tpad=stop_mode=clone:stop_duration={max(0.0, dur_escena - esc['src_dur'])},"
+            f"trim=duration={dur_escena},"
+            f"fps={FPS},format=yuv420p"
+        )
+
+        cmd = [
+            "ffmpeg", "-y",
+            "-i", video_entrada,
+            "-i", str(audio_final_escena),
+            "-vf", vf,
+            "-t", str(dur_escena),
+            "-c:v", "libx264", "-preset", "fast", "-crf", "20",
+            "-c:a", "aac", "-b:a", "192k", "-ar", str(SAMPLE_RATE), "-ac", "1",
+            str(seg_video),
+        ]
+        subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        segmentos_mp4.append(seg_video)
+
+    lista_concat = tmp_dir / "concat.txt"
+    lista_concat.write_text(
+        "\n".join(f"file '{p.resolve()}'" for p in segmentos_mp4) + "\n",
+        encoding="utf-8",
+    )
+
+    video_base_armado = tmp_dir / "armado_sfx.mp4"
+    subprocess.run(
+        [
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", str(lista_concat),
+            "-c", "copy",
+            str(video_base_armado),
+        ],
+        check=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+
+    ruta_voz_completa = Path(ARCHIVO_VOZ_CLONADA)
+    if ruta_voz_completa.exists():
+        _aplicar_voz_clonada_completa(video_base_armado, ruta_voz_completa, salida_mp4)
+    else:
+        shutil.copyfile(video_base_armado, salida_mp4)
+
+
+def main() -> None:
+    if shutil.which("ffmpeg") is None:
+        raise RuntimeError("Se necesita 'ffmpeg' instalado en el sistema para renderizar el video.")
+
+    video_entrada = "gemini_generated_video_FBB3928E.mp4"
+    if not Path(video_entrada).exists():
+        for candidato in ("video_1.mp4", "videos/video_1.mp4"):
+            if Path(candidato).exists():
+                video_entrada = candidato
+                break
+        else:
+            raise FileNotFoundError("No se encontró el video base de entrada.")
+
+    salida = "guineo_hazana_31s.mp4"
+    with tempfile.TemporaryDirectory() as tmp:
+        construir_video_guineo(video_entrada, salida, Path(tmp))
+
+    print(f"Listo: '{salida}' generado con duración de {DURACION_TOTAL:.1f}s (voz clonada configurada).")
+
+
+if __name__ == "__main__":
+    main()
