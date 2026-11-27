@@ -246,3 +246,8 @@ Datos: Ronaldinho (32 s) se quedó 58 % → 1.811 vistas. Rattín (58 s) se qued
 3. SIN PREGUNTA A MITAD EN HISTORIAS: la pregunta va en la ÚLTIMA frase y enlaza con el bucle ("¿Tú te hubieras ido?"). En noticias, como mucho media frase sin pausa ni placa. (Rattín perdió ~15 puntos justo en "¿Tú te hubieras ido? Te leo." del s 25.) Reemplaza la regla "pregunta a MITAD".
 4. DURACIÓN: noticias 25–35 s; Guineo Animación 40–45 s como máximo (8 frases); SRF sin cambio.
 5. META por video: "Se quedaron para mirar" > 55 % y retención > 50 %. Cada semana revisar los 3 mejores y los 3 peores.
+6. SUSCRIPCIONES (Mui 27/11: la meta también es que se suscriban). Hoy convertimos ~0,1 % (41,9 k vistas → +47 subs en YouTube; Instagram +1). Medidas:
+   - Guineo Animación como SERIE numerada ("Historias de plastilina #N") + playlist en YouTube + comentario fijado con la próxima historia ("Mañana: …").
+   - Placa final: "Suscríbete: una historia nueva cada [día]" (invitación clara SOLO al final, nunca a mitad).
+   - Botón/llamado al final de la descripción y en el primer comentario.
+   - Meta: 3 suscriptores por cada 1.000 vistas (0,3 %); revisar cada semana con "Suscriptores" por video en YouTube Studio.
