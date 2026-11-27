@@ -13,6 +13,10 @@ on:
         description: "Escenas a animar, separadas por coma (vacío = solo profundidad de todas)"
         required: false
         default: ""
+      audio:
+        description: "Nombre del audio en lotes/audio (vacío = <id>.m4a). Saca los tramos a lotes/img/<id>/tramos.txt"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -29,12 +33,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Instalar dependencias
         run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           pip install -q transformers pillow gradio_client
       - name: Profundidad y clips
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: python3 scripts/guineo/animacion/clips.py "${{ github.event.inputs.id }}" "${{ github.event.inputs.escenas }}"
+        run: python3 scripts/guineo/animacion/clips.py "${{ github.event.inputs.id }}" "${{ github.event.inputs.escenas }}" "--audio=${{ github.event.inputs.audio }}"
       - name: Guardar en el repo
         run: |
           git config user.name "github-actions[bot]"

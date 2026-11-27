@@ -15,6 +15,26 @@ todas = sorted(glob.glob(f"{base}/*.png"))
 imgs = [f"{base}/{e}.png" for e in pedidas if os.path.exists(f"{base}/{e}.png")] if pedidas else todas
 print("clips de:", [os.path.basename(i)[:-4] for i in imgs] if pedidas else "ninguna (solo profundidad)")
 
+# tramos del audio (para pegarlos en corto.json): lotes/audio/<id>.m4a o el que se pase con --audio=nombre.m4a
+import re, subprocess
+aud = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--audio=") and a.split("=", 1)[1]), f"{ide}.m4a")
+ra = f"lotes/audio/{aud}"
+if os.path.exists(ra):
+    o = subprocess.run(["ffmpeg", "-hide_banner", "-i", ra, "-af", "silencedetect=n=-35dB:d=0.4", "-f", "null", "-"], capture_output=True, text=True).stderr
+    dur = float(re.search(r"Duration: (\d+):(\d+):([\d.]+)", o).group(3)) + 60 * int(re.search(r"Duration: (\d+):(\d+)", o).group(2))
+    ini = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", o)]
+    fin = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", o)]
+    cortes, t0 = [], 0.0
+    if ini and ini[0] < 0.05:
+        t0 = fin.pop(0); ini.pop(0)
+    for a, b in zip(ini, fin + [dur]):
+        if a - t0 > 0.3: cortes.append([round(max(0, t0 - 0.05), 2), round(a + 0.05, 2)])
+        t0 = b
+    if dur - t0 > 0.3: cortes.append([round(t0 - 0.05, 2), round(dur, 2)])
+    txt = json.dumps(cortes)
+    open(f"{base}/tramos.txt", "w").write(f"Audio: {ra}\nFrases detectadas: {len(cortes)}\n\"tramos\": {txt}\n")
+    print("TRAMOS", len(cortes), txt)
+
 if "--sin-depth" not in sys.argv:
     from PIL import Image
     from transformers import pipeline

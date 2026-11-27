@@ -33,7 +33,12 @@ Yo subo:
 - la voz a `lotes/audio/<id>.m4a`;
 - las imágenes a `lotes/img/<id>/<escena>.png`;
 - los clips (opcional) a `lotes/img/<id>/video/<escena>.mp4`;
-- y te paso los tiempos de cada frase en el audio (inicio y fin en segundos, con 2 decimales; los saco de un editor de audio o de la transcripción).
+- y te paso el archivo `tramos.txt` que me da GitHub (Action "Guineo Animación - clips y profundidad"): trae los tiempos REALES de cada frase del audio. NUNCA inventes los tramos: si en tramos.txt salen más tramos que frases (por una pausa dentro de una frase), une los que son de la misma frase.
+
+Además te pido, en la ENTREGA 1, un archivo `movimientos.json` para las 3–4 escenas que se animan con clip (qué se mueve en cada una, en inglés), por ejemplo:
+```json
+{"cabezazo": "the player in yellow jumps and heads the ball, the goalkeeper dives and misses"}
+```
 
 Tú me devuelves:
 1. **Un solo bloque de código** con el `corto.json` COMPLETO, que yo pego en `scripts/guineo/animacion/<id>/corto.json`. Al subirlo, GitHub renderiza el video y lo deja en Releases ("Guineo Animación: <id>").
@@ -82,8 +87,8 @@ Revisa que el JSON sea válido: comillas dobles, sin comas al final, sin comenta
 - **escenas** (en orden de "t"; cada una dura hasta que empieza la siguiente):
   - **t**: segundo del audio original en que entra la escena (normalmente el inicio de un tramo o una palabra clave).
   - **img**: ilustración. Obligatoria aunque haya video.
-  - **video**: (opcional) clip mp4 que reemplaza la imagen. Se ralentiza y repite solo.
-  - **depth**: (opcional) mapa de profundidad para movimiento 2.5D: `lotes/img/<id>/depth/<escena>.png` (lo genera la Action cinecode).
+  - **video**: clip mp4 de 5 s que reemplaza la imagen: `lotes/img/<id>/video/<escena>.mp4`. Solo en las escenas animadas que te diga.
+  - **depth**: mapa de profundidad para movimiento 2.5D: `lotes/img/<id>/depth/<escena>.png`. Ponlo SIEMPRE en todas las escenas (lo genera la Action de clips).
   - **mov**: zoom_in | zoom_out | pan_izq | pan_der | sacudon.
   - **texto**: frase corta en MAYÚSCULAS arriba (3–6 palabras). En la escena 1 es el gancho.
   - **marcador**: ["EQ1", goles1, "EQ2", goles2] con siglas de 3 letras. El número cuenta hasta el resultado. **marcador_pos**: "arriba" o "centro" (el centro tapa un tablero dibujado).

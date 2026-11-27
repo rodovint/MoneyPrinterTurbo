@@ -227,3 +227,13 @@ Diagnóstico: los últimos cortos se apoyaron casi solo en fotos y titulares de 
 - Action **"Guineo Animación"** (.github/workflows/animacion.yml): al subir `scripts/guineo/animacion/<id>/corto.json`, renderiza con animar.py y deja el mp4 en Releases ("Guineo Animación: <id>"). También se lanza a mano desde Actions con el id.
 - Súper prompt para que cualquier IA escriba el guion y el corto.json: `scripts/guineo/animacion/PROMPT-CORTO-ANIMACION.md`.
 - Clip de Gemini de Mui para la Hazaña de La Plata: `lotes/img/laplata/video/gemini-original.mp4` (10 s: mapa, trofeos, cura, remate, gol, festejo). En los bordes de algunos planos se ven manos: recortar.
+
+### Clips animados y tiempos sin Claude (27/11)
+- Action **"Guineo Animación - clips y profundidad"** (Actions → Run workflow):
+  - **id**: carpeta en `lotes/img/<id>/`.
+  - **escenas**: las que se animan, separadas por coma; vacío = solo profundidad.
+  - **audio**: nombre del audio en `lotes/audio`; vacío = `<id>.m4a`.
+  - Guarda los clips en `video/`, la profundidad en `depth/` y los tiempos reales de cada frase en `tramos.txt`.
+  - Lo que se mueve en cada clip va en `lotes/img/<id>/movimientos.json`.
+- Cupo gratis de GPU de HF (con token): alcanza para unos 4 clips por tanda. HF_TOKEN se pega SIN espacios ni saltos de línea.
+- Las IAs externas no pueden escuchar el audio: los "tramos" SIEMPRE salen de tramos.txt (en "clasificacion" la IA los inventó y se cortaban frases).
