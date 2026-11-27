@@ -4,107 +4,251 @@
  "lluvia": false,
  "ambiente": "hinchada",
  "tramos": [
-  [0.10, 5.65],
-  [5.85, 11.15],
-  [11.35, 16.50],
-  [16.75, 21.65],
-  [22.20, 27.35],
-  [27.95, 32.75],
-  [33.35, 38.55],
-  [39.15, 44.00],
-  [44.55, 50.80],
-  [51.35, 56.80],
-  [57.35, 62.85]
+  [
+   1.3,
+   6.35
+  ],
+  [
+   7.3,
+   11.2
+  ],
+  [
+   12.03,
+   16.42
+  ],
+  [
+   17.13,
+   21.05
+  ],
+  [
+   22.43,
+   26.78
+  ],
+  [
+   27.82,
+   32.2
+  ],
+  [
+   33.72,
+   38.3
+  ],
+  [
+   39.7,
+   43.55
+  ],
+  [
+   45.35,
+   50.03
+  ],
+  [
+   51.23,
+   56.15
+  ],
+  [
+   57.23,
+   61.15
+  ]
  ],
  "silencios": {
-  "21.65": 0.85,
-  "44.00": 1.00
+  "21.05": 0.8,
+  "43.55": 1.0
  },
  "escenas": [
   {
-   "t": 0.10,
-   "img": "lotes/img/IMG_5397.jpeg",
+   "t": 1.3,
+   "img": "lotes/img/clasificacion/kaviedes.png",
+   "depth": "lotes/img/clasificacion/depth/kaviedes.png",
+   "video": "lotes/img/clasificacion/video/kaviedes.mp4",
    "mov": "zoom_in",
    "texto": "¿UNA MALDICIÓN IMPOSIBLE?",
-   "sfx": ["golpe", "whoosh"]
+   "sfx": [
+    "golpe",
+    "whoosh"
+   ]
   },
   {
-   "t": 5.85,
-   "img": "lotes/img/IMG_5399.jpeg",
-   "mov": "pan_der",
+   "t": 7.3,
+   "img": "lotes/img/clasificacion/estadio.png",
+   "depth": "lotes/img/clasificacion/depth/estadio.png",
+   "mov": "zoom_in",
    "texto": "7 NOVIEMBRE 2001 · QUITO",
-   "sfx": ["whoosh"]
+   "sfx": [
+    "whoosh"
+   ]
   },
   {
-   "t": 11.35,
-   "img": "lotes/img/IMG_5400.jpeg",
+   "t": 12.03,
+   "img": "lotes/img/clasificacion/bolillo.png",
+   "depth": "lotes/img/clasificacion/depth/bolillo.png",
    "mov": "zoom_in",
    "texto": "A UN PUNTO DE LA GLORIA",
-   "sfx": ["redoble"]
+   "sfx": [
+    "redoble"
+   ]
   },
   {
-   "t": 16.75,
-   "img": "lotes/img/IMG_5401.jpeg",
+   "t": 17.13,
+   "img": "lotes/img/clasificacion/uruguay-gol.png",
+   "depth": "lotes/img/clasificacion/depth/uruguay-gol.png",
    "mov": "sacudon",
-   "marcador": ["ECU", 0, "URU", 1],
+   "marcador": [
+    "ECU",
+    0,
+    "URU",
+    1
+   ],
    "marcador_pos": "arriba",
-   "texto": "MINUTO 43 · GOL CHARRÚA",
-   "sfx": ["silbato", "golpe"]
+   "sfx": [
+    "silbato",
+    "golpe"
+   ]
   },
   {
-   "t": 22.20,
-   "img": "lotes/img/IMG_5403.jpeg",
+   "t": 22.43,
+   "img": "lotes/img/clasificacion/hinchas.png",
+   "depth": "lotes/img/clasificacion/depth/hinchas.png",
    "mov": "zoom_out",
    "texto": "VOLVÍA EL FANTASMA",
-   "sfx": ["zumbido"]
+   "sfx": [
+    "zumbido"
+   ]
   },
   {
-   "t": 33.35,
-   "img": "lotes/img/IMG_5409.jpeg",
+   "t": 27.82,
+   "img": "lotes/img/clasificacion/estadio.png",
+   "depth": "lotes/img/clasificacion/depth/estadio.png",
+   "mov": "pan_izq",
+   "texto": "¿DÓNDE ESTABAS TÚ?",
+   "efecto": "flash",
+   "sfx": [
+    "whoosh"
+   ]
+  },
+  {
+   "t": 33.72,
+   "img": "lotes/img/clasificacion/aguinaga.png",
+   "depth": "lotes/img/clasificacion/depth/aguinaga.png",
    "mov": "pan_izq",
    "texto": "ENTRA EL CAPITÁN",
-   "sfx": ["whoosh", "silbato"]
+   "sfx": [
+    "whoosh",
+    "silbato"
+   ]
   },
   {
-   "t": 39.15,
-   "img": "lotes/img/IMG_5396.jpeg",
+   "t": 39.7,
+   "img": "lotes/img/clasificacion/centro.png",
+   "depth": "lotes/img/clasificacion/depth/centro.png",
+   "video": "lotes/img/clasificacion/video/centro.mp4",
    "mov": "zoom_in",
-   "efecto": "camara_lenta",
    "texto": "MINUTO 72…",
-   "sfx": ["patada", "redoble"]
+   "sfx": [
+    "patada",
+    "redoble"
+   ]
   },
   {
-   "t": 44.55,
-   "img": "lotes/img/IMG_5395.jpeg",
-   "mov": "sacudon",
+   "t": 45.35,
+   "img": "lotes/img/clasificacion/gol.png",
+   "depth": "lotes/img/clasificacion/depth/gol.png",
+   "video": "lotes/img/clasificacion/video/gol.mp4",
+   "mov": "zoom_in",
    "efecto": "flash",
-   "marcador": ["ECU", 1, "URU", 1],
+   "marcador": [
+    "ECU",
+    1,
+    "URU",
+    1
+   ],
    "marcador_pos": "arriba",
    "titulo": "EL GOL DE|LA HISTORIA",
-   "titulo_en": 45.80,
-   "sfx": ["golpe", "redoble"]
+   "titulo_en": 46.6,
+   "sfx": [
+    "golpe",
+    "redoble"
+   ]
   },
   {
-   "t": 51.35,
-   "img": "lotes/img/IMG_5398.jpeg",
+   "t": 51.23,
+   "img": "lotes/img/clasificacion/festejo.png",
+   "depth": "lotes/img/clasificacion/depth/festejo.png",
+   "video": "lotes/img/clasificacion/video/festejo.mp4",
    "mov": "zoom_out",
    "efecto": "flash",
    "texto": "¡ECUADOR AL MUNDIAL!",
-   "sfx": ["silbato", "redoble", "golpe"]
+   "sfx": [
+    "silbato",
+    "golpe"
+   ]
+  },
+  {
+   "t": 57.23,
+   "img": "lotes/img/clasificacion/kaviedes.png",
+   "depth": "lotes/img/clasificacion/depth/kaviedes.png",
+   "mov": "zoom_out",
+   "titulo": "JAIME IVÁN|KAVIEDES",
+   "titulo_en": 57.3,
+   "sfx": [
+    "redoble"
+   ]
   }
  ],
  "subtitulos": [
-  [0.10, 5.65, "Durante décadas, ver a Ecuador en un Mundial parecía una maldición difícil de romper."],
-  [5.85, 11.15, "Siete de noviembre de dos mil uno, estadio Olímpico Atahualpa de Quito."],
-  [11.35, 16.50, "La Tricolor recibía a Uruguay a un solo punto de hacer historia por primera vez."],
-  [16.75, 21.65, "Pero al minuto cuarenta y tres, Nicolás Olivera anotó de penal para los charrúas."],
-  [22.20, 27.35, "El estadio entero quedó en silencio y el fantasma de las eliminaciones volvió a aparecer."],
-  [27.95, 32.75, "¿Dónde estabas tú ese día o cómo te contaron ese partido? Te leo."],
-  [33.35, 38.55, "En el segundo tiempo, el Bolillo Gómez mandó a la cancha al eterno capitán, Álex Aguinaga."],
-  [39.15, 44.00, "Minuto setenta y dos: centro perfecto de zurda al corazón del área."],
-  [44.55, 50.80, "Jaime Iván Kaviedes se elevó en el cielo de Quito y metió un cabezazo inolvidable al fondo de la red."],
-  [51.35, 56.80, "Uno a uno final, pitazo del árbitro y doce millones de ecuatorianos llorando abrazados."],
-  [57.35, 62.85, "Ese gol del Nine borró para siempre la palabra imposible en nuestro fútbol."]
+  [
+   1.3,
+   6.35,
+   "Durante décadas, ver a Ecuador en un Mundial parecía una maldición difícil de romper."
+  ],
+  [
+   7.3,
+   11.2,
+   "Siete de noviembre de dos mil uno, estadio Olímpico Atahualpa de Quito."
+  ],
+  [
+   12.03,
+   16.42,
+   "La Tricolor recibía a Uruguay a un solo punto de hacer historia por primera vez."
+  ],
+  [
+   17.13,
+   21.05,
+   "Pero al minuto cuarenta y tres, Nicolás Olivera anotó de penal para los charrúas."
+  ],
+  [
+   22.43,
+   26.78,
+   "El estadio entero quedó en silencio y el fantasma de las eliminaciones volvió a aparecer."
+  ],
+  [
+   27.82,
+   32.2,
+   "¿Dónde estabas tú ese día o cómo te contaron ese partido? Te leo."
+  ],
+  [
+   33.72,
+   38.3,
+   "En el segundo tiempo, el Bolillo Gómez mandó a la cancha al eterno capitán, Álex Aguinaga."
+  ],
+  [
+   39.7,
+   43.55,
+   "Minuto setenta y dos: centro perfecto de zurda al corazón del área."
+  ],
+  [
+   45.35,
+   50.03,
+   "Jaime Iván Kaviedes se elevó en el cielo de Quito y metió un cabezazo inolvidable al fondo de la red."
+  ],
+  [
+   51.23,
+   56.15,
+   "Uno a uno final, pitazo del árbitro y doce millones de ecuatorianos llorando abrazados."
+  ],
+  [
+   57.23,
+   61.15,
+   "Ese gol del Nine borró para siempre la palabra imposible en nuestro fútbol."
+  ]
  ],
  "cierre": {
   "texto": "Síguenos para más|historias futboleras",
