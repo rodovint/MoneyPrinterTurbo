@@ -7,25 +7,48 @@
     "franja": ["LIGA 2 - 4 EMELEC", "RODRIGO PAZ DELGADO", "REMONTADA HISTÓRICA"],
     "escenas": [
       {
-        "texto": "Liga se ponía dos a cero en diez minutos.",
+        "texto": "Empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
         "video": "videos/Efemeride Emelec 1.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "titular", "texto": "2-0 EN 10 MINUTOS", "sobre": "CASA BLANCA 2017"},
+        "grafico": {"tipo": "titular", "texto": "EMPEZÓ DORMIDO", "sobre": "RODRIGO PAZ · 2017"},
         "transicion": "flash",
         "destello": true
       },
       {
-        "texto": "Pero Angulo descontó con un zapatazo al ángulo.",
-        "video": "videos/Efemeride emelec 2.mp4",
-        "video_inicio": 10,
-        "movimiento": "paneo_der",
-        "grafico": {"tipo": "ninguno"},
+        "texto": "En apenas nueve minutos Liga golpeó dos veces: sombrerito de Anderson Julio a los seis y autogol de Ramos a los nueve.",
+        "foto": "img/escudos/liga.png",
+        "movimiento": "zoom_in",
+        "grafico": {
+          "tipo": "tv",
+          "titulo": "LIGA GOLPEÓ DOS VECES",
+          "local": {"nombre": "LIGA", "color": "#FFFFFF"},
+          "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
+          "jugadores": [
+            {"id": "9", "equipo": "local", "x": 55, "y": 20},
+            {"id": "1", "equipo": "rival", "x": 50, "y": 5, "arquero": true}
+          ],
+          "balon": "9",
+          "pasos": [
+            {"balon": [52, 12], "flecha": "tiro", "gol": true, "texto": "SOMBRERITO DE JULIO 6'"},
+            {"balon": [50, -1], "flecha": "tiro", "gol": true, "texto": "AUTOGOL DE RAMOS 9'"}
+          ],
+          "marcador": {"local": "LIG", "rival": "EME", "antes": [0, 0], "despues": [2, 0], "minuto": "6' y 9'"}
+        },
         "transicion": "barrido",
         "suspenso": true
       },
       {
-        "texto": "Preciado puso el tres a dos de cabeza.",
+        "texto": "El Cuco Angulo descontó a los veintisiete con un derechazo al ángulo y Guagua puso el dos a dos a los treinta y cuatro.",
+        "video": "videos/Efemeride emelec 2.mp4",
+        "video_inicio": 10,
+        "movimiento": "paneo_der",
+        "grafico": {"tipo": "ninguno"},
+        "transicion": "flash",
+        "suspenso": true
+      },
+      {
+        "texto": "En el complemento Emelec fue una tromba y en dos minutos lo dio vuelta con cabezazos de Ayrton Preciado a los cincuenta y seis",
         "video": "videos/Efemeride emelec 3.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
@@ -36,7 +59,7 @@
         "hinchada": true
       },
       {
-        "texto": "Matamoros selló el dos a cuatro con otro cabezazo.",
+        "texto": "y Matamoros a los cincuenta y ocho.",
         "video": "videos/Efemeride emelec 4.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
@@ -47,7 +70,7 @@
         "hinchada": true
       },
       {
-        "texto": "Un dos a cuatro histórico. ¿Te acordabas? Te leo, y sigue a Guineo.",
+        "texto": "¿Para ti dónde se quebró el partido: en el empate del primer tiempo o en la ráfaga del complemento? Te leo, y sigue a Guineo.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "quieto",
         "grafico": {
@@ -58,6 +81,31 @@
           ],
           "pie": "RODRIGO PAZ DELGADO · 2017"
         },
+        "transicion": "zoom",
+        "tono": "recuerdo",
+        "hinchada": true
+      },
+      {
+        "texto": "Con el cuatro a dos, Arias movió el banco con Quiñónez y Caicedo para sostener un triunfo que cortó la racha desde dos mil trece.",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "zoom_out",
+        "grafico": {"tipo": "cifra", "valor": "2013", "texto": "SIN GANAR AHÍ DESDE"},
+        "transicion": "flash",
+        "tono": "recuerdo"
+      },
+      {
+        "texto": "Aunque El Nacional le puso suspenso a la etapa, Emelec quedó líder con cuarenta y dos puntos y a un paso de la final.",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "zoom_in",
+        "grafico": {"tipo": "cifra", "valor": "42", "texto": "PUNTOS · LÍDER"},
+        "transicion": "barrido",
+        "destello": true
+      },
+      {
+        "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "quieto",
+        "grafico": {"tipo": "retro", "texto": "LA REMONTADA AZUL"},
         "transicion": "zoom",
         "tono": "recuerdo",
         "hinchada": true
