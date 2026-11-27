@@ -105,7 +105,7 @@
         "texto": "Así se escribió la remontada en Quito, cuando empezó dormido y abajo en el marcador en el Rodrigo Paz, pero nadie imaginaba cómo iba a cambiar la tarde azul.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "quieto",
-        "grafico": {"tipo": "retro", "texto": "LA REMONTADA AZUL"},
+        "grafico": {"tipo": "titular", "texto": "LA REMONTADA AZUL", "sobre": "TARDE AZUL · 2017"},
         "transicion": "zoom",
         "tono": "recuerdo",
         "hinchada": true
