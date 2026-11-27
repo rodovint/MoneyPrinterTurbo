@@ -1,558 +1,561 @@
 {
- "fecha": "2026-11-27T06:54-05:00",
+ "fecha": "2026-11-27T14:55-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "copa ecuador 2026",
+    "tema": "nottingham forest - chelsea",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Predicted XI: Alonso dodges big decisions and picks player fans are sick of (Talk Chelsea)",
+     "Surprising stat shows difference between Chelsea and Nottingham Forest (The Pride of London)"
+    ]
+   },
+   {
+    "tema": "delfín - orense",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Delfín SC vs. Orense: el partido que puede cambiar la lucha por la permanencia (El Diario Ecuador)",
+     "EN VIVO Delfín vs Orense: transmisión, horario y dónde ver hoy | LigaPro 2026 (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "hola",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T08:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Así es Laura Gómez-Acebo, la hija de Laura Ponte que sigue los pasos de su abuela, la infanta Pilar: discreta, natural y con estilo propio (HOLA)",
+     "Patricia Rato y Espartaco celebran la llegada de su segundo nieto: así se llama el nuevo miembro de la familia (El Mundo)"
+    ]
+   },
+   {
+    "tema": "pabel muñoz",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T08:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Los registros patrimoniales de Pabel Muñoz contradicen la cifra de USD 10 millones difundida en TikTok (Ecuador Chequea)",
+     "Pabel Muñoz: 'Mi invitación al Gobierno es que podamos financiar a medias la extensión del Metro' (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "deportación",
     "volumen": "100+",
     "volumen_min": 100,
+    "desde": "2026-11-27T07:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kilmar Abrego mantiene viva la esperanza de regresar a EE.UU. cuando termine la Administración Trump (Telemundo)",
+     "“Puedo respirar libertad”: primeras declaraciones de Ábrego García al llegar a España tras abandonar EE.UU. (CNN en Español)"
+    ]
+   },
+   {
+    "tema": "hm",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Bangladesh raises minimum wage for garment workers after weeks of protests (AP News)",
+     "Bangladesh labour unrest: Zara, H&M among brands shifting orders to India, other Asian hubs (The Times of India)"
+    ]
+   },
+   {
+    "tema": "whatsapp",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "WhatsApp is adding travel eSIMs (9to5Google)",
+     "WhatsApp's Upcoming eSIM Tool Lets You Connect Abroad in 'Just a Few Taps’ (PCMag)"
+    ]
+   },
+   {
+    "tema": "w",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T04:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "\"Find a Stillness\" w Rev. Terri Dennehy, UU Westport, Sunday 10 AM (Patch)",
+     "Obituary for Paul W. Bouchard (Raynor & D'Andrea Funeral Homes)"
+    ]
+   },
+   {
+    "tema": "teams",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Bills escape Chiefs with 57-yard field goal as time expires to tighten grip on AFC - The Athletic (The New York Times)",
+     "Full Game Highlights From Week 12 | Chiefs vs. Bills (Kansas City Chiefs)"
+    ]
+   },
+   {
+    "tema": "copa ecuador 2026",
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-27T00:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¡Oficial! La final de la Copa Ecuador 2026 se jugará el 10 de diciembre entre Independiente del Valle y Universidad Católica en Cuenca (El Universo)",
-     "Independiente y Católica ya saben cuándo jugarán la final de la Copa Ecuador (El Comercio)"
-    ]
-   },
-   {
-    "tema": "león - cruz azul",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T19:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cruz Azul luce muy superior al León y se acerca a semifinales (ESPN Ecuador)",
-     "Alineaciones CONFIRMADAS para el León 🆚​ Cruz Azul (OneFootball)"
-    ]
-   },
-   {
-    "tema": "jhegson méndez",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T17:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Polémico gesto de Sebastián Méndez a los hinchas de Barcelona tras su expulsión (Teleamazonas)",
-     "Jhegson Méndez llamó “ladrones” a los hinchas de Barcelona SC tras ser expulsado en Independiente del Valle (El Universo)"
-    ]
-   },
-   {
-    "tema": "posiciones de sao paulo fc contra clube do remo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T17:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "primicias",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T17:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Misión de Ecuador en la OEA rechaza declaraciones de Almagro sobre elecciones seccionales (Primicias)",
-     "CNE da a conocer las misiones internacionales para las elecciones de este domingo 29 de noviembre (La República EC)"
-    ]
-   },
-   {
-    "tema": "pachuca - guadalajara",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T17:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Salomón Rondón lideró a los locales (FDP Radio)",
-     "🔴​ EN VIVO: GOLAZO de los Tuzos y todo está igualado en el Hidalgo (OneFootball)"
-    ]
-   },
-   {
-    "tema": "lugar de votación",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-26T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "10 recintos electorales de 5 provincias fueron reubicados por efectos del invierno (CNE Ecuador)",
-     "Elecciones 2026: ¿qué pasará si llueve intensamente el domingo 29 de noviembre? (El Telégrafo (por eliminar))"
-    ]
-   },
-   {
-    "tema": "inés manzano",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-26T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Inés Manzano regresa al gobierno como asesora de Daniel Noboa tras librarse del caso Progen (Vistazo)",
-     "Comisión Anticorrupción cuestiona designación de Inés Manzano (El Comercio)"
-    ]
-   },
-   {
-    "tema": "sao paulo fc",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-26T15:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "'É o pior momento da história recente do São Paulo': Rafinha desabafa e faz alerta sobre o clube (LANCE!)",
-     "São Paulo vence o Remo por 3 a 1, mas Dorival Júnior e Rafinha anunciam saída do clube (Portal Tri Notícias)"
-    ]
-   },
-   {
-    "tema": "ingvar jónsson",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-26T15:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "LUTO EN EL FÚTBOL: Falleció Ingvar Jónsson, exarquero de Islandia, a los 37 años (Studiofutbol)",
-     "Keeper who featured in legendary Euros squad that beat England sadly dies at 37 (Daily Star)"
+     "Final de la Copa Ecuador 2026: fecha y hora del Independiente del Valle vs. Universidad Católica (Teleamazonas)",
+     "¡Oficial! La final de la Copa Ecuador 2026 se jugará el 10 de diciembre entre Independiente del Valle y Universidad Católica en Cuenca (El Universo)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "are banks open today",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Is there mail on Thanksgiving? What's open on federal holiday (Detroit Free Press)",
-     "What's Open on Thanksgiving? Banks, Stores, and Businesses That Are Closed (Mental Floss)"
-    ]
-   },
-   {
-    "tema": "météo",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Météo demain : redoux dans le sud-ouest, froid persistant dans le nord-est et soleil en montagne (La Chaîne Météo)",
-     "Perturbation dimanche 29 en France ! Un risque de neige ou bien simplement de la pluie ? Les prévisions (Tameteo.com)"
-    ]
-   },
-   {
-    "tema": "geno auriemma",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "South Carolina topples UConn behind Tessa Johnson's career-high 32 (ESPN)",
-     "Geno Auriemma frustrated as UConn women's basketball searches for answers (NBC Connecticut)"
-    ]
-   },
-   {
-    "tema": "strobe talbott",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died (The New York Times)",
-     "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80 (The Guardian)"
-    ]
-   },
-   {
-    "tema": "walmart black friday pokemon",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "The Pokémon TCG 30th Celebration Elite Trainer Box is back in stock for Black Friday: Buy at market price (Mashable)",
-     "This Official Deluxe Pokémon Guide Book Is a Super-Effective Gift — Now Cheaper Than Ever for Black Friday (IGN)"
-    ]
-   },
-   {
-    "tema": "kaley cuoco",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Kaley Cuoco Shares Photo of Daughter, Matilda, 3, Partying in a Rainbow Dress (People.com)",
-     "Kaley Cuoco’s Daughter Matilda, 3, Follows in Her Mom’s Footsteps in Her First Play at Thanksgiving (InStyle)"
-    ]
-   },
-   {
-    "tema": "weather chicago",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Chicago weather: Thanksgiving forecast coming into focus (FOX 32 Chicago)",
-     "Wednesday: Chilliest daytime high since early April; Autumn 2026 second-warmest on the books with 5 days remaining (WGN-TV)"
-    ]
-   },
-   {
-    "tema": "bangladesh a vs pakistan a",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T03:00:00-08:00",
+    "tema": "nd state vs sjsu",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Pakistan A vs Bangladesh A LIVE Streaming, Asia Cup Rising Stars Semifinal LIVE Telecast: When And Where To Watch PAK vs BAN (NDTV Sports)",
-     "SHA vs BAN-A 2nd Semi-Final: Pitch Report, Player Stats & Form (AI11)"
+     "How to watch NDSU play San Jose State on Friday, Nov. 27 (InForum)",
+     "North Dakota State vs San Jose State Prediction, Pick, College Football Odds for Friday, Nov. 27 (Yahoo Sports)"
     ]
    },
    {
-    "tema": "academy black friday deals",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:00:00-08:00",
-    "deporte_probable": false,
+    "tema": "temple vs memphis",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:40:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Black Friday Just Got Sweeter with Academy Sports & Outdoors (WSET)",
-     "Houston Academy stores offer bonus cards worth up to $500 on Black Friday (Houston Chronicle)"
+     "Memphis vs. Temple: What to know for Tigers’ final regular-season game (Daily Memphian)",
+     "How to watch Temple vs Memphis: Live stream College Football, TV channel (Yahoo Sports)"
     ]
    },
    {
-    "tema": "walmart pokemon black friday",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T02:50:00-08:00",
+    "tema": "andrew whitworth",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Score Exclusive Collectibles Through Panini’s Black Friday Program (Panini America)",
-     "2026 Black Friday Tracker: Pokemon, Trading Cards, and Collectibles (Sports Illustrated)"
+     "Has Puka Nacua played his final snaps in a Rams uniform? (ESPN)",
+     "Sean McVay 'can't say for certain anything' on Puka Nacua's future with Rams (NFL.com)"
+    ]
+   },
+   {
+    "tema": "awkwafina",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan (Variety)",
+     "Awkwafina explores cancer and dark comedy in 'Kate Might Die' (The Express Tribune)"
+    ]
+   },
+   {
+    "tema": "southampton vs middlesbrough",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Southampton v Middlesbrough LIVE: Text commentary & radio analysis (BBC)",
+     "Middlesbrough, Southampton and a tree. The making of a very modern rivalry - The Athletic (The New York Times)"
+    ]
+   },
+   {
+    "tema": "ireland vs australia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Twickenham set to be half empty for Nations Championship finals opening night (BBC)",
+     "Ireland vs. Australia LIVE: Nations Championship updates, score, commentary (ESPN)"
+    ]
+   },
+   {
+    "tema": "app state vs south alabama",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "App State vs South Alabama Prediction, Pick, College Football Odds for Friday, Nov. 27 (Yahoo Sports)",
+     "Scouting report: What you need to know for South Alabama’s game vs. Appalachian State (AL.com)"
+    ]
+   },
+   {
+    "tema": "panthers vs capitals",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Caps Power Play Quietly Surging (NHL.com)",
+     "How to watch Panthers vs. Capitals: TV channel and streaming options for November 27 - The Athletic (The New York Times)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Levante vs Racing de Santander: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 (DAZN)",
+     "Demasiada rabia como para caer en la frustración (Superdeporte)"
+    ]
+   },
+   {
+    "tema": "red wings vs blue jackets",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Columbus Blue Jackets Lines, Defensive Pairings, & Scratches For Tonight's Game vs. Detroit Red Wings (Yahoo Sports)",
+     "Red Wings at Blue Jackets projected lineups (NHL.com)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "chris pratt",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T03:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss (Fox News)",
-     "‘The Hunger Games’ Star Jennifer Lawrence Just Ranked Her On-Screen Kisses, and One ‘Passengers’ Co-Star Landed Dead Last (IMDb)"
-    ]
-   },
-   {
-    "tema": "felipe vi de españa",
+    "tema": "encuestas elecciones generales",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El rey Felipe VI sorprende a David, alumno de Secundaria, al responderle con una carta y una foto desde Zarzuela (HOLA)",
-     "Un alumno de 1º de ESO de Almería escribe al Felipe VI y recibe una respuesta de la Casa Real (Telecinco)"
-    ]
-   },
-   {
-    "tema": "el economista",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-27T03:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El Ibex pierde los 19.000 puntos tras caer un 5,7% en su peor semana desde marzo (Expansión)",
-     "Anthropic se derrumba en su segunda jornada en Bolsa e intensifica las pérdidas de Wall Street (La Voz de Galicia)"
-    ]
-   },
-   {
-    "tema": "refinería de petróleo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Rusia teme un contragolpe ucranio contra su sistema energético: “La cuestión es cómo sobrevivimos al invierno” (EL PAÍS)",
-     "GUR ataca una refinería de petróleo en el krái de Krasnodar, alcanza oleoductos y una terminal de almacenamiento (Noticias de Ukrinform)"
-    ]
-   },
-   {
-    "tema": "presupuesto de la unión europea",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "La UE lucha por aprobar un presupuesto antes de la posible llegada de Le Pen al poder en Francia (EL PAÍS)",
-     "Los líderes siguen \"a años luz\" del pacto presupuestario y peligra el acuerdo en diciembre (El Mundo)"
-    ]
-   },
-   {
-    "tema": "mark marquez",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "MotoGP: Marc Marquez to retire after final race of 2026 season (BBC)",
-     "Marc Marquez announces his retirement from MotoGP (motogp.com)"
-    ]
-   },
-   {
-    "tema": "malas lenguas",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Nuevo enfrentamiento entre el Consejo de Informativos y la dirección de RTVE por el cierre de la campaña electoral: \"Es un hecho sin precedentes y de gravedad\" (El Mundo)",
-     "Terremoto en la programación de La Sexta este viernes: cancela la emisión de toda su oferta nocturna y mueve 'La Sexta Xplica' de día (El Confidencial)"
-    ]
-   },
-   {
-    "tema": "gabriel rufián",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-27T02:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Gabriel Rufián deja el tuit de la noche respondiendo a esta foto de Alberto Núñez Feijóo de antes del debate a 4: \"No ha sido el último, no\" (El HuffPost)",
-     "Mensaje de Rufián a Feijóo tras el debate (Diario AS)"
-    ]
-   },
-   {
-    "tema": "dustin poirier",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T02:20:00-08:00",
+    "desde": "2026-11-27T11:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Dustin Poirer and the Good Fight Foundation hold their annual Thanksgiving food drive (KLFY.com)",
-     "Former UFC champ Dustin Poirier feeds 500 families at Thanksgiving (Lyndy's Sports Annuals)"
+     "Elecciones generales 29N, en directo: encuestas, sondeos y última hora de los comicios, en vivo (Diario AS)",
+     "El futuro de España en Europa se juega el 29-N (El Mundo)"
     ]
    },
    {
-    "tema": "finanzas",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T02:20:00-08:00",
+    "tema": "werder bremen - mönchengladbach",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Sky oder DAZN: Wo läuft Werder Bremen - Borussia Mönchengladbach heute live? (DAZN)",
+     "Bundesliga live: Schießt Füllkrug Gladbach noch näher an den Abgrund? (Express)"
+    ]
+   },
+   {
+    "tema": "julio salinas",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Black Friday: tus 196 euros podrían valer 116.000 al jubilarte (Yahoo)",
-     "Gabriela Orille, experta financiera, sobre el Black Friday: “Comprar más barato no es ahorrar. Ahorrar es lo que haces con la diferencia” (El Periódico)"
+     "¿Quiénes son Isabel Forner, Patxi Salinas, Cecilia Gómez y Julio Salinas, los invitados de hoy en 'Pasapalabra'? (LOS40)",
+     "Quién es Isabel Forner, invitada hoy en 'Pasapalabra' y uno de las figuras más emergentes en el periodismo deportivo (MARCA)"
+    ]
+   },
+   {
+    "tema": "dlc hollow knight silksong",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El DLC de Hollow Knight Silksong, Sea of Sorrow, confirma su fecha de lanzamiento y es gratis para todos (Diario AS)",
+     "Team Cherry, responsable de Hollow Knight, presenta sus nuevos juegos Radio Rain y Blokkan: Secret of the Walking City por ahora solo para PC (Nintenderos)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Levante - Racing en directo: LaLiga EA Sports hoy en vivo (Diario AS)",
+     "Levante - Racing de Santander: alineaciones, horario, dónde ver, pronósticos y estadísticas (Betfair)"
+    ]
+   },
+   {
+    "tema": "leganés - c. e. sabadell",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Leganés - Sabadell: alineaciones, horario, dónde ver, pronósticos y estadísticas (Betfair)",
+     "Levante - Racing Santander en directo (El Mundo)"
+    ]
+   },
+   {
+    "tema": "nottingham forest - chelsea",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates (BBC)",
+     "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Chelsea, Arsenal vs Manchester City and more! (Sky Sports)"
+    ]
+   },
+   {
+    "tema": "embarcación",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Salvamento Marítimo halla varios fallecidos en un cayuco rescatado a 62 kilómetros de El Hierro (El Mundo)",
+     "Archipiélago Noticias Canarias - 27/11/26 (RTVE.es)"
+    ]
+   },
+   {
+    "tema": "juanma rodríguez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encontronazo público entre Juanma Rodríguez y Alfredo Duro, de 'El Chiringuito', tras el debate a 4: \"¿Por qué no condenas la violencia de género?\" (El HuffPost)",
+     "El gran mes de Bellingham (Real Madrid CF | Web Oficial)"
+    ]
+   },
+   {
+    "tema": "thiago pitarch",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T10:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Exit-linked Real Madrid starlet remains calm about his situation despite lack of game-time (Yahoo Sports)",
+     "Real Madrid youth prodigy could leave the team in the coming months – report (Yahoo Sports)"
     ]
    }
   ],
   "AR": [
    {
-    "tema": "martín menem",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
+    "tema": "werder bremen - mönchengladbach",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Confirman un incidente de seguridad en Diputados: sistemas restringidos, expedientes en papel y problemas de acceso (Clarin.com)",
-     "Martín Menem reveló que hubo intentos de hackeo a la Cámara de Diputados y anunció el cierre preventivo de sistemas (La Nación)"
+     "Werder Bremen vs. Borussia Mönchengladbach: Die offiziellen Aufstellungen sind da! (Tipico)",
+     "Bundesliga live: Schießt Füllkrug Gladbach noch näher an den Abgrund? (Express)"
     ]
    },
    {
-    "tema": "marc marquez",
+    "tema": "pierre gasly",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Franco Colapinto fue 15º en la segunda práctica en Qatar, dominada por los Mercedes (La Nación)",
+     "¡EN VIVO! El minuto a minuto de Franco Colapinto en la FP2 del GP de Qatar 2026 (ESPN Argentina)"
+    ]
+   },
+   {
+    "tema": "diego peretti",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Diego Peretti fue incluido en la denuncia penal contra Hernán Casciari por el financiamiento de La muerte de un comediante (La Nación)",
+     "Los denunciantes de Hernán Casciari acusaron a Diego Peretti en la Justicia: la desmentida del actor (Infobae)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Levante vs Racing, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV (TN)",
+     "El Levante sale con Víctor García, Romero y Thiago en ataque y el Racing mantiene a Zabiri (Infobae)"
+    ]
+   },
+   {
+    "tema": "nottingham forest - chelsea",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Chelsea fans’ preferred lineup against Nottingham Forest: How many votes did Fofana get? (We Ain't Got No History)",
+     "How to watch Nottingham vs Chelsea match in the USA: Live stream and TV for 2026-27 Premier League (World Soccer Talk)"
+    ]
+   },
+   {
+    "tema": "al ittihad",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T11:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Al-Ittihad vs NEOM (Goal.com)",
+     "Al Ittihad vs Neom SC: Where to Watch, TV Channel, Live Stream and Kick-off Time (Goal.com)"
+    ]
+   },
+   {
+    "tema": "entre ríos",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T10:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "ola de calor",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¿Se viene la primera ola de calor en la Ciudad y el GBA? hasta dónde llegará la temperatura este viernes y el fin de semana (Clarin.com)",
+     "Ciclogénesis y alerta en Argentina: el pronóstico del tiempo para el fin de semana con 34° en Buenos Aires (Ciudad Magazine)"
+    ]
+   },
+   {
+    "tema": "bunge & born",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Murió el empresario Jorge Born (Página|12)",
+     "Murió Jorge Born, el empresario heredero de Bunge y Born que sobrevivió al secuestro de Montoneros (Infobae)"
+    ]
+   },
+   {
+    "tema": "clima bahia blanca",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-27T03:00:00-08:00",
+    "desde": "2026-11-27T10:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Marc Márquez anuncia su retiro inmediato de MotoGP (Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally)",
-     "Marc Márquez anunció que se retira del MotoGP tras el Gran Premio de Valencia (La Nación)"
-    ]
-   },
-   {
-    "tema": "mdz",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T02:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Invirtieron US$ 5 millones para rescatar una vieja bodega y crearon un polo inédito en Mendoza (MDZ Online)",
-     "Corte de agua en Mendoza: la DGE aclaró cómo funcionarán las escuelas (Diario El Sol Mendoza)"
-    ]
-   },
-   {
-    "tema": "contexto tucuman",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T02:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Caza ilegal y pólvora: una nueva revelación sobre Malvinas conservada en Tucumán (La Gaceta)",
-     "Hallazgo histórico en el Archivo de Tucumán: descubren una carta de 1832 que documenta el ataque de EE.UU. a Malvinas y el secuestro de argentinos (el tucumano | Noticias y actualidad de Tucumán)"
-    ]
-   },
-   {
-    "tema": "ministro",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T02:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Euforia en Brasil: el nuevo ministro de Hacienda de Lula será un poderoso banquero y la bolsa de San Pablo subió más del 6% (Clarin.com)",
-     "En un gesto a los mercados, Lula eligió al banquero Luiz Trabuco como ministro de Hacienda (Página|12)"
-    ]
-   },
-   {
-    "tema": "necochea",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T02:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Alumbrado público: el Municipio ya instaló más de 600 luminarias LED en Necochea y Quequén (Alerta Alejandro)",
-     "Rojas fortalece las gestiones con Puerto Quequén y Provincia: más iluminación, inversiones y un plan para mejorar las calles (Necochea Digital)"
-    ]
-   },
-   {
-    "tema": "sergio massa",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T01:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Massa: \"El Gobierno se apura si celebra Paso en el Senado, falta Diputados\" (La Política Online)",
-     "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\" (Cadena 3 Argentina)"
-    ]
-   },
-   {
-    "tema": "barby franco",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T01:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Barby Franco mostró la primera vez de su hija Sarah en la peluquería: qué corte eligió (TN)",
-     "A días de su cumpleaños, Sarah Burlando pasó por la peluquería con Barby Franco: “Por primera vez” (Caras)"
-    ]
-   },
-   {
-    "tema": "pronóstico del tiempo",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T01:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Clima hoy en San Miguel de Tucumán: el pronóstico del tiempo para este viernes 27 noviembre de 2026 (Clarin.com)",
-     "La temperatura subirá con fuerza en Tucumán: el día que llegará a los 34°C, según el SMN (La Gaceta)"
-    ]
-   },
-   {
-    "tema": "germán martitegui",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T01:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Germán Martitegui se emocionó con el plato de una famosa en MasterChef y lanzó una advertencia al resto: \"Tengan cuidado\" (Infobae)",
-     "Karina Mazzocco emocionó a Germán Martitegui con un plato muy especial en MasterChef Celebrity (TN)"
+     "El pronóstico: cómo estará el tiempo este viernes en la ciudad (La Nueva Provincia)",
+     "Clima en Bahía Blanca hoy: cuál es el pronóstico del tiempo para el 27 de noviembre de 2026 (La Nación)"
     ]
    }
   ],
   "MX": [
    {
-    "tema": "clima hoy",
-    "volumen": "500000+",
-    "volumen_min": 500000,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
+    "tema": "groningen fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:30:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "El tiempo en México este fin de semana: tremendo temporal de lluvias iniciando en las próximas horas (Meteored México)",
-     "Pegará primera tormenta invernal a CDMX (Reforma)"
+     "Groningen vs Willem II: Dutch Eredivisie stats & head-to-head (BBC)",
+     "Groningen v Willem II: mid-table reset meets relegation fight (OneFootball)"
     ]
    },
    {
-    "tema": "clima de hoy",
+    "tema": "comercio",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T11:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Genera comercio 54 mil empleos formales en Mexicali (El Sol de México)",
+     "Mexicali mantiene dinamismo en su actividad comercial (Baja News)"
+    ]
+   },
+   {
+    "tema": "nottingham forest - chelsea",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Chelsea, Arsenal vs Manchester City and more! (Sky Sports)",
+     "Predicted XI: Alonso dodges big decisions and picks player fans are sick of (Talk Chelsea)"
+    ]
+   },
+   {
+    "tema": "steelers - broncos",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Starting and backup QBs on Steelers vs Broncos depth charts today in 2026 NFL Week 12 (Bolavip US)",
+     "Dabble Promo Code YAHOOBONUS: Claim Up to $200 in Bonuses on Friday's Broncos/Steelers Matchup, Plus College Football, NBA, NHL and College Basketball Action (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "levante - racing de santander",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-27T03:30:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Pronóstico del clima en Tepic hoy 25 de noviembre de 2026 (Debate)",
-     "Del calor moderado a mañanas más frescas en Nayarit (Meganoticias.mx)"
+     "Levante - Racing en directo: LaLiga EA Sports hoy en vivo (Diario AS)",
+     "Apuestas y pronósticos Levante vs Racing (MARCA)"
     ]
    },
    {
-    "tema": "temperatura torreon",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-27T03:30:00-08:00",
+    "tema": "venezia - bolonia",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¡Abrígate! Prevén temperaturas bajo cero este miércoles en Coahuila y Durango (Milenio)",
-     "Sal, cobijas y refugios: despliegan operativo en Saltillo para localizar y resguardar a personas vulnerables ante el frío (vanguardia.com.mx)"
+     "Chivas llega como líder de la Liguilla para enfrentar a Pachuca (MARCA)",
+     "Villarreal vence 1-0 al Slavia Praga y entra a zona de playoffs (Diario de Morelos)"
     ]
    },
    {
-    "tema": "temperatura",
+    "tema": "stade brestois - paris fc",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T11:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Brest - Paris FC : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match (DAZN)",
+     "DIRECT - Ligue 1 : quatre à la suite ? Vivez le match Stade Brestois - Paris FC en direct avec Ici Breizh Izel (ici.fr)"
+    ]
+   },
+   {
+    "tema": "arturo vázquez",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T03:20:00-08:00",
+    "desde": "2026-11-27T11:10:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Pronóstico del clima en Los Mochis hoy 27 de noviembre de 2026 (Debate)",
-     "PRIMERA TORMENTA INVERNAL TRAERÁ FRÍO, LLUVIA Y POSIBLE NEVADA A LA CAPITAL ESTE FIN DE SEMANA (CDMX)"
+     "\"Vivo de ayudas\": hijo de Alberto Vázquez revela dura situación económica (López-Dóriga Digital)",
+     "Arturo Vázquez, actor de ‘El privilegio de amar’, atraviesa crisis económica: ‘No trabajo, ni de jardinero’ (El Financiero)"
     ]
    },
    {
-    "tema": "clima queretaro",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T03:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": []
-   },
-   {
-    "tema": "gabriel milito",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T03:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Gabriel Milito mantiene la fe en remontar la serie en casa: 'Plena confianza en que lo podemos hacer' (Mediotiempo)",
-     "¿Con quién se encaró Oussama Idrissi en la banca de Chivas? La cédula arbitral despeja las dudas de Gabriel Milito (MARCA)"
-    ]
-   },
-   {
-    "tema": "irán",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T02:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Dos italianos mueren en un presunto ataque con drones iraníes en Kuwait. Teherán niega cualquier resposabilidad (CNN en Español)",
-     "Irán acusa a Zelenskyy de una operación de «bandera falsa» con un ataque con drones en Kuwait para llamar la atención de Trump (Yahoo)"
-    ]
-   },
-   {
-    "tema": "clima puebla",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T02:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Soleado y fresco: el clima este jueves 26 de noviembre en Puebla capital (Diario Cambio)",
-     "Lluvias y temperaturas de 11°, pronostican este viernes en Puebla (Almanaque Puebla)"
-    ]
-   },
-   {
-    "tema": "carlos salcedo",
+    "tema": "groningen vs",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T02:00:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-27T11:00:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "¡Titánica renovación! Salcedo seguirá en Rayados con aumento de sueldo (TUDN)",
-     "Monterrey apuesta por Carlos Salcedo, pero su renovación no convence a los aficionados (MARCA)"
+     "Streppel legt vinger op zere plek bij Willem II: 'Dat moet nu ook beter worden' (VoetbalPrimeur)",
+     "LIVE eredivisie | Etienne Vaessen keert terug onder de lat bij FC Groningen tegen Willem II, ook Hans Hateboer in de basis (AD.nl)"
     ]
    },
    {
-    "tema": "agujero de la capa de ozono",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T01:20:00-08:00",
+    "tema": "walter erviti",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T11:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "¡Casi 14 veces México! Así creció el agujero de la capa de ozono en 2026: ¿Qué riesgos implica? (El Financiero)",
-     "El agujero de la capa de ozono, uno de los más grandes de las últimas décadas (El Comentario)"
+     "Otra incongruencia de la Disciplinaria (Mediotiempo)",
+     "Pitará Santander la vuelta América-Rayados (El Norte)"
     ]
    }
   ]
