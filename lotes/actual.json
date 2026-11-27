@@ -8,24 +8,10 @@
     "escenas": [
       {
         "texto": "Liga se ponía dos a cero en diez minutos.",
-        "foto": "img/escudos/liga.png",
+        "video": "videos/Efemeride Emelec 1.mp4",
+        "video_inicio": 0,
         "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "tv",
-          "titulo": "ASÍ SE PUSO 2-0 LIGA",
-          "local": {"nombre": "LIGA", "color": "#FFFFFF"},
-          "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
-          "jugadores": [
-            {"id": "9", "equipo": "local", "x": 55, "y": 20},
-            {"id": "1", "equipo": "rival", "x": 50, "y": 5, "arquero": true}
-          ],
-          "balon": "9",
-          "pasos": [
-            {"balon": [52, 12], "flecha": "tiro", "gol": true, "texto": "SOMBRERITO DE JULIO"},
-            {"balon": [50, -1], "flecha": "tiro", "gol": true, "texto": "AUTOGOL DE RAMOS"}
-          ],
-          "marcador": {"local": "LIG", "rival": "EME", "antes": [0, 0], "despues": [2, 0], "minuto": "6' y 9'"}
-        },
+        "grafico": {"tipo": "titular", "texto": "2-0 EN 10 MINUTOS", "sobre": "CASA BLANCA 2017"},
         "transicion": "flash",
         "destello": true
       },
@@ -37,30 +23,6 @@
         "grafico": {"tipo": "ninguno"},
         "transicion": "barrido",
         "suspenso": true
-      },
-      {
-        "texto": "Guagua empató de cabeza antes del descanso.",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "tv",
-          "titulo": "GOL DE GUAGUA 34'",
-          "local": {"nombre": "LIGA", "color": "#FFFFFF"},
-          "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
-          "jugadores": [
-            {"id": "3", "equipo": "rival", "x": 60, "y": 25},
-            {"id": "2", "equipo": "local", "x": 55, "y": 30}
-          ],
-          "balon": "3",
-          "pasos": [
-            {"balon": [58, 10], "flecha": "pase", "texto": "CENTRO DE MATAMOROS"},
-            {"balon": [55, -1], "flecha": "tiro", "gol": true, "texto": "CABEZAZO DE GUAGUA"}
-          ],
-          "marcador": {"local": "LIG", "rival": "EME", "antes": [2, 1], "despues": [2, 2], "minuto": "34'"}
-        },
-        "transicion": "flash",
-        "destello": true,
-        "tono": "celebracion"
       },
       {
         "texto": "Preciado puso el tres a dos de cabeza.",
