@@ -44,7 +44,7 @@ Además te pido, en la ENTREGA 1, un archivo `movimientos.json` para las 3–4 e
 
 Tú me devuelves:
 1. **Un solo bloque de código** con el `corto.json` COMPLETO, que yo pego en `scripts/guineo/animacion/<id>/corto.json`. Al subirlo, GitHub renderiza el video y lo deja en Releases ("Guineo Animación: <id>").
-2. **Textos SEO**:
+2. **Textos SEO** (el corto es parte de la serie "Historias de plastilina #N": pon el número en el título o la descripción, agrega "Suscríbete: una historia nueva cada semana" al final de la descripción y en el comentario fijado anuncia la próxima historia):
    - YouTube: 2 títulos A/B de máx. 70 caracteres, SEO + gancho sin revelar, con #Shorts; descripción con la historia, la pregunta, "Fuente: <libro, autor>", "Ilustraciones generadas con IA" y 10 hashtags.
    - Instagram: texto + primer comentario con un dato extra.
    - TikTok.
@@ -75,7 +75,7 @@ Revisa que el JSON sea válido: comillas dobles, sin comas al final, sin comenta
   [1.05, 4.85, "Texto exacto de la frase 1, bien escrito y con tildes."],
   [5.65, 11.1, "Frase 2."]
  ],
- "cierre": {"texto": "Síguenos para más|historias futboleras", "dur": 3.0}
+ "cierre": {"texto": "Suscríbete|una historia nueva cada semana", "dur": 3.0}
 }
 ```
 
@@ -99,7 +99,7 @@ Revisa que el JSON sea válido: comillas dobles, sin comas al final, sin comenta
   - **sfx**: lista de sonidos: trueno, silbato, golpe, patada, patadas, redoble, sirena, zumbido, click, whoosh.
   - **lluvia**: true/false para una sola escena (ej. un vestuario bajo techo).
 - **subtitulos**: [inicio, fin, "texto"] con el texto CORRECTO de cada frase (aunque yo me haya trabado al leer).
-- **cierre**: placa final con el escudo de Guineo. No cambies el texto.
+- **cierre**: placa final con el escudo de Guineo y la invitación a suscribirse (única invitación del video). No cambies el texto.
 
 ### Reglas fijas
 - Nada de "síguenos" dentro del video; solo en la placa final.
