@@ -8,8 +8,7 @@
     "escenas": [
       {
         "texto": "Liga se ponía dos a cero en diez minutos.",
-        "video": "videos/Efemeride Emelec 1.mp4",
-        "video_inicio": 0,
+        "foto": "img/escudos/liga.png",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "tv",
@@ -31,31 +30,37 @@
         "destello": true
       },
       {
-        "texto": "Pero Angulo y Guagua empataron antes del descanso.",
+        "texto": "Pero Angulo descontó con un zapatazo al ángulo.",
         "video": "videos/Efemeride emelec 2.mp4",
         "video_inicio": 10,
         "movimiento": "paneo_der",
+        "grafico": {"tipo": "ninguno"},
+        "transicion": "barrido",
+        "suspenso": true
+      },
+      {
+        "texto": "Guagua empató de cabeza antes del descanso.",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "zoom_in",
         "grafico": {
           "tipo": "tv",
-          "titulo": "ANGULO Y GUAGUA EMPATAN",
+          "titulo": "GOL DE GUAGUA 34'",
           "local": {"nombre": "LIGA", "color": "#FFFFFF"},
           "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
           "jugadores": [
-            {"id": "11", "equipo": "rival", "x": 30, "y": 60},
             {"id": "3", "equipo": "rival", "x": 60, "y": 25},
             {"id": "2", "equipo": "local", "x": 55, "y": 30}
           ],
-          "balon": "11",
+          "balon": "3",
           "pasos": [
-            {"mover": {"11": [45, 35]}, "balon": [45, 35], "flecha": "conduccion", "texto": "ZAPATAZO DE ANGULO"},
-            {"balon": [52, 5], "flecha": "tiro", "gol": true, "texto": "GOL 27'"},
             {"balon": [58, 10], "flecha": "pase", "texto": "CENTRO DE MATAMOROS"},
             {"balon": [55, -1], "flecha": "tiro", "gol": true, "texto": "CABEZAZO DE GUAGUA"}
           ],
-          "marcador": {"local": "LIG", "rival": "EME", "antes": [2, 0], "despues": [2, 2], "minuto": "27' y 34'"}
+          "marcador": {"local": "LIG", "rival": "EME", "antes": [2, 1], "despues": [2, 2], "minuto": "34'"}
         },
-        "transicion": "barrido",
-        "suspenso": true
+        "transicion": "flash",
+        "destello": true,
+        "tono": "celebracion"
       },
       {
         "texto": "Preciado puso el tres a dos de cabeza.",
@@ -69,7 +74,7 @@
         "hinchada": true
       },
       {
-        "texto": "Y Matamoros selló el dos a cuatro con otro cabezazo.",
+        "texto": "Matamoros selló el dos a cuatro con otro cabezazo.",
         "video": "videos/Efemeride emelec 4.mp4",
         "video_inicio": 0,
         "movimiento": "zoom_in",
