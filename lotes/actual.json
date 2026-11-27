@@ -1,6 +1,6 @@
 [
   {
-    "titulo": "Emelec remontó 2-4 a Liga en 2017 | Efeméride Eléctrica",
+    "titulo": "Emelec vs Liga de Quito 2017: la remontada que nadie vio venir",
     "etiqueta": "SERIE A · EFEMÉRIDE 2017",
     "club": "emelec",
     "audio": "audio/52",
@@ -8,7 +8,8 @@
     "escenas": [
       {
         "texto": "Liga de Quito se ponía dos a cero en diez minutos.",
-        "foto": "lotes/videos/Efemeride Emelec 1.mp4",
+        "video": "videos/Efemeride Emelec 1.mp4",
+        "video_inicio": 0,
         "movimiento": "zoom_in",
         "grafico": {"tipo": "titular", "texto": "2-0 EN 10 MINUTOS", "sobre": "CASA BLANCA 2017"},
         "transicion": "flash",
@@ -16,17 +17,19 @@
       },
       {
         "texto": "Pero Angulo sacó un zapatazo al ángulo, y Guagua empató de cabeza antes del descanso.",
-        "foto": "lotes/videos/Efemeride emelec 2.mp4",
+        "video": "videos/Efemeride emelec 2.mp4",
+        "video_inicio": 0,
         "movimiento": "paneo_der",
         "grafico": {"tipo": "cifra", "valor": "27'", "texto": "GOL DE ANGULO"},
         "transicion": "barrido",
         "suspenso": true
       },
       {
-        "texto": "En el segundo tiempo, Preciado y Matamoros completaron la remontada en dos minutos.",
-        "foto": "lotes/videos/Efemeride emelec 3.mp4",
+        "texto": "Preciado y Matamoros completaron la remontada en dos minutos. ¿Te acordabas de esta? Te leo, y sigue a Guineo.",
+        "video": "videos/Efemeride emelec 3.mp4",
+        "video_inicio": 0,
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "cifra", "valor": "56'", "texto": "GOL DE PRECIADO"},
+        "grafico": {"tipo": "ninguno"},
         "transicion": "flash",
         "destello": true,
         "tono": "celebracion",
@@ -34,16 +37,17 @@
       },
       {
         "texto": "Matamoros selló el dos a cuatro con un cabezazo desde el piso.",
-        "foto": "lotes/videos/Efemeride emelec 4.mp4",
+        "video": "videos/Efemeride emelec 4.mp4",
+        "video_inicio": 0,
         "movimiento": "zoom_in",
-        "grafico": {"tipo": "cifra", "valor": "58'", "texto": "GOL DE MATAMOROS"},
+        "grafico": {"tipo": "ninguno"},
         "transicion": "flash",
         "destello": true,
         "tono": "celebracion",
         "hinchada": true
       },
       {
-        "texto": "Un dos a cuatro histórico. ¿Te acordabas de esta?",
+        "texto": "Un dos a cuatro histórico en el Rodrigo Paz. Y desde ese día, Emelec no volvió a ganar ahí hasta esta efeméride.",
         "foto": "img/escudos/emelec.png",
         "movimiento": "quieto",
         "grafico": {
@@ -55,14 +59,8 @@
           "pie": "RODRIGO PAZ DELGADO · 2017"
         },
         "transicion": "zoom",
+        "tono": "recuerdo",
         "hinchada": true
-      },
-      {
-        "texto": "Y desde ese día, Emelec no volvió a ganar en el Rodrigo Paz hasta esta efeméride.",
-        "foto": "img/escudos/emelec.png",
-        "movimiento": "zoom_out",
-        "grafico": {"tipo": "retro", "texto": "EFEMÉRIDE"},
-        "tono": "recuerdo"
       }
     ]
   }
