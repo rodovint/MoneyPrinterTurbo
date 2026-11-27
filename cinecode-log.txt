@@ -1,0 +1,19 @@
+  1.78-  7.12  eran los reyes de américa y en su casa nadie les ganaba estudiantes de la plata tri-campeón
+  7.12- 13.94  de la libertadora 78 79 y 70 con la bruja verón el papá de la brujita dentro de la cancha 29
+ 13.94- 19.30  de abril de 1971 semifinal llego equipo de guayaquil al que veían como de tercera
+ 20.72- 26.20  barcelona y en el estadio les decía que los iban a golear tú que hubieras apostado te leo
+ 26.20- 31.32  sí nos enguineó comunicaciones pero el ídolo traía una arma secreta un delantero que no era como los
+ 31.32- 40.18  demás pase de alberto espencer remate y gol 1 a 0 el tri-campeón perdía por primera vez en su casa
+ 40.18- 48.10  en las libertadores y el goleador un sacerdote español el padre juan manuel basurco desde esa
+ 48.10- 53.20  noche ecuador la llama lasaña de la plata la noche en que los reyes de américa perdieron en casa
+Loading weights:   0%|          | 0/287 [00:00<?, ?it/s]Loading weights: 100%|██████████| 287/287 [00:00<00:00, 4582.96it/s]
+depth ok lotes/img/laplata/bruja.png
+depth ok lotes/img/laplata/cura-espalda.png
+depth ok lotes/img/laplata/cura-frente.png
+depth ok lotes/img/laplata/festejo.png
+depth ok lotes/img/laplata/llegada.png
+depth ok lotes/img/laplata/mapa.png
+depth ok lotes/img/laplata/remate.png
+depth ok lotes/img/laplata/spencer.png
+depth ok lotes/img/laplata/tablero.png
+depth ok lotes/img/laplata/trofeos.png
