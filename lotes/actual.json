@@ -23,22 +23,21 @@
         "foto": "../videos/efemeride emelec 2.mp4",
         "movimiento": "paneo_der",
         "grafico": {
-          "tipo": "marcador",
-          "equipos": [
-            {
-              "nombre": "LIGA DE QUITO",
-              "color": "#FFFFFF",
-              "escudo": "img/escudos/liga.png",
-              "goles": 2
-            },
-            {
-              "nombre": "EMELEC",
-              "color": "#0B4EA2",
-              "escudo": "img/escudos/emelec.png",
-              "goles": 0
-            }
+          "tipo": "tv",
+          "titulo": "ASÍ LLEGÓ EL 2-0",
+          "local": {"nombre": "LIGA", "color": "#FFFFFF"},
+          "rival": {"nombre": "EMELEC", "color": "#0B4EA2"},
+          "jugadores": [
+            {"id": "10", "equipo": "local", "x": 55, "y": 40},
+            {"id": "9", "equipo": "local", "x": 48, "y": 25},
+            {"id": "3", "equipo": "rival", "x": 50, "y": 15, "arquero": true}
           ],
-          "pie": "10'"
+          "balon": "9",
+          "pasos": [
+            {"mover": {"10": [52, 35]}, "balon": [52, 35], "flecha": "pase", "texto": "CENTRO"},
+            {"balon": [48, 8], "flecha": "tiro", "gol": true, "texto": "2-0"}
+          ],
+          "marcador": {"local": "LDU", "rival": "EME", "antes": [1, 0], "despues": [2, 0], "minuto": "10'"}
         },
         "transicion": "flash"
       },
@@ -48,7 +47,7 @@
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "titular",
-          "texto": "ANGULO Y GUAGUA",
+          "texto": "ANGULO + GUAGUA",
           "sobre": "EMPATE 2-2"
         },
         "transicion": "zoom",
