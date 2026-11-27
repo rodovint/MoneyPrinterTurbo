@@ -1,0 +1,111 @@
+{
+ "voz": "lotes/audio/Clasificacion2001.m4a",
+ "color": "#F6C90E",
+ "lluvia": false,
+ "ambiente": "hinchada",
+ "tramos": [
+  [0.50, 5.10],
+  [6.00, 10.40],
+  [11.20, 15.60],
+  [16.40, 21.00],
+  [21.80, 26.50],
+  [27.30, 31.80],
+  [32.60, 37.20],
+  [38.00, 42.10],
+  [43.00, 48.10],
+  [49.00, 53.60],
+  [54.50, 58.80]
+ ],
+ "silencios": {
+  "21.00": 1.20,
+  "42.10": 1.30
+ },
+ "escenas": [
+  {
+   "t": 0.50,
+   "img": "lotes/img/clasificacion/IMG_5397.jpeg",
+   "mov": "zoom_in",
+   "texto": "¿UNA MALDICIÓN IMPOSIBLE?",
+   "sfx": ["golpe"]
+  },
+  {
+   "t": 6.00,
+   "img": "lotes/img/clasificacion/IMG_5399.jpeg",
+   "mov": "pan_der",
+   "texto": "7 NOVIEMBRE 2001 · QUITO",
+   "sfx": ["whoosh"]
+  },
+  {
+   "t": 11.20,
+   "img": "lotes/img/clasificacion/IMG_5400.jpeg",
+   "mov": "zoom_in",
+   "texto": "A UN PUNTO DE LA GLORIA"
+  },
+  {
+   "t": 16.40,
+   "img": "lotes/img/clasificacion/IMG_5401.jpeg",
+   "mov": "sacudon",
+   "marcador": ["ECU", 0, "URU", 1],
+   "marcador_pos": "arriba",
+   "texto": "MINUTO 43 · GOL CHARRÚA",
+   "sfx": ["silbato", "golpe"]
+  },
+  {
+   "t": 21.80,
+   "img": "lotes/img/clasificacion/IMG_5403.jpeg",
+   "mov": "zoom_out",
+   "texto": "VOLVÍA EL FANTASMA",
+   "sfx": ["zumbido"]
+  },
+  {
+   "t": 32.60,
+   "img": "lotes/img/clasificacion/IMG_5409.jpeg",
+   "mov": "pan_izq",
+   "texto": "ENTRA EL CAPITÁN",
+   "sfx": ["whoosh"]
+  },
+  {
+   "t": 38.00,
+   "img": "lotes/img/clasificacion/IMG_5396.jpeg",
+   "mov": "zoom_in",
+   "efecto": "camara_lenta",
+   "texto": "MINUTO 72…",
+   "sfx": ["redoble"]
+  },
+  {
+   "t": 43.00,
+   "img": "lotes/img/clasificacion/IMG_5395.jpeg",
+   "mov": "sacudon",
+   "efecto": "flash",
+   "marcador": ["ECU", 1, "URU", 1],
+   "marcador_pos": "arriba",
+   "titulo": "EL GOL DE|LA HISTORIA",
+   "titulo_en": 44.50,
+   "sfx": ["golpe"]
+  },
+  {
+   "t": 49.00,
+   "img": "lotes/img/clasificacion/IMG_5398.jpeg",
+   "mov": "zoom_out",
+   "texto": "¡ECUADOR AL MUNDIAL!",
+   "sfx": ["silbato"]
+  }
+ ],
+ "subtitulos": [
+  [0.50, 5.10, "Durante décadas, ver a Ecuador en un Mundial parecía una maldición imposible de romper."],
+  [6.00, 10.40, "Siete de noviembre de dos mil uno, estadio Olímpico Atahualpa de Quito."],
+  [11.20, 15.60, "La Tricolor recibía a Uruguay a un solo punto de hacer historia por primera vez."],
+  [16.40, 21.00, "Pero al minuto cuarenta y tres, Nicolás Olivera anotó de penal para los charrúas."],
+  [21.80, 26.50, "El estadio entero quedó en silencio y el fantasma de las eliminaciones volvió a aparecer."],
+  [27.30, 31.80, "¿Dónde estabas tú ese día o cómo te contaron ese partido? Te leo."],
+  [32.60, 37.20, "En el segundo tiempo, el Bolillo Gómez mandó a la cancha al eterno capitán, Álex Aguinaga."],
+  [38.00, 42.10, "Minuto setenta y dos: centro perfecto de zurda al corazón del área."],
+  [43.00, 48.10, "Jaime Iván Kaviedes se elevó en el cielo de Quito y metió un cabezazo inolvidable al fondo de la red."],
+  [49.00, 53.60, "Uno a uno final, pitazo del árbitro y doce millones de ecuatorianos llorando abrazados."],
+  [54.50, 58.80, "Ese gol del Nine borró para siempre la palabra imposible en nuestro fútbol."]
+ ],
+ "cierre": {
+  "texto": "Síguenos para más|historias futboleras",
+  "dur": 3.0
+ }
+}
