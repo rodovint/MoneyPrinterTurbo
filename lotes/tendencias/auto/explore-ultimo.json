@@ -1,283 +1,35 @@
 {
- "fecha": "2026-11-26T15:08-05:00",
+ "fecha": "2026-11-26T20:09-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "sunderland afc - jagiellonia białystok",
+   "tema": "borac - atalanta",
    "impulso_24h_pct": null,
    "estado": "nueva",
-   "impulso_3h_pct": null,
-   "estado_3h": "nueva",
+   "impulso_3h_pct": -82,
+   "estado_3h": "en declive",
    "pico": {
-    "date": "2026-11-26T20:00:00+00:00",
-    "value": 100,
-    "is_partial": true
-   },
-   "ultimo_valor": 100,
-   "provincias_top": [
-    "Chimborazo 100",
-    "El Oro 99",
-    "Los Ríos 96",
-    "Santo Domingo de los Tsáchilas 91",
-    "Manabí 91",
-    "Loja 87",
-    "Cotopaxi 87",
-    "Esmeraldas 86"
-   ],
-   "el_oro": 99,
-   "busquedas_en_alza": [
-    "olympiacos milan (Breakout)"
-   ],
-   "serie": [
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
-    [
-     "11-25T02",
-     0
-    ],
-    [
-     "11-25T03",
-     0
-    ],
-    [
-     "11-25T04",
-     0
-    ],
-    [
-     "11-25T05",
-     0
-    ],
-    [
-     "11-25T06",
-     0
-    ],
-    [
-     "11-25T07",
-     0
-    ],
-    [
-     "11-25T08",
-     0
-    ],
-    [
-     "11-25T09",
-     0
-    ],
-    [
-     "11-25T10",
-     0
-    ],
-    [
-     "11-25T11",
-     0
-    ],
-    [
-     "11-25T12",
-     0
-    ],
-    [
-     "11-25T13",
-     0
-    ],
-    [
-     "11-25T14",
-     0
-    ],
-    [
-     "11-25T15",
-     0
-    ],
-    [
-     "11-25T16",
-     0
-    ],
-    [
-     "11-25T17",
-     0
-    ],
-    [
-     "11-25T18",
-     0
-    ],
-    [
-     "11-25T19",
-     0
-    ],
-    [
-     "11-25T20",
-     0
-    ],
-    [
-     "11-25T21",
-     0
-    ],
-    [
-     "11-25T22",
-     0
-    ],
-    [
-     "11-25T23",
-     0
-    ],
-    [
-     "11-26T00",
-     0
-    ],
-    [
-     "11-26T01",
-     0
-    ],
-    [
-     "11-26T02",
-     0
-    ],
-    [
-     "11-26T03",
-     0
-    ],
-    [
-     "11-26T04",
-     0
-    ],
-    [
-     "11-26T05",
-     0
-    ],
-    [
-     "11-26T06",
-     0
-    ],
-    [
-     "11-26T07",
-     0
-    ],
-    [
-     "11-26T08",
-     0
-    ],
-    [
-     "11-26T09",
-     0
-    ],
-    [
-     "11-26T10",
-     0
-    ],
-    [
-     "11-26T11",
-     0
-    ],
-    [
-     "11-26T12",
-     0
-    ],
-    [
-     "11-26T13",
-     0
-    ],
-    [
-     "11-26T14",
-     0
-    ],
-    [
-     "11-26T15",
-     0
-    ],
-    [
-     "11-26T16",
-     0
-    ],
-    [
-     "11-26T17",
-     0
-    ],
-    [
-     "11-26T18",
-     0
-    ],
-    [
-     "11-26T19",
-     97
-    ],
-    [
-     "11-26T20",
-     100
-    ]
-   ]
-  },
-  {
-   "tema": "viktoria plzeň - benfica",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": 512,
-   "estado_3h": "explosiva",
-   "pico": {
-    "date": "2026-11-26T19:00:00+00:00",
+    "date": "2026-11-26T22:00:00+00:00",
     "value": 100,
     "is_partial": false
    },
    "ultimo_valor": 0,
    "provincias_top": [
-    "Santa Elena 100",
-    "Loja 87",
-    "Azuay 67",
-    "Guayas 60",
-    "Tungurahua 59",
-    "El Oro 57",
-    "Manabí 52",
-    "Pichincha 40"
+    "Esmeraldas 100",
+    "Los Ríos 84",
+    "Manabí 68",
+    "Chimborazo 60",
+    "Loja 47",
+    "El Oro 44",
+    "Guayas 35",
+    "Azuay 35"
    ],
-   "el_oro": 57,
+   "el_oro": 44,
    "busquedas_en_alza": [
-    "olympiacos milan (Breakout)",
-    "celta de vigo bournemouth (Breakout)",
-    "posiciones de viktoria plzeň contra benfica (Breakout)",
-    "brighton u craiova (Breakout)",
-    "europa league (Breakout)",
-    "hearts mónaco (Breakout)",
-    "viktoria plzeň vs. sparta praha (Breakout)",
-    "ajax thun (Breakout)"
+    "borac vs atalanta (Breakout)"
    ],
    "serie": [
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
     [
      "11-25T02",
      0
@@ -436,61 +188,65 @@
     ],
     [
      "11-26T17",
-     32
+     0
     ],
     [
      "11-26T18",
-     96
+     0
     ],
     [
      "11-26T19",
-     100
+     28
     ],
     [
      "11-26T20",
+     53
+    ],
+    [
+     "11-26T21",
+     67
+    ],
+    [
+     "11-26T22",
+     100
+    ],
+    [
+     "11-26T23",
+     24
+    ],
+    [
+     "11-27T00",
+     16
+    ],
+    [
+     "11-27T01",
      0
     ]
    ]
   },
   {
    "tema": "posiciones de brighton & hove albion football club contra u craiova",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": null,
-   "estado_3h": "nueva",
+   "impulso_24h_pct": 75,
+   "estado": "en crecimiento",
+   "impulso_3h_pct": -92,
+   "estado_3h": "en declive",
    "pico": {
-    "date": "2026-11-26T20:00:00+00:00",
+    "date": "2026-11-25T07:00:00+00:00",
     "value": 100,
-    "is_partial": true
+    "is_partial": false
    },
-   "ultimo_valor": 100,
+   "ultimo_valor": 0,
    "provincias_top": [
-    "Guayas 100",
-    "Pichincha 58"
+    "Los Ríos 100",
+    "El Oro 79",
+    "Guayas 78",
+    "Manabí 64",
+    "Azuay 51",
+    "Pichincha 51"
    ],
-   "el_oro": null,
+   "el_oro": 79,
    "busquedas_en_alza": [],
    "serie": [
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
     [
      "11-25T02",
      0
@@ -513,7 +269,7 @@
     ],
     [
      "11-25T07",
-     0
+     100
     ],
     [
      "11-25T08",
@@ -657,232 +413,37 @@
     ],
     [
      "11-26T19",
-     11
+     26
     ],
     [
      "11-26T20",
-     100
+     92
+    ],
+    [
+     "11-26T21",
+     33
+    ],
+    [
+     "11-26T22",
+     13
+    ],
+    [
+     "11-26T23",
+     11
+    ],
+    [
+     "11-27T00",
+     0
+    ],
+    [
+     "11-27T01",
+     0
     ]
    ]
   },
   {
-   "tema": "crystal palace - real sociedad",
-   "impulso_24h_pct": null,
-   "estado": "nueva",
-   "impulso_3h_pct": null,
-   "estado_3h": "nueva",
-   "pico": {
-    "date": "2026-11-26T20:00:00+00:00",
-    "value": 100,
-    "is_partial": true
-   },
-   "ultimo_valor": 100,
-   "provincias_top": [
-    "Loja 100",
-    "Manabí 57",
-    "Guayas 41",
-    "Pichincha 32"
-   ],
-   "el_oro": null,
-   "busquedas_en_alza": [
-    "crystal palace vs real sociedad (Breakout)",
-    "crystal palace vs. real sociedad (Breakout)",
-    "olympiacos milan (Breakout)"
-   ],
-   "serie": [
-    [
-     "11-24T21",
-     0
-    ],
-    [
-     "11-24T22",
-     0
-    ],
-    [
-     "11-24T23",
-     0
-    ],
-    [
-     "11-25T00",
-     0
-    ],
-    [
-     "11-25T01",
-     0
-    ],
-    [
-     "11-25T02",
-     0
-    ],
-    [
-     "11-25T03",
-     0
-    ],
-    [
-     "11-25T04",
-     0
-    ],
-    [
-     "11-25T05",
-     0
-    ],
-    [
-     "11-25T06",
-     0
-    ],
-    [
-     "11-25T07",
-     0
-    ],
-    [
-     "11-25T08",
-     0
-    ],
-    [
-     "11-25T09",
-     0
-    ],
-    [
-     "11-25T10",
-     0
-    ],
-    [
-     "11-25T11",
-     0
-    ],
-    [
-     "11-25T12",
-     0
-    ],
-    [
-     "11-25T13",
-     0
-    ],
-    [
-     "11-25T14",
-     0
-    ],
-    [
-     "11-25T15",
-     0
-    ],
-    [
-     "11-25T16",
-     0
-    ],
-    [
-     "11-25T17",
-     0
-    ],
-    [
-     "11-25T18",
-     0
-    ],
-    [
-     "11-25T19",
-     0
-    ],
-    [
-     "11-25T20",
-     0
-    ],
-    [
-     "11-25T21",
-     0
-    ],
-    [
-     "11-25T22",
-     0
-    ],
-    [
-     "11-25T23",
-     0
-    ],
-    [
-     "11-26T00",
-     0
-    ],
-    [
-     "11-26T01",
-     0
-    ],
-    [
-     "11-26T02",
-     0
-    ],
-    [
-     "11-26T03",
-     0
-    ],
-    [
-     "11-26T04",
-     0
-    ],
-    [
-     "11-26T05",
-     0
-    ],
-    [
-     "11-26T06",
-     55
-    ],
-    [
-     "11-26T07",
-     0
-    ],
-    [
-     "11-26T08",
-     0
-    ],
-    [
-     "11-26T09",
-     0
-    ],
-    [
-     "11-26T10",
-     0
-    ],
-    [
-     "11-26T11",
-     0
-    ],
-    [
-     "11-26T12",
-     0
-    ],
-    [
-     "11-26T13",
-     0
-    ],
-    [
-     "11-26T14",
-     0
-    ],
-    [
-     "11-26T15",
-     0
-    ],
-    [
-     "11-26T16",
-     0
-    ],
-    [
-     "11-26T17",
-     0
-    ],
-    [
-     "11-26T18",
-     11
-    ],
-    [
-     "11-26T19",
-     83
-    ],
-    [
-     "11-26T20",
-     100
-    ]
-   ]
+   "tema": "sao paulo fc",
+   "error": "RateLimitError: Google rate-limited the Explore data request; stop and back off."
   }
  ]
 }
