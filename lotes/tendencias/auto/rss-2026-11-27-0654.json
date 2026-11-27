@@ -1,0 +1,560 @@
+{
+ "fecha": "2026-11-27T06:54-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "copa ecuador 2026",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T00:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "¡Oficial! La final de la Copa Ecuador 2026 se jugará el 10 de diciembre entre Independiente del Valle y Universidad Católica en Cuenca (El Universo)",
+     "Independiente y Católica ya saben cuándo jugarán la final de la Copa Ecuador (El Comercio)"
+    ]
+   },
+   {
+    "tema": "león - cruz azul",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T19:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cruz Azul luce muy superior al León y se acerca a semifinales (ESPN Ecuador)",
+     "Alineaciones CONFIRMADAS para el León 🆚​ Cruz Azul (OneFootball)"
+    ]
+   },
+   {
+    "tema": "jhegson méndez",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Polémico gesto de Sebastián Méndez a los hinchas de Barcelona tras su expulsión (Teleamazonas)",
+     "Jhegson Méndez llamó “ladrones” a los hinchas de Barcelona SC tras ser expulsado en Independiente del Valle (El Universo)"
+    ]
+   },
+   {
+    "tema": "posiciones de sao paulo fc contra clube do remo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T17:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "primicias",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T17:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Misión de Ecuador en la OEA rechaza declaraciones de Almagro sobre elecciones seccionales (Primicias)",
+     "CNE da a conocer las misiones internacionales para las elecciones de este domingo 29 de noviembre (La República EC)"
+    ]
+   },
+   {
+    "tema": "pachuca - guadalajara",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T17:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Salomón Rondón lideró a los locales (FDP Radio)",
+     "🔴​ EN VIVO: GOLAZO de los Tuzos y todo está igualado en el Hidalgo (OneFootball)"
+    ]
+   },
+   {
+    "tema": "lugar de votación",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-26T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "10 recintos electorales de 5 provincias fueron reubicados por efectos del invierno (CNE Ecuador)",
+     "Elecciones 2026: ¿qué pasará si llueve intensamente el domingo 29 de noviembre? (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "inés manzano",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-26T16:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Inés Manzano regresa al gobierno como asesora de Daniel Noboa tras librarse del caso Progen (Vistazo)",
+     "Comisión Anticorrupción cuestiona designación de Inés Manzano (El Comercio)"
+    ]
+   },
+   {
+    "tema": "sao paulo fc",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-26T15:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "'É o pior momento da história recente do São Paulo': Rafinha desabafa e faz alerta sobre o clube (LANCE!)",
+     "São Paulo vence o Remo por 3 a 1, mas Dorival Júnior e Rafinha anunciam saída do clube (Portal Tri Notícias)"
+    ]
+   },
+   {
+    "tema": "ingvar jónsson",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-26T15:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LUTO EN EL FÚTBOL: Falleció Ingvar Jónsson, exarquero de Islandia, a los 37 años (Studiofutbol)",
+     "Keeper who featured in legendary Euros squad that beat England sadly dies at 37 (Daily Star)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "are banks open today",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Is there mail on Thanksgiving? What's open on federal holiday (Detroit Free Press)",
+     "What's Open on Thanksgiving? Banks, Stores, and Businesses That Are Closed (Mental Floss)"
+    ]
+   },
+   {
+    "tema": "météo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Météo demain : redoux dans le sud-ouest, froid persistant dans le nord-est et soleil en montagne (La Chaîne Météo)",
+     "Perturbation dimanche 29 en France ! Un risque de neige ou bien simplement de la pluie ? Les prévisions (Tameteo.com)"
+    ]
+   },
+   {
+    "tema": "geno auriemma",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "South Carolina topples UConn behind Tessa Johnson's career-high 32 (ESPN)",
+     "Geno Auriemma frustrated as UConn women's basketball searches for answers (NBC Connecticut)"
+    ]
+   },
+   {
+    "tema": "strobe talbott",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died (The New York Times)",
+     "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80 (The Guardian)"
+    ]
+   },
+   {
+    "tema": "walmart black friday pokemon",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "The Pokémon TCG 30th Celebration Elite Trainer Box is back in stock for Black Friday: Buy at market price (Mashable)",
+     "This Official Deluxe Pokémon Guide Book Is a Super-Effective Gift — Now Cheaper Than Ever for Black Friday (IGN)"
+    ]
+   },
+   {
+    "tema": "kaley cuoco",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Kaley Cuoco Shares Photo of Daughter, Matilda, 3, Partying in a Rainbow Dress (People.com)",
+     "Kaley Cuoco’s Daughter Matilda, 3, Follows in Her Mom’s Footsteps in Her First Play at Thanksgiving (InStyle)"
+    ]
+   },
+   {
+    "tema": "weather chicago",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Chicago weather: Thanksgiving forecast coming into focus (FOX 32 Chicago)",
+     "Wednesday: Chilliest daytime high since early April; Autumn 2026 second-warmest on the books with 5 days remaining (WGN-TV)"
+    ]
+   },
+   {
+    "tema": "bangladesh a vs pakistan a",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pakistan A vs Bangladesh A LIVE Streaming, Asia Cup Rising Stars Semifinal LIVE Telecast: When And Where To Watch PAK vs BAN (NDTV Sports)",
+     "SHA vs BAN-A 2nd Semi-Final: Pitch Report, Player Stats & Form (AI11)"
+    ]
+   },
+   {
+    "tema": "academy black friday deals",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Black Friday Just Got Sweeter with Academy Sports & Outdoors (WSET)",
+     "Houston Academy stores offer bonus cards worth up to $500 on Black Friday (Houston Chronicle)"
+    ]
+   },
+   {
+    "tema": "walmart pokemon black friday",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Score Exclusive Collectibles Through Panini’s Black Friday Program (Panini America)",
+     "2026 Black Friday Tracker: Pokemon, Trading Cards, and Collectibles (Sports Illustrated)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "chris pratt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss (Fox News)",
+     "‘The Hunger Games’ Star Jennifer Lawrence Just Ranked Her On-Screen Kisses, and One ‘Passengers’ Co-Star Landed Dead Last (IMDb)"
+    ]
+   },
+   {
+    "tema": "felipe vi de españa",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El rey Felipe VI sorprende a David, alumno de Secundaria, al responderle con una carta y una foto desde Zarzuela (HOLA)",
+     "Un alumno de 1º de ESO de Almería escribe al Felipe VI y recibe una respuesta de la Casa Real (Telecinco)"
+    ]
+   },
+   {
+    "tema": "el economista",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El Ibex pierde los 19.000 puntos tras caer un 5,7% en su peor semana desde marzo (Expansión)",
+     "Anthropic se derrumba en su segunda jornada en Bolsa e intensifica las pérdidas de Wall Street (La Voz de Galicia)"
+    ]
+   },
+   {
+    "tema": "refinería de petróleo",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Rusia teme un contragolpe ucranio contra su sistema energético: “La cuestión es cómo sobrevivimos al invierno” (EL PAÍS)",
+     "GUR ataca una refinería de petróleo en el krái de Krasnodar, alcanza oleoductos y una terminal de almacenamiento (Noticias de Ukrinform)"
+    ]
+   },
+   {
+    "tema": "presupuesto de la unión europea",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La UE lucha por aprobar un presupuesto antes de la posible llegada de Le Pen al poder en Francia (EL PAÍS)",
+     "Los líderes siguen \"a años luz\" del pacto presupuestario y peligra el acuerdo en diciembre (El Mundo)"
+    ]
+   },
+   {
+    "tema": "mark marquez",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "MotoGP: Marc Marquez to retire after final race of 2026 season (BBC)",
+     "Marc Marquez announces his retirement from MotoGP (motogp.com)"
+    ]
+   },
+   {
+    "tema": "malas lenguas",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Nuevo enfrentamiento entre el Consejo de Informativos y la dirección de RTVE por el cierre de la campaña electoral: \"Es un hecho sin precedentes y de gravedad\" (El Mundo)",
+     "Terremoto en la programación de La Sexta este viernes: cancela la emisión de toda su oferta nocturna y mueve 'La Sexta Xplica' de día (El Confidencial)"
+    ]
+   },
+   {
+    "tema": "gabriel rufián",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gabriel Rufián deja el tuit de la noche respondiendo a esta foto de Alberto Núñez Feijóo de antes del debate a 4: \"No ha sido el último, no\" (El HuffPost)",
+     "Mensaje de Rufián a Feijóo tras el debate (Diario AS)"
+    ]
+   },
+   {
+    "tema": "dustin poirier",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T02:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Dustin Poirer and the Good Fight Foundation hold their annual Thanksgiving food drive (KLFY.com)",
+     "Former UFC champ Dustin Poirier feeds 500 families at Thanksgiving (Lyndy's Sports Annuals)"
+    ]
+   },
+   {
+    "tema": "finanzas",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Black Friday: tus 196 euros podrían valer 116.000 al jubilarte (Yahoo)",
+     "Gabriela Orille, experta financiera, sobre el Black Friday: “Comprar más barato no es ahorrar. Ahorrar es lo que haces con la diferencia” (El Periódico)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "martín menem",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Confirman un incidente de seguridad en Diputados: sistemas restringidos, expedientes en papel y problemas de acceso (Clarin.com)",
+     "Martín Menem reveló que hubo intentos de hackeo a la Cámara de Diputados y anunció el cierre preventivo de sistemas (La Nación)"
+    ]
+   },
+   {
+    "tema": "marc marquez",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Marc Márquez anuncia su retiro inmediato de MotoGP (Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally)",
+     "Marc Márquez anunció que se retira del MotoGP tras el Gran Premio de Valencia (La Nación)"
+    ]
+   },
+   {
+    "tema": "mdz",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Invirtieron US$ 5 millones para rescatar una vieja bodega y crearon un polo inédito en Mendoza (MDZ Online)",
+     "Corte de agua en Mendoza: la DGE aclaró cómo funcionarán las escuelas (Diario El Sol Mendoza)"
+    ]
+   },
+   {
+    "tema": "contexto tucuman",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T02:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Caza ilegal y pólvora: una nueva revelación sobre Malvinas conservada en Tucumán (La Gaceta)",
+     "Hallazgo histórico en el Archivo de Tucumán: descubren una carta de 1832 que documenta el ataque de EE.UU. a Malvinas y el secuestro de argentinos (el tucumano | Noticias y actualidad de Tucumán)"
+    ]
+   },
+   {
+    "tema": "ministro",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T02:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Euforia en Brasil: el nuevo ministro de Hacienda de Lula será un poderoso banquero y la bolsa de San Pablo subió más del 6% (Clarin.com)",
+     "En un gesto a los mercados, Lula eligió al banquero Luiz Trabuco como ministro de Hacienda (Página|12)"
+    ]
+   },
+   {
+    "tema": "necochea",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T02:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Alumbrado público: el Municipio ya instaló más de 600 luminarias LED en Necochea y Quequén (Alerta Alejandro)",
+     "Rojas fortalece las gestiones con Puerto Quequén y Provincia: más iluminación, inversiones y un plan para mejorar las calles (Necochea Digital)"
+    ]
+   },
+   {
+    "tema": "sergio massa",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T01:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Massa: \"El Gobierno se apura si celebra Paso en el Senado, falta Diputados\" (La Política Online)",
+     "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\" (Cadena 3 Argentina)"
+    ]
+   },
+   {
+    "tema": "barby franco",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T01:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Barby Franco mostró la primera vez de su hija Sarah en la peluquería: qué corte eligió (TN)",
+     "A días de su cumpleaños, Sarah Burlando pasó por la peluquería con Barby Franco: “Por primera vez” (Caras)"
+    ]
+   },
+   {
+    "tema": "pronóstico del tiempo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T01:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima hoy en San Miguel de Tucumán: el pronóstico del tiempo para este viernes 27 noviembre de 2026 (Clarin.com)",
+     "La temperatura subirá con fuerza en Tucumán: el día que llegará a los 34°C, según el SMN (La Gaceta)"
+    ]
+   },
+   {
+    "tema": "germán martitegui",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T01:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Germán Martitegui se emocionó con el plato de una famosa en MasterChef y lanzó una advertencia al resto: \"Tengan cuidado\" (Infobae)",
+     "Karina Mazzocco emocionó a Germán Martitegui con un plato muy especial en MasterChef Celebrity (TN)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "clima hoy",
+    "volumen": "500000+",
+    "volumen_min": 500000,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El tiempo en México este fin de semana: tremendo temporal de lluvias iniciando en las próximas horas (Meteored México)",
+     "Pegará primera tormenta invernal a CDMX (Reforma)"
+    ]
+   },
+   {
+    "tema": "clima de hoy",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pronóstico del clima en Tepic hoy 25 de noviembre de 2026 (Debate)",
+     "Del calor moderado a mañanas más frescas en Nayarit (Meganoticias.mx)"
+    ]
+   },
+   {
+    "tema": "temperatura torreon",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T03:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¡Abrígate! Prevén temperaturas bajo cero este miércoles en Coahuila y Durango (Milenio)",
+     "Sal, cobijas y refugios: despliegan operativo en Saltillo para localizar y resguardar a personas vulnerables ante el frío (vanguardia.com.mx)"
+    ]
+   },
+   {
+    "tema": "temperatura",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T03:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pronóstico del clima en Los Mochis hoy 27 de noviembre de 2026 (Debate)",
+     "PRIMERA TORMENTA INVERNAL TRAERÁ FRÍO, LLUVIA Y POSIBLE NEVADA A LA CAPITAL ESTE FIN DE SEMANA (CDMX)"
+    ]
+   },
+   {
+    "tema": "clima queretaro",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T03:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": []
+   },
+   {
+    "tema": "gabriel milito",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T03:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Gabriel Milito mantiene la fe en remontar la serie en casa: 'Plena confianza en que lo podemos hacer' (Mediotiempo)",
+     "¿Con quién se encaró Oussama Idrissi en la banca de Chivas? La cédula arbitral despeja las dudas de Gabriel Milito (MARCA)"
+    ]
+   },
+   {
+    "tema": "irán",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Dos italianos mueren en un presunto ataque con drones iraníes en Kuwait. Teherán niega cualquier resposabilidad (CNN en Español)",
+     "Irán acusa a Zelenskyy de una operación de «bandera falsa» con un ataque con drones en Kuwait para llamar la atención de Trump (Yahoo)"
+    ]
+   },
+   {
+    "tema": "clima puebla",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T02:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Soleado y fresco: el clima este jueves 26 de noviembre en Puebla capital (Diario Cambio)",
+     "Lluvias y temperaturas de 11°, pronostican este viernes en Puebla (Almanaque Puebla)"
+    ]
+   },
+   {
+    "tema": "carlos salcedo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T02:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¡Titánica renovación! Salcedo seguirá en Rayados con aumento de sueldo (TUDN)",
+     "Monterrey apuesta por Carlos Salcedo, pero su renovación no convence a los aficionados (MARCA)"
+    ]
+   },
+   {
+    "tema": "agujero de la capa de ozono",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T01:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "¡Casi 14 veces México! Así creció el agujero de la capa de ozono en 2026: ¿Qué riesgos implica? (El Financiero)",
+     "El agujero de la capa de ozono, uno de los más grandes de las últimas décadas (El Comentario)"
+    ]
+   }
+  ]
+ }
+}
