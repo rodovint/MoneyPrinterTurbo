@@ -23,27 +23,27 @@
  "escenas": [
   {
    "t": 0.50,
-   "img": "lotes/img/clasificacion/IMG_5397.jpeg",
+   "img": "lotes/img/IMG_5397.jpeg",
    "mov": "zoom_in",
    "texto": "¿UNA MALDICIÓN IMPOSIBLE?",
    "sfx": ["golpe"]
   },
   {
    "t": 6.00,
-   "img": "lotes/img/clasificacion/IMG_5399.jpeg",
+   "img": "lotes/img/IMG_5399.jpeg",
    "mov": "pan_der",
    "texto": "7 NOVIEMBRE 2001 · QUITO",
    "sfx": ["whoosh"]
   },
   {
    "t": 11.20,
-   "img": "lotes/img/clasificacion/IMG_5400.jpeg",
+   "img": "lotes/img/IMG_5400.jpeg",
    "mov": "zoom_in",
    "texto": "A UN PUNTO DE LA GLORIA"
   },
   {
    "t": 16.40,
-   "img": "lotes/img/clasificacion/IMG_5401.jpeg",
+   "img": "lotes/img/IMG_5401.jpeg",
    "mov": "sacudon",
    "marcador": ["ECU", 0, "URU", 1],
    "marcador_pos": "arriba",
@@ -52,21 +52,21 @@
   },
   {
    "t": 21.80,
-   "img": "lotes/img/clasificacion/IMG_5403.jpeg",
+   "img": "lotes/img/IMG_5403.jpeg",
    "mov": "zoom_out",
    "texto": "VOLVÍA EL FANTASMA",
    "sfx": ["zumbido"]
   },
   {
    "t": 32.60,
-   "img": "lotes/img/clasificacion/IMG_5409.jpeg",
+   "img": "lotes/img/IMG_5409.jpeg",
    "mov": "pan_izq",
    "texto": "ENTRA EL CAPITÁN",
    "sfx": ["whoosh"]
   },
   {
    "t": 38.00,
-   "img": "lotes/img/clasificacion/IMG_5396.jpeg",
+   "img": "lotes/img/IMG_5396.jpeg",
    "mov": "zoom_in",
    "efecto": "camara_lenta",
    "texto": "MINUTO 72…",
@@ -74,7 +74,7 @@
   },
   {
    "t": 43.00,
-   "img": "lotes/img/clasificacion/IMG_5395.jpeg",
+   "img": "lotes/img/IMG_5395.jpeg",
    "mov": "sacudon",
    "efecto": "flash",
    "marcador": ["ECU", 1, "URU", 1],
@@ -85,7 +85,7 @@
   },
   {
    "t": 49.00,
-   "img": "lotes/img/clasificacion/IMG_5398.jpeg",
+   "img": "lotes/img/IMG_5398.jpeg",
    "mov": "zoom_out",
    "texto": "¡ECUADOR AL MUNDIAL!",
    "sfx": ["silbato"]
