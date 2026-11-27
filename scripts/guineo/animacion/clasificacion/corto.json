@@ -4,21 +4,21 @@
  "lluvia": false,
  "ambiente": "hinchada",
  "tramos": [
-  [0.20, 6.20],
-  [6.80, 12.40],
-  [13.00, 18.80],
-  [19.40, 25.40],
-  [26.00, 32.20],
-  [32.80, 38.60],
-  [39.20, 45.40],
-  [46.00, 51.60],
-  [52.20, 59.20],
-  [59.80, 65.80],
-  [66.40, 72.50]
+  [0.20, 5.20],
+  [5.80, 10.60],
+  [11.20, 16.00],
+  [16.60, 21.60],
+  [22.20, 27.40],
+  [28.00, 32.80],
+  [33.40, 38.60],
+  [39.20, 44.00],
+  [44.60, 50.80],
+  [51.40, 56.80],
+  [57.40, 62.80]
  ],
  "silencios": {
-  "25.40": 1.00,
-  "51.60": 1.10
+  "21.60": 0.90,
+  "44.00": 1.00
  },
  "escenas": [
   {
@@ -29,19 +29,19 @@
    "sfx": ["whoosh"]
   },
   {
-   "t": 6.80,
+   "t": 5.80,
    "img": "lotes/img/IMG_5399.jpeg",
    "mov": "pan_der",
    "texto": "7 NOVIEMBRE 2001 · QUITO"
   },
   {
-   "t": 13.00,
+   "t": 11.20,
    "img": "lotes/img/IMG_5400.jpeg",
    "mov": "zoom_in",
    "texto": "A UN PUNTO DE LA GLORIA"
   },
   {
-   "t": 19.40,
+   "t": 16.60,
    "img": "lotes/img/IMG_5401.jpeg",
    "mov": "sacudon",
    "marcador": ["ECU", 0, "URU", 1],
@@ -50,38 +50,38 @@
    "sfx": ["silbato"]
   },
   {
-   "t": 26.00,
+   "t": 22.20,
    "img": "lotes/img/IMG_5403.jpeg",
    "mov": "zoom_out",
    "texto": "VOLVÍA EL FANTASMA"
   },
   {
-   "t": 39.20,
+   "t": 33.40,
    "img": "lotes/img/IMG_5409.jpeg",
    "mov": "pan_izq",
    "texto": "ENTRA EL CAPITÁN",
    "sfx": ["whoosh"]
   },
   {
-   "t": 46.00,
+   "t": 39.20,
    "img": "lotes/img/IMG_5396.jpeg",
    "mov": "zoom_in",
    "efecto": "camara_lenta",
    "texto": "MINUTO 72…"
   },
   {
-   "t": 52.20,
+   "t": 44.60,
    "img": "lotes/img/IMG_5395.jpeg",
    "mov": "sacudon",
    "efecto": "flash",
    "marcador": ["ECU", 1, "URU", 1],
    "marcador_pos": "arriba",
    "titulo": "EL GOL DE|LA HISTORIA",
-   "titulo_en": 53.50,
+   "titulo_en": 46.00,
    "sfx": ["golpe"]
   },
   {
-   "t": 59.80,
+   "t": 51.40,
    "img": "lotes/img/IMG_5398.jpeg",
    "mov": "zoom_out",
    "texto": "¡ECUADOR AL MUNDIAL!",
@@ -89,17 +89,17 @@
   }
  ],
  "subtitulos": [
-  [0.20, 6.20, "Durante décadas, ver a Ecuador en un Mundial parecía una maldición imposible de romper."],
-  [6.80, 12.40, "Siete de noviembre de dos mil uno, estadio Olímpico Atahualpa de Quito."],
-  [13.00, 18.80, "La Tricolor recibía a Uruguay a un solo punto de hacer historia por primera vez."],
-  [19.40, 25.40, "Pero al minuto cuarenta y tres, Nicolás Olivera anotó de penal para los charrúas."],
-  [26.00, 32.20, "El estadio entero quedó en silencio y el fantasma de las eliminaciones volvió a aparecer."],
-  [32.80, 38.60, "¿Dónde estabas tú ese día o cómo te contaron ese partido? Te leo."],
-  [39.20, 45.40, "En el segundo tiempo, el Bolillo Gómez mandó a la cancha al eterno capitán, Álex Aguinaga."],
-  [46.00, 51.60, "Minuto setenta y dos: centro perfecto de zurda al corazón del área."],
-  [52.20, 59.20, "Jaime Iván Kaviedes se elevó en el cielo de Quito y metió un cabezazo inolvidable al fondo de la red."],
-  [59.80, 65.80, "Uno a uno final, pitazo del árbitro y doce millones de ecuatorianos llorando abrazados."],
-  [66.40, 72.50, "Ese gol del Nine borró para siempre la palabra imposible en nuestro fútbol."]
+  [0.20, 5.20, "Durante décadas, ver a Ecuador en un Mundial parecía una maldición imposible de romper."],
+  [5.80, 10.60, "Siete de noviembre de dos mil uno, estadio Olímpico Atahualpa de Quito."],
+  [11.20, 16.00, "La Tricolor recibía a Uruguay a un solo punto de hacer historia por primera vez."],
+  [16.60, 21.60, "Pero al minuto cuarenta y tres, Nicolás Olivera anotó de penal para los charrúas."],
+  [22.20, 27.40, "El estadio entero quedó en silencio y el fantasma de las eliminaciones volvió a aparecer."],
+  [28.00, 32.80, "¿Dónde estabas tú ese día o cómo te contaron ese partido? Te leo."],
+  [33.40, 38.60, "En el segundo tiempo, el Bolillo Gómez mandó a la cancha al eterno capitán, Álex Aguinaga."],
+  [39.20, 44.00, "Minuto setenta y dos: centro perfecto de zurda al corazón del área."],
+  [44.60, 50.80, "Jaime Iván Kaviedes se elevó en el cielo de Quito y metió un cabezazo inolvidable al fondo de la red."],
+  [51.40, 56.80, "Uno a uno final, pitazo del árbitro y doce millones de ecuatorianos llorando abrazados."],
+  [57.40, 62.80, "Ese gol del Nine borró para siempre la palabra imposible en nuestro fútbol."]
  ],
  "cierre": {
   "texto": "Síguenos para más|historias futboleras",
