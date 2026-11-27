@@ -251,3 +251,13 @@ Datos: Ronaldinho (32 s) se quedó 58 % → 1.811 vistas. Rattín (58 s) se qued
    - Placa final: "Suscríbete: una historia nueva cada [día]" (invitación clara SOLO al final, nunca a mitad).
    - Botón/llamado al final de la descripción y en el primer comentario.
    - Meta: 3 suscriptores por cada 1.000 vistas (0,3 %); revisar cada semana con "Suscriptores" por video en YouTube Studio.
+
+## Lo que copiamos de los canales grandes (27/11, análisis de 9 shorts: El Archivo Futbolero, Footiversus, Leyendas del Fútbol Mexicano)
+Ninguno cuenta contexto al inicio, ninguno pregunta a mitad, ninguno deja silencios de más de 0,4 s, ninguno usa placa de suscripción aparte. Copiamos ritmo, texto y cierre; NUNCA sus imágenes de TV.
+1. TÍTULO FIJO con la promesa arriba todo el video (campo "titulo_fijo" en corto.json, ej. "El capitán que no se quiso ir"). Abrir DENTRO de la escena (acción o diálogo); el año y el lugar solo como texto chico.
+2. UN CAMBIO EN PANTALLA CADA 2,5 s como máximo: animar.py reencuadra solo cada 2,5 s ("cortes_auto", activado por defecto). En el guion, partir cada frase larga en 2 planos.
+3. SUBTÍTULOS KARAOKE: trozos de 3–5 palabras, 1 línea, al 60 % del alto (lejos de los botones de Shorts/TikTok). animar.py lo hace solo con los "subtitulos".
+4. CIERRE: botón rojo animado "SUSCRÍBETE" encima de la última frase (últimos 3 s, con clic) y placa de Guineo de 1 s como máximo (cierre "dur": 1.0). La última frase enlaza con la primera (bucle).
+5. CERO SILENCIOS MUERTOS: pausas extra de máximo 0,4 s; si hay una más larga (momento de cine), animar.py la tapa con redoble (salvo apagón).
+- La duración NO es el problema en sí; el relleno sí: 60–90 s funcionan si cada frase trae una sorpresa. Mantener 40–45 s mientras aprendemos.
+- Pendiente: llevar karaoke, título fijo y botón al generador de reels de noticias (generar.py).

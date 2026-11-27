@@ -169,7 +169,7 @@ def main(cfg_path, out):
                 t += v
     cierre = cfg.get("cierre")
     t_cierre = t + 0.6
-    total = t + 1.2 + (cierre.get("dur", 3.0) if cierre else 0)
+    total = t + 1.2 + (cierre.get("dur", 1.0) if cierre else 0)
 
     def m(tg):
         for t0, a, b in tl:
@@ -193,6 +193,14 @@ def main(cfg_path, out):
             mix[k:k + len(s)] += s[: max(0, len(mix) - k)]
     if cierre:
         z = sfx("golpe") * 0.6; k = int(t_cierre * SR); mix[k:k + len(z)] += z[: max(0, len(mix) - k)]
+    # Mui 27/11: cero silencios muertos; toda pausa extra > 0,4 s se tapa con redoble (salvo apagón)
+    if not any(e.get("efecto") == "apagon" for e in escenas):
+        for k_, v_ in extra.items():
+            if v_ > 0.4:
+                z = sfx("redoble") * 0.5; kk_ = int((m(k_) + 0.05) * SR); mix[kk_:kk_ + len(z)] += z[: max(0, len(mix) - kk_)]
+    if cfg.get("boton_suscribir", True) and cfg.get("subtitulos"):
+        a_, b_ = cfg["subtitulos"][-1][:2]
+        z = sfx("click") * 0.7; kk_ = int(max(m(a_), m(b_) - 3.0) * SR); mix[kk_:kk_ + len(z)] += z[: max(0, len(mix) - kk_)]
     # ambiente (Mui 25/11): "lluvia" solo en historias con lluvia; "hinchada" murmullo de estadio; "ninguno"
     amb = cfg.get("ambiente", "lluvia" if cfg.get("lluvia", True) else "ninguno")
     if amb == "lluvia":
@@ -216,6 +224,23 @@ def main(cfg_path, out):
         w_.writeframes((np.clip(mix[: int(total * SR)], -1, 1) * 30000).astype(np.int16).tobytes())
     # video
     subs = [(m(a), m(b), txt) for a, b, txt in cfg.get("subtitulos", [])]
+    karaoke = []
+    for a, b, txt in subs:
+        pal = txt.split(); trozos, cur = [], []
+        for w_ in pal:
+            cur.append(w_)
+            if len(cur) >= 4 or w_[-1:] in ",.?!…:;" and len(cur) >= 2:
+                trozos.append(" ".join(cur)); cur = []
+        if cur:
+            if trozos and len(cur) == 1: trozos[-1] += " " + cur[0]
+            else: trozos.append(" ".join(cur))
+        tot = sum(len(x) for x in trozos) or 1; t_ = a
+        for x in trozos:
+            dt_ = (b - a) * len(x) / tot; karaoke.append((t_, t_ + dt_, x)); t_ += dt_
+    titulo_fijo = (cfg.get("titulo_fijo") or "").upper()
+    boton = None
+    if cfg.get("boton_suscribir", True) and subs:
+        boton = (max(subs[-1][0], subs[-1][1] - 3.0), (t_cierre if cierre else total))
     vid = os.path.join(tmp, "v.mp4")
     p = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                           "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", vid], stdin=subprocess.PIPE)
@@ -251,6 +276,14 @@ def main(cfg_path, out):
                 fr = cuadro_25d(arr_, D_, e.get("mov", "zoom_in"), qq_, tg).convert("RGBA")
             else:
                 fr = cuadro(base, e.get("mov", "zoom_in"), qq_).convert("RGBA")
+            if cfg.get("cortes_auto", True):  # Mui 27/11: un cambio en pantalla cada 2,5 s como máximo
+                seg_ = int((tg - cortes[i]) / 2.5)
+                if seg_ > 0:
+                    zz, ox, oy = ((1.0, 0, 0), (1.16, -0.25, -0.15), (1.09, 0.3, 0.1), (1.22, 0.1, -0.3))[seg_ % 4]
+                    if zz > 1.0:
+                        cw, ch = W / zz, H / zz
+                        x0 = (W - cw) / 2 * (1 + ox); y0 = (H - ch) / 2 * (1 + oy)
+                        fr = fr.crop((int(x0), int(y0), int(x0 + cw), int(y0 + ch))).resize((W, H), Image.BILINEAR)
             if e.get("lluvia", cfg.get("lluvia", True)):
                 fr.alpha_composite(lluvia_capa(f0 + kk))
             d = ImageDraw.Draw(fr)
@@ -282,18 +315,22 @@ def main(cfg_path, out):
                     while d.textlength(tx, font=ANTON(fz)) > W - 80:
                         fz -= 8
                     d.text((W / 2, yy), tx, font=ANTON(fz), fill=col, anchor="mm")
-            for a, b, txt in subs:
+            for a, b, txt in karaoke:  # Mui 27/11: trozos cortos de 3-5 palabras, 1 línea, lejos de los botones de la app
                 if a <= tg < b:
-                    f = NEG(56); lines, cur = [], ""
-                    for w_ in txt.split():
-                        if d.textlength(cur + " " + w_, font=f) > W - 160:
-                            lines.append(cur); cur = w_
-                        else:
-                            cur = (cur + " " + w_).strip()
-                    lines.append(cur)
-                    y = H - 470 - (len(lines) - 1) * 34
-                    for l in lines:
-                        d.text((W / 2, y), l, font=f, fill=(255, 255, 255), anchor="mm", stroke_width=6, stroke_fill=(0, 0, 0)); y += 68
+                    fz = 74
+                    while d.textlength(txt, font=NEG(fz)) > W - 120 and fz > 40:
+                        fz -= 4
+                    d.text((W / 2, int(H * 0.6)), txt, font=NEG(fz), fill=(255, 255, 255), anchor="mm", stroke_width=7, stroke_fill=(0, 0, 0))
+            if titulo_fijo:  # promesa fija arriba todo el video
+                d.text((W / 2, 150), titulo_fijo, font=ANTON(76), fill=acento, anchor="mm", stroke_width=5, stroke_fill=(0, 0, 0))
+            if boton and boton[0] <= tg < boton[1]:  # botón animado "Suscríbete" sobre la última frase
+                q_ = min(1, (tg - boton[0]) / 0.3); pul = 1 + 0.05 * math.sin((tg - boton[0]) * 9)
+                bw, bh = int(520 * q_ * pul), int(120 * q_ * pul)
+                if bw > 20:
+                    cy = int(H * 0.72)
+                    d.rounded_rectangle([W / 2 - bw / 2, cy - bh / 2, W / 2 + bw / 2, cy + bh / 2], bh // 2, fill=(230, 33, 23, 245))
+                    if q_ >= 1:
+                        d.text((W / 2, cy), "SUSCRÍBETE", font=ANTON(66), fill=(255, 255, 255), anchor="mm")
             arr = np.asarray(fr.convert("RGB")).astype(np.float32)
             if e.get("efecto") == "flash" and kk < 5:
                 arr += (255 - arr) * (1 - kk / 5)

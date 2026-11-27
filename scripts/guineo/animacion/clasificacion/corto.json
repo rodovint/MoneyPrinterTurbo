@@ -251,7 +251,8 @@
   ]
  ],
  "cierre": {
-  "texto": "Síguenos para más|historias futboleras",
-  "dur": 3.0
- }
+  "texto": "Suscríbete|una historia nueva cada semana",
+  "dur": 1.0
+ },
+ "titulo_fijo": "El día que rompimos la maldición"
 }
