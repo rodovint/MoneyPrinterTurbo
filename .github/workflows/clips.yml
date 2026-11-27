@@ -1,0 +1,45 @@
+name: Guineo Animación - clips y profundidad
+
+# Desde Actions → "Guineo Animación - clips y profundidad" → Run workflow.
+# id: carpeta (ej. rattin). escenas: nombres sin .png separados por coma (ej. alfombra,policias).
+# Las escenas escritas se animan (clip de 5 s); a todas se les hace mapa de profundidad.
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "Carpeta del corto (ej. rattin)"
+        required: true
+      escenas:
+        description: "Escenas a animar, separadas por coma (vacío = solo profundidad de todas)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clips
+  cancel-in-progress: false
+
+jobs:
+  clips:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar dependencias
+        run: |
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q transformers pillow gradio_client
+      - name: Profundidad y clips
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python3 scripts/guineo/animacion/clips.py "${{ github.event.inputs.id }}" "${{ github.event.inputs.escenas }}"
+      - name: Guardar en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add "lotes/img/${{ github.event.inputs.id }}"
+          git diff --cached --quiet && { echo "Nada nuevo"; exit 0; }
+          git commit -qm "Clips y profundidad de ${{ github.event.inputs.id }} [skip ci]"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
