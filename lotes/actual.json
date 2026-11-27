@@ -1,87 +1,68 @@
 [
   {
-    "titulo": "Emelec remontó 2-0 en la Casa Blanca y quedó a un paso de la final",
-    "etiqueta": "EFEMÉRIDE · 26 NOV 2017",
+    "titulo": "Emelec remontó 2-4 a Liga en 2017 | Efeméride Eléctrica",
+    "etiqueta": "SERIE A · EFEMÉRIDE 2017",
     "club": "emelec",
     "audio": "audio/52",
-    "franja": ["CASA BLANCA", "JORNADA 20", "SEGUNDA ETAPA"],
+    "franja": ["LIGA 2 - 4 EMELEC", "RODRIGO PAZ DELGADO", "REMONTADA HISTÓRICA"],
     "escenas": [
       {
-        "texto": "Empezó dormido en la Casa Blanca y nadie veía cómo iba a cambiar la tarde azul.",
-        "video": "videos/Efemeride Emelec 1.mp4",
+        "texto": "Liga de Quito se ponía dos a cero en diez minutos.",
+        "foto": "videos/efemeride emelec 1.mp4",
         "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "EMPEZÓ DORMIDO",
-          "sobre": "CASA BLANCA 2017"
-        },
+        "grafico": {"tipo": "titular", "texto": "2-0 EN 10 MINUTOS", "sobre": "CASA BLANCA 2017"},
         "transicion": "flash",
         "destello": true
       },
       {
-        "texto": "A los diez minutos ya perdía dos a cero por errores propios, pero el Bombillo despertó y Angulo y Guagua lo empataron dos a dos antes del descanso.",
-        "video": "videos/Efemeride emelec 2.mp4",
+        "texto": "Pero Angulo sacó un zapatazo al ángulo, y Guagua empató de cabeza antes del descanso.",
+        "foto": "videos/efemeride emelec 2.mp4",
         "movimiento": "paneo_der",
-        "grafico": {
-          "tipo": "tv",
-          "titulo": "EMPATE 2-2: ANGULO Y GUAGUA",
-          "local": {"nombre": "EMELEC", "color": "#0B4EA2"},
-          "rival": {"nombre": "LIGA", "color": "#FFFFFF"},
-          "jugadores": [
-            {"id": "10", "equipo": "local", "x": 30, "y": 32},
-            {"id": "23", "equipo": "local", "x": 58, "y": 22},
-            {"id": "4", "equipo": "rival", "x": 45, "y": 20},
-            {"id": "1", "equipo": "rival", "x": 50, "y": 4, "arquero": true}
-          ],
-          "balon": "10",
-          "pasos": [
-            {"mover": {"10": [38, 22]}, "balon": [38, 22], "flecha": "conduccion", "texto": "GOL DE ANGULO"},
-            {"mover": {"23": [54, 10]}, "balon": [54, 10], "flecha": "pase", "texto": "CENTRO Y CABEZAZO"},
-            {"balon": [52, -2], "flecha": "tiro", "gol": true, "texto": "EMPATE 2-2"}
-          ],
-          "marcador": {"local": "LDU", "rival": "EME", "antes": [2, 0], "despues": [2, 2], "minuto": "34'"}
-        },
-        "transicion": "flash"
-      },
-      {
-        "texto": "En dos minutos del segundo tiempo Ayrton Preciado metió el dos a tres y encendió la remontada azul.",
-        "video": "videos/Efemeride emelec 3.mp4",
-        "movimiento": "zoom_in",
-        "transicion": "zoom",
-        "destello": true,
+        "grafico": {"tipo": "cifra", "valor": "27'", "texto": "GOL DE ANGULO"},
+        "transicion": "barrido",
         "suspenso": true
       },
       {
-        "texto": "¿Te acuerdas de esa remontada? Dime si la viviste, y sigue a Guineo.",
-        "video": "videos/Efemeride emelec 3.mp4",
-        "movimiento": "quieto",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "¿TE ACUERDAS?",
-          "sobre": "TE LEO · GUINEO"
-        },
-        "transicion": "flash",
-        "hinchada": true
-      },
-      {
-        "texto": "A los cincuenta y ocho Hólger Matamoros clavó el cabezazo del dos a cuatro que liquidó el partido.",
-        "video": "videos/Efemeride emelec 4.mp4",
+        "texto": "En el segundo tiempo, Preciado y Matamoros completaron la remontada en dos minutos.",
+        "foto": "videos/efemeride emelec 3.mp4",
         "movimiento": "zoom_in",
+        "grafico": {"tipo": "cifra", "valor": "56'", "texto": "GOL DE PRECIADO"},
         "transicion": "flash",
         "destello": true,
-        "tono": "celebracion"
+        "tono": "celebracion",
+        "hinchada": true
       },
       {
-        "texto": "Cuatro a dos en la Casa Blanca, cortando la racha desde dos mil trece y quedando a un paso de la final.",
-        "video": "videos/Efemeride emelec 4.mp4",
-        "movimiento": "zoom_out",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "4-2 · A UN PASO",
-          "sobre": "DE LA FINAL"
-        },
-        "transicion": "rota",
+        "texto": "Matamoros selló el dos a cuatro con un cabezazo desde el piso.",
+        "foto": "videos/efemeride emelec 4.mp4",
+        "movimiento": "zoom_in",
+        "grafico": {"tipo": "cifra", "valor": "58'", "texto": "GOL DE MATAMOROS"},
+        "transicion": "flash",
+        "destello": true,
+        "tono": "celebracion",
         "hinchada": true
+      },
+      {
+        "texto": "Un dos a cuatro histórico. ¿Te acordabas de esta?",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "quieto",
+        "grafico": {
+          "tipo": "marcador",
+          "equipos": [
+            {"nombre": "LIGA DE QUITO", "color": "#FFFFFF", "escudo": "img/escudos/liga.png", "goles": 2},
+            {"nombre": "EMELEC", "color": "#0B4EA2", "escudo": "img/escudos/emelec.png", "goles": 4}
+          ],
+          "pie": "RODRIGO PAZ DELGADO · 2017"
+        },
+        "transicion": "zoom",
+        "hinchada": true
+      },
+      {
+        "texto": "Y desde ese día, Emelec no volvió a ganar en el Rodrigo Paz hasta esta efeméride.",
+        "foto": "img/escudos/emelec.png",
+        "movimiento": "zoom_out",
+        "grafico": {"tipo": "retro", "texto": "EFEMÉRIDE"},
+        "tono": "recuerdo"
       }
     ]
   }
