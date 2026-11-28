@@ -1,161 +1,238 @@
 [
   {
-    "titulo": "¡Castigo durísimo! La FEF sanciona al 11 de Mayo en el Ascenso",
-    "etiqueta": "ASCENSO NACIONAL · POLÉMICA",
-    "audio": "audio/55",
+    "titulo": "¡Hoy se define América! Estudiantes vs Palmeiras en el Centenario",
+    "etiqueta": "COPA LIBERTADORES · GRAN FINAL",
+    "paleta": {
+      "fondo": "#121212",
+      "texto": "#FFFFFF"
+    },
+    "audio": "audio/57",
     "franja": [
-      "CUADRANGULAR FINAL",
-      "MULTA DE $6.000",
-      "DOS FECHAS SIN ESTADIO"
+      "ESTUDIANTES VS PALMEIRAS",
+      "ESTADIO CENTENARIO · MONTEVIDEO",
+      "POR LA GLORIA ETERNA"
     ],
     "escenas": [
       {
-        "texto": "El cuadrangular final por llegar a la Serie B está que arde y acaba de caer una sanción durísima.",
+        "texto": "Montevideo ya late y hoy América corona a su nuevo rey.",
         "movimiento": "zoom_in",
         "grafico": {
-          "tipo": "escudo",
-          "escudo": "img/escudos/fef.png",
-          "texto": "¡SANCIÓN DURÍSIMA EN EL ASCENSO!",
-          "sobre": "CUADRANGULAR FINAL"
+          "tipo": "titular",
+          "texto": "¡HOY SE DEFINE AMÉRICA!",
+          "sobre": "FINAL COPA LIBERTADORES"
         },
         "destello": true,
         "hinchada": true
       },
       {
-        "texto": "Tras los graves incidentes ante Insutec, la Federación Ecuatoriana de Fútbol castigó sin piedad al once de Mayo.",
-        "foto": "img/IMG_5420.png",
+        "texto": "Estudiantes de La Plata y Palmeiras chocan en el mítico Centenario.",
         "movimiento": "paneo_izq",
         "grafico": {
           "tipo": "titular",
-          "texto": "ESCÁNDALO EN EL 11 DE MAYO VS INSUTEC",
-          "sobre": "SEGUNDA CATEGORÍA"
+          "texto": "ESTUDIANTES VS PALMEIRAS",
+          "sobre": "ESTADIO CENTENARIO"
         },
         "transicion": "flash",
         "tono": "urgente"
       },
       {
-        "texto": "El equipo manabita dirigido por Miguel Parrales padre recibió seis mil dólares de multa y dos fechas fuera de casa.",
-        "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "$6.000",
-          "texto": "DE MULTA Y DOS FECHAS FUERA DE MANABÍ"
-        },
-        "transicion": "barrido",
-        "suspenso": true
-      },
-      {
-        "texto": "¿Te parece justa esta sanción o le están cortando las alas a Manabí? Te leo, y sigue a Guineo.",
+        "texto": "El Pincha busca su quinta gloria eterna con pura mística copera.",
         "movimiento": "zoom_out",
         "grafico": {
-          "tipo": "escudo",
-          "escudo": "img/escudos/fef.png",
-          "texto": "¿CASTIGO JUSTO O EXAGERADO?",
-          "sobre": "OPINA EN COMENTARIOS"
+          "tipo": "cifra",
+          "valor": "4",
+          "texto": "COPAS DE ESTUDIANTES · VA POR LA QUINTA"
         },
-        "transicion": "zoom"
+        "transicion": "barrido",
+        "tono": "recuerdo"
       },
       {
-        "texto": "La dirigencia ya anunció que va a apelar para intentar cerrar el torneo junto a su gente en territorio manabita.",
+        "texto": "Del otro lado, el Verdão llega con jerarquía para levantar su cuarta corona.",
+        "dicho": "Verdón",
         "movimiento": "paneo_der",
         "grafico": {
-          "tipo": "cita",
-          "texto": "Apelaremos para disputar al menos nuestro último encuentro en Manabí.",
-          "autor": "Dirigencia de 11 de Mayo FC"
+          "tipo": "cifra",
+          "valor": "3",
+          "texto": "COPAS DE PALMEIRAS · VA POR LA CUARTA"
         },
         "transicion": "glitch"
       },
       {
-        "texto": "Pero si el reclamo no prospera, tendrán que mudarse hasta Santo Domingo mientras la pelea por el ascenso sigue porque...",
-        "foto": "img/IMG_5421.jpeg",
-        "movimiento": "zoom_in",
+        "texto": "¿Quién se lleva la Copa hoy? Te leo, y sigue a Guineo.",
+        "movimiento": "subir",
         "grafico": {
           "tipo": "titular",
-          "texto": "¿SE MUDAN AL ETHO VEGA?",
-          "sobre": "CAMINO A SERIE B"
-        },
-        "transicion": "flash"
-      }
-    ]
-  },
-  {
-    "titulo": "¡Rival confirmado! Ecuador enfrentará a Grecia en dieciseisavos",
-    "etiqueta": "MUNDIAL SUB-17 · DIECISEISAVOS",
-    "club": "ecuador",
-    "audio": "audio/56",
-    "franja": [
-      "GRECIA VS ECUADOR",
-      "30 NOV O 1 DIC · DESDE 07:30",
-      "GRECIA GANÓ EL GRUPO A (9 PTS)"
-    ],
-    "escenas": [
-      {
-        "texto": "Se acabó el misterio en el Mundial Sub diecisiete de Qatar y la Mini Tri ya tiene rival confirmado para matar o morir.",
-        "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "escudo",
-          "escudo": "img/escudos/ecuador.png",
-          "texto": "¡RIVAL CONFIRMADO PARA LA MINI TRI!",
-          "sobre": "DIECISEISAVOS · QATAR 2026"
-        },
-        "destello": true,
-        "hinchada": true
-      },
-      {
-        "texto": "Ecuador clasificó a los dieciseisavos de final como cuarto mejor tercero con cuatro puntos y enfrentará nada menos que a Grecia.",
-        "foto": "img/IMG_5414.png",
-        "movimiento": "paneo_izq",
-        "grafico": {
-          "tipo": "titular",
-          "texto": "GRECIA VS ECUADOR",
-          "sobre": "CUARTO MEJOR TERCERO · 4 PUNTOS"
-        },
-        "transicion": "flash",
-        "tono": "celebracion"
-      },
-      {
-        "texto": "Los europeos vienen encendidos tras ganar el grupo A con puntaje perfecto: vencieron dos a uno a Egipto, dos a uno a Panamá y golearon cuatro a uno a Catar.",
-        "movimiento": "zoom_in",
-        "grafico": {
-          "tipo": "cifra",
-          "valor": "9",
-          "texto": "PUNTOS · 2-1 EGY · 2-1 PAN · 4-1 QAT"
-        },
-        "transicion": "barrido"
-      },
-      {
-        "texto": "¿Crees que la Mini Tri da el golpe ante los griegos? Te leo abajo, y sigue a Guineo.",
-        "movimiento": "zoom_out",
-        "grafico": {
-          "tipo": "escudo",
-          "escudo": "img/escudos/ecuador.png",
-          "texto": "¿LE GANAMOS A GRECIA EN DIECISEISAVOS?",
+          "texto": "¿PINCHA O VERDÃO CAMPEÓN?",
           "sobre": "OPINA EN COMENTARIOS"
         },
         "transicion": "zoom"
       },
       {
-        "texto": "El partidazo por el pase a octavos se jugará entre el lunes treinta de noviembre y el martes primero de diciembre en jornada matutina desde las siete y media de la mañana, hora de Ecuador.",
-        "foto": "img/IMG_5413.png",
-        "movimiento": "paneo_der",
+        "texto": "Noventa minutos de máxima tensión donde el ataque por las bandas puede romper el cero.",
+        "movimiento": "bajar",
         "grafico": {
           "tipo": "titular",
-          "texto": "30 NOV O 1 DIC · DESDE LAS 07:30",
-          "sobre": "HORA DE ECUADOR · RONDA DE 32"
+          "texto": "DUELO DE ESTILOS EN MONTEVIDEO",
+          "sobre": "NO HAY MARGEN DE ERROR"
         },
-        "transicion": "glitch",
+        "transicion": "rota",
         "suspenso": true
       },
       {
-        "texto": "Mientras se confirma el horario exacto del pitazo inicial, Marcelo Gallardo ya analiza cada detalle desde Doha porque el sueño mundialista recién empieza en...",
-        "foto": "img/IMG_5422.jpeg",
+        "texto": "Así busca golpear primero el equipo brasileño castigando al espacio.",
+        "movimiento": "quieto",
+        "grafico": {
+          "tipo": "tv",
+          "titulo": "ASÍ ATACA PALMEIRAS",
+          "local": {
+            "nombre": "PALMEIRAS",
+            "color": "#006437"
+          },
+          "rival": {
+            "nombre": "ESTUDIANTES",
+            "color": "#C8102E"
+          },
+          "jugadores": [
+            {
+              "id": "7",
+              "equipo": "local",
+              "x": 18,
+              "y": 55
+            },
+            {
+              "id": "9",
+              "equipo": "local",
+              "x": 50,
+              "y": 42
+            },
+            {
+              "id": "2",
+              "equipo": "rival",
+              "x": 45,
+              "y": 24
+            },
+            {
+              "id": "1",
+              "equipo": "rival",
+              "x": 50,
+              "y": 4,
+              "arquero": true
+            }
+          ],
+          "balon": "7",
+          "pasos": [
+            {
+              "mover": {
+                "7": [15, 25]
+              },
+              "balon": [15, 25],
+              "flecha": "conduccion",
+              "texto": "DESBORDE"
+            },
+            {
+              "mover": {
+                "9": [52, 16]
+              },
+              "balon": [52, 16],
+              "flecha": "pase",
+              "texto": "CENTRO AL ÁREA"
+            },
+            {
+              "balon": [48, -2],
+              "flecha": "tiro",
+              "gol": true,
+              "texto": "DEFINICIÓN"
+            }
+          ],
+          "marcador": {
+            "local": "PAL",
+            "rival": "EST",
+            "antes": [0, 0],
+            "despues": [1, 0],
+            "minuto": "PIZARRA"
+          }
+        },
+        "transicion": "flash",
+        "destello": true
+      },
+      {
+        "texto": "Mientras el conjunto argentino apuesta a su pegada letal en pelota parada.",
+        "movimiento": "quieto",
+        "grafico": {
+          "tipo": "retro",
+          "titulo": "LA PEGADA DEL PINCHA",
+          "local": {
+            "nombre": "ESTUDIANTES",
+            "color": "#C8102E"
+          },
+          "rival": {
+            "nombre": "PALMEIRAS",
+            "color": "#006437"
+          },
+          "jugadores": [
+            {
+              "id": "10",
+              "equipo": "local",
+              "x": 80,
+              "y": 48
+            },
+            {
+              "id": "9",
+              "equipo": "local",
+              "x": 48,
+              "y": 35
+            },
+            {
+              "id": "15",
+              "equipo": "rival",
+              "x": 52,
+              "y": 22
+            },
+            {
+              "id": "21",
+              "equipo": "rival",
+              "x": 50,
+              "y": 4,
+              "arquero": true
+            }
+          ],
+          "balon": "10",
+          "pasos": [
+            {
+              "mover": {
+                "9": [48, 15]
+              },
+              "balon": [48, 15],
+              "flecha": "pase",
+              "texto": "BALÓN FILTRADO"
+            },
+            {
+              "balon": [53, -2],
+              "flecha": "tiro",
+              "gol": true,
+              "texto": "REMATE LETAL"
+            }
+          ],
+          "marcador": {
+            "local": "EST",
+            "rival": "PAL",
+            "antes": [0, 0],
+            "despues": [1, 0],
+            "minuto": "PIZARRA"
+          }
+        },
+        "transicion": "glitch"
+      },
+      {
+        "texto": "Todo queda listo para la gran final de la Libertadores porque...",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "titular",
-          "texto": "GALLARDO ANALIZA A LA SUB-17 EN DOHA",
-          "sobre": "PROYECTO LA TRI"
+          "texto": "¡QUE RUEDE EL BALÓN EN LA FINAL!",
+          "sobre": "COPA LIBERTADORES"
         },
-        "transicion": "flash"
+        "transicion": "flash",
+        "tono": "celebracion"
       }
     ]
   }
