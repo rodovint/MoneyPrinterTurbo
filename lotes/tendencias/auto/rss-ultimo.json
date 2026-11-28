@@ -1,560 +1,561 @@
 {
- "fecha": "2026-11-27T19:41-05:00",
+ "fecha": "2026-11-27T22:10-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
    {
-    "tema": "columbus crew - inter miami",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois' Columbus Crew dismantled Lionel Messi's Inter Miami (Goal.com)",
-     "Messi, Inter Miami Face Playoff Elimination After 3-0 Loss to Crew (BVM Sports)"
-    ]
-   },
-   {
-    "tema": "extradición",
+    "tema": "trail blazers - warriors",
     "volumen": "100+",
     "volumen_min": 100,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "desde": "2026-11-27T19:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Lucha contra el crimen trasciende fronteras (El Universo)",
-     "Líder de la banda Los Tiguerones, expulsado de España, podría enfrentar 40 años de cárcel (La República EC)"
+     "Warriors tasked with slowing Trail Blazers’ thriving stars (KNBR)",
+     "Jrue Holiday Props Today: Live Odds, Trends, & Lines (sports.betmgm.com)"
     ]
    },
    {
-    "tema": "selección de fútbol de costa rica",
+    "tema": "spurs - lakers",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T15:50:00-08:00",
+    "desde": "2026-11-27T18:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Concacaf W 2026 en Disney+: los partidos que podrás ver del torneo que clasifica al Mundial femenino de fútbol (Disney Plus)",
-     "La selección femenina de fútbol de Costa Rica enfrenta a Jamaica por un cupo directo al mundial de Brasil 2027 (Infobae)"
+     "Lakers vs. Spurs Preview: A big first test (Silver Screen and Roll)",
+     "How Can Spurs Advance to Cup Knockout Rounds? (Sports Illustrated)"
     ]
    },
    {
-    "tema": "deportivo cali - bucaramanga",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T15:50:00-08:00",
+    "tema": "servicio geológico colombiano",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Cuándo juegan Cali vs Bucaramanga por fecha 3 de cuadrangulares Liga BetPlay: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
-     "Deportivo Cali vs. Bucaramanga en directo hoy: ¿quién emite el partido por TV y streaming? (Goal.com)"
+     "Colombia estudia implementar un sistema de alerta temprana de terremotos con tecnología japonesa: así va el plan (Portafolio.co)",
+     "Temblor hoy en Colombia EN VIVO | Magnitud y profundidad del sismo más reciente de este viernes 27 de noviembre, según SGC (RED+ Noticias)"
     ]
    },
    {
-    "tema": "posiciones de deportivo cuenca contra manta fútbol club",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T15:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "El Manta FC quedo condenado al descenso Deportivo Cuenca los goleo y es cuestion de tiempo su adios (futbolecuador.com)",
-     "Deportivo Cuenca sentencia al Manta en la batalla por evitar el descenso (El Comercio)"
-    ]
-   },
-   {
-    "tema": "fluminense - cruzeiro",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T14:20:00-08:00",
+    "tema": "impuesto",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:30:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Fluminense e Cruzeiro batem à porta do topo com receitas opostas (www.brasileirao.com.br)",
-     "Cruzeiro enfrenta Fábio pela 10ª vez desde quando goleiro foi para o Fluminense (O Tempo)"
+     "Así se incrementarán los aportes al IESS, las multas de tránsito y las pensiones alimenticias, por el nuevo salario básico en Ecuador (Primicias)",
+     "Servidores públicos exigen alza salarial tras 15 años congelados en Ecuador (Diario La Hora)"
     ]
    },
    {
-    "tema": "copa mundial de fútbol",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T13:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "La selección sub-17 de Vietnam hace historia a pesar de haber sido eliminada del Mundial. (شبكة تواصل الإخبارية)",
-     "Los periódicos indonesios y tailandeses expresan sus opiniones tras la eliminación de la selección sub-17 de Vietnam del Mundial. (Vietnam.vn)"
-    ]
-   },
-   {
-    "tema": "frente frío",
+    "tema": "millonarios - américa",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-27T13:30:00-08:00",
-    "deporte_probable": false,
+    "desde": "2026-11-27T18:00:00-08:00",
+    "deporte_probable": true,
     "titulares": [
-     "Protección Civil emite recomendaciones por primera tormenta invernal (Sistema Mexiquense)",
-     "Llueve en la mayor parte de CDMX; activan alerta roja (Reforma)"
+     "¿Final adelantada? Millonarios vs. América por el liderato del Grupo B (ESPN Ecuador)",
+     "Primer parte médico de figura de América de Cali que preocupa a David González: no va contra Millonarios (Revista Semana)"
     ]
    },
    {
-    "tema": "posiciones de delfin sc contra orense sporting club",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T13:20:00-08:00",
-    "deporte_probable": true,
+    "tema": "seguridad",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Corporación Registro Civil de Guayaquil fue suspendida por alertas de seguridad (El Universo)",
+     "Elecciones seccionales: cinco datos que debes conocer antes de votar este domingo (El Telégrafo (por eliminar))"
+    ]
+   },
+   {
+    "tema": "cristian zamora",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T17:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Audiencia de formulación de cargos contra Cristian Zamora se posterga por cambio en la defensa (Primicias)",
+     "Difieren audiencia de formulación de cargos contra Cristian Zamora, alcalde de Cuenca (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "donde votar",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T17:10:00-08:00",
+    "deporte_probable": false,
     "titulares": []
    },
    {
-    "tema": "asamblea",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T13:20:00-08:00",
+    "tema": "knicks - heat",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T17:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Giannis & Towns' status for Heat-Knicks: Injuries, Odds, How to Watch & Starters (Sports Illustrated)",
+     "Miami Heat vs. New York Knicks Live NBA Updates, Scores and Highlights (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "bronson reed",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T16:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Asamblea retoma fiscalización: vuelve la investigación a Alexandro Tonello y se reactivan siete casos contra Pabel Muñoz (El Universo)",
-     "Tras 15 días de receso legislativo, la Asamblea Nacional regresó a Quito y estas fueron sus primeras actividades (Primicias)"
+     "Jermaine Haley, also known as Bronson Reed, passes away (WWE)",
+     "Samoan Wrestler Bronson Reed Tragically Dies at Age 38 (Samoa Global News)"
     ]
    }
   ],
   "US": [
    {
-    "tema": "people",
+    "tema": "tacko fall",
     "volumen": "1000+",
     "volumen_min": 1000,
-    "desde": "2026-11-27T16:20:00-08:00",
+    "desde": "2026-11-27T18:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Wife of Canadian astronaut aboard International Space Station gives birth to couple's third child (CBS News)",
-     "Astronaut Dad Watches the Birth of His Third Child from Space (People.com)"
+     "Tacko Fall is paying the price for the 76ers finally getting healthier (The Sixer Sense)",
+     "Bonus Sixers mailbag: Could Tacko Fall actually stick in Nick Nurse's rotation? (PhillyVoice)"
     ]
    },
    {
-    "tema": "miss universo",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T16:20:00-08:00",
+    "tema": "what is the nba cup",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA Cup Nov. 27: Live Scores, Standings & Clinching Scenarios (NBA.com)",
+     "NBA Cup quarterfinal scenarios include maximum chaos involving Heat, Knicks and 76ers - The Athletic (The New York Times)"
+    ]
+   },
+   {
+    "tema": "islanders",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T18:50:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "The Glamour of Miss Universe Masks an Ugly Battle for Control (The New York Times)",
-     "Miss Universe crowns winner after another turbulent year for world’s biggest pageant (CNN)"
+     "Islanders forward Kyle Palmieri (ACL, meniscus) out 6-8 months (ESPN)",
+     "Palmieri expected out rest of season for Islanders with torn right ACL, meniscus (NHL.com)"
     ]
    },
    {
-    "tema": "wwe news",
+    "tema": "kelly oubre jr",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Fantasy Basketball Waiver Wire: Injuries are wrecking rosters, so add these 9 players now (Yahoo Sports)",
+     "NBA Fantasy: Waiver wire adds ahead of week 7 (NBA.com)"
+    ]
+   },
+   {
+    "tema": "mls schedule",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-27T16:20:00-08:00",
+    "desde": "2026-11-27T18:50:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "WWE's CM Punk leaving politics out of the ring for USA vs Mexico match at Survivor Series: WarGames (Fox News)",
-     "CM Punk Shades Seth Rollins in Comment on Charlotte Flair's Photo Ahead of WWE Survivor Series (Bleacher Report)"
+     "FC Cincinnati deliver result of playoffs with upset win at Nashville SC (MLSsoccer.com)",
+     "Nashville Soccer Club In The MLS Eastern Conference Winner Odds Cut To +178 (Oddschecker)"
     ]
    },
    {
-    "tema": "brownsburg football",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Indiana high school football state championship matchups | Operation Football (WTHR)",
-     "Ready, set, go. 50 players to watch at IHSAA football state finals (IndyStar)"
-    ]
-   },
-   {
-    "tema": "bronson reed",
-    "volumen": "50000+",
-    "volumen_min": 50000,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jermaine Haley, WWE star known as Bronson Reed, dead at 38 (Fox News)",
-     "Bronson Reed Passes Away Due To Medical Complications (Fightful)"
-    ]
-   },
-   {
-    "tema": "inter miami vs columbus",
-    "volumen": "10000+",
-    "volumen_min": 10000,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2 (Columbus Crew)",
-     "Lionel Messi embracing MLS supervillain role with Inter Miami CF (The Columbus Dispatch)"
-    ]
-   },
-   {
-    "tema": "wwe",
+    "tema": "snow",
     "volumen": "5000+",
     "volumen_min": 5000,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "desde": "2026-11-27T18:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "WWE SmackDown results, live updates and grades for Nov. 27 as Owens, Balor team to face Zayn, Gunther (CBS Sports)",
-     "WWE SmackDown Tonight Is Pre-Taped — Here Are the Spoilers (Yahoo Sports)"
+     "West Coast storms to bring flooding, mountain snow (The Weather Channel)",
+     "Relentless storms return to the West threatening post-Thanksgiving travel (Yahoo)"
     ]
    },
    {
-    "tema": "penguins vs sabres",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "tema": "jeff traylor",
+    "volumen": "10000+",
+    "volumen_min": 10000,
+    "desde": "2026-11-27T18:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Sabres vs. Penguins | How to watch, lineup notes, and storylines (NHL.com)",
-     "Pittsburgh Penguins' Gameday Preview: Pens Look To Snap Five-game Losing Streak In Buffalo (Yahoo Sports)"
+     "Baylor zeroes in on Jeff Traylor as next football coach. Why a deal could move quickly (USA Today)",
+     "Baylor football rumors: UTSA head coach emerges as frontrunner for Bears job (Yahoo Sports)"
     ]
    },
    {
-    "tema": "ai cyberattack",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse (Microsoft)",
-     "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators (The Hacker News)"
-    ]
-   },
-   {
-    "tema": "kraken vs oilers",
+    "tema": "isaiah joe",
     "volumen": "500+",
     "volumen_min": 500,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pistons' Isaiah Joe: Late scratch Friday (CBS Sports)",
+     "Isaiah Joe News: Late scratch Friday (RotoWire)"
+    ]
+   },
+   {
+    "tema": "heat game",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T18:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Kraken at Oilers projected lineups (NHL.com)",
-     "Seattle Kraken vs Edmonton Oilers Prediction, Picks & Odds | 27 Nov 2026 (Sportsgambler)"
+     "Miami Heat vs. New York Knicks Live NBA Updates, Scores and Highlights (Bleacher Report)",
+     "Game Preview: Knicks vs. Heat, November 27, 2026 (Posting and Toasting)"
+    ]
+   },
+   {
+    "tema": "simone biles",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Simone Biles Reveals Her New ID Photo: 'Just Happy They Let Me Smile' (PureWow)",
+     "Simone Biles Reveals Her New ID Photo: 'Just Happy They Let Me Smile' (AOL.com)"
     ]
    }
   ],
   "ES": [
    {
-    "tema": "bronson reed",
+    "tema": "spurs - lakers",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T16:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jermaine Haley, WWE star known as Bronson Reed, dead at 38 (Fox News)",
-     "Bronson Reed Passes Away Due To Medical Complications (Fightful)"
-    ]
-   },
-   {
-    "tema": "columbus crew - inter miami",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:20:00-08:00",
+    "desde": "2026-11-27T18:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois' Columbus Crew dismantled Lionel Messi's Inter Miami (Goal.com)",
-     "November 28, 2026: Real Madrid vs Alaves: First Half Winner Prediction Market (Robinhood)"
-    ]
-   },
-   {
-    "tema": "knicks - heat",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "NBA: Miami Heat at New York Knicks (Reuters Connect)",
-     "Knicks Prepare Defensive Plan to Contain Giannis Antetokounmpo (cwibc.co.id)"
-    ]
-   },
-   {
-    "tema": "lucia rivera",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Sabemos dónde está Lucía Rivera en medio del huracán mediático de su madre, Blanca Romero: el destino, la compañía y su hoja de ruta (HOLA)",
-     "Blanca Romero no se calla y cuenta su verdad tras la ruptura con Quique Sánchez Flores: \"Se lo debo a mi padre\" (HOLA)"
-    ]
-   },
-   {
-    "tema": "sportivo luqueño - olimpia",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T15:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Un sorpresivo retorno y un par de juveniles convocados en el Olimpia bicampeón (VS Sports)",
-     "El balón rodará en Itauguá (apf.org.py)"
-    ]
-   },
-   {
-    "tema": "de viernes invitados",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T15:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Estos son hoy los invitados de '¡De viernes!', el programa de Telecinco (27 de noviembre de 2026) (El Confidencial)",
-     "Invitados de 'De viernes' hoy 27 de noviembre: se acabó el silencio tras una ruptura sentimental y un esperado ajuste de cuentas tras 'GH VIP' (El Periódico)"
-    ]
-   },
-   {
-    "tema": "deportivo cali - bucaramanga",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T15:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Asociación Deportivo Cali - Atlético Bucaramanga | Pronóstico y cuotas 27.11.2026 (Diario AS)",
-     "Deportivo Cali vs. Bucaramanga en directo hoy: ¿quién emite el partido por TV y streaming? (Goal.com)"
-    ]
-   },
-   {
-    "tema": "fluminense - cruzeiro",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T15:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Fluminense x Cruzeiro: Veja onde assistir, horário e escalaçõe (InfoMoney)",
-     "Artur Jorge recebe lista com 7 jogadores no Cruzeiro (Terra)"
-    ]
-   },
-   {
-    "tema": "pj gallagher",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Comedian and presenter PJ Gallagher dies aged 51 (RTE.ie)",
-     "Broadcaster and comedian PJ Gallagher dies aged 51 (The Irish Times)"
-    ]
-   },
-   {
-    "tema": "jose bono",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T14:30:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El tenso rifirrafe entre Cristina Pardo y José Bono por sus acusaciones contra los periodistas: \"No es usted el primer político que arremete contra la prensa\" (Antena 3)",
-     "Cristina Pardo, tras la tensa entrevista a José Bono en campaña electoral: \"Siento que he hecho bien mi trabajo\" (atresplayer)"
-    ]
-   }
-  ],
-  "AR": [
-   {
-    "tema": "bronson reed",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Bronson Reed Passes Away Due To Medical Complications (Fightful)",
-     "Bronson Reed Passes Away at 38 Due to Medical Complications (Ringside News)"
-    ]
-   },
-   {
-    "tema": "luca marcogiuseppe",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tras la salida de Darío Franco, Gimnasia de Mendoza confirmó a su nuevo entrenador (TyC Sports)",
-     "Darío Franco no continuará como entrenador de Gimnasia de Mendoza (ESPN Argentina)"
-    ]
-   },
-   {
-    "tema": "columbus crew - inter miami",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "¡EN VIVO! Inter Miami visita a Columbus Crew en cruce de playoffs de la MLS (ESPN Argentina)",
-     "Messi y un partido sin mañana con Inter Miami :: Olé - ole.com.ar (Olé)"
-    ]
-   },
-   {
-    "tema": "aire de santa fe",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Tensión en una óptica de avenida Luján por una presunta toma de rehenes (El Litoral)",
-     "Tensión en Santo Tomé: un hombre se atrincheró en un comercio con un bidón de nafta tras un intento de robo (Aire de Santa Fe)"
-    ]
-   },
-   {
-    "tema": "b nacional",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Resultados del Reducido Primera Nacional 2026: seguí en vivo la definición de los cuartos de final (TyC Sports)",
-     "Primera Nacional: salen los primeros tres semifinalistas del Reducido (Página|12)"
-    ]
-   },
-   {
-    "tema": "racing - liverpool",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cuándo juegan Racing vs. Liverpool por la semifinal de la Liga AUF Uruguaya: equipo, fecha, hora y TV en vivo (ESPN Argentina)"
-    ]
-   },
-   {
-    "tema": "fluminense vs",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Fluminense vs Cruzeiro: Brazilian Serie A stats & head-to-head (BBC)",
-     "Fluminense vs Cruzeiro Prediction, Betting Tips, Lineups & Odds | 27 Nov 2026 (Sportsgambler)"
-    ]
-   },
-   {
-    "tema": "detención",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "El lugar de detención de Dana Vega no estaría “apto” para cumplir la prisión preventiva (El Esquiu)",
-     "El juez Felsztyna resolverá el lunes sobre el pedido de preventiva para Dana Vega (El Ancasti)"
-    ]
-   },
-   {
-    "tema": "luis ventura",
-    "volumen": "500+",
-    "volumen_min": 500,
-    "desde": "2026-11-27T15:50:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Preocupación por la salud de Luis Ventura: debió ser internado y no viajará a los Martín Fierro Latino (Infobae)",
-     "Luis Ventura se descompuso cuando iba rumbo a Miami: debió ser internado de urgencia y hay preocupación (eltrecetv)"
-    ]
-   },
-   {
-    "tema": "tristán suárez - gimnasia y tiro de salta",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-27T15:40:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Tristán Suárez vs. Gimnasia y Tiro, por el Reducido de la Primera Nacional: seguilo EN VIVO (TyC Sports)",
-     "El Albo, en Ezeiza, debe ganar sí o sí para dar el paso a semifinales (Nuevo Diario de Salta)"
-    ]
-   }
-  ],
-  "MX": [
-   {
-    "tema": "pistons - bucks",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:30:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Bucks vs Pistons Player Prop Bets Tonight – NBA, Nov. 27 (sports.betmgm.com)",
-     "Milwaukee Bucks vs. Detroit Pistons Preview & Game Thread: Time to get back on track (Yahoo Sports)"
+     "Lakers vs. Spurs Preview: A big first test (Silver Screen and Roll)",
+     "How Can Spurs Advance to Cup Knockout Rounds? (Sports Illustrated)"
     ]
    },
    {
     "tema": "celtics - hawks",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T16:30:00-08:00",
+    "desde": "2026-11-27T17:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "NBA: Atlanta Hawks at Boston Celtics (Reuters Connect)",
-     "Jalen Johnson And Hawks Take On Celtics On Nov. 27 (FanDuel)"
+     "Atlanta Hawks (11-6) at Boston Celtics (12-6) Game #19 11/27/26 (CelticsBlog)",
+     "NBA Polymarket promo code “MASS” upgrades $25 Hawks-Celtics deal on Black Friday (MassLive)"
     ]
    },
    {
-    "tema": "la paz vs morelia",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:30:00-08:00",
+    "tema": "millonarios - américa",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T17:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Listo dispositivo de seguridad y vialidad para ver gratis la final del Atlético Morelia en el Estadio Morelos (Gobierno del Estado de Michoacán)",
-     "Viajará este viernes Atlético Morelia a La Paz para la final (Quadratín Michoacán)"
-    ]
-   },
-   {
-    "tema": "bronson reed",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Jermaine Haley, WWE star known as Bronson Reed, dead at 38 (Fox News)",
-     "Bronson Reed Passes Away Due To Medical Complications (Fightful)"
-    ]
-   },
-   {
-    "tema": "importación",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Gobierno amplía hasta finales de 2027 el permiso para importar autos de EU y Canadá a México (Yahoo)",
-     "Amplían un año más plazo para importar autos usados de EU (Reforma)"
-    ]
-   },
-   {
-    "tema": "texas vs texas a&m",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Texas odds sit at 80% as the Longhorns' SEC title path runs through Kyle Field (Kalshi News)",
-     "Mason Rudolph and Steelers defense can clean up Aaron Rodgers' mess, but the franchise's problems run deeper (thepress.net)"
-    ]
-   },
-   {
-    "tema": "wwe",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-27T16:20:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Updated 2026 WWE Survivor Series Card and Predictions for Match Order (Bleacher Report)",
-     "The Bloodline Gets A Major Warning From 946 Leader Royce Keys Ahead Of Survivor Series (NDTV Sports)"
-    ]
-   },
-   {
-    "tema": "columbus crew - inter miami",
-    "volumen": "5000+",
-    "volumen_min": 5000,
-    "desde": "2026-11-27T16:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Cuándo juegan Columbus Crew vs. Inter Miami por la MLS: equipo, fecha, hora y TV en vivo (ESPN México)",
-     "¡Polémica en la MLS! Messi le da balonazo en la cara a Gonzalo Tapia y evita la expulsión (UnoTV)"
+     "Millonarios - América de Cali S. A. | Pronóstico y cuotas 28.11.2026 (Diario AS)",
+     "🔴 EN VIVO: Millonarios vs. América - minuto a minuto y goles (fecha 3, grupo B) (Win Sports)"
     ]
    },
    {
     "tema": "pacers - 76ers",
     "volumen": "200+",
     "volumen_min": 200,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "desde": "2026-11-27T17:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Embiid questionable, Brown out as Sixers visit Pacers in critical NBA Cup matchup (Liberty Ballers)",
-     "See photos from the Indiana Pacers game against the Philadelphia 76ers (IndyStar)"
+     "Pacers - 76ers LIVE. NBA latest updates (MARCA)",
+     "Embiid available, Brown out as Sixers visit Pacers in critical NBA Cup matchup (Liberty Ballers)"
     ]
    },
    {
-    "tema": "estadio gnp",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-27T16:10:00-08:00",
+    "tema": "pocholo martínez-bordiú",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pocholo Martínez-Bordiú, sorprendido vendiendo sus bolsos de lujo en una terraza del barrio de Salamanca (La Vanguardia)",
+     "Captan a Pocholo Martínez-Bordiú vendiendo sus bolsos de lujo en una terraza del barrio de Salamanca (20 Minutos)"
+    ]
+   },
+   {
+    "tema": "elsa pataky",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T16:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Elsa Pataky reaparece por sorpresa en Madrid con un traje blanco de estilo masculino y corbata (ELLE)",
+     "Elsa Pataky regresa por sorpresa a España: descubrimos dónde está y qué ha hecho en Madrid (HOLA)"
+    ]
+   },
+   {
+    "tema": "bronson reed",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T16:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Jermaine Haley, also known as Bronson Reed, passes away (WWE)",
+     "WWE's Bronson Reed Dies at Age 38 'Due to Medical Complications' Following Crown Jewel (Bleacher Report)"
+    ]
+   },
+   {
+    "tema": "columbus crew - inter miami",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-27T16:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "¿Cuánto cuestan los BOLETOS para el concierto de Mon Laferte en el Estadio GNP? Estos son los precios de acuer (Milenio)",
-     "Mon Laferte llegará a dos grandes escenarios en CDMX y Guadalajara en 2027 (PRENSA OCESA)"
+     "Columbus - Inter Miami CF LIVE. Major League Soccer latest updates (MARCA)",
+     "Lionel Messi in danger: What are Inter Miami’s chances of reaching the MLS playoff semifinals? (Diario AS)"
+    ]
+   },
+   {
+    "tema": "knicks - heat",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T16:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "NBA: Miami Heat at New York Knicks (Reuters Connect)",
+     "Giannis Antetokounmpo available for Heat’s Black Friday clash with Knicks (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "lucia rivera",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T16:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sabemos dónde está Lucía Rivera en medio del huracán mediático de su madre, Blanca Romero: el destino, la compañía y su hoja de ruta (HOLA)",
+     "Quique Sánchez Flores se sintió «algo acosado» por Blanca Romero: «Veía cosas raras en su teléfono» (El Correo)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "luis lobo medina",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Escandaloso audio atribuido a Lobo Medina (Olé)",
+     "Escándalo en la AFA: difunden un audio comprometedor del árbitro Luis Lobo Medina (La Nueva Provincia)"
+    ]
+   },
+   {
+    "tema": "barco pesquero",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mueren cuatro trabajadores por inhalación de gas tóxico en un barco pesquero en Ecuador (Infobae)",
+     "Cuatro personas mueren en Ecuador por una presunta fuga de amoníaco en un barco industrial (El Litoral)"
+    ]
+   },
+   {
+    "tema": "trail blazers - warriors",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Warriors tasked with slowing Trail Blazers’ thriving stars (KNBR)",
+     "Jrue Holiday Props Today: Live Odds, Trends, & Lines (sports.betmgm.com)"
+    ]
+   },
+   {
+    "tema": "el litoral",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Colón jugó el partido que debía jugar (El Litoral)",
+     "Colón dio el golpe al vencer a Morón y avanzó en el Reducido de la Primera Nacional: reviví lo mejor (TyC Sports)"
+    ]
+   },
+   {
+    "tema": "evelyn botto",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Evelyn Botto reveló qué plan le propuso Fede Bal para celebrar su primer aniversario de novios: “Después se va de viaje” (TN)",
+     "Otro día perdido: por qué Rada dijo \"no quiero abrir con este quilombo\" con el primer aniversario de Evelyn Botto y Fede Bal (eltrecetv)"
+    ]
+   },
+   {
+    "tema": "spurs - lakers",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Lakers vs Spurs: Prediction, Team News and Doncic v Wembanyama (Squawka)",
+     "How Can Spurs Advance to Cup Knockout Rounds? (Sports Illustrated)"
+    ]
+   },
+   {
+    "tema": "catalina gorostidi",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Catalina Gorostidi de “Gran Hermano” se hizo un tratamiento estético en la cara y mostró los resultados (TN)",
+     "El tremendo retoque estético en la cara de una exparticipante de Gran Hermano que descolocó a todos en las redes (Radio Mitre)"
+    ]
+   },
+   {
+    "tema": "timberwolves - grizzlies",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "LaMelo Ball injures left ankle in win over Thunder, in good spirits afterward - The Athletic (The New York Times)",
+     "Timberwolves, Grizzlies play for NBA Cup West Group B title (CBS Sports)"
+    ]
+   },
+   {
+    "tema": "mansión",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T17:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La huella de Pablo Toviggino detrás de una matrioska de sociedades y presuntos testaferros (Clarin.com)",
+     "Allanaron una segunda mansión de Pilar que aparece ligada a las autoridades de la AFA (La Nación)"
+    ]
+   },
+   {
+    "tema": "bonelli",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T17:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Longobardi denunció que Clarín no publicó la columna de Bonelli por presión de Milei (La Política Online)",
+     "Marcelo Longobardi acusó a Javier Milei de censurar la columna habitual de Marcelo Bonelli en Clarín (InfoVeloz.com)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "clippers - pelicans",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T19:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Pelicans vs Clippers LIVE, Score Updates, Stats and NBA Cup Play-by-Play (24-25) (VAVEL.com)",
+     "Something has to give Friday when struggling Pelicans, Clippers meet in L.A. (NOLA.com)"
+    ]
+   },
+   {
+    "tema": "jazz - nuggets",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Nuggets Face Jazz in NBA Cup Finale With Wild Card at Stake (cwibc.co.id)",
+     "Preview: Can Utah snap a 3 game losing streak against the Denver Nuggets? (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "película",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-27T18:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Canas al aire: una aventura que celebra la memoria y las tradiciones de Puebla (El Popular, periodismo con causa)",
+     "Gobierno de Puebla destinó 30 millones de pesos a la película “Canas al Aire” (Intolerancia Diario)"
+    ]
+   },
+   {
+    "tema": "como vs juventus",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Como vs. Juventus por la fecha 13 de la Serie A 2026: equipo, fecha y hora y TV en vivo (ESPN México)",
+     "Previa del Como contra la Juventus en Serie A: el Como, invicto en casa, recibe a una Juve en auge (Goal.com)"
+    ]
+   },
+   {
+    "tema": "tiempo de mañana",
+    "volumen": "500000+",
+    "volumen_min": 500000,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Entre el sábado 28 y domingo 29: Lluvias torrenciales y posibles inundaciones al Centro y Sur de México (Meteored México)",
+     "CNPC INSTA A LA POBLACIÓN A MANTENERSE ALERTA ANTE LOS EFECTOS DE LA PRIMERA TORMENTA INVERNAL PARA ESTA NOCHE Y MADRUGADA DE SÁBADO (Gob MX)"
+    ]
+   },
+   {
+    "tema": "real salt lake - whitecaps",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Whitecaps look to close out Real Salt Lake and earn spot in second round of playoffs (TSN)",
+     "Three matches, zero goals: RSL must solve Vancouver’s press to survive (KSL Sports)"
+    ]
+   },
+   {
+    "tema": "luchador bronson reed",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Muere Bronson Reed, luchador de la WWE, a los 38 años (El Financiero)",
+     "¿Qué pasó con Bronson Reed? WWE confirma su muerte a los 38 años (Milenio)"
+    ]
+   },
+   {
+    "tema": "usa vs el salvador",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "With USWNT World Cup qualification at stake, the team that can beat the U.S. is itself (ESPN)",
+     "How to Watch: USWNT vs. El Salvador in the 2026 Concacaf W Championship (US Soccer)"
+    ]
+   },
+   {
+    "tema": "lyon vs monaco",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "PREVIEW | Lyon vs Monaco: team news, lineups, predictions (Ligue 1 29/11) (OneFootball)",
+     "Ligue 1 Predictions | Round 12: Monaco seek end winless run in Lyon; Paris FC look to put pressure on PSG (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "feyenoord vs ajax",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-27T18:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Predicted Feyenoord line-up against Ajax: surprise decision at striker (Goal.com)",
+     "Shaqueel van Persie makes telling remark ahead of Feyenoord vs Ajax: 'I can feel in the squad...' (Goal.com)"
     ]
    }
   ]
