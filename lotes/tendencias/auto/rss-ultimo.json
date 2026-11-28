@@ -1,8 +1,30 @@
 {
- "fecha": "2026-11-28T13:43-05:00",
+ "fecha": "2026-11-28T13:53-05:00",
  "fuente": "Google Trends RSS (trendspyg)",
  "paises": {
   "EC": [
+   {
+    "tema": "idv",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "“¿Hasta cuándo?”: Barcelona SC reclama por decisiones arbitrales (El Telégrafo (por eliminar))",
+     "Barcelona no hizo el pasillo de honor a Independiente del Valle, el bicampeón de la LigaPro 2026 (Teleamazonas)"
+    ]
+   },
+   {
+    "tema": "atletico",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How will Atlético Madrid line up against Elche in La Liga? (Into the Calderon)",
+     "Licensable picture: Soccer 2026: Spanish LaLiga: Elche CF - Atletico De Madrid (Reuters Connect)"
+    ]
+   },
    {
     "tema": "stuttgart - frankfurt",
     "volumen": "100+",
@@ -16,8 +38,8 @@
    },
    {
     "tema": "macará - ldu quito",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "5000+",
+    "volumen_min": 5000,
     "desde": "2026-11-28T10:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -41,9 +63,9 @@
     "volumen": "500+",
     "volumen_min": 500,
     "desde": "2026-11-28T09:10:00-08:00",
-    "deporte_probable": false,
+    "deporte_probable": true,
     "titulares": [
-     "LIVE Torino-Lazio 1-2: Adams riapre la partita con un bel colpo di testa, problemi per Cacciamani (La Gazzetta dello Sport)",
+     "LIVE Torino-Lazio 1-2: Pinamonti si divora il tris, Oristano sfiora il gol del pari (La Gazzetta dello Sport)",
      "Vlasic-Frattesi, duello a centrocampo: il granata cerca risposte, il laziale vede la porta (Toro.it)"
     ]
    },
@@ -55,7 +77,7 @@
     "deporte_probable": true,
     "titulares": [
      "Match Summary (BBC)",
-     "TEAM NEWS | ASTON VILLA (H) (Ipswich Town FC)"
+     "Licensable picture: Premier League - Ipswich Town v Aston Villa (Reuters Connect)"
     ]
    },
    {
@@ -87,43 +109,54 @@
     "desde": "2026-11-28T08:40:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Hamburger SV vs Bayern Munich: German Bundesliga stats & head-to-head (BBC)",
-     "Hamburg 0-0 Bayern (Nov 28, 2026) Game Analysis (ESPN)"
-    ]
-   },
-   {
-    "tema": "u. católica - independiente del valle",
-    "volumen": "20000+",
-    "volumen_min": 20000,
-    "desde": "2026-11-28T08:00:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Universidad Católica vs. Independiente del Valle en la fecha 8: un duelo de la Liga Pro con tinte a una final anticipada de la Copa Ecuador 2026 (El Universo)",
-     "Universidad Católica vs. Independiente del Valle: horario, canales y alineaciones por LigaPro 2026 (Diario Extra)"
-    ]
-   },
-   {
-    "tema": "manchester united",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-28T07:40:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Manchester United have the worst defensive record in Europe: How does Mauricio Pochettino improve it? (NBC Sports)",
-     "What is the root cause of Man Utd’s poor defence? (BBC)"
+     "Bayern Munich's Joshua Kimmich sent off for hair-pull (ESPN)",
+     "Hamburger SV vs Bayern Munich: German Bundesliga stats & head-to-head (BBC)"
     ]
    }
   ],
   "US": [
    {
+    "tema": "jack sawyer",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T10:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Pittsburgh Steelers’ second-year pass rusher goes down with knee injury (PennLive.com)",
+     "Injury Roundup: Steelers Suffer Multiple Defensive Injuries In Win Over Broncos (Steelers Depot)"
+    ]
+   },
+   {
+    "tema": "d3 football playoffs",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T10:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "2026 DIII football championship: Bracket, schedule, scores (NCAA.com)",
+     "3 Wisconsin teams begin play in NCAA Division III football tournament (Milwaukee Journal Sentinel)"
+    ]
+   },
+   {
+    "tema": "siena basketball",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Siena vs Seton Hall Prediction, Odds & Best Bets Today – NCAAB, Nov. 28 (sports.betmgm.com)",
+     "Big East Basketball Predictions, Computer Picks and Best Bets | November 28 (Bleacher Nation)"
+    ]
+   },
+   {
     "tema": "pat freiermuth",
-    "volumen": "20000+",
-    "volumen_min": 20000,
+    "volumen": "2000+",
+    "volumen_min": 2000,
     "desde": "2026-11-28T10:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "While Aaron Rodgers defends himself by texting Al Michaels, the Steelers press on without him (AP News)",
-     "“Password to the Facility is 1, 2, 3 Packers”: NFL Fans React to Aaron Rodgers Texting Al Michaels During Game & Further Criticizing Steelers (Yahoo Sports)"
+     "Friday’s game gives Steelers fans a chance to chime in on recent events (NBC Sports)",
+     "Pat Freiermuth Credits TJ Watt and Cam Heyward's Pregame Message in Win Over Broncos (Yahoo Sports)"
     ]
    },
    {
@@ -138,9 +171,20 @@
     ]
    },
    {
+    "tema": "macará - ldu quito",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juega Macará vs. Liga de Quito por Liga Ecuabet: equipo, fecha, hora y TV en vivo (ESPN Deportes)",
+     "Macará - LDU Quito | Pronóstico y cuotas 28.11.2026 (Diario AS)"
+    ]
+   },
+   {
     "tema": "tua tagovailoa",
-    "volumen": "2000+",
-    "volumen_min": 2000,
+    "volumen": "5000+",
+    "volumen_min": 5000,
     "desde": "2026-11-28T10:20:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -180,53 +224,20 @@
      "How to watch Iowa State vs Kansas State football on Saturday, time, TV (The Des Moines Register)",
      "Kansas State at Iowa State: 2026 Game 12 (Yahoo Sports)"
     ]
-   },
-   {
-    "tema": "coastal carolina vs james madison",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-28T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "How to watch Coastal Carolina vs James Madison: Live stream NCAA College Football, TV channel (Yahoo Sports)",
-     "Coastal Carolina vs James Madison Prediction, Picks & Odds | 28 Nov 2026 (Sportsgambler)"
-    ]
-   },
-   {
-    "tema": "kyle whittingham",
-    "volumen": "2000+",
-    "volumen_min": 2000,
-    "desde": "2026-11-28T10:10:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Trev Alberts told he won't be Michigan AD after agreement (ESPN)",
-     "Kyle Whittingham contract buyout: What would firing cost Michigan? (Yahoo Sports)"
-    ]
-   },
-   {
-    "tema": "grambling st vs southern u",
-    "volumen": "1000+",
-    "volumen_min": 1000,
-    "desde": "2026-11-28T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "What Would a Bayou Classic Win Mean for Mickey Joseph at Grambling State? (Sports Illustrated)",
-     "Bayou Classic TV broadcast changes due to Macy's parade postponement (WWLTV.com)"
-    ]
-   },
-   {
-    "tema": "florida–florida state football rivalry",
-    "volumen": "100000+",
-    "volumen_min": 100000,
-    "desde": "2026-11-28T10:10:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions (Fox News)",
-     "Gators' snap counts from Florida's 26-10 win at Florida State (247Sports)"
-    ]
    }
   ],
   "ES": [
+   {
+    "tema": "libertadores",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ao vivo: Palmeiras x Estudiantes | Final | Taça Conmebol Libertadores (ge)",
+     "Fala de Barboza muda clima de final entre Palmeiras x Estudiantes (UOL)"
+    ]
+   },
    {
     "tema": "federico redondo",
     "volumen": "100+",
@@ -239,14 +250,14 @@
     ]
    },
    {
-    "tema": "libertadores",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-28T10:30:00-08:00",
+    "tema": "alcorcon real zaragoza",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:20:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "Ao vivo: Palmeiras x Estudiantes | Final | Taça Conmebol Libertadores (ge)",
-     "Fala de Barboza muda clima de final entre Palmeiras x Estudiantes (UOL)"
+     "AD Alcorcón - Real Zaragoza, en directo: Primera RFEF, hoy en vivo (Diario AS)",
+     "Horario y dónde ver el partido Alcorcón-Real Zaragoza (Heraldo de Aragón)"
     ]
    },
    {
@@ -261,14 +272,14 @@
     ]
    },
    {
-    "tema": "alcorcon real zaragoza",
-    "volumen": "100+",
-    "volumen_min": 100,
-    "desde": "2026-11-28T10:20:00-08:00",
-    "deporte_probable": true,
+    "tema": "fcsb - csikszereda",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
     "titulares": [
-     "Partido Alcorcón-Real Zaragoza, en directo (Heraldo de Aragón)",
-     "Duelo artillero en Santo Domingo (Diario AS)"
+     "Boutoutaou, OUT! Echipa FCSB-ului pentru meciul cu Csikszereda (Digi Sport)",
+     "Zis și făcut! Reghecampf a ținut cont de sfatul lui Gigi Becali: cum arată primul XI al lui FCSB (Sport.ro)"
     ]
    },
    {
@@ -279,18 +290,7 @@
     "deporte_probable": false,
     "titulares": [
      "Se resuelve la duda de los penaltis entre Alejandro Grimaldo y Julián Alvarez (Esto es Atleti)",
-     "Atlético Madrid abrió la cuenta ante Elche con un insólito penal de Redondo (Yahoo)"
-    ]
-   },
-   {
-    "tema": "fcsb - csikszereda",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-28T10:00:00-08:00",
-    "deporte_probable": false,
-    "titulares": [
-     "Boutoutaou, OUT! Echipa FCSB-ului pentru meciul cu Csikszereda (Digi Sport)",
-     "Zis și făcut! Reghecampf a ținut cont de sfatul lui Gigi Becali: cum arată primul XI al lui FCSB (Sport.ro)"
+     "Grimaldo, Simeone y el ‘guardiolismo’ (EL PAÍS)"
     ]
    },
    {
@@ -311,8 +311,8 @@
     "desde": "2026-11-28T10:00:00-08:00",
     "deporte_probable": true,
     "titulares": [
-     "AD Alcorcón - Real Zaragoza, en directo: Primera RFEF, hoy en vivo (Diario AS)",
-     "Horario y dónde ver el partido Alcorcón-Real Zaragoza (Heraldo de Aragón)"
+     "Primera RFEF hoy, en directo: resultados y partidos de la jornada 14, grupos 1 y 2, en vivo (Diario AS)",
+     "AD Alcorcón - Real Zaragoza, en directo: Primera RFEF, hoy en vivo (Diario AS)"
     ]
    },
    {
@@ -374,8 +374,8 @@
    },
    {
     "tema": "alerta amarilla",
-    "volumen": "100+",
-    "volumen_min": 100,
+    "volumen": "200+",
+    "volumen_min": 200,
     "desde": "2026-11-28T10:00:00-08:00",
     "deporte_probable": false,
     "titulares": [
@@ -402,13 +402,13 @@
     "deporte_probable": false,
     "titulares": [
      "Clima en Tandil hoy: cuál es el pronóstico del tiempo para el 28 de noviembre de 2026 (La Nación)",
-     "Fin de semana de calor en Tandil: qué indica el pronóstico del SMN para el viernes, sábado y domingo (El Eco)"
+     "Doble alerta meteorológico, tormentas para esta tarde y altas temperaturas para los próximos tres días (La Voz de Tandil)"
     ]
    },
    {
     "tema": "atletico madrid",
-    "volumen": "500+",
-    "volumen_min": 500,
+    "volumen": "1000+",
+    "volumen_min": 1000,
     "desde": "2026-11-28T09:30:00-08:00",
     "deporte_probable": true,
     "titulares": [
@@ -518,17 +518,6 @@
     ]
    },
    {
-    "tema": "temblor",
-    "volumen": "200+",
-    "volumen_min": 200,
-    "desde": "2026-11-28T09:50:00-08:00",
-    "deporte_probable": true,
-    "titulares": [
-     "Reportan sismo de 4.0 al sureste de Sayula de Alemán (Acrópolis Multimedios)",
-     "Temblor HOY 28 de noviembre en México EN VIVO; Reporte de sismos y microsismos del SSN | Últimas noticias (Telediario)"
-    ]
-   },
-   {
     "tema": "arnold schwarzenegger",
     "volumen": "100+",
     "volumen_min": 100,
@@ -536,7 +525,18 @@
     "deporte_probable": false,
     "titulares": [
      "Terminator Confirms Arnold Schwarzenegger’s T-800 Successor, And They’re A Major Downgrade (ScreenRant)",
-     "Arnold Schwarzenegger jokes about 'Jingle All the Way' residuals and playing Santa (Toronto Sun)"
+     "Arnold Schwarzenegger Shops for Christmas Presents Year-Round (Exclusive) (People.com)"
+    ]
+   },
+   {
+    "tema": "temblor",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Terremoto de magnitud 5 sacude el sur de California; no hay reporte de daños ni alerta de tsunami (El Universal)",
+     "Temblor de Magnitud 5.2 Sacude Los Ángeles, California (N+)"
     ]
    },
    {
@@ -547,7 +547,7 @@
     "deporte_probable": false,
     "titulares": [
      "Strong earthquake strikes off the coast near Los Angeles (CNN)",
-     "Magnitude 5.0 earthquake off the southern coast of California, near Los Angeles (la Repubblica)"
+     "A 4.7 magnitude earthquake rattles Southern California (Los Angeles Times)"
     ]
    },
    {
@@ -557,8 +557,8 @@
     "desde": "2026-11-28T09:40:00-08:00",
     "deporte_probable": false,
     "titulares": [
-     "Continúa votación del Presupuesto Participativo con amplia alfuencia (El Diario de Chihuahua)",
-     "¡Juntos por un mejor CONALEP y un mejor Chihuahua! (Quadratín Michoacán)"
+     "Prevé Protección Civil ambiente frío por las mañanas y heladas en la Sierra Tarahumara para el fin de semana (| Portal Gubernamental del Estado de Chihuahua)",
+     "Maneja con cuidado, se acercan fuertes vientos: Maru Campos 🎦 (Tiempo La Noticia Digital)"
     ]
    }
   ]
