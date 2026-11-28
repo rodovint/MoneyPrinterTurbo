@@ -1,0 +1,566 @@
+{
+ "fecha": "2026-11-28T13:43-05:00",
+ "fuente": "Google Trends RSS (trendspyg)",
+ "paises": {
+  "EC": [
+   {
+    "tema": "stuttgart - frankfurt",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eintracht Frankfurt: Adi Hütter trifft überraschende Uzun-Entscheidung (BILD)",
+     "VfB empfängt Frankfurt - Topspiel in Freiburg (Zeitungsverlag Waiblingen)"
+    ]
+   },
+   {
+    "tema": "macará - ldu quito",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juega Macará vs. Liga de Quito por Liga Ecuabet: equipo, fecha, hora y TV en vivo (ESPN Ecuador)",
+     "EN VIVO| Macará vs. Liga de Quito en un partido clave por el último cupo de Copa Libertadores 2027 (Primicias)"
+    ]
+   },
+   {
+    "tema": "psv - go ahead eagles",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "PSV neemt door Van Bommel afstand van Go Ahead (2-0) • Excelsior boekt tweede zege op rij (NOS)",
+     "Opstelling PSV: Bosz kiest voor drie nieuwe namen (Voetbal International)"
+    ]
+   },
+   {
+    "tema": "torino - lazio",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T09:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "LIVE Torino-Lazio 1-2: Adams riapre la partita con un bel colpo di testa, problemi per Cacciamani (La Gazzetta dello Sport)",
+     "Vlasic-Frattesi, duello a centrocampo: il granata cerca risposte, il laziale vede la porta (Toro.it)"
+    ]
+   },
+   {
+    "tema": "ipswich - aston villa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-28T08:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Match Summary (BBC)",
+     "TEAM NEWS | ASTON VILLA (H) (Ipswich Town FC)"
+    ]
+   },
+   {
+    "tema": "angers - lens",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T08:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "La Totale : le quintuplé de Sima, Man United s'enfonce un peu plus... (OneFootball)",
+     "Lens : Florian Sotoca très soulagé après la victoire contre Angers (Foot Mercato)"
+    ]
+   },
+   {
+    "tema": "elche c. f. - atlético madrid",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-28T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cholo, el ‘motivador’ de la primera Sudamericana de Anselmi (Diario AS)",
+     "Neto vuelve a la titularidad ante un Atlético al que regresan Barrios, Giuliano y Hjulmand (Infobae)"
+    ]
+   },
+   {
+    "tema": "posiciones de hamburgo s.v. contra bayern",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-28T08:40:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Hamburger SV vs Bayern Munich: German Bundesliga stats & head-to-head (BBC)",
+     "Hamburg 0-0 Bayern (Nov 28, 2026) Game Analysis (ESPN)"
+    ]
+   },
+   {
+    "tema": "u. católica - independiente del valle",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-28T08:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Universidad Católica vs. Independiente del Valle en la fecha 8: un duelo de la Liga Pro con tinte a una final anticipada de la Copa Ecuador 2026 (El Universo)",
+     "Universidad Católica vs. Independiente del Valle: horario, canales y alineaciones por LigaPro 2026 (Diario Extra)"
+    ]
+   },
+   {
+    "tema": "manchester united",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-28T07:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Manchester United have the worst defensive record in Europe: How does Mauricio Pochettino improve it? (NBC Sports)",
+     "What is the root cause of Man Utd’s poor defence? (BBC)"
+    ]
+   }
+  ],
+  "US": [
+   {
+    "tema": "pat freiermuth",
+    "volumen": "20000+",
+    "volumen_min": 20000,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "While Aaron Rodgers defends himself by texting Al Michaels, the Steelers press on without him (AP News)",
+     "“Password to the Facility is 1, 2, 3 Packers”: NFL Fans React to Aaron Rodgers Texting Al Michaels During Game & Further Criticizing Steelers (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "um game",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "5 Takeaways from Michigan’s bounce-back win over Kansas State (Maize n Brew)",
+     "Michigan, Kansas State determined to leave Las Vegas with a win (Yardbarker)"
+    ]
+   },
+   {
+    "tema": "tua tagovailoa",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Sources: Falcons to part with Tua Tagovailoa, ending QB's brief Atlanta stint (ESPN)",
+     "Atlanta Falcons release QB Tua Tagovailoa (Atlanta Falcons)"
+    ]
+   },
+   {
+    "tema": "retirement",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Planning to work in retirement? Don't count on it (USA Today)",
+     "Americans Expect to Work in Retirement, but Few Do (IndexBox)"
+    ]
+   },
+   {
+    "tema": "nm state vs middle tenn.",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "MTSU vs. New Mexico State live updates from college football Week 13 game (Yahoo Sports)",
+     "New Mexico State vs Middle Tennessee Prediction, Picks & Odds | 28 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "kansas state vs iowa state",
+    "volumen": "5000+",
+    "volumen_min": 5000,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How to watch Iowa State vs Kansas State football on Saturday, time, TV (The Des Moines Register)",
+     "Kansas State at Iowa State: 2026 Game 12 (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "coastal carolina vs james madison",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How to watch Coastal Carolina vs James Madison: Live stream NCAA College Football, TV channel (Yahoo Sports)",
+     "Coastal Carolina vs James Madison Prediction, Picks & Odds | 28 Nov 2026 (Sportsgambler)"
+    ]
+   },
+   {
+    "tema": "kyle whittingham",
+    "volumen": "2000+",
+    "volumen_min": 2000,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Trev Alberts told he won't be Michigan AD after agreement (ESPN)",
+     "Kyle Whittingham contract buyout: What would firing cost Michigan? (Yahoo Sports)"
+    ]
+   },
+   {
+    "tema": "grambling st vs southern u",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "What Would a Bayou Classic Win Mean for Mickey Joseph at Grambling State? (Sports Illustrated)",
+     "Bayou Classic TV broadcast changes due to Macy's parade postponement (WWLTV.com)"
+    ]
+   },
+   {
+    "tema": "florida–florida state football rivalry",
+    "volumen": "100000+",
+    "volumen_min": 100000,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions (Fox News)",
+     "Gators' snap counts from Florida's 26-10 win at Florida State (247Sports)"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "tema": "federico redondo",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Fede Redondo desafía al Atlético: “Tenemos que adueñarnos del balón y ser nosotros” (MARCA)",
+     "Federico Redondo pasa de la suplencia con Sarabia por \"una cuestión de gustos\" a encontrar con Anselmi su sitio en el once del Elche CF (Plaza Deportiva)"
+    ]
+   },
+   {
+    "tema": "libertadores",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ao vivo: Palmeiras x Estudiantes | Final | Taça Conmebol Libertadores (ge)",
+     "Fala de Barboza muda clima de final entre Palmeiras x Estudiantes (UOL)"
+    ]
+   },
+   {
+    "tema": "zaragoza fc",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Zaragocismo: ilusión y disfrute tras el 0-4 en Jaén (DiarioAragones.com)",
+     "Convincente victoria en Jaén (0-4) (Real Zaragoza)"
+    ]
+   },
+   {
+    "tema": "alcorcon real zaragoza",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:20:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Partido Alcorcón-Real Zaragoza, en directo (Heraldo de Aragón)",
+     "Duelo artillero en Santo Domingo (Diario AS)"
+    ]
+   },
+   {
+    "tema": "alejandro grimaldo",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Se resuelve la duda de los penaltis entre Alejandro Grimaldo y Julián Alvarez (Esto es Atleti)",
+     "Atlético Madrid abrió la cuenta ante Elche con un insólito penal de Redondo (Yahoo)"
+    ]
+   },
+   {
+    "tema": "fcsb - csikszereda",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Boutoutaou, OUT! Echipa FCSB-ului pentru meciul cu Csikszereda (Digi Sport)",
+     "Zis și făcut! Reghecampf a ținut cont de sfatul lui Gigi Becali: cum arată primul XI al lui FCSB (Sport.ro)"
+    ]
+   },
+   {
+    "tema": "los juegos del hambre en llamas",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "El día que X-Men salvó a 'Los Juegos del Hambre: En llamas': la película más aclamada de la saga nació entre urgencias y milagros (MARCA)",
+     "A 13 años de En llamas: por qué sigue siendo la mejor película de Los juegos del hambre (MUNDIARIO)"
+    ]
+   },
+   {
+    "tema": "primera rfef",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "AD Alcorcón - Real Zaragoza, en directo: Primera RFEF, hoy en vivo (Diario AS)",
+     "Horario y dónde ver el partido Alcorcón-Real Zaragoza (Heraldo de Aragón)"
+    ]
+   },
+   {
+    "tema": "lee kang-in",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Club Atlético de Madrid - Looking to keep adding three points at the Martínez Valero (Club Atlético de Madrid)",
+     "How will Atlético Madrid line up against Elche in La Liga? (Into the Calderon)"
+    ]
+   },
+   {
+    "tema": "vfb stuttgart – eintracht frankfurt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eintracht Frankfurt: Adi Hütter trifft überraschende Uzun-Entscheidung (BILD)",
+     "VfB empfängt Frankfurt - Topspiel in Freiburg (Zeitungsverlag Waiblingen)"
+    ]
+   }
+  ],
+  "AR": [
+   {
+    "tema": "stuttgart - frankfurt",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Eintracht Frankfurt: Adi Hütter trifft überraschende Uzun-Entscheidung (BILD)",
+     "VfB empfängt Frankfurt - Topspiel in Freiburg (Zeitungsverlag Waiblingen)"
+    ]
+   },
+   {
+    "tema": "lazio vs",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Cuándo juegan Torino vs. Lazio por la Serie A: equipo, fecha, hora y TV en vivo (ESPN Argentina)",
+     "EN VIVO: Lazio derrota a Torino por 2-0 en el segundo tiempo (DSports)"
+    ]
+   },
+   {
+    "tema": "psv",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "PSV neemt door Van Bommel afstand van Go Ahead (2-0) • Excelsior boekt tweede zege op rij (NOS)",
+     "Opstelling PSV: Bosz kiest voor drie nieuwe namen (Voetbal International)"
+    ]
+   },
+   {
+    "tema": "alerta amarilla",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Hay alerta amarilla por tormentas y calor extremo para este sábado 28 de noviembre: las provincias afectadas (La Nación)",
+     "Alerta amarilla por tormentas con posible caída de granizo y ráfagas de hasta 90 km/h (El Eco)"
+    ]
+   },
+   {
+    "tema": "charlotte fc - chicago fire",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Charlotte FC vs Chicago Fire: Lineups, Prediction, Odds & Bet Builder Tip (WhoScored.com)",
+     "Abada lauds Charlotte's attacking strength in MLS playoffs (beIN SPORTS)"
+    ]
+   },
+   {
+    "tema": "clima tandil",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Clima en Tandil hoy: cuál es el pronóstico del tiempo para el 28 de noviembre de 2026 (La Nación)",
+     "Fin de semana de calor en Tandil: qué indica el pronóstico del SMN para el viernes, sábado y domingo (El Eco)"
+    ]
+   },
+   {
+    "tema": "atletico madrid",
+    "volumen": "500+",
+    "volumen_min": 500,
+    "desde": "2026-11-28T09:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "How will Atlético Madrid line up against Elche in La Liga? (Into the Calderon)",
+     "Licensable picture: Soccer 2026: Spanish LaLiga: Elche CF - Atletico De Madrid (Reuters Connect)"
+    ]
+   },
+   {
+    "tema": "adolfo cambiaso",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:30:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Mía Cambiaso abrió el álbum familiar y mostró imágenes inéditas de María Vázquez y Adolfo Cambiaso (Caras)",
+     "Abierto de Palermo: La Natividad-La Dolfina y La Hache dan otro paso hacia su cara a cara decisivo (La Nación)"
+    ]
+   },
+   {
+    "tema": "angers - lens",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Angers : le président écarte un changement d’entraîneur (Foot Mercato)",
+     "La Totale : le quintuplé de Sima, Man United s'enfonce un peu plus... (OneFootball)"
+    ]
+   },
+   {
+    "tema": "premier",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-28T09:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Ipswich vs Aston Villa, en vivo, por la Premier League: minuto a minuto y qué canal pasa el partido por TV (TN)",
+     "Alineaciones de Ipswich Town y Aston Villa para el duelo de la jornada 12 de la Premier League (Bolavip Argentina)"
+    ]
+   }
+  ],
+  "MX": [
+   {
+    "tema": "abdallah sima",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Angers vs Lens en directo hoy: ¿dónde ver el partido por televisión y streaming? (Goal.com)",
+     "Alineaciones de Angers vs Lens: Estadísticas, horarios y dónde ver (Xpectro)"
+    ]
+   },
+   {
+    "tema": "hansi flick",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:30:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Barcelona's Lamine Yamal and Rodri fit for LaLiga clash at Deportivo A Coruña (ESPN)",
+     "Flick rules out Marc Bernal for Depor and Atlético (Tu Futbolero)"
+    ]
+   },
+   {
+    "tema": "inter vs genoa",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T10:10:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Where and When to Watch LIVE: Inter Milan vs. Johan Vásquez’s Genoa in Serie A? (Soy Futbol)",
+     "Inter, Zielinski returns: fit for Genoa (Goal.com)"
+    ]
+   },
+   {
+    "tema": "al ahli",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Video: New escalation as Al-Ahli fans resign over Pušić (Goal.com)",
+     "How can Al-Ahli get rid of Pušić? Walid Al-Faraj's question sparks heated debate (LiveScore)"
+    ]
+   },
+   {
+    "tema": "f1 tv",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "2026 Qatar Grand Prix FP3 report and highlights: Kimi Antonelli and Mercedes sweep fastest practice times in Qatar (Formula 1)",
+     "F1 LIVE: Qatar Grand Prix 2026 UK time, start time, grid, radio & updates (BBC)"
+    ]
+   },
+   {
+    "tema": "dólar hoy",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T10:00:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Encadena el peso 2 semanas de pérdidas frente al dólar estadounidense (El Comentario)",
+     "Retrocede dólar hasta los $19.57 (Reforma)"
+    ]
+   },
+   {
+    "tema": "temblor",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": true,
+    "titulares": [
+     "Reportan sismo de 4.0 al sureste de Sayula de Alemán (Acrópolis Multimedios)",
+     "Temblor HOY 28 de noviembre en México EN VIVO; Reporte de sismos y microsismos del SSN | Últimas noticias (Telediario)"
+    ]
+   },
+   {
+    "tema": "arnold schwarzenegger",
+    "volumen": "100+",
+    "volumen_min": 100,
+    "desde": "2026-11-28T09:50:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Terminator Confirms Arnold Schwarzenegger’s T-800 Successor, And They’re A Major Downgrade (ScreenRant)",
+     "Arnold Schwarzenegger jokes about 'Jingle All the Way' residuals and playing Santa (Toronto Sun)"
+    ]
+   },
+   {
+    "tema": "earthquake",
+    "volumen": "1000+",
+    "volumen_min": 1000,
+    "desde": "2026-11-28T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Strong earthquake strikes off the coast near Los Angeles (CNN)",
+     "Magnitude 5.0 earthquake off the southern coast of California, near Los Angeles (la Repubblica)"
+    ]
+   },
+   {
+    "tema": "chihuahua",
+    "volumen": "200+",
+    "volumen_min": 200,
+    "desde": "2026-11-28T09:40:00-08:00",
+    "deporte_probable": false,
+    "titulares": [
+     "Continúa votación del Presupuesto Participativo con amplia alfuencia (El Diario de Chihuahua)",
+     "¡Juntos por un mejor CONALEP y un mejor Chihuahua! (Quadratín Michoacán)"
+    ]
+   }
+  ]
+ }
+}
