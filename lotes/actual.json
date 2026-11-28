@@ -6,7 +6,6 @@
       "fondo": "#121212",
       "texto": "#FFFFFF"
     },
-    "audio": "audio/57",
     "franja": [
       "ESTUDIANTES VS PALMEIRAS",
       "ESTADIO CENTENARIO · MONTEVIDEO",
@@ -15,6 +14,7 @@
     "escenas": [
       {
         "texto": "Montevideo ya late y hoy América corona a su nuevo rey.",
+        "voz": "mui",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "titular",
@@ -26,6 +26,7 @@
       },
       {
         "texto": "Estudiantes de La Plata y Palmeiras chocan en el mítico Centenario.",
+        "voz": "andrea",
         "movimiento": "paneo_izq",
         "grafico": {
           "tipo": "titular",
@@ -37,6 +38,7 @@
       },
       {
         "texto": "El Pincha busca su quinta gloria eterna con pura mística copera.",
+        "voz": "mui",
         "movimiento": "zoom_out",
         "grafico": {
           "tipo": "cifra",
@@ -48,7 +50,8 @@
       },
       {
         "texto": "Del otro lado, el Verdão llega con jerarquía para levantar su cuarta corona.",
-        "dicho": "Verdón",
+        "dicho": "Del otro lado, el Verdón llega con jerarquía para levantar su cuarta corona.",
+        "voz": "andrea",
         "movimiento": "paneo_der",
         "grafico": {
           "tipo": "cifra",
@@ -59,6 +62,7 @@
       },
       {
         "texto": "¿Quién se lleva la Copa hoy? Te leo, y sigue a Guineo.",
+        "voz": "mui",
         "movimiento": "subir",
         "grafico": {
           "tipo": "titular",
@@ -69,6 +73,7 @@
       },
       {
         "texto": "Noventa minutos de máxima tensión donde el ataque por las bandas puede romper el cero.",
+        "voz": "andrea",
         "movimiento": "bajar",
         "grafico": {
           "tipo": "titular",
@@ -80,6 +85,7 @@
       },
       {
         "texto": "Así busca golpear primero el equipo brasileño castigando al espacio.",
+        "voz": "mui",
         "movimiento": "quieto",
         "grafico": {
           "tipo": "tv",
@@ -157,6 +163,7 @@
       },
       {
         "texto": "Mientras el conjunto argentino apuesta a su pegada letal en pelota parada.",
+        "voz": "andrea",
         "movimiento": "quieto",
         "grafico": {
           "tipo": "retro",
@@ -224,7 +231,8 @@
         "transicion": "glitch"
       },
       {
-        "texto": "Todo queda listo para la gran final de la Libertadores porque...",
+        "texto": "Todo queda listo para la gran final de la Libertadores porque.",
+        "voz": "mui",
         "movimiento": "zoom_in",
         "grafico": {
           "tipo": "titular",
