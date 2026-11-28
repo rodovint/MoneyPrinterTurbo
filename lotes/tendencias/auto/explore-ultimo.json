@@ -1,55 +1,33 @@
 {
- "fecha": "2026-11-27T14:55-05:00",
+ "fecha": "2026-11-27T19:41-05:00",
  "geo": "EC",
  "periodo": "últimos 7 días (por hora)",
  "temas": [
   {
-   "tema": "delfín - orense",
+   "tema": "posiciones de deportivo cuenca contra manta fútbol club",
    "impulso_24h_pct": null,
    "estado": "nueva",
    "impulso_3h_pct": null,
    "estado_3h": "nueva",
    "pico": {
-    "date": "2026-11-27T19:00:00+00:00",
+    "date": "2026-11-27T23:00:00+00:00",
     "value": 100,
-    "is_partial": true
+    "is_partial": false
    },
-   "ultimo_valor": 100,
+   "ultimo_valor": 97,
    "provincias_top": [
-    "Manabí 100",
-    "El Oro 94",
-    "Tungurahua 87",
-    "Bolívar 50",
-    "Esmeraldas 47",
-    "Los Ríos 41",
-    "Guayas 40",
-    "Azuay 39"
+    "Azuay 100",
+    "Tungurahua 67",
+    "Manabí 31",
+    "Los Ríos 27",
+    "Santo Domingo de los Tsáchilas 24",
+    "Loja 23",
+    "Esmeraldas 23",
+    "Guayas 20"
    ],
-   "el_oro": 94,
-   "busquedas_en_alza": [
-    "delfín vs orense (Breakout)"
-   ],
+   "el_oro": 20,
+   "busquedas_en_alza": [],
    "serie": [
-    [
-     "11-25T20",
-     0
-    ],
-    [
-     "11-25T21",
-     0
-    ],
-    [
-     "11-25T22",
-     0
-    ],
-    [
-     "11-25T23",
-     0
-    ],
-    [
-     "11-26T00",
-     0
-    ],
     [
      "11-26T01",
      0
@@ -216,87 +194,78 @@
     ],
     [
      "11-27T18",
-     84
+     0
     ],
     [
      "11-27T19",
+     0
+    ],
+    [
+     "11-27T20",
+     0
+    ],
+    [
+     "11-27T21",
+     0
+    ],
+    [
+     "11-27T22",
+     0
+    ],
+    [
+     "11-27T23",
      100
+    ],
+    [
+     "11-28T00",
+     97
     ]
    ]
   },
   {
-   "tema": "teams",
-   "impulso_24h_pct": 13,
-   "estado": "estable",
-   "impulso_3h_pct": -27,
-   "estado_3h": "en declive",
+   "tema": "posiciones de delfin sc contra orense sporting club",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": -5,
+   "estado_3h": "estable",
    "pico": {
-    "date": "2026-11-25T12:00:00+00:00",
+    "date": "2026-11-27T21:00:00+00:00",
     "value": 100,
     "is_partial": false
    },
    "ultimo_valor": 15,
    "provincias_top": [
-    "Guayas 100",
-    "Imbabura 98",
-    "Pastaza 96",
-    "Pichincha 91",
-    "Carchi 80",
-    "Cotopaxi 65",
-    "Tungurahua 61",
-    "El Oro 61"
+    "Tungurahua 100",
+    "El Oro 91",
+    "Manabí 69",
+    "Bolívar 57",
+    "Orellana 47",
+    "Santo Domingo de los Tsáchilas 47",
+    "Sucumbíos 43",
+    "Los Ríos 40"
    ],
-   "el_oro": 61,
-   "busquedas_en_alza": [
-    "descarga teams (Breakout)",
-    "teams 网页 版 (+3,700%)",
-    "microsof teams (+190%)",
-    "plataforma teams (+110%)",
-    "descargar teams gratis (+100%)",
-    "descargar teams para pc (+100%)",
-    "microsoft (+70%)",
-    "teams microsoft (+70%)"
-   ],
+   "el_oro": 91,
+   "busquedas_en_alza": [],
    "serie": [
     [
-     "11-25T20",
-     17
-    ],
-    [
-     "11-25T21",
-     17
-    ],
-    [
-     "11-25T22",
-     15
-    ],
-    [
-     "11-25T23",
-     18
-    ],
-    [
-     "11-26T00",
-     20
-    ],
-    [
      "11-26T01",
-     17
+     0
     ],
     [
      "11-26T02",
-     18
+     0
     ],
     [
      "11-26T03",
-     13
+     0
     ],
     [
      "11-26T04",
-     11
+     0
     ],
     [
      "11-26T05",
-     9
+     0
     ],
     [
      "11-26T06",
@@ -320,75 +289,75 @@
     ],
     [
      "11-26T11",
-     30
+     0
     ],
     [
      "11-26T12",
-     72
+     0
     ],
     [
      "11-26T13",
-     51
+     0
     ],
     [
      "11-26T14",
-     30
+     0
     ],
     [
      "11-26T15",
-     28
+     0
     ],
     [
      "11-26T16",
-     22
+     0
     ],
     [
      "11-26T17",
-     26
+     0
     ],
     [
      "11-26T18",
-     28
+     0
     ],
     [
      "11-26T19",
-     23
+     0
     ],
     [
      "11-26T20",
-     21
+     0
     ],
     [
      "11-26T21",
-     19
+     0
     ],
     [
      "11-26T22",
-     21
+     0
     ],
     [
      "11-26T23",
-     23
+     0
     ],
     [
      "11-27T00",
-     23
+     0
     ],
     [
      "11-27T01",
-     22
+     0
     ],
     [
      "11-27T02",
-     16
+     0
     ],
     [
      "11-27T03",
-     12
+     0
     ],
     [
      "11-27T04",
-     13
+     0
     ],
     [
      "11-27T05",
@@ -416,90 +385,94 @@
     ],
     [
      "11-27T11",
-     88
+     0
     ],
     [
      "11-27T12",
-     92
+     0
     ],
     [
      "11-27T13",
-     46
+     0
     ],
     [
      "11-27T14",
-     29
+     0
     ],
     [
      "11-27T15",
-     25
+     0
     ],
     [
      "11-27T16",
-     20
+     0
     ],
     [
      "11-27T17",
-     17
+     0
     ],
     [
      "11-27T18",
-     22
+     0
     ],
     [
      "11-27T19",
+     0
+    ],
+    [
+     "11-27T20",
+     0
+    ],
+    [
+     "11-27T21",
+     100
+    ],
+    [
+     "11-27T22",
+     49
+    ],
+    [
+     "11-27T23",
+     31
+    ],
+    [
+     "11-28T00",
      15
     ]
    ]
   },
   {
-   "tema": "copa ecuador 2026",
-   "impulso_24h_pct": 2306,
-   "estado": "explosiva",
-   "impulso_3h_pct": 48,
-   "estado_3h": "en crecimiento",
+   "tema": "columbus crew - inter miami",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": 6500,
+   "estado_3h": "explosiva",
    "pico": {
-    "date": "2026-11-27T10:00:00+00:00",
+    "date": "2026-11-22T00:00:00+00:00",
     "value": 100,
     "is_partial": false
    },
-   "ultimo_valor": 59,
+   "ultimo_valor": 64,
    "provincias_top": [
-    "Tungurahua 100",
-    "Pichincha 94",
-    "Chimborazo 93",
-    "Guayas 82",
-    "Imbabura 77",
-    "Azuay 73",
-    "Manabí 71",
-    "Loja 70"
+    "Zamora-Chinchipe 100",
+    "Galápagos Islands 79",
+    "Cotopaxi 75",
+    "Morona-Santiago 71",
+    "Manabí 67",
+    "Loja 67",
+    "Sucumbíos 64",
+    "Los Ríos 64"
    ],
-   "el_oro": 54,
-   "busquedas_en_alza": [],
+   "el_oro": 62,
+   "busquedas_en_alza": [
+    "columbus crew contra inter miami (Breakout)",
+    "alineaciones de inter miami contra columbus crew (Breakout)",
+    "columbus crew vs inter miami cf (Breakout)"
+   ],
    "serie": [
     [
-     "11-25T20",
-     9
-    ],
-    [
-     "11-25T21",
-     0
-    ],
-    [
-     "11-25T22",
-     0
-    ],
-    [
-     "11-25T23",
-     0
-    ],
-    [
-     "11-26T00",
-     0
-    ],
-    [
      "11-26T01",
-     9
+     0
     ],
     [
      "11-26T02",
@@ -507,7 +480,7 @@
     ],
     [
      "11-26T03",
-     13
+     0
     ],
     [
      "11-26T04",
@@ -591,11 +564,11 @@
     ],
     [
      "11-27T00",
-     16
+     0
     ],
     [
      "11-27T01",
-     9
+     0
     ],
     [
      "11-27T02",
@@ -603,19 +576,19 @@
     ],
     [
      "11-27T03",
-     35
+     0
     ],
     [
      "11-27T04",
-     25
+     0
     ],
     [
      "11-27T05",
-     39
+     0
     ],
     [
      "11-27T06",
-     72
+     0
     ],
     [
      "11-27T07",
@@ -631,43 +604,279 @@
     ],
     [
      "11-27T10",
-     100
+     0
     ],
     [
      "11-27T11",
-     72
+     0
     ],
     [
      "11-27T12",
-     45
+     0
     ],
     [
      "11-27T13",
-     43
+     0
     ],
     [
      "11-27T14",
-     43
+     0
     ],
     [
      "11-27T15",
-     39
+     0
     ],
     [
      "11-27T16",
-     35
+     0
     ],
     [
      "11-27T17",
-     53
+     0
     ],
     [
      "11-27T18",
-     61
+     0
     ],
     [
      "11-27T19",
-     59
+     0
+    ],
+    [
+     "11-27T20",
+     0
+    ],
+    [
+     "11-27T21",
+     1
+    ],
+    [
+     "11-27T22",
+     0
+    ],
+    [
+     "11-27T23",
+     2
+    ],
+    [
+     "11-28T00",
+     64
+    ]
+   ]
+  },
+  {
+   "tema": "selección de fútbol de costa rica",
+   "impulso_24h_pct": null,
+   "estado": "nueva",
+   "impulso_3h_pct": null,
+   "estado_3h": "nueva",
+   "pico": {
+    "date": "2026-11-28T00:00:00+00:00",
+    "value": 100,
+    "is_partial": true
+   },
+   "ultimo_valor": 100,
+   "provincias_top": [
+    "Guayas 100",
+    "Santo Domingo de los Tsáchilas 91",
+    "Manabí 75",
+    "Pichincha 64",
+    "Azuay 41"
+   ],
+   "el_oro": null,
+   "busquedas_en_alza": [],
+   "serie": [
+    [
+     "11-26T01",
+     0
+    ],
+    [
+     "11-26T02",
+     0
+    ],
+    [
+     "11-26T03",
+     0
+    ],
+    [
+     "11-26T04",
+     0
+    ],
+    [
+     "11-26T05",
+     0
+    ],
+    [
+     "11-26T06",
+     0
+    ],
+    [
+     "11-26T07",
+     0
+    ],
+    [
+     "11-26T08",
+     0
+    ],
+    [
+     "11-26T09",
+     0
+    ],
+    [
+     "11-26T10",
+     0
+    ],
+    [
+     "11-26T11",
+     0
+    ],
+    [
+     "11-26T12",
+     0
+    ],
+    [
+     "11-26T13",
+     0
+    ],
+    [
+     "11-26T14",
+     0
+    ],
+    [
+     "11-26T15",
+     0
+    ],
+    [
+     "11-26T16",
+     0
+    ],
+    [
+     "11-26T17",
+     0
+    ],
+    [
+     "11-26T18",
+     0
+    ],
+    [
+     "11-26T19",
+     0
+    ],
+    [
+     "11-26T20",
+     0
+    ],
+    [
+     "11-26T21",
+     0
+    ],
+    [
+     "11-26T22",
+     0
+    ],
+    [
+     "11-26T23",
+     0
+    ],
+    [
+     "11-27T00",
+     0
+    ],
+    [
+     "11-27T01",
+     0
+    ],
+    [
+     "11-27T02",
+     0
+    ],
+    [
+     "11-27T03",
+     0
+    ],
+    [
+     "11-27T04",
+     0
+    ],
+    [
+     "11-27T05",
+     0
+    ],
+    [
+     "11-27T06",
+     0
+    ],
+    [
+     "11-27T07",
+     0
+    ],
+    [
+     "11-27T08",
+     0
+    ],
+    [
+     "11-27T09",
+     0
+    ],
+    [
+     "11-27T10",
+     0
+    ],
+    [
+     "11-27T11",
+     0
+    ],
+    [
+     "11-27T12",
+     0
+    ],
+    [
+     "11-27T13",
+     0
+    ],
+    [
+     "11-27T14",
+     0
+    ],
+    [
+     "11-27T15",
+     0
+    ],
+    [
+     "11-27T16",
+     0
+    ],
+    [
+     "11-27T17",
+     0
+    ],
+    [
+     "11-27T18",
+     0
+    ],
+    [
+     "11-27T19",
+     0
+    ],
+    [
+     "11-27T20",
+     0
+    ],
+    [
+     "11-27T21",
+     0
+    ],
+    [
+     "11-27T22",
+     0
+    ],
+    [
+     "11-27T23",
+     65
+    ],
+    [
+     "11-28T00",
+     100
     ]
    ]
   }
